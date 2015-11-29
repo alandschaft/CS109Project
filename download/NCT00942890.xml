@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1276">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00942890</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TSNRP Grant HU0001-08-1-TS10</org_study_id>
+    <nct_id>NCT00942890</nct_id>
+  </id_info>
+  <brief_title>Strength, Pain and Function in Operation Iraqi Freedom/Operation Enduring Freedom Amputees: A Nurse-Managed Program</brief_title>
+  <official_title>Strength, Pain and Function in Operation Iraqi Freedom/Operation Enduring Freedom Amputees: A Nurse-Managed Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Tennessee</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Walter Reed National Military Medical Center</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>United States Naval Medical Center, San Diego</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Tennessee</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this randomized control study is to determine if administering neuromuscular
+      electrical stimulation (NMES) to the thigh muscles of a below the knee amputee is more
+      effective than the current standard of care in preserving thigh muscle strength. In
+      addition, this study will examine the NMES treatment effects on the participant's gait,
+      quality of life, functional performance of standing, walking, and stair climbing, and
+      symptoms associated with residual and phantom limb pain. The primary aim is to compare NMES
+      plus standard rehabilitation (treatment group) to the standard rehabilitation (control
+      group) by measuring lower extremity muscle strength. The secondary aims are to compare NMES
+      treatment group to the control group by measuring Quality of Life (QOL) and the symptoms
+      associated with residual &amp; phantom limb pain. In addition to the specific aims, this study
+      will also examine the two groups for functional performance and gait patterns after
+      prosthetic fitting.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Traumatic amputation is one of the major injuries seen as a result of Operation Iraqi and
+      Enduring Freedom with the majority being single trans-tibial amputations (TTA). TTA
+      experience significant reductions in thigh muscle strength of the amputated limb during the
+      first year after amputation. The residual limb is less active in daily functions of standing
+      and walking, resulting in progressive atrophy of the quadriceps muscles in terms of a
+      decrease in thigh diameter which is estimated at 25% of pre-amputation diameter. An
+      intervention that may be useful in TTA rehabilitation is neuromuscular electrical
+      stimulation (NMES). The overall objectives of this study is to test two different approaches
+      to prosthetic rehabilitation as potential treatments for improving muscle strength, pain and
+      functional performance of daily activities in military personnel with TTA. Our central
+      hypothesis is that a Nurse Managed NMES rehabilitation program will have greater
+      improvements in muscle strength and pain as compared to the standard rehabilitation protocol
+      alone. The rationale for this study is that NMES could have an additive effect to the Walter
+      Reed Army Medical Center (WRAMC) standard of care program with greater improvements in
+      muscle strength thus enhancing the performance of daily activities, Quality of Life (QOL),
+      and decreasing disability. Such outcomes will ultimately result in decreased economic costs,
+      accelerated rehabilitation, and potentially increase the possibility of these warriors
+      returning to duty. The specific aims are to test Nurse Managed NMES relative to standard
+      rehabilitation by comparing: (1) Lower extremity muscle strength; (2) QOL; and (3) Symptoms
+      associated with phantom pain. In addition to the above aims, specific aims for the post
+      prosthetic phase of the intervention are to compare the two groups for (4) functional
+      performance of daily activities. After pre-testing, participants aged 18 to 55 yrs with a
+      traumatic TTA will be randomly assigned to either the 1) Nurse Managed NMES rehabilitation
+      program (n=30); or 2) WRAMC Amputee Protocol (n=30). Those in the NMES group will receive 12
+      weeks of electrical muscle stimulation 15 min/day, 5 days a week for 12 weeks. Both groups
+      will receive the standard 12-week Walter Reed Army Medical Center rehabilitation protocol.
+      Generalized Estimating Equation methods will be used to build regression models for
+      statistical analysis of the longitudinal data. The significance of this research is that
+      Nurse Managed NMES may be very important for accelerating the rehabilitation of amputees so
+      they can achieve functional independence and regain lost muscle strength in preparation for
+      return to duty.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2009</start_date>
+  <completion_date type="Actual">August 2015</completion_date>
+  <primary_completion_date type="Actual">August 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label</study_design>
+  <primary_outcome>
+    <measure>lower extremity muscle strength and mobility</measure>
+    <time_frame>Strength: 0, 3, 6-7, 9, 13 wks; Mobility 7, 13 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life and symptoms associated with residual limb and phantom pain</measure>
+    <time_frame>QOL: 0, 7, 13 wks; Symptoms: 0, 3, 6-7, 9, 13 wks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">48</enrollment>
+  <condition>Traumatic Amputation</condition>
+  <arm_group>
+    <arm_group_label>Standard rehabilitation protocol</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The usual care is 12 weeks of the Traditional Military Amputee Rehabilitation Program (TMARP). TMARP training starts 1week after surgical closure of the residual limb. Physical Therapy performs Pre-Prosthetic Training for about 6 weeks, preparing for the prosthetic. After pre-prosthetic training, patients are fitted with their prosthetic leg and began post-prosthetic training with PT. The training focus is lower limb prosthetic proficient in ambulation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NMES w/ rehab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The treatment group receives NMES to the quadriceps muscle of the residual and intact limb plus rehabilitation. The therapy consists of 12-weeks of NMES home training using the EMPI 300PV muscle stimulator. Participants perform training at home for 5days/week; each session consisted of 15 to 20 minutes of NMES to each leg eliciting15 contractions/leg (10 seconds on:50 seconds off), plus a 5-minute patient treatment log, 5 times per week for 12-weeks. Each contraction will be elicited by an electrical impulse generated by a battery-operated device. Two 3&quot; X 5&quot; electrodes which will be placed over the quadriceps muscle group. Participants will train at 30-40% of MVC during weeks 1-6, and 40-50% of MVC during weeks 7-12; incremental increases will be made at the study visits.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NMES (EMPI 300PV stimulator) plus standard of care</intervention_name>
+    <description>In addition to the standard rehabilitation, the NMES treatment group will receive neuromuscular electrical stimulation to the quadriceps muscle of the residual and intact limb. The name of the NMES device is EMPI 300PV. NMES training will consist of performing 15 to 20 minute stimulation sessions with a 5-minute patient treatment log, 5 times per week for 12 weeks. During each training session, 15 NMES contractions per leg will be completed. Each contraction will be elicited by an electrical impulse (300PV) generated by a battery-operated device. This will be performed at home.</description>
+    <arm_group_label>Standard rehabilitation protocol</arm_group_label>
+    <arm_group_label>NMES w/ rehab</arm_group_label>
+    <other_name>EMPI 300PV neuromuscular stimulator</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Unilateral trans-tibial amputee;
+
+          2. Military service member at the time of injury (Active Duty, Reserves or National
+             Guard);
+
+          3. Age ≥18 and ≤55 years; and
+
+          4. Able to provide freely given informed consent.
+
+        Exclusion Criteria:
+
+          1. A significant co-morbid medical condition (such as severe uncontrolled hypertension
+             (over 160/100 mmHg) or neurological disorders such as epilepsy) where NMES strength
+             training is contraindicated and/or participation would pose a safety threat or impair
+             their ability to participate;
+
+          2. Unable to speak and read English;
+
+          3. Implanted cardiac pacemaker or defibrillator;
+
+          4. Vision impairment where participant is classified as legally blind (we define legally
+             blind both clinically and functionally. Clinically, it is central visual acuity of
+             20/200 or less in the better eye with corrective glasses. Functionally, the
+             participant is not able to see the digital numbers on the NMES device with corrective
+             glasses);
+
+          5. Unwillingness to accept random assignment;
+
+          6. Currently participating in another research study with an intervention that would
+             potentially confound the outcome variables of this study (we will also instruct
+             participants that joining a study after being enrolled in this protocol is also not
+             allowed); and
+
+          7. Conflicting co-morbidities including traumatic brain injury (score &lt; 14 on glasgow
+             coma scale), and a contralateral lower extremity injury that causes antalgic gait,
+             pain &gt; 5/10 consistently on the contralateral limb and/or a grade of &lt; 4+/5 in lower
+             extremity.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Laura A Talbot, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UTHSC</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michelle Kane, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Walter Reed National Military Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Rosenthal, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Navy Medical Center, San Diego</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Navy Medical Center</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Walter Reed National Military Medical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20889</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee Health Science Center</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38163</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 13, 2015</lastchanged_date>
+  <firstreceived_date>July 15, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Case Management</keyword>
+  <keyword>Amputation</keyword>
+  <keyword>Muscle strength</keyword>
+  <keyword>phantom limb pain</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Amputation, Traumatic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="193">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02544750</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GWEP1521 Open-Label Extension</org_study_id>
+    <secondary_id>2015-002154-12</secondary_id>
+    <nct_id>NCT02544750</nct_id>
+  </id_info>
+  <brief_title>An Open-label Extension Trial of Cannabidiol (GWP42003-P, CBD) for Focal Seizures in Tuberous Sclerosis Complex.</brief_title>
+  <official_title>A Double-blind, Randomized, Placebo-controlled Study to Investigate the Efficacy and Safety of Cannabidiol (GWP42003-P, CBD) as Add-on Therapy in Patients With Tuberous Sclerosis Complex Who Experience Inadequately-controlled Focal Seizures.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GW Research Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GW Research Ltd</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>France: Agence Nationale de Sécurité du Médicament et des produits de santé</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial consists of 2 parts: a double-blinded phase and an open-label extension phase.
+      The open-label extension phase only will be described in this record. All participants will
+      receive the same dose of GWP42003-P. However, investigators may subsequently decrease or
+      increase the participant's dose until the optimal dose is found.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>June 2016</start_date>
+  <completion_date type="Anticipated">July 2018</completion_date>
+  <primary_completion_date type="Anticipated">June 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>From OLE screening until market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The number of participants who experienced an adverse event during the trial is presented.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in focal seizure frequency</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The percentage change from the pre-randomization baseline of the blinded phase in number of focal seizures (average per 28 days) is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of treatment responders</measure>
+    <time_frame>Once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The number of participants considered treatment responders, defined as those with a ≥ 25%, ≥ 50%, ≥ 75% or 100% reduction in focal seizure frequency, are presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with worsening, no change, or improvements in focal seizure frequency</measure>
+    <time_frame>Once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The number of participants experiencing a &gt; 25% worsening, −25 to +25% no change, 25-50% improvement, 50-75% improvement or &gt; 75% improvement in focal seizure frequency is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in composite focal seizure score</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in composite focal seizure score (frequency × severity) is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of focal seizure-free days</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in number of focal seizure-free days is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of seizures by subtype</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in number of seizures of each subtype is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of infantile/epileptic spasms.</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in number of infantile/epileptic spasms is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in use of rescue medication</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in use of rescue medication is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of episodes of status epilepticus</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in the number of episodes of status epilepticus (convulsive and non-convulsive) is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in duration of seizures by subtype</measure>
+    <time_frame>Once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change in the duration of seizures of each subtype was assessed using the Subject- or Caregiver Global Impression of Change in Seizure Duration (SGIC-SD/CGIC-SD), which comprise the following:
+SGIC-SD: &quot;Since you started treatment, please assess the average duration of your seizures (comparing your condition now to your condition before treatment) using the scale below.&quot;
+CGIC-SD: &quot;Since the patient started treatment, please assess the average duration of the patient's seizures (comparing their condition now to their condition before treatment) using the scale below.&quot;
+The markers are &quot;Average duration of seizures has decreased&quot;; &quot;Average duration of seizures has stayed the same&quot;; &quot;Average duration of seizures has increased&quot;.
+The number of participants/caregivers who selected each marker at the end of treatment is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in overall condition as assessed by the participant/caregiver</measure>
+    <time_frame>Once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change in overall condition was assessed using the Subject- or Caregiver Global Impression of Change (SGIC/CGIC), which comprise the following:
+SGIC: &quot;Since you started treatment, please assess the status of your overall condition (comparing your condition now to your condition before treatment) using the scale below.&quot;
+CGIC: &quot;Since your child started treatment, please assess the status of your child's overall condition (comparing their condition now to their condition before treatment) using the scale below.&quot;
+The markers are &quot;Very Much Improved&quot;; &quot;Much Improved&quot;; &quot;Slightly Improved&quot;; &quot;No Change&quot;; &quot;Slightly Worse&quot;; &quot;Much Worse&quot;; &quot;Very Much Worse&quot;.
+The number of participants/caregivers who selected each marker at the end of treatment is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in overall condition as assessed by the physician</measure>
+    <time_frame>Once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change in overall condition was assessed using the Physician Global Impression of Change (PGIC), which comprises the following:
+&quot;Since the patient started treatment, please assess the status of the patient's overall condition (comparing their condition now to their condition before treatment) using the scale below.&quot;
+The markers are &quot;Very Much Improved&quot;; &quot;Much Improved&quot;; &quot;Slightly Improved&quot;; &quot;No Change&quot;; &quot;Slightly Worse&quot;; &quot;Much Worse&quot;; &quot;Very Much Worse&quot;.
+The number of physicians who selected each marker at the end of treatment is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Vineland-II score</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in the Vineland Adaptive Behavior Scales, Second Edition (Vineland-II) score is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Wechsler score by subtest</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in the following are presented:
+Wechsler Preschool and Primary Scale of Intelligence - Fourth Edition (WPPSI-IV), Vocabulary and Matrix Reasoning score (for participants aged 2-6 years).
+Wechsler Abbreviated Scale of Intelligence - Second Edition (WASI-II), Vocabulary and Matrix Reasoning score (for participants aged 6 years and older).
+Wechsler Intelligence Scale for Children - Fourth Edition (WISC-IV) or Wechsler Adult Intelligence Scale - Fourth Edition (WAIS-IV), Digit Span and Coding score (for participants aged 6 years and older).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Behavior Checklist score</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in the following are presented:
+Achenbach Child Behavior Checklist (CBCL) score.
+Achenbach Adult Behavior Checklist (ABCL) score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Social Communication Questionnaire score</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in Social Communication Questionnaire (SCQ) score is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quality of Life score</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in the following are presented:
+Quality of Life in Childhood Epilepsy (QOLCE) score (for participants aged 2-18 years).
+Patient-Weighted Quality of Life in Epilepsy (QOLIE-31-P) score (for participants aged 19 years and older).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in serum IGF-1 levels</measure>
+    <time_frame>Baseline and once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The change from the pre-randomization baseline of the blinded phase in serum concentrations of insulin-like growth factor-1 (IGF-1) is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with changes in Tanner stage</measure>
+    <time_frame>Once market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The number of participants under 18 years of age with changes in Tanner stage is presented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of suicidality</measure>
+    <time_frame>From OLE screening until market authorization is granted for GWP42003-P in TSC (anticipated to be 2 years after the OLE trial start date)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Suicidality was assessed using the Columbia-Suicide Severity Rating Scale (C-SSRS; for participants 19 and older) or Children's C-SSRS (for participants aged 6-18). The number of participants with a treatment-emergent flag is presented.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">144</enrollment>
+  <condition>Tuberous Sclerosis Complex</condition>
+  <condition>Seizures, Focal</condition>
+  <arm_group>
+    <arm_group_label>GWP42003-P</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 mg/mL GWP42003-P oral solution taken twice daily (morning and evening). Participants titrate up or down, as appropriate, to 25 mg/kg/day over 10 days in a blinded manner. Participants continue at 25 mg/kg/day for the remainder of the treatment period. However, investigators may subsequently decrease or increase the participant's dose (to a maximum of 50 mg/kg/day) until the optimum dose is found. Dosing is tapered (10% each day) for participants who do not immediately continue to use GWP42003-P once market authorization is granted, or for those who withdraw early.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GWP42003-P</intervention_name>
+    <description>Yellow oily solution containing cannabidiol dissolved in the excipients sesame oil and anhydrous ethanol with added sweetener (sucralose) and strawberry flavoring.</description>
+    <arm_group_label>GWP42003-P</arm_group_label>
+    <other_name>Cannabidiol</other_name>
+    <other_name>CBD</other_name>
+    <other_name>Epidiolex</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          -  Participant has a well-documented history of focal epilepsy, with focal seizures as
+             the primary seizure type, compatible electroencephalogram (EEG) and clinical history.
+
+          -  Participant has a clinical diagnosis of Tuberous Sclerosis Complex (TSC) according to
+             the criteria agreed by the 2012 International TSC Consensus Conference.
+
+          -  All medications or interventions for epilepsy (including ketogenic diet and any
+             neurostimulation devices for epilepsy) must have been stable for 1 month prior to
+             screening and the participant is willing to maintain a stable regimen throughout the
+             trial.
+
+        Key Exclusion Criteria:
+
+          -  Participant has a history of pseudo-seizures.
+
+          -  Participant has clinically significant unstable medical conditions other than
+             epilepsy.
+
+          -  Participant has an illness in the 4 weeks prior to screening or randomization, other
+             than epilepsy, which in the opinion of the investigator could affect seizure
+             frequency.
+
+          -  Participant has undergone general anesthetic in the 4 weeks prior to screening or
+             randomization.
+
+          -  Participant has undergone surgery for epilepsy in the 6 months prior to screening.
+
+          -  Participant is being considered for epilepsy surgery or any procedure involving
+             general anesthesia.
+
+          -  Participant is taking felbamate, and they have been taking it for less than 1 year
+             prior to screening.
+
+          -  Participant is taking an oral mTOR inhibitor.
+
+          -  Participant has any known or suspected hypersensitivity to cannabinoids or any of the
+             excipients of the Investigational Medicinal Product (IMP), such as sesame oil.
+
+          -  Participant had active suicidal plan/intent in the past 6 months, or has a history of
+             suicide attempt in the last 2 years, or more than 1 lifetime suicide attempt.
+
+          -  Participant has C-SSRS grade 4 or 5 at screening.
+
+          -  Participant is currently using or has in the past used recreational or medicinal
+             cannabis, or cannabinoid-based medications, within the 3 months prior to screening
+             and is unwilling to abstain for the duration for the study.
+
+          -  Participant has tumor growth which, in the opinion of the Investigator, could affect
+             the primary endpoint.
+
+          -  Participant has significantly impaired hepatic function at the screening or
+             randomization visit, defined as any of the following:
+
+               -  Serum alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 5 ×
+                  upper limit of normal (ULN).
+
+               -  Serum ALT or AST ≥ 3 × ULN and (serum total bilirubin [TBL] ≥ 2 × ULN or
+                  international normalized ratio [INR] &gt; 1.5).
+
+               -  Serum ALT or AST ≥ 3 × ULN with the presence of fatigue, nausea, vomiting, right
+                  upper quadrant pain or tenderness, fever, rash, and/or eosinophilia (&gt; 5%).
+
+          -  Participant has received an IMP within the 12 weeks prior to the screening visit.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>GW Research Medical Information</last_name>
+    <phone>+44 (0) 1223 266 800</phone>
+    <email>medinfo@gwpharm.com</email>
+  </overall_contact>
+  <verification_date>September 2015</verification_date>
+  <lastchanged_date>September 25, 2015</lastchanged_date>
+  <firstreceived_date>September 7, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Epidiolex</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Sclerosis</mesh_term>
+    <mesh_term>Seizures</mesh_term>
+    <mesh_term>Tuberous Sclerosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

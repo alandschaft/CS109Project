@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="478">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00041600</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01NS35129</org_study_id>
+    <nct_id>NCT00041600</nct_id>
+  </id_info>
+  <brief_title>Human Epilepsy Genetics--Neuronal Migration Disorders Study</brief_title>
+  <official_title>Human Epilepsy Genetics--Neuronal Migration Disorders Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Harvard University Faculty of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Howard Hughes Medical Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Harvard University Faculty of Medicine</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to identify genes responsible for epilepsy and disorders of
+      human cognition.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pediatric epilepsy is responsible for tremendous long-term healthcare costs. Analysis of
+      inherited epilepsy conditions has allowed for identification of several key genes active in
+      the developing brain. Although many genetic abnormalities of the brain are rare and lethal,
+      rapidly advancing knowledge of the structure of the human genome makes it a realistic goal
+      to identify genes responsible for several other epileptic conditions.
+
+      The purpose of this study is to identify genes responsible for epilepsy and disorders of
+      human cognition (EDHC). The Walsh Laboratory at the Children's Hospital Boston and Beth
+      Israel Deaconess Medical Center is looking for genes involved in brain development.
+      Conditions that we study include brain malformations, such as polymicrogyria, lissencephaly,
+      Walker-Warburg syndrome, heterotopias, and cerebellar hypoplasia, and inherited disorders of
+      cognition, such as familial mental retardation and familial autism; people with these
+      conditions also often have epilepsy. The structural brain abnormalities are usually
+      diagnosed by brain MRI or sometimes CT scans. Adults and children with these conditions, and
+      their family members, are invited to participate in our study. By comparing the DNA of
+      individuals or families that carry EDHC to the DNA of people in the general population, it
+      may be possible to learn more about the genetic bases of certain forms of EDHC.
+
+      Study participants must have a brain malformation or disorder of cognition such as mental
+      retardation or autism in addition to epilepsy in order to take part in this research.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 1996</start_date>
+  <completion_date type="Anticipated">February 2019</completion_date>
+  <primary_completion_date type="Anticipated">February 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Family-Based</study_design>
+  <primary_outcome>
+    <measure>Identification and characterization of genes important in normal brain development and associated with congenital brain malformations.</measure>
+    <time_frame>Ongoing</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">3500</enrollment>
+  <condition>Epilepsy</condition>
+  <condition>Seizures</condition>
+  <condition>Cognition Disorders</condition>
+  <condition>Neuronal Migration Disorders</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      whole blood, DNA
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be selected through collaborations with clinicians.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        INCLUSION:
+
+          -  Males and females of any age.
+
+          -  Persons with a brain malformation or disorder of cognition (intellectual disability
+             [previously known as mental retardation] or autism).
+
+        EXCLUSION:
+
+          -  Persons without a brain malformation or disorder of cognition (intellectual
+             disability (previously known as mental retardation] or autism).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher A. Walsh, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard Institutes of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Brenda Barry, MS</last_name>
+    <phone>617-919-4371</phone>
+    <email>walshresearch@childrens.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Partlow, MS</last_name>
+    <phone>617-919-2865</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Children's Hospital Boston, CLS15070, Walsh Lab</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brenda Barry, MS</last_name>
+      <phone>617-919-4371</phone>
+      <email>walshresearch@childrens.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Partlow, MS</last_name>
+      <phone>617-919-2865</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Christopher A. Walsh, M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Boston; CLS 15070</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brenda Barry, MS</last_name>
+      <phone>617-919-4371</phone>
+      <email>walshresearch@childrens.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Partlow, MS</last_name>
+      <phone>617-919-2865</phone>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.walshlab.org</url>
+    <description>laboratory website</description>
+  </link>
+  <verification_date>June 2014</verification_date>
+  <lastchanged_date>June 27, 2014</lastchanged_date>
+  <firstreceived_date>July 11, 2002</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Harvard University Faculty of Medicine</investigator_affiliation>
+    <investigator_full_name>Dr. Chris Walsh</investigator_full_name>
+    <investigator_title>Investigator</investigator_title>
+  </responsible_party>
+  <keyword>epilepsy</keyword>
+  <keyword>seizures</keyword>
+  <keyword>disorders of human cognition</keyword>
+  <keyword>neuronal migration</keyword>
+  <keyword>neuronal migration disorders</keyword>
+  <keyword>lissencephaly</keyword>
+  <keyword>schizencephaly</keyword>
+  <keyword>polymicrogyria</keyword>
+  <keyword>agenesis of the corpus callosum</keyword>
+  <keyword>heterotopia</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cognition Disorders</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Neuronal Migration Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

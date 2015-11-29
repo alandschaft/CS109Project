@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1288">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01275313</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO09120362</org_study_id>
+    <secondary_id>R01HD041490</secondary_id>
+    <nct_id>NCT01275313</nct_id>
+  </id_info>
+  <brief_title>Trial on Wheeled Mobility for Preventing Pressure Ulcers</brief_title>
+  <acronym>RCT-WC2</acronym>
+  <official_title>RCT on Wheeled Mobility for Preventing Pressure Ulcers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed clinical trial is aimed at demonstrating the important role wheelchairs play in
+      preventing pressure ulcers (bed sores). Although most pressure ulcers can be prevented, they
+      are common in nursing home settings because their causes are difficult to identify. This
+      clinical trial will guide practitioners toward improving preventive care practices by
+      demonstrating how to effectively apply wheelchair and seat cushion technology.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pressure ulcers are a significant healthcare problem for the growing number of nursing home
+      residents in the United States and around the world. Pressure ulcers diminish quality of
+      life, exact a devastating loss of function, increase the risk of death in geriatric
+      populations and raise healthcare costs. Costs for the management of pressure ulcers in the
+      US likely exceeds $6.4 billion annually, with a prevalence of approximately 12% in the high
+      risk LTC population. A previous clinical trial at the University of Pittsburgh studied the
+      effects of seat cushions on pressure ulcer incidence and found that when a skin protection
+      seat cushion is used with a properly fitted wheelchair there is a significant reduction in
+      incidence. The data led the investigators to question whether having a properly fitted
+      wheelchair also has a significant effect on pressure ulcer incidence. This clinical trial
+      investigate this question by randomizing subjects into a control group that receives a skin
+      protection cushion and wheelchair training for use in their facility supplied wheelchair, or
+      a treatment group that receives a skin protection cushion, wheelchair training and a new
+      custom-fitted wheelchair. We expect that the treatment group will have a lower incidence of
+      pressure ulcers.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2011</start_date>
+  <completion_date type="Anticipated">April 2015</completion_date>
+  <primary_completion_date type="Anticipated">October 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Investigator, Outcomes Assessor), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Incidence of a sitting-induced pressure ulcer</measure>
+    <time_frame>182 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Skin assessments for incidence of sitting-induced pressure ulcer will occur once per week until occurrence of a pressure ulcer or 180 days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Functional capacity</measure>
+    <time_frame>182 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Functional capacity will be assessed using the Functioning Everyday with a Wheelchair-Capacity (FEW-C) tool at baseline, after intervention and at study endpoint (pressure ulcer or 182 days)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Mobility Limitation</condition>
+  <arm_group>
+    <arm_group_label>Custom-Fitted Lightweight Wheelchair &amp; Cushion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Receive a new custom-fitted lightweight wheelchair, skin protection cushion and wheelchair skills training</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cushion Only</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Receive a skin protection cushion and wheelchair training, but remain in facility-issued wheelchair</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Lightweight wheelchair</intervention_name>
+    <description>Seating and wheeled mobility assessment and fitting of a lightweight wheelchair</description>
+    <arm_group_label>Custom-Fitted Lightweight Wheelchair &amp; Cushion</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Skin Protection Cushion</intervention_name>
+    <description>Seating assessment and provision of a cushion meeting CMS code for Skin Protection wheelchair cushion</description>
+    <arm_group_label>Cushion Only</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male or female nursing home resident 60 years of age and older
+
+          2. A Braden score of less than or equal to 18
+
+          3. A combined Braden Activity and Mobility Subscale score less than or equal to 5
+
+          4. Absence of ischial and sacral area pressure ulcers (see definition of pressure ulcer)
+
+          5. A tolerance for total daily wheelchair sitting time of greater than or equal to 6
+             hours (not continuous)
+
+          6. Ability to accommodate seating and positioning needs with the wheelchair selected for
+             use in this study (Breezy Ultra 4)
+
+          7. Informed written consent
+
+        Exclusion Criteria:
+
+          1. Body weight exceeding 250 lbs.
+
+          2. Hip width exceeding 20 in.
+
+          3. Wheelchair seating requirements for additional head support, seat depth &gt; 20 inches,
+             elevated leg rests or severe orthopedic deformities of the pelvis, lower extremities
+             or back that exceed the accommodating capability of the Breezy Ultra 4 wheelchair.
+
+          4. Current use of any cushioning material(s) other than a standard cushion, a folded
+             pad, or a pillow (standard cushion as defined by HCPCS code for Standard Cushions,
+             i.e., non-skin protection cushion)
+
+          5. Current use of a HCPCS code K0004 wheelchair
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Brienza, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Margo Holm, PhD</last_name>
+    <phone>412-383-6615</phone>
+    <email>mholm@pitt.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David Brienza, PhD</last_name>
+    <phone>412-624-6383</phone>
+    <email>dbrienza@pitt.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Brienza, PhD</last_name>
+      <phone>412-624-6383</phone>
+      <email>dbrienza@pitt.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Patricia Karg, MSE</last_name>
+      <phone>412-624-6207</phone>
+      <email>tkarg@pitt.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>David Brienza, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Margo Holm, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sheryl Kelsey, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Patricia Karg, MSE</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ana Allegretti, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mark Schmeler, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Brienza D, Kelsey S, Karg P, Allegretti A, Olson M, Schmeler M, Zanca J, Geyer MJ, Kusturiss M, Holm M. A randomized clinical trial on preventing pressure ulcers with wheelchair seat cushions. J Am Geriatr Soc. 2010 Dec;58(12):2308-14. doi: 10.1111/j.1532-5415.2010.03168.x. Epub 2010 Nov 10.</citation>
+    <PMID>21070197</PMID>
+  </reference>
+  <verification_date>June 2011</verification_date>
+  <lastchanged_date>June 15, 2011</lastchanged_date>
+  <firstreceived_date>January 10, 2011</firstreceived_date>
+  <responsible_party>
+    <name_title>David Brienza</name_title>
+    <organization>University of Pittsburgh</organization>
+  </responsible_party>
+  <keyword>Pressure ulcers</keyword>
+  <keyword>wheelchairs</keyword>
+  <keyword>wheelchair functional capacity</keyword>
+  <keyword>custom-fitted wheelchair</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Mobility Limitation</mesh_term>
+    <mesh_term>Pressure Ulcer</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

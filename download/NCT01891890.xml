@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="932">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01891890</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00066541</org_study_id>
+    <secondary_id>PCORI 527</secondary_id>
+    <nct_id>NCT01891890</nct_id>
+  </id_info>
+  <brief_title>Cognitive AED Outcomes in Pediatric Localization Related Epilepsy (COPE)</brief_title>
+  <acronym>COPE</acronym>
+  <official_title>Cognitive AED Outcomes in Pediatric Localization Related Epilepsy (COPE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Patient Centered Outcome Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Seizures that arise in specific areas in the brain are called Localization Related Epilepsy
+      (LRE) and are the most common seizure disorder in children. Children that receive drug
+      treatment for this disorder may suffer from treatment related side effects which impact
+      their ability to think or concentrate and their ability to interact socially. These negative
+      treatment effects can impact the child's performance in school and long term may impact
+      employment and job options.
+
+      This study will determine whether changes in attention and social interactions are seen in
+      children treated for LRE using three of the most common medications used to treat pediatric
+      LRE. Children who are newly diagnosed with LRE by their doctors and are between 6-12 years
+      of age will be randomized to receive levetiracetam, lamotrigine, or oxcarbazepine.
+
+      There will be 12 study sites throughout the US. Children will undergo evaluation of their
+      thinking and ability to pay attention before and after starting drug treatment for LRE.
+      Regardless of the specific findings, results of this study will provide the information
+      needed to help parents and their clinicians choose treatment options that maximize cognitive
+      abilities in children with LRE, and provide the data needed for practice guidelines to be
+      established on the basis of cognitive side effect risks.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2013</start_date>
+  <completion_date type="Anticipated">April 2016</completion_date>
+  <primary_completion_date type="Anticipated">April 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Conners' Continuous Performance Test (CPT) Confidence Interval</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Conners' CPT is a measure of sustained attention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Child Behavior Checklist</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Child Behavior Checklist is a measure pf specific behavioral and emotional problems are rated by the child's parent/guardian</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Weschler Intelligence Scale for Children-IV Processing Speed</measure>
+    <time_frame>3 and 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Story Memory</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Symbol Digit Modalities Test</measure>
+    <time_frame>3 and 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Grooved Pegboard</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Columbia Suicidality Severity Rating Scale</measure>
+    <time_frame>3 and 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Youth Self Report</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Affective Reactivity Scale</measure>
+    <time_frame>3 and 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pediatric Neuro-QOL</measure>
+    <time_frame>6 month</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Parenting Stress Index</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pediatric Inventory for Parents</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Epilepsy, Partial</condition>
+  <condition>Epilepsy, Localization Related</condition>
+  <condition>Adverse Effects</condition>
+  <arm_group>
+    <arm_group_label>lamotrigine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>lamotrigine 7.0 mg/kg tablets or chewable tablets administered daily in 2 equally divided doses</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>oxcarbazepine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>oxcarbazepine 25 mg/kg tablets or liquid administered daily in 2 equally divided doses</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>levetiracetam</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>levetiracetam 30 mg/kg tablet or liquid administered daily in 2 equally divided doses</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxcarbazepine</intervention_name>
+    <description>Titration to target dose starting at week 3. Dose increments above target may be made to a maximum of 3 increments with a minimum interval between dose escalations of 2 weeks.</description>
+    <arm_group_label>oxcarbazepine</arm_group_label>
+    <other_name>Trileptal</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>levetiracetam</intervention_name>
+    <description>Titration to target dose starting at week 3. Dose increments above target may be made to a maximum of 3 increments with a minimum interval between dose escalations of 2 weeks.</description>
+    <arm_group_label>levetiracetam</arm_group_label>
+    <other_name>Keppra</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>lamotrigine</intervention_name>
+    <description>Titration to target dose starting at week 11. Dose increments above target may be made to a maximum of 3 increments with a minimum interval between dose escalations of 2 weeks.</description>
+    <arm_group_label>lamotrigine</arm_group_label>
+    <other_name>Lamictal</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age of participant between 5 years, 6 months and 16 years, 0 months at the time of
+             enrollment
+
+          -  Weight is between ≥ 15 kg the lower limit BMI 99th percentile at study entry at study
+             entry
+
+          -  Child has a diagnosis of Localization Related Epilepsy (LRE) with or without
+             secondary generalization according to International League Against Epilepsy (ILAE)
+             criteria and which may include Benign Rolandic Epilepsy and Benign Occipital Epilepsy
+             or other LREs.
+
+          -  Localization related seizures will be based upon at least one of the following: 1)
+             focal EEG abnormalities (sharp waves, spikes, or slowing) and the absence of
+             generalized spike waves discharges, 2) focal MRI abnormalities other than active
+             cysticercosis, which may include temporal lobe sclerosis, dysembryoplastic
+             neuroepithelial tumor , ganglioglioma, or focal malformations of cortical
+             development, 3) focal neurologic abnormalities, or 4) clinical semiology, which may
+             include Todd's phenomenon, unilateral dystonia, or fencing posture, or distinct aura
+             consistent with localization related seizure onset (e.g., classic déjà vu or bad
+             smell).
+
+          -  Participants must either be AED therapy naïve or on an AED (excluding
+             benzodiazepines) for 1-week or less. Children may be on a stable dose of
+             psychostimulants at the time of enrollment, but no change in medication, dose, or
+             schedule in 3 months prior to study enrollment, with no anticipated dosing changes
+             during the 6 months of the study. If participants are taking psychostimulants at the
+             time of study entry, they should plan on continuing them for the 6 month duration of
+             the study protocol including the 3-month and 6-month cognitive and behavioral testing
+             time points.
+
+          -  Females of child bearing potential must agree to acceptable forms of birth control,
+             which may include abstinence.
+
+          -  The child's parent/guardian must be able to keep an accurate seizure diary and be
+             able and willing to comply with instructions and study procedures.
+
+          -  Informed consent from the child's legal guardian or legal representative.
+
+          -  Assent will be obtained from children according to each site's institutional
+             guidelines.
+
+        Exclusion Criteria:
+
+          -  Children with history of primary generalized seizures (absence, myoclonic, drop)
+
+          -  Children with mixed seizure disorder (e.g., Lennox-Gastaut Syndrome)
+
+          -  Children with sensory seizures only (i.e., auras)
+
+          -  Children with 6+ seizures in the previous week
+
+          -  Children with a history of status epilepticus
+
+          -  Children with a history of neonatal seizures
+
+          -  Children with diagnoses of pervasive developmental disorders (e.g., autism/autism
+             spectrum disorders)
+
+          -  Children with progressive neurological disease (e.g., degenerative, progressive
+             neoplasm)
+
+          -  Children with major medical disease (e.g., IDDM, cancer, renal failure)
+
+          -  Children with diseases with cognitive impact (e.g., inborn errors of metabolism,
+             sickle cell disease with history of stroke)
+
+          -  Children with active cystercercosis documented on MRI
+
+          -  Children with cognitive impairment of sufficient severity that, in the opinion of the
+             investigator, would diminish the likelihood of valid test performance (roughly
+             corresponding to FSIQ less than 70)
+
+          -  Children with suicide attempt(s) at any point during their lifetime
+
+          -  Children with active suicide ideation
+
+          -  Children with chronic use of first generation antihistamines
+
+          -  Children using recreational drugs (including alcohol)
+
+          -  Children not fluent in either English or Spanish
+
+          -  Female children who are pregnant
+
+          -  Female children who are using oral contraceptives for birth control or for any other
+             indication (e.g. acne treatment)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>16 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David W. Loring, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Becky Kinkead, Ph.D</last_name>
+    <phone>404-727-3710</phone>
+    <email>bkinkea@emory.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Arkansas Children's Hospital</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kara Christensen</last_name>
+      <phone>501-346-1850</phone>
+      <email>kchristensen@uams.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>James Outlaw</last_name>
+      <phone>501-346-1850</phone>
+      <email>outlawjt@archildrens.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gregory B. Sharp, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California at San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92092</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angela Ballantyne</last_name>
+      <phone>858-822-6704</phone>
+      <email>aballantyne@ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Doris A. Trauner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janine Schenborn</last_name>
+      <phone>720-777-6895</phone>
+      <email>janine.schenborn@childrenscolorado.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Megan Brocato</last_name>
+      <phone>720-777-6895</phone>
+      <email>megan.brocato@childrenscolorado.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kevin Chapman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tekolla Belaineh</last_name>
+      <phone>202-476-2120</phone>
+      <email>tbelaine@cnmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Joan A. Conry, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Healtcare of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Novell McGloster</last_name>
+      <email>Novell.McGloster@choa.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Thomas Burns</last_name>
+      <email>thomas.burns@choa.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Thomas Burns, PsyD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Kossoff, MD</last_name>
+      <email>ekossoff@jhmi.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tony Stanfield</last_name>
+      <phone>410-502-0965</phone>
+      <email>astanfi1@jhmi.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Eric Kossoff, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michele Jackson</last_name>
+      <phone>857-218-5337</phone>
+      <email>michele.jackson@childrens.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jacqueline Klelm</last_name>
+      <phone>857-218-5337</phone>
+      <email>jacqueline.klelm@childrens.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tobias Loddenkemper, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>La June Grayson</last_name>
+      <phone>314-454-6120</phone>
+      <email>pnrc@neuro.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Liu-Lin Thio, MD/PHD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester</name>
+      <address>
+        <city>Monroe</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amy Vierhile</last_name>
+      <phone>585-275-4762</phone>
+      <email>amy_vierhile@urmc.rochester.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David D. Wang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jody Hessling</last_name>
+      <phone>513-636-7314</phone>
+      <email>jody.hessling@cchmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Diego Morita, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sudha Kessler</last_name>
+      <email>KESSLERS@email.chop.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Casey Gorman</last_name>
+      <phone>215-590-1719</phone>
+      <email>gormanC@email.chop.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sudha A. Kessler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Le Bonheur Children's Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tracee Ridley-Pryor</last_name>
+      <phone>901-287-5207</phone>
+      <email>Tracee.Ridley@lebonheur.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Catherine Horobetz</last_name>
+      <phone>901-287-5338</phone>
+      <email>Catherine.Horobetz@lebonheur.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>James W. Wheless, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Eastern Virginia Medical School</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matt Frank, MD</last_name>
+      <email>Matthew.Frank@chkd.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Terrie Conklin</last_name>
+      <phone>757-668-9256</phone>
+      <email>terrie.conklin@chkd.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Matt Frank, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23284</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Syndi Seinfeld</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.pcori.org/pfaawards/cognitive-aed-outcomes-in-pediatric-localization-related-epilepsy-cope/</url>
+  </link>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 13, 2015</lastchanged_date>
+  <firstreceived_date>June 28, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>David Loring, PhD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsies, Partial</mesh_term>
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Etiracetam</mesh_term>
+    <mesh_term>Lamotrigine</mesh_term>
+    <mesh_term>Oxcarbazepine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

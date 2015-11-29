@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1072">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01137773</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UofL IRB #562.06</org_study_id>
+    <nct_id>NCT01137773</nct_id>
+  </id_info>
+  <brief_title>Normoglycemia and Neurological Outcome</brief_title>
+  <official_title>Does Maintenance of Normoglycemia Change Neurological Outcome in Patients Recovering From Traumatic Brain Injury and Subarachnoid or Intraparenchymal Hemorrhage?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Louisville</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Louisville</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Brain injury patients who meet defined criteria will be assigned to intensive insulin
+      treatment (target blood glucose levels of 10-110 mg/dl) or conventional IV insulin treatment
+      (target glucose of 150-170 mg/dl). Follow up will occur at 3, 6 and 12 months. The primary
+      outcome measure will be neurological outcome at 12 months according to Glasgow Outcome Scale
+      Expanded (GOSE) and Karnofsky Performance Scale (KPS). A general view of outcome will also
+      be presented as favorable (good recovery+ moderate disability), unfavorable (severely
+      disabled+ vegetative state), and dead.
+
+      Secondary outcome measures will be length of stay in the intensive care unit and the
+      hospital, the need for ventilatory support or renal replacement therapy, inotropic and
+      vasopressor support, transfusion requirements, and death. Likewise, incidence of seizures
+      and diabetes insipidus will be measured. The investigators will also record systemic
+      complications like pulmonary emboli, pulmonary edema, myocardial infarction, ventricular
+      arrhythmias, and pneumonia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Demographic data, social and medical histories, and clinical features at onset will be
+      obtained via patient or family interview shortly after admission . We want to get the
+      patients enrolled in our protocol as soon as possible because we believe that hyperglycemia
+      levels greater than 200 mg/dl is a secondary insult that should be prevented as early as
+      possible. However, a twelve-hour period after ICU admission is necessary for initial
+      diagnosis and assessment of the patient's status in order to identify the patient as a
+      potential study subject and to get consent from the patient's legal representative.
+
+      Within twelve hours of ICU admission, qualifying patients will be randomized one of the two
+      groups. Randomization will be based on computer-generated codes that will be maintained in
+      sequentially numbered opaque envelopes. The randomization will be stratified according to
+      the severity of neurological injury based on GCS. The three stratification groups will be
+      GCS=6-8, GCS=9-11 and GCS=12-14. Randomization will be done using random sized blocks within
+      stratum, and patients will be randomized within stratum to either:
+
+        1. Intensive intravenous insulin treatment (Target glucose levels of 80-110 mg/dl)
+
+        2. Conventional intravenous insulin treatment (Target glucose levels of 150-170 mg/dl)
+
+      All patients in the trial will have blood taken hourly for glucose analysis, regardless of
+      their designated group. Adjustments of the insulin dose will be based on measurements of
+      capillary blood glucose level. The interval between the glucose samples will be increased
+      when patients satisfy discharge criteria from the intensive care unit. The insulin dose
+      adjustments will be made by a team of intensive care nurses, assisted by a study nurse who
+      is not otherwise involved in the clinical care of the patients. RBC transfusions, if
+      necessary, will be administered one unit at a time, and the patient's hemoglobin
+      concentration will be measured before and after each transfusion.
+
+      All patients enrolled in the study will receive saline infusion supplemented with potassium.
+      An orogastric or nasogastric feeding tube (Dobhoff tube) will be inserted. Enteral feeding
+      will be started per feeding protocol with the goal of starting on day one. After insertion
+      of a nasogastric or orogastric tube, tube position will be verified with abdominal x-ray.
+      Enteral feeding will be instituted with 25 to 30 nonprotein kilocalories per kilogram of
+      body weight per 24 hours and a balanced composition (including 0.13 to 0.26 g of nitrogen
+      per kilogram per 24 hours and 20 to 40 percent of nonprotein in the form of lipids). 69
+      Formula used will be recorded. Patients will be fed continuously starting at a rate of 25
+      ml/hour. If continuous enteral feeding cannot be instituted or has to be stopped and enteral
+      nutrition is anticipated to be interrupted for more than 7 days, total parenteral nutrition
+      will be initiated. Patients will be allowed to progress to a regular oral diet after they
+      have passed a swallowing study.
+
+      The underlying neurological conditions will be managed by the neurosurgical team according
+      to the protocols of the Department of Neurosurgery of the University of Louisville.
+
+      When participating patients' physiological statuses have stabilized and the need for ICU
+      monitoring and care is no longer necessary, they will be discharged to a lower level of care
+      (in accordance with the 1999 guidelines of Task Force of the American College of Critical
+      Care Medicine, Society of Critical Care Medicine). Upon discharge from ICU, patients in all
+      groups will be treated with subcutaneous insulin according to established transition
+      guidelines.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date>January 2007</start_date>
+  <completion_date type="Anticipated">December 2015</completion_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Glasgow Outcomes Scale Extended score</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Glasgow Outcome Scale (GOS) is the most widely used measure for traumatic brain injury and other non-traumatic brain injuries and is favored over other measures such as disability rating scale.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Karnofsky Performance Scale (KPS)</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Karnofsky Performance Scale (KPS) was originally intended for debilitating diseases such as terminal cancer, but it is currently also used for evaluation of quality of life and long term rehabilitation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">360</enrollment>
+  <condition>Acute, Non-traumatic Subarachnoid Hemorrhage</condition>
+  <condition>Intraparenchymal Hemorrhage</condition>
+  <condition>Brain Injuries</condition>
+  <arm_group>
+    <arm_group_label>Intensive IV Insulin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive IV insulin to maintain target glucose levels of 80-110 mg/dl</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional IV Insulin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patents will receive conventional IV insulin treatment with target glucose levels of 150-170 mg/dl</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Insulin</intervention_name>
+    <description>All patients in the trial will have blood taken hourly for glucose analysis, regardless of their designated group. Adjustments of the insulin dose will be based on measurements of capillary blood glucose level.</description>
+    <arm_group_label>Intensive IV Insulin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Conventional insulin treatment</intervention_name>
+    <description>All patients in the trial will have blood taken hourly for glucose analysis , regardless of their designated group. Adjustments of the insulin dose will be based on measurements of capillary blood glucose level.</description>
+    <arm_group_label>Conventional IV Insulin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  non-traumatic SAH, ICH, or TBI
+
+          -  Glasgow Coma Scale between 6 and 14
+
+          -  admitted to an ICU of University of Louisville Hospital
+
+        Exclusion Criteria:
+
+          -  Patients &lt;18 and &gt;80 years
+
+          -  GCS Motor score &lt;4 or an overall GCS score of 15
+
+          -  diabetic patients who suffer from dialysis-dependent diabetic nephropathy
+
+          -  patients with multiple injuries
+
+          -  patients who would have been classified as ASA 3 status prior to their acute
+             neurological event
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rainer Lenhardt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Louisville</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Louisville Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2012</verification_date>
+  <lastchanged_date>November 12, 2012</lastchanged_date>
+  <firstreceived_date>June 3, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SAH (Subarachnoid Hemorrhage)</keyword>
+  <keyword>Brain Hemorrhage</keyword>
+  <keyword>Traumatic Brain Injury</keyword>
+  <keyword>SAH</keyword>
+  <keyword>ICH</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Hemorrhage</mesh_term>
+    <mesh_term>Subarachnoid Hemorrhage</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Insulin</mesh_term>
+    <mesh_term>Insulin, Globin Zinc</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

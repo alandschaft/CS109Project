@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="206">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01850498</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1663</org_study_id>
+    <nct_id>NCT01850498</nct_id>
+  </id_info>
+  <brief_title>Epilepsy Motion Sensing</brief_title>
+  <official_title>Motion Sensing Study in Epilepsy Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>MedtronicNeuro</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>MedtronicNeuro</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluate patient motion during seizures.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2012</start_date>
+  <completion_date type="Actual">April 2013</completion_date>
+  <primary_completion_date type="Actual">April 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>To identify and evaluate seizure characteristics derived from an accelerometer that can be used in development of a seizure detection algorithm (compared to EEG readings).</measure>
+    <time_frame>While patients are being evaluated in an epilepsy monitoring unit.</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the accuracy of an accelerometer in identifying seizures (compared to EEG readings).</measure>
+    <time_frame>While patients are being evaluated in an epilepsy monitoring unit.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate whether certain seizure types are more capable of being identified by the accelerometer (compared to EEG readings).</measure>
+    <time_frame>While patients are being evaluated in an epilepsy monitoring unit.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate heart rate and rhythm changes associated with seizure onset (compared to ECG readings).</measure>
+    <time_frame>While patients are being evaluated in an epilepsy monitoring unit.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">19</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Partial seizures</arm_group_label>
+    <description>Partial seizures with secondary generalization which results in visible clonic or tonic-clonic motor behavior</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Generalized seizures</arm_group_label>
+    <description>Primarily generalized seizures (in patients with either primary [idiopathic] or secondary [symptomatic] generalized epilepsy), which may involve the following depending on the motor manifestation observed: myoclonic seizures, clonic seizures, tonic-clonic seizures, or atonic seizures.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with epilepsy referred to epilepsy monitoring unit.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  18 years of age or older
+
+          -  Diagnosed with epilepsy and expected to have at least one motor seizure in the EMU
+
+          -  Determined by the Investigator to be an acceptable candidate for epilepsy evaluation
+             with intracranial or scalp electrode monitoring
+
+          -  Willing and able to wear 3 ActiGraph GT3X+ devices for the duration of their
+             participation in the study and comply with the study protocol
+
+          -  Have one of the following seizure types: (a) partial seizures with secondary
+             generalization, which results in visible clonic or tonic-clonic motor behavior; (b)
+             primarily generalized seizures (in patients with either primary [idiopathic] or
+             secondary [symptomatic] generalized epilepsy), which may involve the following
+             depending on the motor manifestation observed: myoclonic seizures, clonic seizures,
+             tonic-clonic seizures, or atonic seizures.
+
+          -  Be able to consent to participate by signing the Informed Consent document after a
+             full explanation of the nature and purpose of this study
+
+          -  Male or non-pregnant female
+
+          -  English speaking
+
+        Exclusion Criteria:
+
+          -  Currently enrolled in another investigational device, drug, or surgery study.
+             Concurrent physiologic study participation is acceptable
+
+          -  Have an implanted device that may interfere with GT3X+ recordings, ECoG/EEG
+             recordings, ECG recordings, or video recordings
+
+          -  Have a movement disorder that may affect GT3X+ recordings
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 6, 2013</lastchanged_date>
+  <firstreceived_date>November 1, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Epilepsy</keyword>
+  <keyword>Seizure</keyword>
+  <keyword>Motor</keyword>
+  <keyword>Motion</keyword>
+  <keyword>Accelerometer</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="534">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02100644</url>
+  </required_header>
+  <id_info>
+    <org_study_id>200776</org_study_id>
+    <nct_id>NCT02100644</nct_id>
+  </id_info>
+  <brief_title>Valproate Dose Reduction and Its Clinical Evaluation by Introducing Lamotrigine in Japanese Women With Epilepsy - Single Arm, Multicenter, and Open-label Study -</brief_title>
+  <official_title>Valproate Dose Reduction and Its Clinical Evaluation by Introducing Lamotrigine in Japanese Women With Epilepsy - Single Arm, Multicenter, and Open-label Study -</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>Japan: Ministry of Health, Labor and Welfare</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to examine whether the VPA (Valproate) dose can be reduced by
+      additional administration of LTG (Lamotrigine) in Japanese pre-menopausal female epilepsy
+      patients aged 15 years or older, whose seizures are well controlled by VPA monotherapy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      RATIONALE In several studies that investigated the effects of in utero exposure to AEDs
+      (antiepileptic drugs) on fetal malformations and intellectual development in children after
+      birth, it has been reported that VPA causes neonatal malformations and decreases
+      intelligence of children in a dose dependent manner, whereas such a risk is low in LTG
+      (Hernandez-Díaz et al., 2012; Meador et al., 2013). It has also been reported that LTG as
+      adjunctive therapy with VPA is effective in inhibiting seizures in patients with poorly
+      controlled seizures, and adverse events under VPA monotherapy can be relieved by
+      subsequently reducing VPA dose after LTG is combined (Sale et al., 2005; Jozwiak et al.,
+      2000; Morris et al, 2004; Buchanan, 1996). Thus, by considering the benefits of replacing
+      VPA by LTG in childbearing women, we will examine whether VPA dose can be reduced by
+      introducing LTG in Japanese female epilepsy patients under VPA monotherapy (aged ≥ 15 years,
+      pre-menopausal).
+
+      STUDY DESIGN Single arm, multicenter, and open-label study TIME FRAME
+
+        -  Screening(Retrospective review of medical records for 12 weeks)
+
+        -  LTG escalation phase (8-18 weeks)
+
+        -  VPA reduction phase (3-16 weeks)
+
+        -  LTG &amp; VPA maintenance phase (12 weeks)
+
+        -  Follow up (1-4 weeks) PRIMARY OBJECTIVE To examine whether the VPA dose can be reduced
+           by additional administration of LTG (up to 200 mg/d if there are no safety concerns) in
+           Japanese pre-menopausal female epilepsy patients aged 15 years or older, whose seizures
+           are well controlled by VPA monotherapy (fixed maintenance dose of 400-1200 mg/d).
+
+      SECONDARY OBJECTIVES
+
+        -  To investigate the steady state concentration of LTG immediately before VPA dose
+           reduction, at the time of VPA dose reduction, and during the LTG&amp;VPA maintenance phase.
+
+        -  To investigate the safety and tolerability associated with additional administration of
+           LTG followed by dose reduction of VPA.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2014</start_date>
+  <completion_date type="Actual">May 2015</completion_date>
+  <primary_completion_date type="Actual">May 2015</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Percentage of subjects and percent reduction of the VPA dose</measure>
+    <time_frame>24-50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage of subjects who can reduce daily VPA dose during the LTG&amp;VPA maintenance phase and percent reduction of the VPA dose compared to baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of seizure day(s)</measure>
+    <time_frame>24-50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from screening in number of day(s) that epileptic seizures occur during the LTG&amp;VPA maintenance phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in QOLIE-31-P or QOLIE-AD-48</measure>
+    <time_frame>24-50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline in QOLIE-31-P (subjects aged 18 years and older) or QOLIE-AD-48 (subjects aged 15-17 years) at the end of the LTG&amp;VPA maintenance phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects completing or discontinuing the study</measure>
+    <time_frame>24-50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in body weight</measure>
+    <time_frame>24-50 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Change from baseline in body weight at the end of the LTG&amp;VPA maintenance phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To investigate concentration of LTG</measure>
+    <time_frame>24-50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To investigate the steady state concentration of LTG immediately before VPA dose reduction, at the time of VPA dose reduction, and during the LTG&amp;VPA maintenance phase</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Type, severity, and incidence of adverse events</measure>
+    <time_frame>24-50 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The number and percentage of subjects who experience the following adverse events will be summarized.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">33</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Lamotrigine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study objective is to examine whether the VPA dose can be reduced by additional administration of LTG in Japanese pre-menopausal female epilepsy patients, whose seizures are well controlled by VPA monotherapy. Then VPA is the standard product in this stuudy, not the investigational product.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lamotrigine tablets 25/100 mg</intervention_name>
+    <description>Lamotrigine (LTG) is administered according to the package insert: that is, 25 mg of LTG will be orally administered once every other day for the first 2 weeks and then once daily for the next 2 weeks. Thereafter, the dose will be gradually escalated by 25-50 mg every 1-2 week for once or twice daily administration. During the VPA reduction phase and LTG&amp;amp;VPA maintenance phase, as specified in the information of package insert, maintenance dose of LTG will be administered twice daily.</description>
+    <arm_group_label>Lamotrigine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. (Target disease) Epilepsy patients having the following seizure types as classified
+             by the International Classification of Epileptic Seizures
+
+               -  Partial seizures (with or without secondary generalization)
+
+               -  Tonic-clonic seizures with or without myoclonus but without other generalized
+                  seizure type(s)
+
+          2. Subjects having a confident diagnosis of epilepsy that is uncomplicated by
+             pseudoseizures such as psychogenic nonepileptic seizures
+
+          3. Subjects whose seizures have been controlled for 12 weeks prior to start of the
+             investigational product with a stable maintenance dose of VPA monotherapy (400-1200
+             mg/d)
+
+          4. (Age and gender)
+
+        Japanese pre-menopausal women who are at least 15 years old at the time of consent, not
+        lactating, and can agree to use any of the following types of contraception in a reliable
+        fashion:
+
+          1. Complete abstinence during the study as well as for a period after the study to
+             account for elimination of the investigational product (a minimum of 2 weeks)
+
+          2. Consistent and correct use of any of the following contraceptive methods
+
+               -  Surgical sterilization of male partner (i.e., male partner is the sole sexual
+                  partner for the female subject and is sterilized prior to the subject's entry
+                  into the study)
+
+               -  Intrauterine device with a failure rate of less than 1% per year
+
+               -  Double barrier method (e.g., spermicide plus a condom or a diaphragm) Note:
+                  Women who have had a hysterectomy or tubal ligation are considered to be of
+                  non-childbearing potential. Since a pharmacokinetic interaction has been
+                  observed between LTG and estrogen-based oral contraceptives, the use of hormonal
+                  therapy such as for contraception or hormone replacement therapy is not allowed.
+
+                  5.Outpatients 6.Subjects who can keep a seizure diary 7.Subjects who can
+                  understand and sign the informed consent. If the subject is under 20 years old
+                  at the time of consent, both the subject and subject's legally acceptable
+                  representative have to sign the consent to participate in the study.
+
+                  8.QTc &lt;480 msec for subjects with bundle branch block or QTc &lt;450 msec for other
+                  subjects, in which QTc is measured by either single or triplicate-averaged ECG
+                  9.Subjects who can comply with dosing of the investigational and standard
+                  products and all study procedures
+
+        Exclusion Criteria:
+
+          1. Subjects with a history of hypersensitivity to LTG
+
+          2. Subjects with a history of rash associated with other AED treatments.
+
+          3. Subjects who have received another AED besides VPA during the 12 weeks prior to start
+             of the investigational product
+
+          4. Subjects with status epilepticus during the 6 months prior to start of the
+             investigational product
+
+          5. Subjects with a history of substance (including alcohol and drug) dependence or
+             substance abuse as defined by the DSM-IV-TR within 12 months or 1 month,
+             respectively, prior to start of the investigational product
+
+          6. Subjects with a severe acute or chronic illness likely to impair drug absorption,
+             distribution, metabolism, or excretion; or subjects with any unstable physical
+             symptom likely to require hospitalization during the study
+
+          7. Subjects with a severe psychiatric disorder that affects the procedures of the study
+             or drug assessment
+
+          8. Subjects with an acute or progressive neurological disorder or an organic disease
+
+          9. Subjects with any clinically significant cardiac, renal, or hepatic medical
+             condition. Any patient with these conditions will be excluded from the study even if
+             these conditions are being controlled with a chronic therapy.
+
+         10. Subjects with an unstable liver disease (as defined by the presence of ascites,
+             encephalopathy, coagulopathy, hypoalbuminaemia, oesophageal or gastric varices, or
+             persistent jaundice), cirrhosis, or known biliary abnormalities (with the exception
+             of Gilbert's syndrome or asymptomatic gallstones) Note: Chronic stable hepatitis B
+             and C are acceptable if the subjects otherwise meet the inclusion criteria. However,
+             the subjects with chronic stable hepatitis B will be excluded if significant
+             immunosuppressive agents are being administered due to a risk of hepatitis B
+             reactivation.
+
+         11. Subjects who are pregnant or lactating, who may be pregnant, or who plan for
+             pregnancy during the study
+
+         12. Subjects who are suspected to have an urea cycle disorder as below:
+
+               -  Subjects with a history of encephalopathy or coma of unknown cause
+
+               -  Subjects with a family history of infant death of unknown cause or urea cycle
+                  disorder
+
+         13. Subjects taking inducers of LTG glucuronidation (i.e., rifampicinor
+             lopinavir/ritonavir), atazanavir/ritonavir, risperidone, or oral contraceptives or
+             hormone drugs containing estrogen
+
+         14. Subjects taking carbapenem antibiotic (i.e., panipenem/betamipron, meropenem hydrate,
+             imipenem hydrate/cilastatin sodium, biapenem, doripenem hydrate, or tebipenem
+             pivoxil)
+
+         15. Subjects who have participated in other clinical studies within 3 months prior to
+             start of the investigational product
+
+         16. Subjects who have had active suicidal plans/intent or suicidal thoughts in the past 3
+             months prior to start of the investigational product; or subjects who have history of
+             suicide attempts in the last 1 year prior to start of the investigational product or
+             of multiple suicide attempts in their lifetime
+
+         17. Subjects whom the investigator or subinvestigator considers ineligible for the study
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Hyogo</city>
+        <zip>664-8540</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kagoshima</city>
+        <zip>892-0844</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kyoto</city>
+        <zip>606-8507</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Osaka</city>
+        <zip>560-8565</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Saitama</city>
+        <zip>351-8551</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Shizuoka</city>
+        <zip>430-8558</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>185-0012</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 22, 2015</lastchanged_date>
+  <firstreceived_date>March 27, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anticonvulsants</mesh_term>
+    <mesh_term>Lamotrigine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="375">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02535091</url>
+  </required_header>
+  <id_info>
+    <org_study_id>YKP3089C021</org_study_id>
+    <nct_id>NCT02535091</nct_id>
+  </id_info>
+  <brief_title>Safety and Pharmacokinetic Study of YKP3089 as Adjunctive Therapy in Subjects With Partial Onset Seizures</brief_title>
+  <official_title>An Open Label, Multicenter, Safety and Pharmacokinetic Study of YKP3089 as Adjunctive Therapy in Subjects With Partial Onset Seizures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>SK Life Science</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>SK Life Science</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, open label study to assess the safety and pharmacokinetics of YKP3089
+      as adjunctive therapy in subjects with partial onset seizures. Initially, subjects taking
+      phenytoin or phenobarbital will be enrolled followed by additional subjects taking
+      anti-epileptic drugs other than phenytoin and phenobarbital to further investigate long-term
+      safety.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>May 2016</start_date>
+  <completion_date type="Anticipated">December 2018</completion_date>
+  <primary_completion_date type="Anticipated">June 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Evaluate the pharmacokinetics of YKP3089 and concomitant Antiepileptic Drugs (AEDs)</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline of trough plasma concentrations of YKP3089 and concomitant AEDs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>All observed or volunteered AEs and SAEs regardless of suspected causal relationship to the investigational product to be reported</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Laboratory Test Abnormalities (Hematology)</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Hematology data will be analyzed by central laboratories.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Laboratory Test Abnormalities (Chemistry)</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Chemistry data will be analyzed by central laboratories</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Laboratory Test Abnormalities (Urinalysis)</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Urinalysis data will be analyzed by central laboratories</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Vital Sign Results of Potential Clinical Importance</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Vital signs include sitting blood pressure, respiration rate, heart rate and temperature. Potential clinical importance to be determined according to investigator clinical judgement</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">490</enrollment>
+  <condition>Partial Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>YKP3089 Adjunctive Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>YKP3089</intervention_name>
+    <arm_group_label>YKP3089 Adjunctive Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  A diagnosis of partial epilepsy according to the International League Against
+             Epilepsy's Classification of Epileptic Seizures.
+
+          -  Have uncontrolled partial seizures and require additional Antiepileptic Drug (AED)
+             therapy despite having been treated with at least one Antiepileptic Drug (AED) within
+             approximately the last 2 years.
+
+          -  Currently on stable antiepileptic treatment regimen.
+
+          -  Computed tomography (CT) or magnetic resonance imaging (MRI) scan performed within
+             the past 10 years that ruled out a progressive cause of epilepsy.
+
+        Exclusion Criteria:
+
+          -  History of serious systemic disease, including hepatic insufficiency, renal
+             insufficiency, a malignant neoplasm, any disorder in which prognosis for survival is
+             less than 3 months, or any disorder which in the judgment of the investigator will
+             place the subject at excessive risk by participation in a controlled trial.
+
+          -  Subjects taking phenytoin must not be taking phenobarbital or primidone; subjects
+             taking phenobarbital must not be taking phenytoin or primidone.
+
+          -  Subjects taking concomitant Antiepileptic Drugs (AEDs) other than phenytoin or
+             phenobarbital, must not be taking phenytoin or phenobarbital or primidone.
+
+          -  Subjects with clinical evidence of phenytoin or phenobarbital toxicity.
+
+          -  A history of nonepileptic or psychogenic seizures.
+
+          -  Presence of only nonmotor simple partial seizures or primary generalized epilepsies.
+
+          -  Presence or previous history of Lennox-Gastaut syndrome.
+
+          -  Scheduled epilepsy surgery within 8 months after Visit 1.
+
+          -  Subjects implanted with or planning to have implantation of deep brain stimulator.
+
+          -  Any clinically significant laboratory abnormality that in the opinion of the
+             investigator would exclude the subject from the study.
+
+          -  Evidence of significant active hepatic disease.
+
+          -  An active Central Nervous System (CNS) infection, demyelinating disease, degenerative
+             neurologic disease, or any Central Nervous System (CNS) disease deemed to be
+             progressive during the course of the study that may confound the interpretation of
+             the study results.
+
+          -  Any clinically significant psychiatric illness, psychological, or behavioral problems
+             that, in the opinion of the investigator, would interfere with the subject's ability
+             to participate in the study.
+
+          -  Presence of psychotic disorders and/or unstable recurrent affective disorders evident
+             by use of antipsychotics; presence or recent history (within 6 months) of major
+             depressive episode.
+
+          -  History of alcoholism, drug abuse, or drug addiction within the past 2 years.
+
+          -  Current use of felbamate with less than 18 months of continuous exposure.
+
+          -  Current or recent (within the past year) use of vigabatrin or ezogabine.
+
+          -  History of status epilepticus within 3 months of Visit 1.
+
+          -  History of any serious drug-induced hypersensitivity reaction (including but not
+             limited to Stevens Johnson syndrome, toxic epidermal necrolysis, drug reaction with
+             eosinophilia and systemic symptoms) or any drug-related rash requiring
+             hospitalization.
+
+          -  History of AED-associated rash that involved conjunctiva or mucosae or more than one
+             maculopapular rash that required discontinuation.
+
+          -  Screening laboratory investigation demonstrates abnormal renal function.
+
+          -  Absolute neutrophil count less than 1500/μL.
+
+          -  Clinical or Electrocardiogram (ECG) evidence of serious cardiac disease, including
+             ischemic heart disease, uncontrolled heart failure, and major arrhythmias, or
+             relevant replicated changes in QT intervals.
+
+          -  Platelet counts lower than 80,000/μL in subjects treated with Valproic Acid (VPA).
+
+          -  A &quot;yes&quot; answer to Question 1 or 2 of the Columbia Suicide Severity Rating Scale
+             (C-SSRS) (Baseline/Screening version) Ideation Section in the past 6 months or a
+             &quot;yes&quot; answer to any of the Suicidal Behavior Questions in the past 2 years.
+
+          -  More than 1 lifetime suicide attempt.
+
+          -  Participation in any other trials involving an investigational product or device
+             within 30 days of screening.
+
+          -  Current use of any of the following medications: clopidogrel, fluvoxamine,
+             amitriptyline, clomipramine, bupropion, methadone, ifosfamide, cyclophosphamide,
+             efavirenz, fosphenytoin, ethotoin, mephenytoin, or natural progesterone (within 1
+             month of Visit 1).
+
+          -  History of positive antibody/antigen test for hepatitis B, hepatitis C, or HIV.
+
+          -  Presence of congenital short QT syndrome.
+
+          -  A history of previous exposure to YKP3089.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>O Senanan, MS</last_name>
+    <phone>201-421-3885</phone>
+    <email>oranuch@sk.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>P Ilankumaran, PhD</last_name>
+    <phone>201-421-3810</phone>
+    <email>pilan@sk.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinical Trials, Inc.</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Dusty Holderfield</last_name>
+      <phone>501-227-5061</phone>
+      <phone_ext>123</phone_ext>
+      <email>dholderfield@clinicaltrialsinc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Victor Biton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mid-Atlantic Epilepsy and Sleep Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Arkady Barber, RN</last_name>
+      <email>barbera@epilesydc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pavel Klein, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Epilepsy Care Center</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78758</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cheryle Yarborough</last_name>
+      <phone>512-339-8831</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 24, 2015</lastchanged_date>
+  <firstreceived_date>August 21, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsies, Partial</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

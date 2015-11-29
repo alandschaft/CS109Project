@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="227">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02228148</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEL5332</org_study_id>
+    <nct_id>NCT02228148</nct_id>
+  </id_info>
+  <brief_title>Comparison of the New Fitting Method Cochlear Nucleus Fitting Software (NFS) With the Established Fitting Method Cochlear Nucleus Custom SoundTM Suite (CSS)</brief_title>
+  <official_title>Comparison of Fitting Methods Using Cochlear Clinical Care Innovation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cochlear</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>datametrix AG</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cochlear</source>
+  <oversight_info>
+    <authority>Germany: Ethics Committee</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices</authority>
+    <authority>Switzerland: Ethics Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate if the new and simplified fitting method with
+      Cochlear Nucleus Fitting Software (a major component of a suite of tools which form the
+      Clinical Care Innovation) provides Cochlear Implants Recipients with the same hearing
+      outcome as the current and established clinical fitting method with Cochlear Nucleus Custom
+      SoundTM Suite. The Clinical Care Innovation method reduces fitting to simple volume, bass
+      and trebles adjustments, operations which are familiar to anyone who has used an audio
+      player.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2014</start_date>
+  <completion_date type="Anticipated">January 2017</completion_date>
+  <primary_completion_date type="Anticipated">December 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Supportive Care</study_design>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via aided hearing thresholds</measure>
+    <time_frame>3 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Aided hearing thresholds for the implanted ear at frequencies between 250 and 6000 Hz.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via aided hearing thresholds</measure>
+    <time_frame>6 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Aided hearing thresholds for the implanted ear at frequencies between 250 and 6000 Hz.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via aided hearing thresholds</measure>
+    <time_frame>9 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Aided hearing thresholds for the implanted ear at frequencies between 250 and 6000 Hz.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via aided hearing thresholds</measure>
+    <time_frame>12 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Aided hearing thresholds for the implanted ear at frequencies between 250 and 6000 Hz.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via aided hearing thresholds</measure>
+    <time_frame>15 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Aided hearing thresholds for the implanted ear at frequencies between 250 and 6000 Hz.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via speech performance tests</measure>
+    <time_frame>3 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The following tests are performed: Freiburg Monosyllables and Oldenburg Sentence Test in quiet (and adaptive Oldenburg Sentence Test in quiet if the subject's understanding is ≥ 70%) and adaptive Oldenburg Sentence Test in noise.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via speech performance tests</measure>
+    <time_frame>6 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The following tests are performed: Freiburg Monosyllables and Oldenburg Sentence Test in quiet (and adaptive Oldenburg Sentence Test in quiet if the subject's understanding is ≥ 70%) and adaptive Oldenburg Sentence Test in noise.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via speech performance tests</measure>
+    <time_frame>9 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The following tests are performed: Freiburg Monosyllables and Oldenburg Sentence Test in quiet (and adaptive Oldenburg Sentence Test in quiet if the subject's understanding is ≥ 70%) and adaptive Oldenburg Sentence Test in noise.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via speech performance tests</measure>
+    <time_frame>12 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The following tests are performed: Freiburg Monosyllables and Oldenburg Sentence Test in quiet (and adaptive Oldenburg Sentence Test in quiet if the subject's understanding is ≥ 70%) and adaptive Oldenburg Sentence Test in noise.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speech perception performance in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via speech performance tests</measure>
+    <time_frame>15 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The following tests are performed: Freiburg Monosyllables and Oldenburg Sentence Test in quiet (and adaptive Oldenburg Sentence Test in quiet if the subject's understanding is ≥ 70%) and adaptive Oldenburg Sentence Test in noise.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hearing disability score in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via the Speech Spatial Hearing Qualities questionnaire (without spatial part)</measure>
+    <time_frame>first fitting post-implantation (1 day)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hearing disability score in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via the Speech Spatial Hearing Qualities questionnaire (without spatial part)</measure>
+    <time_frame>6 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hearing disability score in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via the Speech Spatial Hearing Qualities questionnaire (without spatial part)</measure>
+    <time_frame>9 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hearing disability score in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via the Speech Spatial Hearing Qualities questionnaire (without spatial part)</measure>
+    <time_frame>12 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject preference for fittings performed with Nucleus Fitting Software and fittings with Nucleus Custom SoundTM Suite assessed via a subject comfort questionnaire</measure>
+    <time_frame>at each fitting (4 weeks after implantation)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject preference for fittings performed with Nucleus Fitting Software and fittings with Nucleus Custom SoundTM Suite assessed via a subject comfort questionnaire</measure>
+    <time_frame>at each fitting (3 months after implantation)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject preference for fittings performed with Nucleus Fitting Software and fittings with Nucleus Custom SoundTM Suite assessed via a subject comfort questionnaire</measure>
+    <time_frame>at each fitting (6 months after implantation)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject preference for fittings performed with Nucleus Fitting Software and fittings with Nucleus Custom SoundTM Suite assessed via a subject comfort questionnaire</measure>
+    <time_frame>at each fitting (9 months after implantation)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject preference for fittings performed with Nucleus Fitting Software and fittings with Nucleus Custom SoundTM Suite assessed via a subject comfort questionnaire</measure>
+    <time_frame>at each fitting (12 months after implantation)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hearing disability score in subjects fitted with Nucleus Fitting Software and subjects fitted with Nucleus Custom SoundTM Suite assessed via the Speech Spatial Hearing Qualities questionnaire (without spatial part)</measure>
+    <time_frame>3 months after implantation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Hearing Loss</condition>
+  <arm_group>
+    <arm_group_label>NFS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cochlear Nucleus Fitting Software</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSS</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Cochlear Nucleus Custom SoundTM Suite</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NFS</intervention_name>
+    <description>Cochlear Nucleus Fitting Software</description>
+    <arm_group_label>NFS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CSS</intervention_name>
+    <description>Cochlear Nucleus Custom SoundTM Suite</description>
+    <arm_group_label>CSS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Newly implanted subjects with available Nucleus Cochlear Implants compatible with
+             CP900 series sound processors (excluding Cochlear Nucleus Hybrid)
+
+          -  Post linguistically deafened adults (≥ 18 years)
+
+          -  Unilaterally implanted
+
+          -  ≤ 15 years of severe to profound deafness prior to implantation
+
+          -  Subjects who are capable and willing to participate in speech perception tests in
+             local language
+
+          -  Subjects who are able to provide feedback in form of a written questionnaire (e.g.
+             Speech Spatial Hearing Qualities questionnaire)
+
+          -  Subjects willing to give their consent to the study
+
+        Exclusion Criteria:
+
+          -  Additional handicaps that would prevent participation in evaluations (e.g. visual
+             impairment, blindness)
+
+          -  Unrealistic expectations on the part of the subject, regarding the possible benefits,
+             risks and limitations that are inherent to the procedure/fitting method
+
+          -  Bilateral implantation
+
+          -  Hybrid-L (not supported by Nucleus Fitting Software)
+
+          -  Subjects who already have hearing experience with a Cochlear Implant (e.g.
+             reimplantation, contralateral Cochlear Implant)
+
+          -  Subjects with single-sided deafness
+
+          -  Known cochlea malformations
+
+          -  Subjects who lost their hearing due to meningitis
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ernst von Wallenberg, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cochlear</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kornelia Helberg, MD, PhD</last_name>
+    <phone>+49 511 54277218</phone>
+    <email>khelberg@cochlear.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Deutsches HörZentrum Hannover der HNO-Klinik der MHH</name>
+      <address>
+        <city>Hannover</city>
+        <state>Niedersachsen</state>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Andreas Büchner, Prof. Dr. Dipl.-Inform</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Schleswig-Holstein - Campus Kiel, Klinik für Hals, Nasen-, Ohrenheilkunde, Kopf und Halschirurgie</name>
+      <address>
+        <city>Kiel</city>
+        <state>Schleswig-Holstein</state>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Matthias Hey, Dipl. Phys. Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital</name>
+      <address>
+        <city>Zurich</city>
+        <state>Kanton Zurich</state>
+        <zip>8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Norbert Dillier, Prof. Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Wai Kong Lai, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 5, 2015</lastchanged_date>
+  <firstreceived_date>August 27, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Post linguistically deafness, severe to profound deafness</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hearing Loss</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

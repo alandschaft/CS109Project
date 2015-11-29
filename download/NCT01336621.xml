@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="228">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01336621</url>
+  </required_header>
+  <id_info>
+    <org_study_id>113413</org_study_id>
+    <nct_id>NCT01336621</nct_id>
+  </id_info>
+  <brief_title>Long-Term Safety Study of Retigabine Immediate Release (IR) as Adjunctive Therapy in the Treatment of Adults With Partial-Onset Seizures (POS).</brief_title>
+  <acronym>IR</acronym>
+  <official_title>A Multicentre, Open-Label, Long-Term, Safety and Tolerability Study of Retigabine Immediate Release (IR) in Adults With Partial-Onset Seizures (Extension of Study RGB113905)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>Bulgaria: Bulgarian Drug Agency</authority>
+    <authority>Spain: Agencia Española del Medicamento y Productos Sanitarios</authority>
+    <authority>Belgium: Agence Fédérale des Medicaments et des Produits de la Santé</authority>
+    <authority>Denmark: Lægemiddelstyrelsen</authority>
+    <authority>Spain:Agencia Espanola de Medicamentos y Productos Sanitarios</authority>
+    <authority>Germany: Bundesinstitut für Arzneimittel und Medizinprodukte</authority>
+    <authority>France: Agence Française de Sécurité Sanitaire des Produits de Santé</authority>
+    <authority>Netherlands: De Centrale Commissie Mensgebonden Onderzoek</authority>
+    <authority>Sweden: Läkemedelsverket</authority>
+    <authority>Italy: Comitato Per La Sperimentazione Clinica dei Medicinali Dell'azienda Ospedaliero</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this Phase III study is to assess the long-term safety, tolerability and
+      efficacy of flexibly dosed retigabine Immediate Release (IR) as adjunctive therapy in adult
+      subjects with partial-onset seizures. In addition, those subjects who successfully completed
+      20 weeks of adjunctive treatment with retigabine IR in the parent study, RGB113905, and who
+      were thought to have benefitted from treatment will be provided continued access to
+      retigabine IR.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      RTG113413 is an open-label, multicentre extension study of RGB113905. This study will enrol
+      adult subjects with partial-onset seizures (POS) who successfully completed 20 weeks of
+      adjunctive treatment with retigabine IR (4-weeks Titration Phase and 16-weeks Flexible Dose
+      Evaluation Phase) in the parent study, RGB113905 and who were thought to have benefitted
+      from the treatment.
+
+      The Screening Visit (Visit 1) will be performed on the same day as the final visit of the
+      parent study (Visit 7/Week 20). Subjects entering the extension study will initially receive
+      the same dose of retigabine IR and concurrent antiepileptic drug (AED) as they were
+      receiving on the final visit of the parent study. After the first week of the extension
+      study, the subject's retigabine dose can be adjusted based on efficacy and tolerability. The
+      overall daily dose of retigabine IR must be maintained between 300 mg/day (minimum) and 1200
+      mg/day (maximum). In addition, the dose and the number of concurrent AEDs can be adjusted to
+      meet the individual needs of the subject. Retigabine IR monotherapy is not permitted. If
+      concurrent AED therapy is removed, the subject must be withdrawn from the study.
+
+      Subjects in this study will be eligible to receive retigabine IR treatment until one of the
+      following criteria have been met: i) regulatory approval and commercial availability of
+      retigabine IR or ii) retigabine IR is not approved by the regulatory authorities or iii) the
+      study is terminated by the sponsor for reasons including, but not limited to, safety issues
+      or iv) subject is withdrawn or withdraws consent or v) subject has received retigabine IR
+      treatment for a total of 3 years and options i-iv have not been met. After the Screening
+      Visit, subjects will be required to attend 4 further clinic visits at Weeks 13, 26, 39, and
+      52 in the first year of the study and a total of 3 clinic visits at approximately 4-monthly
+      intervals during each of the second and third year of study. Upon completion or early
+      withdrawal, subjects will begin a 3-week taper period and then return for a follow-up visit.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>February 2011</start_date>
+  <completion_date type="Anticipated">November 2015</completion_date>
+  <primary_completion_date type="Anticipated">November 2015</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Incidence of adverse events (AEs) and serious adverse events (SAEs)</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of subjects experiencing a ≥25%, ≥50%, ≥75% or 100% reduction in 28-day partial-onset seizure frequency from baseline during the treatment period.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The percent change from baseline in 28-day partial-onset seizure frequency during the treatment period.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of subjects experiencing an increase in 28-day partial-onset seizure frequency from baseline during the treatment period.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of subjects who remain seizure free throughout the treatment period.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects withdrawing due to adverse events.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in vital signs (blood pressure and heart rate) and weight.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ECG parameters.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in American Urological Association Symptom Scale (AUA SS) and Post-Void Residual (PVR) bladder ultrasound.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Summary of the Columbia Suicide Severity Rating Scale (C-SSRS).</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Worsening of seizures</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to withdrawal</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of haematology, chemistry, and urinalysis parameters of clinical concern</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in haematology, chemistry and urinalysis parameters.</measure>
+    <time_frame>Up to Week 156</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Retigabine IR</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Open label flexible dose between 300 mg/day (Minimum) and 1200 mg/day (maximum).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Retigabine IR</intervention_name>
+    <description>Flexible dose between 300 mg/day (minimum) and 1200 mg/day (maximum)</description>
+    <arm_group_label>Retigabine IR</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  The subject has successfully completed the 20-weeks (4-weeks Titration and 16-weeks
+             of Flexible Dose Evaluation Phases) of treatment with retigabine IR as adjunctive
+             therapy to one of the pre-specified AEDs in the parent study RGB113905.
+
+          -  The investigator and the subject, or caregiver, if applicable, should consider it
+             beneficial for the subject to receive continued retigabine IR therapy.
+
+          -  The subject is able and willing to maintain an accurate and complete daily written
+             Seizure Calendar or has a caregiver who is able and willing to maintain an accurate
+             and complete daily written Seizure Calendar for the entire duration of the study.
+
+          -  The subject has given written informed consent, or has a legally authorised
+             representative who has given written informed consent, prior to the performance of
+             any study assessments.
+
+          -  A female subject is eligible to enter and participate in the study if she is of
+             non-childbearing potential (i.e., physiologically incapable of becoming pregnant,
+             including any female who is pre- menarchal or post menopausal).
+
+          -  A female subject is eligible to enter and participate in the study if she is
+             child-bearing potential and has a negative pregnancy test at Screening, and agrees to
+             use one of the contraceptive methods listed in Appendix 3 of the protocol.
+
+          -  A female subject is eligible to enter and participate in the study if she not
+             pregnant or lactating or planning to become pregnant during the study.
+
+          -  French subjects only: In France, a subject will be eligible for inclusion in this
+             study only if either affiliated to or a beneficiary of a social security category.
+
+        Exclusion Criteria:
+
+          -  Has met any of the withdrawal criteria in the previous RGB113905 study or has
+             clinically significant abnormal clinical laboratory or ECG findings not resolved
+             prior to entry to the open-label extension study.
+
+          -  Is suffering from acute or progressive neurological disease, severe psychiatric
+             disease, or severe mental abnormalities that are likely to interfere with the study
+             objectives.
+
+          -  Has any medical condition that, in the investigator's judgment, is considered to be
+             clinically significant and could potentially affect subject safety or study outcome,
+             including but not limited to: clinically significant cardiac, renal, hepatic
+             condition, or a condition that affects the absorption, distribution, metabolism or
+             excretion of drugs.
+
+          -  Has any abnormality on 12-lead ECG at Screening which is clinically significant in
+             the opinion of the investigator, or has QTc (either QTcB Bazett's correction or QTcF
+             Fridericia's correction) &gt;500 msec or &gt;530 msec for subjects with Bundle Branch Block
+             or an increase in QTc of &gt;60 msec from Baseline in the parent study.
+
+          -  Is unwilling or inability to follow the study procedures or reporting of AEs.
+
+          -  Is planning on following a ketogenic diet or planning surgery or implantation of a
+             Vagus Nerve Stimulator (VNS) to control seizures during the study. Note: Subjects who
+             already have a VNS implanted which is functional may be permitted to enter the study.
+
+          -  Has active suicidal plan/intent or has had active suicidal thoughts in the past 6
+             months. Has history of suicide attempt in the last 2 years or more than 1 lifetime
+             suicide attempt.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Plovdiv</city>
+        <zip>4000</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1113</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1431</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Limoges</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Strasbourg Cedex</city>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kehl-Kork</city>
+        <state>Baden-Wuerttemberg</state>
+        <zip>77694</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Stuttgart</city>
+        <state>Baden-Wuerttemberg</state>
+        <zip>70372</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bielefeld</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>33617</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bologna</city>
+        <state>Emilia-Romagna</state>
+        <zip>40139</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00163</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00185</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Genova</city>
+        <state>Liguria</state>
+        <zip>16153</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Torrette di Ancona</city>
+        <state>Marche</state>
+        <zip>60126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Foggia</city>
+        <state>Puglia</state>
+        <zip>71100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Pisa</city>
+        <state>Toscana</state>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Heemstede</city>
+        <zip>2103 SW</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>00-453</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Belgorod</city>
+        <zip>308007</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Kazan</city>
+        <zip>420064</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Krasnodar</city>
+        <zip>350007</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>107150</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>117049</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Samara</city>
+        <zip>443095</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Smolensk</city>
+        <zip>214 019</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>St.-Petersburg</city>
+        <zip>193019</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Khon Kaen</city>
+        <zip>40002</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Dnepropetrovsk</city>
+        <zip>49005</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Lugansk</city>
+        <zip>91045</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Lviv</city>
+        <zip>79010</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Odesa</city>
+        <zip>65014</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Oleksandrivka village, Odesa</city>
+        <zip>67513</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Poltava</city>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Bulgaria</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Russian Federation</country>
+    <country>Thailand</country>
+    <country>Ukraine</country>
+  </location_countries>
+  <verification_date>September 2015</verification_date>
+  <lastchanged_date>October 1, 2015</lastchanged_date>
+  <firstreceived_date>March 10, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Partial-onset seizures</keyword>
+  <keyword>retigabine IR</keyword>
+  <keyword>Open Label Extension</keyword>
+  <keyword>GW582892</keyword>
+  <keyword>Epilepsy</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ezogabine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

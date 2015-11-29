@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="614">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01070316</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2009-0998</org_study_id>
+    <nct_id>NCT01070316</nct_id>
+  </id_info>
+  <brief_title>Everolimus (RAD001) Therapy for Epilepsy in Patients With Tuberous Sclerosis Complex (TSC)</brief_title>
+  <official_title>Everolimus (RAD001) Therapy for Epilepsy in Patients With Tuberous Sclerosis Complex</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to learn if the study drug RAD001 can reduced the number of
+      epileptic seizures, and can be taken safety by people who have epilepsy associated with
+      Tuberous Sclerosis Complex.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Tuberous sclerosis complex (TSC) is a genetic disorder with an incidence at birth of 1 in
+      6000. This disorder is characterized by the development of benign tumors in multiple organ
+      systems, including the brain. The primary neurological manifestations of TSC are epilepsy,
+      mental retardation and autism. Epilepsy is most common, occurring in 80-90% of patients, and
+      often the seizures are severe, unremitting, and uncontrolled by current anticonvulsant
+      medications. It is generally accepted that the seizures arise from cortical and subcortical
+      tubers and surrounding tissue in the brain. These tubers are caused by mutations in the
+      tumor suppressor genes TSC1 or TSC2. The protein products of these genes, hamartin and
+      tuberin, act as negative regulators of the PI3K/PKB(Akt)/mTOR signaling pathway that
+      regulates cell growth and proliferation Everolimus is an immunosuppressant drug that also
+      inhibits mTOR signaling and is capable of reversing aberrant mTOR-dependent effects that
+      occur when hamartin or tuberin are absent or defective. Thus, we hypothesize that drugs like
+      everolimus may be therapeutically useful for the treatment of refractory epilepsy in
+      patients with TSC.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>March 2015</start_date>
+  <completion_date type="Anticipated">March 2020</completion_date>
+  <primary_completion_date type="Anticipated">March 2019</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>The percentage of subjects with reduction in seizure frequency</measure>
+    <time_frame>Week 16</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects continuing study medication over time</measure>
+    <time_frame>Individual subjects will be assessed every 6 months, aggregate analysis will take place at end of study</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Epilepsy</condition>
+  <condition>Tuberous Sclerosis Complex</condition>
+  <arm_group>
+    <arm_group_label>Everolimus</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will be administered study drug if they meet study criteria after 4 weeks of baseline phase. The starting dose will be 5 mg/m2/day, rounded to the nearest 2.5 mg/dose, to be taken daily.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Everolimus</intervention_name>
+    <description>Everolimus is available in tablet form. The starting dose will be 5 mg/m2/day, rounded to the nearest 2.5 mg/dose, to be taken daily. After two weeks, serum trough level will be measured and dose adjusted according to the following algorithm If Blood trough level is less than 2.5 ng/ml than increase dose by 5 mg/m2/day; If Blood trough level is 2.5-5.0 ng/ml than increase dose by 2.5 mg/m2/day; If Blood trough level is 5.1-10.0 ng/ml than increase dose by 0 mg/m2/day (no change); If Blood trough level is 10.1-15.0 ng/ml than decrease dose by 2.5 mg/m2/day</description>
+    <arm_group_label>Everolimus</arm_group_label>
+    <other_name>RAD001</other_name>
+    <other_name>Certican</other_name>
+    <other_name>Afinitor</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female individuals aged two years and older.
+
+          -  History of epilepsy and at least eight reported seizures in previous 30 days prior to
+             informed consent
+
+          -  Failure of two or more approved antiepileptic drug therapies
+
+          -  Clinically definite diagnosis of tuberous sclerosis (modified Gomez criteria or
+             positive genetic test)
+
+          -  Parents/Caregivers are English-speaking (primary or secondary language acceptable)
+
+          -  If female and of child bearing potential, documentation of negative pregnancy test at
+             time of informed consent. Sexually active pre-menopausal female or male patients must
+             use adequate contraceptive measures, excluding use of estrogen-containing birth
+             control contraceptive regimen while on study medication. Prior hysterectomy, tubal
+             ligation, complete abstinence, barrier methods which include both a cervical
+             diaphragm and spermicidal jelly, intrauterine devices (IUD), progesterone based
+             contraceptives, or vasectomy in partner are all acceptable forms of contraception
+
+          -  Adequate bone marrow function as shown by ANC ≥ 1.5 x 109/L, Platelets ≥ 100 x 109/L,
+             and Hb &gt;9 g/dL
+
+          -  Adequate liver function as shown by serum bilirubin ≤ 1.5 x upper limit of normal
+             (ULN), ALT and AST ≤ 2.5x ULN, INR and PTT ≤1.5. (Anticoagulation is allowed if
+             target INR ≤ 1.5 on a stable dose of warfarin or on a stable dose of LMW heparin for
+             &gt;2 weeks at time of randomization.)
+
+          -  Adequate renal function as shown by a serum creatinine ≤ 1.5 x ULN
+
+          -  Fasting serum cholesterol ≤300 mg/dL OR ≤7.75 mmol/L AND fasting triglycerides ≤ 2.5
+             x ULN. NOTE: In case one or both of these thresholds are exceeded, the patient can
+             only be included after initiation of appropriate lipid lowering medication
+
+        Exclusion Criteria:
+
+          -  Significant hematological or hepatic abnormality (i.e., transaminase levels &gt; 2.5 x
+             ULN or serum bilirubin &gt;1.5 x ULN, Hemoglobin &lt; 9 g/dL, platelets &lt; &lt; 100 X 109/L ,
+             absolute neutrophil count &lt; 1.5 x 109/L)
+
+          -  Patients currently receiving anticancer therapies or who have received anticancer
+             therapies within 4 weeks of the start of study drug (including chemotherapy,
+             radiation therapy, antibody based therapy, etc.)
+
+          -  Patients, who have had a major surgery or significant traumatic injury within 4 weeks
+             of start of study drug, patients who have not recovered from the side effects of any
+             major surgery (defined as requiring general anesthesia) or patients that may require
+             major surgery during the course of the study
+
+          -  Prior treatment with any investigational drug within the preceding 4 weeks prior to
+             informed consent
+
+          -  Patients receiving chronic, systemic treatment with corticosteroids or another
+             immunosuppressive agent. Topical or inhaled corticosteroids are allowed
+
+          -  Patients should not receive immunization with attenuated live vaccines within one
+             week of informed consent or during study period
+
+          -  Patients with coexisting malignancies within past 3 years, except for adequately
+             treated carcinoma of the cervix or basal or squamous cell carcinomas of the skin
+
+          -  Uncontrolled brain or leptomeningeal metastases, including patients who continue to
+             require glucocorticoids for brain or leptomeningeal metastases
+
+          -  Patients who have any severe and/or uncontrolled medical conditions or other
+             conditions that could affect their participation in the study such as:
+
+               -  Symptomatic congestive heart failure of New York heart Association Class III or
+                  IV, unstable angina pectoris, symptomatic congestive heart failure, myocardial
+                  infarction within 6 months of start of study drug, serious uncontrolled cardiac
+                  arrhythmia or any other clinically significant cardiac disease
+
+               -  Severely impaired lung function defined as spirometry and DLCO that is 50% of
+                  the normal predicted value and/or 02 saturation that is 88% or less at rest on
+                  room air and/or requirement for continuous supplemental O2
+
+               -  Uncontrolled diabetes as defined by fasting serum glucose &gt;1.5 x ULN
+
+               -  Active (acute or chronic) or uncontrolled severe infections
+
+               -  Liver disease such as cirrhosis, chronic active hepatitis or chronic persistent
+                  hepatitis
+
+                    -  A known history of HIV seropositivity
+
+                    -  Impairment of gastrointestinal function or gastrointestinal disease that
+                       may significantly alter the absorption of everolimus (e.g., ulcerative
+                       disease, uncontrolled nausea, vomiting, diarrhea, malabsorption syndrome or
+                       small bowel resection)
+
+                    -  Patients with an active, bleeding diathesis
+
+                    -  Female patients who are pregnant or breast feeding, or adults of
+                       reproductive potential who are not using effective birth control methods.
+
+                    -  Patients who have received prior treatment with an mTOR inhibitor
+                       (sirolimus, temsirolimus, everolimus).
+
+                    -  Patients with a known hypersensitivity to RAD001 (everolimus) or other
+                       rapamycin (sirolimus, temsirolimus) or to its excipients
+
+                    -  History of noncompliance to medical regimens
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Darcy Krueger, M.D. Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Krueger DA, Wilfong AA, Holland-Bouley K, Anderson AE, Agricola K, Tudor C, Mays M, Lopez CM, Kim MO, Franz DN. Everolimus treatment of refractory epilepsy in tuberous sclerosis complex. Ann Neurol. 2013 Nov;74(5):679-87. doi: 10.1002/ana.23960. Epub 2013 Sep 10.</citation>
+    <PMID>23798472</PMID>
+  </results_reference>
+  <verification_date>April 2015</verification_date>
+  <lastchanged_date>April 28, 2015</lastchanged_date>
+  <firstreceived_date>February 15, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Epilepsy</keyword>
+  <keyword>Tuberous Sclerosis Complex</keyword>
+  <keyword>Everolimus</keyword>
+  <keyword>RAD001</keyword>
+  <keyword>Mammalian Target of Rapamycin (MTOR)</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+    <mesh_term>Tuberous Sclerosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

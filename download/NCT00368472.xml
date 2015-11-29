@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="223">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00368472</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E2007-A001-207</org_study_id>
+    <nct_id>NCT00368472</nct_id>
+  </id_info>
+  <brief_title>4-Year Open-Label Extension Phase of the Parallel-Group Study of E2007 in Patients With Refractory Partial Seizures</brief_title>
+  <official_title>A 4-Year Open-Label Extension Phase of the Double-Blind, Placebo-Controlled, Dose-Escalation, Parallel-Group Study of E2007 as an Adjunctive Therapy in Patients With Refractory Partial Seizures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eisai Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eisai Inc.</source>
+  <oversight_info>
+    <authority>European Union: European Medicines Agency</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the safety of perampanel given as adjunctive,
+      long-term treatment in patients with refractory partial onset seizures.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an Open-Label Extension (OLE) study for patients who completed the E2007-A001-206 or
+      the E2007-G000-208 double-blind, placebo-controlled, dose-escalation, parallel-group
+      studies.
+
+      For those patients who have completed E2007-A001-206 study, the 207 study will consist of
+      the following phases during the OLE:
+
+        1. OLE Titration Phase (4 weeks): Scheduled visits will be conducted every two weeks for 4
+           weeks. During this phase, the Investigators will start the E2007 dosing at 2 mg and
+           escalate to 4 mg in two weeks based on patient tolerability and safety.
+
+        2. OLE Maintenance Phase (208 weeks): Scheduled visits will be conducted one month
+           following the completion of OLE titration phase and every 3 months thereafter for a
+           total of 208 weeks. During this phase, patients will continue the highest tolerated
+           dose of E2007 that was established during the OLE Titration Phase.
+
+        3. OLE Safety Phase (one visit): The purpose of this visit (Week 216) is a four-week
+           follow up after the last dose of study drug was administered.
+
+      For those patients who have completed E2007-G000-208 study, the 207 study will consist of
+      the following phases during the OLE:
+
+        1. OLE Titration Phase (12 weeks): Scheduled visits will be conducted every two weeks for
+           12 weeks. Titration will be made in 2 weeks intervals, on the basis of individual
+           tolerance and in 2 mg incremental steps (ie, the patients will titrate from 2 mg to 4
+           mg to 6 mg to 8 mg to 10 mg to 12 mg).
+
+        2. OLE Maintenance Phase (208 weeks): Scheduled visits will be conducted one month
+           following the completion of OLE titration phase and every 3 months thereafter for a
+           total of 208 weeks. During this phase, patients will continue the highest tolerated
+           dose of E2007 that was established during the OLE Titration Phase.
+
+        3. OLE Safety Phase (one visit): The purpose of this visit (Week 224) is a four-week
+           follow up after the last dose of study drug was administered.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2006</start_date>
+  <completion_date type="Actual">July 2014</completion_date>
+  <primary_completion_date type="Actual">June 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Seizure frequency per 28 days</measure>
+    <time_frame>baseline (study 206 or 208) to end of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>incidence rates of treatment-emergent adverse events</measure>
+    <time_frame>baseline (study 206 or 208) to end of treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">138</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Perampanel</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Perampanel</intervention_name>
+    <description>perampanel 2 mg - 12 mg, once daily</description>
+    <arm_group_label>Perampanel</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        KEY INCLUSION CRITERIA:
+
+          1. Have completed all scheduled visits up to and including Visit 8 in the E2007-A001-206
+             study or Visit 9 of the E2007-G000-208 study.
+
+          2. Are reliable and willing to make themselves available for the study period and are
+             able to record seizures and report adverse events themselves or have a caregiver who
+             can record and report the events.
+
+          3. Females of childbearing potential must continue practicing a medically acceptable
+             method of contraception (e.g., abstinence, a barrier method plus spermicide, or
+             Intrauterine device (IUD)) and for two months after the end of the OLE study. Those
+             women using hormonal contraceptives must also continue using an additional approved
+             method of contraception (e.g., a barrier method plus spermicide, or IUD.
+
+          4. Are between the ages of 18 and 70 years of age, inclusive.
+
+          5. Are at least 40 kg (88 lb) of weight.
+
+          6. Are currently being treated with a stable dose of one, or a maximum of three licensed
+             Anti-epileptic drugs (AEDs) and are known to take their medication(s) as directed.
+
+        KEY EXCLUSION CRITERIA:
+
+          1. Show evidence of clinically significant disease (cardiac, respiratory,
+             gastrointestinal, renal disease, etc.,) that, in the opinion of the Investigator(s),
+             could affect the patient's safety or trial conduct.
+
+          2. Show evidence of significant active hepatic disease and/or bilirubin &gt; 1.5 mg/dL.
+             Stable elevations of liver enzymes, alanine aminotransferase (ALT), and aspartate
+             aminotransferase (AST) due to concomitant medication(s) will be allowed if they are
+             less than two times the upper limit of normal (ULN).
+
+          3. Show evidence of significant active hematological disease. White blood cell (WBC)
+             count cannot be ? 2500/?L (2.50 1E+09/L) or an absolute neutrophil count ? 1000/?L
+             (1.00 1E+09/L).
+
+          4. Clinically significant ECG abnormality, including prolonged QTc (defined as ? 450
+             msec).
+
+          5. Presence of major active psychiatric disease. Patients taking a stable dose of
+             selective serotonin reuptake inhibitor (SSRI) antidepressant will be allowed.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michelle Gee, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Eisai Limited</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>West Jordan</city>
+        <state>Utah</state>
+        <zip>84088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chatswood</city>
+        <state>New South Wales</state>
+        <zip>2067</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Maroochydore</city>
+        <state>Queensland</state>
+        <zip>4558</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Woodville</city>
+        <state>South Australia</state>
+        <zip>5011</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <zip>B-3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tielt</city>
+        <zip>B-8700</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brno</city>
+        <zip>656 91</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hradec Kralove</city>
+        <zip>500 05</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Olomouc</city>
+        <zip>775 20</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ostrava</city>
+        <zip>708 52</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Praha 5</city>
+        <zip>150 06</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rychnov nad Kneznou</city>
+        <zip>516 01</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tallinn</city>
+        <zip>10617</zip>
+        <country>Estonia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tartu</city>
+        <zip>EE-51014</zip>
+        <country>Estonia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kuopio</city>
+        <zip>FI-70210</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tampere</city>
+        <zip>FI-33520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ramonville Saint-Agne</city>
+        <zip>31520</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Berlin</city>
+        <zip>D-10365</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gottingen</city>
+        <zip>37075</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Munchen</city>
+        <zip>80333</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Riga</city>
+        <zip>LV-1002</zip>
+        <country>Latvia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kaunas</city>
+        <zip>LT-50009</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kaunas</city>
+        <zip>LT-50185</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Klaipeda</city>
+        <zip>LT-92288</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Siauliai</city>
+        <zip>LT-76231</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vilnius</city>
+        <zip>LT-03215</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vilnius</city>
+        <zip>LT-08661</zip>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3012 KM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Valencia</city>
+        <zip>46009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Stockholm</city>
+        <zip>112 45</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dundee</city>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Czech Republic</country>
+    <country>Estonia</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Latvia</country>
+    <country>Lithuania</country>
+    <country>Netherlands</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Rektor I, Krauss GL, Bar M, Biton V, Klapper JA, Vaiciene-Magistris N, Kuba R, Squillacote D, Gee M, Kumar D. Perampanel Study 207: long-term open-label evaluation in patients with epilepsy. Acta Neurol Scand. 2012 Oct;126(4):263-9. doi: 10.1111/ane.12001. Epub 2012 Aug 23.</citation>
+    <PMID>22913800</PMID>
+  </results_reference>
+  <verification_date>October 2014</verification_date>
+  <lastchanged_date>January 19, 2015</lastchanged_date>
+  <firstreceived_date>August 22, 2006</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Refractory</keyword>
+  <keyword>Partial</keyword>
+  <keyword>Seizures</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

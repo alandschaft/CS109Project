@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1210">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02447549</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ICR-CTSU/2014/10049</org_study_id>
+    <nct_id>NCT02447549</nct_id>
+  </id_info>
+  <brief_title>Study of Tumour Focused Radiotherapy for Bladder Cancer</brief_title>
+  <acronym>RAIDER</acronym>
+  <official_title>A Randomised Phase II Trial of Adaptive Image Guided Standard or Dose Escalated Tumour Boost Radiotherapy in the Treatment of Transitional Cell Carcinoma of the Bladder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institute of Cancer Research, United Kingdom</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Trans-Tasman Radiation Oncology Group (TROG)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Institute of Cancer Research, United Kingdom</source>
+  <oversight_info>
+    <authority>United Kingdom: Research Ethics Committee</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Bladder cancer is the seventh most common cancer in the UK, with 10,399 new cases diagnosed
+      in 2011. In a quarter of these cases the cancer has infiltrated the muscular wall of the
+      bladder (muscle invasive) and is life threatening. This type of bladder cancer is usually
+      treated either with surgical removal of the bladder, or daily radiotherapy treatment (high
+      strength xrays which kill cells), given every day for 4 or 7 weeks. RAIDER will investigate
+      methods which have the potential to improve how well this radiotherapy works.
+
+      RAIDER is based on a study of novel radiotherapy techniques which was conducted at a single
+      UK NHS Trust. Bladder radiotherapy is normally delivered using a single plan throughout
+      treatment and treats the whole bladder with the same radiotherapy dose. In adaptive
+      radiotherapy the delivery plan is chosen from 3 possible plans. In cancer (tumour) focused
+      radiotherapy, the highest dose of the radiotherapy is aimed at the tumour within the
+      bladder.
+
+      In RAIDER, 240 participants with muscle invasive bladder cancer will be in one of 3
+      treatment groups:
+
+        1. standard whole bladder radiotherapy
+
+        2. standard dose tumour focused adaptive radiotherapy
+
+        3. dose escalated tumour boost adaptive radiotherapy
+
+      Participants will visit the hospital 4 weeks, 3, 6, 9, 12, 18 and 24 months after
+      radiotherapy and annually thereafter to check whether the cancer has returned and to receive
+      treatment for any symptoms they may be experiencing.
+
+      RAIDER aims to confirm in a multicentre setting that novel techniques allow a higher
+      radiotherapy dose than standard to be reliably targeted at the tumour within the bladder and
+      to check that the long term side effects of the treatment are acceptable. If this is the
+      case, results of RAIDER will be used to develop a study to establish whether dose escalated
+      radiotherapy is better at treating bladder cancer than standard dose.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      RAIDER has a two stage design. Stage 1 will establish the feasibility of delivering DART in
+      a multi-centre setting, and stage 2 will establish the toxicity of DART. 72 patients will be
+      recruited in stage 1, with an additional 168 patients in stage 2.
+
+      Both fractionation regimens in standard use in UK are included - 32f and 20f. Participants
+      will be permitted to receive concomitant chemotherapy. Primary endpoints will be assessed in
+      each fractionation cohort separately with the flexibility to drop either a fractionation
+      cohort or an experimental treatment group (on advice of Independent Data Monitoring
+      Committee) following completion of stage 1.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2015</start_date>
+  <completion_date type="Anticipated">March 2029</completion_date>
+  <primary_completion_date type="Anticipated">June 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Proportion of participants meeting predefined radiotherapy dose constraints in DART group</measure>
+    <time_frame>4-6 weeks from randomisation</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Primary outcome of stage 1 of study, predefined radiotherapy dose constraints for bladder, bowel and rectum met for medium plan in DART group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients experiencing severe late side effects following radiotherapy.</measure>
+    <time_frame>6-18 months post radiotherapy</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Primary outcome of stage 2 of study, late CTC toxicity grade 3 or higher.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Bladder Cancer</condition>
+  <arm_group>
+    <arm_group_label>WBRT</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard dose whole bladder radiotherapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SART</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard dose Adaptive tumour focused radiotherapy (SART)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DART</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose escalated Adaptive tumour boost radiotherapy (DART)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>WBRT</intervention_name>
+    <description>One RT plan with whole bladder treated to standard dose.</description>
+    <arm_group_label>WBRT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>SART</intervention_name>
+    <description>Three plans (small, medium &amp; large) generated with the standard dose of RT focused on the tumour, sparing the normal bladder from full dose radiation. Pretreatment cone beam CTs will be used to select the best fitting of the three plans prior to treatment.</description>
+    <arm_group_label>SART</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>DART</intervention_name>
+    <description>Three plans (small, medium &amp; large) generated with a higher dose than standard focused on the tumour and the remainder of the bladder treated to the same dose as in the SART group. Pretreatment cone beam CTs will be used to select the best fitting of the three plans prior to treatment.</description>
+    <arm_group_label>DART</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Written informed consent
+
+          -  Age ≥16 years
+
+          -  Histologically or cytologically confirmed transitional cell carcinoma (TCC) of the
+             bladder
+
+          -  Unifocal bladder TCC staged T2-T4a N0 M0
+
+          -  Fit to receive a radical course of radiotherapy
+
+          -  WHO performance status 0-2
+
+          -  Willing and able to comply with study procedures and follow up schedule
+
+        Exclusion Criteria:
+
+          -  Nodal or metastatic disease
+
+          -  Widespread carcinoma in situ (CIS) or CIS remote from muscle invasive tumour or
+             multifocal invasive disease
+
+          -  Simultaneous TCC in upper tract or urethra
+
+          -  Pregnancy
+
+          -  Active malignancy within 2 years of randomisation (not including non melanomatous
+             skin carcinoma, previous non muscle invasive bladder tumours, NCCN low risk prostate
+             cancer (T1/T2a, Gleason 6 PSA &lt;10), in situ carcinoma of any site)
+
+          -  Any other conditions that in the Principal Investigator's opinion would be a
+             contra-indication to radiotherapy (e.g. previous pelvic radiotherapy / inflammatory
+             bowel disease)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Huddart</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institute of Cancer Research/RMNHSFT</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>RAIDER Trial Manager</last_name>
+    <phone>02087224295</phone>
+    <email>RAIDER-icrctsu@icr.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Royal Marsden NHSFT</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Huddart</last_name>
+    </contact>
+    <investigator>
+      <last_name>Robert Huddart</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 14, 2015</lastchanged_date>
+  <firstreceived_date>May 11, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>IMRT</keyword>
+  <keyword>IGRT</keyword>
+  <keyword>Muscle invasive</keyword>
+  <keyword>Adaptive Radiotherapy</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

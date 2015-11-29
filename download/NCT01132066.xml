@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="936">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01132066</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2007P-000102</org_study_id>
+    <nct_id>NCT01132066</nct_id>
+  </id_info>
+  <brief_title>Transcranial Direct Current Stimulation (TDCS) for Facilitating Swallowing Improvement After an Acute Unilateral Hemispheric Stroke</brief_title>
+  <official_title>Pilot Study of Transcranial Direct Current Stimulation for Facilitating Swallowing Improvement After an Acute Unilateral Hemispheric Infarction</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beth Israel Deaconess Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beth Israel Deaconess Medical Center</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the research study is to investigate the effect of a brain stimulation
+      technique called Transcranial Direct Current Stimulation (TDCS) in improving swallowing
+      functions in subjects who develop dysphagia after a unilateral hemispheric infarction.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2007</start_date>
+  <completion_date type="Actual">May 2013</completion_date>
+  <primary_completion_date type="Actual">May 2013</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Dysphagia Outcome and Severity Scale Score (DOSS)</measure>
+    <time_frame>5 days after study enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>DOSS is a validated swallowing assessment scoring system that will rate the severity of dysphagia. It will be performed by a speech and swallow pathologist.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of seizure</measure>
+    <time_frame>5 days after study enrollment</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Number of patient having seizures during the 5 sessions of stimulation in either groups will be tabulated and compared.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">19</enrollment>
+  <condition>Dysphagia</condition>
+  <arm_group>
+    <arm_group_label>tDCS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>tDCS will provide an increase in cortical excitability. Patients will be randomized to receive tDCS or sham stimulation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>sham</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Sham stimulation will provide identical subjective sensation as anodal tDCS.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>tDCS</intervention_name>
+    <description>tDCS will lead to an increase in cortical excitability</description>
+    <arm_group_label>tDCS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sham</intervention_name>
+    <description>Sham will provide identical subjective sensation as tDCS</description>
+    <arm_group_label>sham</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Acute ischemic stroke
+
+          -  Between 24-168 hours after onset
+
+          -  Moderate to severe dysphagia based on swallowing assessment
+
+        Exclusion Criteria:
+
+          -  Preexisting swallowing impairment
+
+          -  Intracerebral hemorrhage
+
+          -  Pacemaker of other electrically sensitive device
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sandeep Kumar, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beth Israel Deaconess Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Kumar S, Wagner CW, Frayne C, Zhu L, Selim M, Feng W, Schlaug G. Noninvasive brain stimulation may improve stroke-related dysphagia: a pilot study. Stroke. 2011 Apr;42(4):1035-40. doi: 10.1161/STROKEAHA.110.602128. Epub 2011 Mar 24.</citation>
+    <PMID>21441148</PMID>
+  </results_reference>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 27, 2014</lastchanged_date>
+  <firstreceived_date>May 17, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beth Israel Deaconess Medical Center</investigator_affiliation>
+    <investigator_full_name>Sandeep Kumar</investigator_full_name>
+    <investigator_title>Assistant Professor of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>swallowing</keyword>
+  <keyword>stroke</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

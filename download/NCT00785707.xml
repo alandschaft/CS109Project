@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1275">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00785707</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MED-EL NA 020</org_study_id>
+    <nct_id>NCT00785707</nct_id>
+  </id_info>
+  <brief_title>Littlears Auditory Questionnaire: Validation Study in CI Children</brief_title>
+  <acronym>LittlEars</acronym>
+  <official_title>Littlears Auditory Questionnaire Validation Study in CI Children With LittlEARS My Diary: Language: North American English</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Med-El Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Med-El Corporation</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The LittlEARS Auditory Questionnaire is designed to assess the development of the auditory
+      behavior in children during the first two (hearing) years. The questionnaire has been
+      validated on children with normal hearing whose native language is German. A comparison was
+      made between North American English speaking children with normal hearing and found that it
+      was consistent with the German data. This study is to validate the questionnaire in children
+      with cochlear implants.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>May 2008</start_date>
+  <completion_date type="Anticipated">January 2017</completion_date>
+  <primary_completion_date type="Anticipated">January 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>To validate the LittlEARS Auditory Questionnaire in hearing impaired children. The item analyses, scale analysis, analysis of expected values and minimal values have to be calculated, as it was performed with the US validation study.</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine if there are differences in statistical parameters between normal hearing children and hearing impaired children</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Longitudinal assessment of cochlear implanted children over 24 months after first CI fitting</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To establish the first words understood by a child with a cochlear implant</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To establish the first words spoken by a child with a cochlear implant</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To establish a sequence of word development</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare words and word categories in different languages</measure>
+    <time_frame>24 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Hearing Loss</condition>
+  <arm_group>
+    <arm_group_label>cochlear implant</arm_group_label>
+    <description>children less than 24 months at time of cochlear implantation</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Children under the age of 24 months at time of cochlear implantation recommended by the
+        cochlear implant clinic.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        General:
+
+          -  Less than or 24 months of age prior to implantation
+
+          -  Cochlear implant candidate deemed by the clinic
+
+          -  To be implanted with a MED-EL cochlear implant PULSARCI100 or SONATATI100
+
+          -  English as the primary language at home
+
+          -  Realistic expectations of guardians
+
+          -  Willing and available to comply with all scheduled procedures as defined in the
+             protocol
+
+        Medical:
+
+          -  Good general health status, as judged by Primary Investigator
+
+          -  No contraindications for surgery, in general, or cochlear implant surgery in
+             particular
+
+        Exclusion Criteria:
+
+        General:
+
+          -  Prior experience with any cochlear implant system
+
+          -  Older than 24 months at time of implantation
+
+        Medical:
+
+          -  Severed or non-functional auditory nerve in the ear(s) to be implanted
+
+          -  Cognitive and/or neurological dysfunction
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>24 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Georgia Health Sciences University</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina-Chapel Hill/CCCDP</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook Children's Medical Center</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Fisseni HJ. (1998) Lehrbuch der psychologischen Diagnostik, Göttingen, Hogrefe.</citation>
+  </reference>
+  <reference>
+    <citation>Kühn-Inacker H, Weichbold V, Tsaikpini L, Coninx F, D'Hease P. (2003) LittlEARS Hörfragebogen - Handanweisung. MED-EL Headquarters, Innsbruck, Austria.</citation>
+  </reference>
+  <reference>
+    <citation>Weichbold V, Tsiakpini L, Coninx F, D'Haese P. [Development of a parent questionnaire for assessment of auditory behaviour of infants up to two years of age]. Laryngorhinootologie. 2005 May;84(5):328-34. German.</citation>
+    <PMID>15909244</PMID>
+  </reference>
+  <verification_date>January 2015</verification_date>
+  <lastchanged_date>January 28, 2015</lastchanged_date>
+  <firstreceived_date>November 4, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>sensorineural hearing loss</keyword>
+  <keyword>cochlear implant</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Deafness</mesh_term>
+    <mesh_term>Hearing Loss</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

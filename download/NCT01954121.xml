@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="43">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01954121</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N01364</org_study_id>
+    <nct_id>NCT01954121</nct_id>
+  </id_info>
+  <brief_title>Open-label, Randomized, Active-controlled Study of LEV Used as Monotherapy in Patients With Partial-Onset Seizures</brief_title>
+  <official_title>An Open-label, Randomized, Parallel-group, Active-controlled Study Comparing the Efficacy and Safety of Levetiracetam to Carbamazepine Used as Monotherapy in Subjects Newly or Recently Diagnosed as Epilepsy and Partial-onset Seizures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Pharma SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <authority>China: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To demonstrate the non-inferiority of Levetiracetam (1000 mg/day) versus Carbamazepine
+      Immediate-Release (400 mg/day) used as monotherapy for at least 6 months in a Chinese
+      population with newly or recently diagnosed Epilepsy who are experiencing Partial-Onset
+      Seizures (POS).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2013</start_date>
+  <completion_date type="Actual">September 2015</completion_date>
+  <primary_completion_date type="Actual">September 2015</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Proportion of subjects remaining seizure free during the 6-months Evaluation Period</measure>
+    <time_frame>6-months Evaluation Period (From Week 4 to Week 30)</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects retained in the study for the duration of the period covering the Up Titration Period, Stabilization Period, and Evaluation Period</measure>
+    <time_frame>From Week 1 to Week 30</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first seizure or discontinuation due to an Adverse Event (AE) / Lack of Efficacy (LOE) during the Evaluation Period</measure>
+    <time_frame>From first day in the Evaluation Period (Week 4) up to end of the Evaluation Period (Week 30)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first seizure during the Evaluation Period</measure>
+    <time_frame>From first day in the Evaluation Period (Week 4) up to end of the Evaluation Period (Week 30)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first seizure during the period covering the Up Titration Period, Stabilization Period, and Evaluation Period from the first dose of study drug</measure>
+    <time_frame>From Randomization (Week 1) up to Evaluation Visit (Week 30)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">436</enrollment>
+  <condition>Epilepsy</condition>
+  <condition>Partial Seizures</condition>
+  <arm_group>
+    <arm_group_label>Levetiracetam</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Levetiracetam 1000 mg/day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Carbamazepine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Carbamazepine 400 mg/day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levetiracetam</intervention_name>
+    <description>Immediate release film-coated tablets at strengths of 250 mg and 500 mg.
+Up-titration Period (Week 1 to Week 3): Levetiracetam (LEV) 250 mg twice daily (bid)
+Stabilization Period and Evaluation Period (Week 3 to Week 30): LEV 500 mg bid
+Down-titration Period (Week 30 up to Week 33)</description>
+    <arm_group_label>Levetiracetam</arm_group_label>
+    <other_name>Keppra</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carbamazepine</intervention_name>
+    <description>Immediate release tablets at a strength of 200 mg.
+Up-titration Period (Week 1 to Week 3): Carbamazepine- Immediate Release (CBZ-IR) 200 mg once daily (qd)
+Stabilization Period and Evaluation Period (Week 3 to Week 30): CBZ-IR 200 mg bid
+Down-titration Period (Week 30 up to Week 33)</description>
+    <arm_group_label>Carbamazepine</arm_group_label>
+    <other_name>Tegretol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject is of Chinese origin and ≥ 16 years of age
+
+          -  Subject is newly or recently diagnosed with Epilepsy, having experienced unprovoked
+             Partial-Onset Seizures (POS)
+
+          -  Subject has experienced at least 2 unprovoked seizures in the year preceding
+             randomization, of which at least 1 unprovoked seizure occurred in the 3 months
+             preceding randomization
+
+          -  Subject has had an Electroencephalogram (EEG) and a brain Computed Tomography (CT)
+             scan or brain Magnetic Resonance Imaging (MRI) scan consistent with a diagnosis of
+             Epilepsy with POS
+
+        Exclusion Criteria:
+
+          -  Subject tests positive for human leukocyte antigen major histocompatibility complex,
+             class I,B (HLA-B)* 1502 allele
+
+          -  Subject has a history or presence of seizures of other types than Partial-Onset
+             Seizures (POS)
+
+          -  Subject has only experienced type IA nonmotor seizures
+
+          -  Subject has a history or presence of seizures occurring only in clustered patterns
+
+          -  Subject has a history of clinical or Electroencephalogram (EEG) findings suggestive
+             of Idiopathic Generalized Epilepsy prior to randomization
+
+          -  Subject has current or previous diagnosis of pseudoseizures, conversion disorders, or
+             other nonepileptic ictal events that could be confused with seizures
+
+          -  Subject has a history of Status Epilepticus
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Clinical Trial Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>+1 877 822 9493 (UCB)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>13</name>
+      <address>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>16</name>
+      <address>
+        <city>Changchun City</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>10</name>
+      <address>
+        <city>Chengdu</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>5</name>
+      <address>
+        <city>Chengdu</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>4</name>
+      <address>
+        <city>Chongqing</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>26</name>
+      <address>
+        <city>Guangzhou City</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>11</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>1</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>20</name>
+      <address>
+        <city>Guangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>24</name>
+      <address>
+        <city>Hangzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>22</name>
+      <address>
+        <city>Harbin</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>29</name>
+      <address>
+        <city>Kunming</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>23</name>
+      <address>
+        <city>Nanjing City</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>6</name>
+      <address>
+        <city>Nanjing City</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>8</name>
+      <address>
+        <city>Nanjing City</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21</name>
+      <address>
+        <city>Nanjing</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>27</name>
+      <address>
+        <city>Qingdao</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>14</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>15</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>18</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>2</name>
+      <address>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>19</name>
+      <address>
+        <city>Shijiazhuang</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>3</name>
+      <address>
+        <city>Suzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>9</name>
+      <address>
+        <city>Taiyuan</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>25</name>
+      <address>
+        <city>Tianjin</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>12</name>
+      <address>
+        <city>Wuhan</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>7</name>
+      <address>
+        <city>Xi'an</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>17</name>
+      <address>
+        <city>Xian</city>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 8, 2015</lastchanged_date>
+  <firstreceived_date>September 26, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Levetiracetam</keyword>
+  <keyword>Keppra</keyword>
+  <keyword>Monotherapy</keyword>
+  <keyword>China</keyword>
+  <keyword>Epilepsy</keyword>
+  <keyword>Partial-onset Seizures</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Seizures</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carbamazepine</mesh_term>
+    <mesh_term>Etiracetam</mesh_term>
+    <mesh_term>Piracetam</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

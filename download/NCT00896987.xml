@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="923">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00896987</url>
+  </required_header>
+  <id_info>
+    <org_study_id>106172</org_study_id>
+    <nct_id>NCT00896987</nct_id>
+  </id_info>
+  <brief_title>Lamotrigine Cognitive Function Study in Adult Untreated Epilepsies</brief_title>
+  <official_title>An Open, Randomized, Multicenter Comparative Clinical Trial of Lamotrigine or Carbamazepine for Cognitive Function as Initial Monotherapy in Adult Untreated Epilepsies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Korean Epilepsy Society</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Korean Epilepsy Society</source>
+  <oversight_info>
+    <authority>Korea: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the effect of anti-epileptic drugs' (AEDs) long-term
+      treatment on cognitive function. This study is an open-label, randomized, multicenter
+      comparative trial of lamotrigine versus carbamazepine. The planned enrollment is 100
+      patients.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2006</start_date>
+  <completion_date type="Actual">December 2008</completion_date>
+  <primary_completion_date type="Actual">December 2008</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>To define the superiority of Lamictal in cognitive function comparing to carbamazepine in newly diagnosed adult partial epilepsy patients</measure>
+    <time_frame>48 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Seizure outcome and tolerability</measure>
+    <time_frame>48 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">121</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>lamotrigine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>carbamazepine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>lamotrigine (Lamictal)</intervention_name>
+    <description>lamotrigine: titration for 8 weeks (25 mg~200 mg per 2 weeks) and maintenance for 40 weeks (200 mg)</description>
+    <arm_group_label>1</arm_group_label>
+    <other_name>lamictal</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carbamazepine (Tegretol)</intervention_name>
+    <description>Carbamazepine: titration for 8 weeks (100 mg~600 mg) and maintenance for 40 weeks (600 mg)</description>
+    <arm_group_label>2</arm_group_label>
+    <other_name>Tegretol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age : 16~60
+
+          -  Seizure type was defined by MRI etc.
+
+          -  Had more than 2 unprovoked seizures or 1 seizure with clear evidence for epilepsy
+             (ex. positive in EEG or brain imaging)
+
+          -  Need AED therapy and no AED medication for previous 1 year (exclude emergency
+             medication for less than 2 weeks, baseline 4 weeks before)
+
+          -  Is not pregnant by pregnancy test and is using contraceptive method
+
+          -  Can report seizure diary by him/herself or his/her sick nurse
+
+          -  Agreed to trial by written consent
+
+        Exclusion Criteria:
+
+          -  Follow-up loss
+
+          -  Canceled agreement
+
+          -  Added other medication due to aggravated disease in 24 weeks
+
+          -  Diagnosed as IGE
+
+          -  Has progressive CNS disease by MRI or EEG
+
+          -  Has serious systemic or psychological disease
+
+          -  Under IQ 70
+
+          -  Baseline lad data abnormality: Creatinine 2.0mg/dl or GOT/GPT 2 times higher than
+             normal
+
+          -  Abuse experience on alcohol or drugs
+
+          -  Has experience on serious adverse event of any drug
+
+          -  Previous experience on lamotrigine or carbamazepine
+
+          -  Not suitable patients by investigator (uncooperative)
+
+          -  Other reason which may interrupt the trial
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sang-Ahm Lee, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Asan Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>May 2009</verification_date>
+  <lastchanged_date>May 11, 2009</lastchanged_date>
+  <firstreceived_date>May 11, 2009</firstreceived_date>
+  <responsible_party>
+    <name_title>Korean Epilepsy Society Chairman</name_title>
+    <organization>Korean Epilepsy Society</organization>
+  </responsible_party>
+  <keyword>Epilepsy</keyword>
+  <keyword>lamotrigine</keyword>
+  <keyword>cognitive function</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anticonvulsants</mesh_term>
+    <mesh_term>Carbamazepine</mesh_term>
+    <mesh_term>Lamotrigine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

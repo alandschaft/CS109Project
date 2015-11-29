@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="345">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00866775</url>
+  </required_header>
+  <id_info>
+    <org_study_id>093-045</org_study_id>
+    <nct_id>NCT00866775</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Eslicarbazepine Acetate Monotherapy in Subjects With Partial Epilepsy Not Well Controlled by Current Antiepileptic Drugs</brief_title>
+  <official_title>Double-Blind, Randomized, Historical Control Study of the Safety and Efficacy of Eslicarbazepine Acetate Monotherapy in Subjects With Partial Epilepsy Not Well Controlled by Current Antiepileptic Drugs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sunovion</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sunovion</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Canada: Health Canada</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an 18-week, double-blind, multicenter study with gradual conversion from previous
+      antiepileptic therapy to eslicarbazepine acetate monotherapy in subjects with partial
+      epilepsy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an 18-week, double-blind, randomized, historical control, multicenter study with
+      gradual conversion to monotherapy in subjects with partial onset seizures who are not well
+      controlled by current AEDs. The 18 week double-blind treatment period consists of a 2-week
+      period for titration of study drug, 6-week period for taper or conversion off AEDs, and a
+      10-week monotherapy period. Subjects not entering an optional open-label extension study
+      will enter a 1-week period to taper off study drug followed by an end of study visit (week
+      19). This study was previously posted by Sepracor Inc. In October 2009, Sepracor Inc. was
+      acquired by Dainippon Sumitomo Pharma., and in October 2010, Sepracor Inc's name was changed
+      to Sunovion Pharmaceuticals Inc.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2009</start_date>
+  <completion_date type="Actual">May 2013</completion_date>
+  <primary_completion_date type="Actual">May 2013</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Proportion (%) of subjects meeting at least one of the five exit criteria over a 16 week study period.</measure>
+    <time_frame>Visit 4, Week 2 through end of double blind monotherapy (Visit 9, Week 18).</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion (%) of subjects that are seizure-free during the 10-week double-blind monotherapy treatment period.</measure>
+    <time_frame>Weeks 9 through 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion (%) of subjects seizure-free during the last 4 weeks on eslicarbazepine acetate monotherapy.</measure>
+    <time_frame>Weeks 15 through 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completion rate (% of subjects completing the 18 weeks of double-blind treatment).</measure>
+    <time_frame>18 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completion rate during the 10 weeks of monotherapy (% of subjects entering the monotherapy period who complete).</measure>
+    <time_frame>Weeks 8 through 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time on eslicarbazepine acetate monotherapy.</measure>
+    <time_frame>Week 8 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in seizure frequency from baseline.</measure>
+    <time_frame>Week 0 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Responder rate (proportion [%] of subjects with a ≥50% reduction of seizure frequency from baseline).</measure>
+    <time_frame>Week 0 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion (%) of subjects reaching each of the exit events.</measure>
+    <time_frame>Week 2 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total score from baseline in 31-Item Quality of Life in Epilepsy (QOLIE-31).</measure>
+    <time_frame>Week 0 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total score from baseline in Montgomery-Asberg Depression Rating Scale (MADRS).</measure>
+    <time_frame>Week 0 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in total score from baseline in MADRS in those subjects with a MADRS score of ≥14 at randomization.</measure>
+    <time_frame>Week 0 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion (%) of subjects with increase of body weight &gt;= 7%</measure>
+    <time_frame>Week 0 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion (%) of subjects with normal baseline sodium reaching blood sodium ≤135 mmol/L, ≤130 mmol/L, and ≤125 mmol/L</measure>
+    <time_frame>Week 0 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion (%) of events in each classification of the Columbia Suicide Severity Rating Scale (C SSRS).</measure>
+    <time_frame>Week 0 to Week 18</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">174</enrollment>
+  <condition>Epilepsy With Simple or Complex Partial Onset Seizures</condition>
+  <arm_group>
+    <arm_group_label>Eslicarbazepine 1600 mg QD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects randomized to 1600 mg QD of eslicarbazepine acetate will titrate from 600 mg QD (Day 0) to 1200 mg QD (Week 1) to 1600 mg QD (Weeks 2-18)
+Subjects may continue in an open-label extension study with a starting dose of 1600 mg QD, or taper off study drug at the completion of this study The treatment period for subjects entering the open label extension study is up to 9 study visits over 18 weeks. The treatment period for subjects not entering the open-label extension study is up to 10 study visits over 19 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Eslicarbazepine 1200 mg QD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects randomized to 1200 mg QD eslicarbazepine acetate will titrate from 400 mg QD (Day 0) to 800 mg QD (week 1) to 1200 mg QD (weeks 2-18)
+Subjects may continue in an open-label extension study with a starting dose of 1600 mg QD, or taper off study drug at the completion of this study The treatment period for subjects entering the open label extension study is up to 9 study visits over 18 weeks. The treatment period for subjects not entering the open-label extension study is up to 10 study visits over 19 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Eslicarbazepine acetate</intervention_name>
+    <description>1600 mg QD</description>
+    <arm_group_label>Eslicarbazepine 1600 mg QD</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Eslicarbazepine acetate</intervention_name>
+    <description>1200 mg QD</description>
+    <arm_group_label>Eslicarbazepine 1200 mg QD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of partial epilepsy as defined in the Classification of Seizures of the
+             International League Against Epilepsy (ILAE) (simple partial seizures with observable
+             motor component, or complex, with or without secondary generalization) a. Medical
+             history of seizures; b. Absence of confounding factors (pseudoseizures, syncope); c.
+             Documented EEG recording (done within 5 years prior to screening) consistent with
+             focal onset epilepsy.
+
+          -  Documented CT or MRI scan conducted within 10 years prior to screening, showing the
+             absence of a progressive structural abnormality (eg, tumor). Mesial temporal
+             sclerosis is acceptable.
+
+          -  ≥4 partial onset seizures during the 8 weeks prior screening with no 28-day seizure
+             free period.
+
+          -  Stable treatment with 1-2 AEDs during the last 4 weeks prior to screening.
+
+          -  Subjects must have the ability to comprehend the informed consent form and be willing
+             to provide informed consent. For subjects who are unable to comprehend the written
+             consent, a witness/caregiver who is able to describe and provide an understanding of
+             the informed consent to the subject must sign the consent form on behalf of the
+             subject.
+
+          -  Subjects must give written informed consent prior to participation in the study. For
+             subjects &lt;18 years of age, the informed consent must be signed by the subject's
+             parent or legal guardian, and, when appropriate and/or required by state or local
+             law, minor subjects must give written informed assent prior to participation in the
+             study. Subjects of Asian ancestry are required to give written informed consent for
+             genotyping. All subjects must sign a HIPAA Form. All females of child bearing
+             potential must also sign the &quot;Women of Childbearing Potential&quot; Addendum.
+
+          -  A female subject is eligible to enter and participate in the study if she is of: a.
+             Non-childbearing potential (ie, physiologically incapable of becoming pregnant,
+             including any female who is pre-menarchal or post-menopausal); b. Child-bearing
+             potential (all females ≤65 years of age), has a negative pregnancy test at screening
+             and agrees to satisfy contraception requirements.
+
+        Exclusion Criteria:
+
+          -  Subjects with only simple partial seizures without a motor component.
+
+          -  Presence of generalized seizure syndromes (eg, juvenile myoclonic epilepsy or
+             Lennox-Gastaut syndrome).
+
+          -  History of pseudo-seizures.
+
+          -  Current seizures related to an acute medical illness.
+
+          -  Seizures secondary to metabolic, toxic or infectious disorder or drug abuse.
+
+          -  Status epilepticus within 2 years prior to screening.
+
+          -  Seizures only occurring in a cluster pattern.
+
+          -  Subjects taking 2 of the following sodium channel blocking AEDs: phenytoin,
+             carbamazepine, oxcarbazepine, or lamotrigine.
+
+          -  Subjects taking 2 AEDs with both being in the upper dose range (defined as
+             approximately two-thirds of the defined daily dose).
+
+          -  Subjects taking more than 2 AEDs.
+
+          -  Subjects with progressive structural central nervous system lesion or progressive
+             encephalopathy.
+
+          -  Psychiatric exclusion criteria: subjects with history of suicide attempt in last 2
+             years; major depressive episode within last 6 months; abuse of alcohol or substance
+             abuse in last 2 years; significant psychiatric disorder or recurrent episodes of
+             severe depression within 2 years prior to screening.
+
+          -  Medical exclusion criteria: known renal insufficiency or subject with estimated
+             creatinine clearance [CrCL] &lt;60 mL/min based on serum creatinine using the
+             Cockcroft-Gault formula.
+
+          -  Clinical and laboratory exclusion criteria: Subjects of Asian ancestry who tests
+             positive for the presence of the HLA-B*1502 allele.
+
+          -  Subjects who have been on benzodiazepines, phenobarbital, or primidone on a regular
+             basis within 3 months prior to screening.
+
+          -  Subjects taking antipsychotics, tricyclic antidepressants, anxiolytics, sedative
+             hypnotics including non-benzodiazepines, central opioid agonists/antagonists,
+             monoamine oxidase inhibitors (MAOIs) within at least 5 half lives (or for at least 2
+             weeks whichever is longer) prior to randomization.
+
+          -  Subjects presently on felbamate or vigabatrin
+
+          -  Female subjects who are currently breastfeeding or intending to breastfeed during
+             study period.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Greystone Neurology Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Norwood Neurology</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USA Neurology</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36693</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Clinic, P.C.</name>
+      <address>
+        <city>Northport</city>
+        <state>Alabama</state>
+        <zip>35476</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Consortium - Arizona</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Consortium - Arizona</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Consortium-Arizona</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Xenoscience Inc.</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Arizona Neurological Institute</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Neurosciences</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>K &amp; S Professional Research Services</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sutter East Bay Medical Foundation</name>
+      <address>
+        <city>Berkley</city>
+        <state>California</state>
+        <zip>94705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Synergy Escondido</name>
+      <address>
+        <city>Escondido</city>
+        <state>California</state>
+        <zip>92025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Collaborative Neuroscience Network</name>
+      <address>
+        <city>Garden Grove</city>
+        <state>California</state>
+        <zip>92845</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Faculty of Physicians &amp; Surgeons of Loma Linda University</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Loma Linda University</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>American Institute of Research</name>
+      <address>
+        <city>Los Gatos</city>
+        <state>California</state>
+        <zip>95032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northridge Neurological Center</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yafa Minazad, DO</name>
+      <address>
+        <city>Pasadena</city>
+        <state>California</state>
+        <zip>91105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Research Institute</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>American Institute of Research</name>
+      <address>
+        <city>Whittier</city>
+        <state>California</state>
+        <zip>90603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anschutz Outpatient Pavilion</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Denver Health Medical Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Associated Neurologists, PC</name>
+      <address>
+        <city>Danbury</city>
+        <state>Connecticut</state>
+        <zip>06810</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bradenton Research Center, Inc.</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Clinical Research</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NW FL Clinical Research Group, LLC</name>
+      <address>
+        <city>Gulf Breeze</city>
+        <state>Florida</state>
+        <zip>32561</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Infiniti Clinical Research, LLC</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida Health Science Center</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Associates, PA</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MIMA Century Research Associates</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurosciences Consultants, LLC</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Marcus Research Clinic</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Services Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pediatric Neurolog, PA</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Associates of Ormond Beach</name>
+      <address>
+        <city>Ormond Beach</city>
+        <state>Florida</state>
+        <zip>32174</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medsol Clinical Research Center</name>
+      <address>
+        <city>Port Charlotte</city>
+        <state>Florida</state>
+        <zip>33952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tallahassee Neurological Clinic</name>
+      <address>
+        <city>Tallahassee</city>
+        <state>Florida</state>
+        <zip>32308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Comprehensive Epilepsy and Seizure Disorder Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pediatric Epilepsy &amp; Neurology Specialists, PA</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vero Neurology</name>
+      <address>
+        <city>Vero Beach</city>
+        <state>Florida</state>
+        <zip>32960</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Clinical Research Network LLC</name>
+      <address>
+        <city>Wellington</city>
+        <state>Florida</state>
+        <zip>33414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University Department of Neurology</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PANDA Neurology and Atlanta Headache Specialists</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30328</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Peachtree Neurological Clinic</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbin Clinic</name>
+      <address>
+        <city>Rome</city>
+        <state>Georgia</state>
+        <zip>30165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GA Neurology and Sleep Medicine Associates</name>
+      <address>
+        <city>Suwanee</city>
+        <state>Georgia</state>
+        <zip>30024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Consultants in Epilepsy and Neurology, PLLC.</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCMC</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OSF Saint Francis Medical Center</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Illinois University</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central DuPage Hospital</name>
+      <address>
+        <city>Winfield</city>
+        <state>Illinois</state>
+        <zip>60190</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McFarland Clinic, PC</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bluegrass Epilepsy Research LLC</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Oaks Neurology</name>
+      <address>
+        <city>Hammond</city>
+        <state>Louisiana</state>
+        <zip>70403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MMP Neurology</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>John Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mid-Atlantic Epilepsy and Sleep Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital Epilepsy Service - WACC</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Precise Research Centers</name>
+      <address>
+        <city>Flowood</city>
+        <state>Mississippi</state>
+        <zip>39232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Comprehensive Epilepsy Care Center for Children and Adults</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <zip>63017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PsychCare Consultants Research</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper University Health System</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper University Health System</name>
+      <address>
+        <city>Cherry Hill</city>
+        <state>New Jersey</state>
+        <zip>08034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NJ Neuroscience Center</name>
+      <address>
+        <city>Edison</city>
+        <state>New Jersey</state>
+        <zip>08818</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Neurology and Neurosurgery at St. Bamabas, Suite 101</name>
+      <address>
+        <city>Livingston</city>
+        <state>New Jersey</state>
+        <zip>07039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jersey Shore University Medical Center</name>
+      <address>
+        <city>Neptune</city>
+        <state>New Jersey</state>
+        <zip>07753</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Medicine and Dentistry of New Jersey</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Regional Medical Center</name>
+      <address>
+        <city>Paterson</city>
+        <state>New Jersey</state>
+        <zip>07503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Five Towns Neuroscience Research</name>
+      <address>
+        <city>Cedarhurst</city>
+        <state>New York</state>
+        <zip>11516</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Winthrop University Hospital</name>
+      <address>
+        <city>Mineola</city>
+        <state>New York</state>
+        <zip>11501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinilabs Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10019</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Neurology Institute</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Hickory, LLC</name>
+      <address>
+        <city>Hickory</city>
+        <state>North Carolina</state>
+        <zip>28602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University</name>
+      <address>
+        <city>Winstom-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Ohio Neurosciences</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Ohio</state>
+        <zip>44811</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>5929 N. May Ave.</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Health Science Institute</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73112`</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Medical Group</name>
+      <address>
+        <city>Medford</city>
+        <state>Oregon</state>
+        <zip>97504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburg of UPMC</name>
+      <address>
+        <city>Pittsburg</city>
+        <state>Pennsylvania</state>
+        <zip>15201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gus Stratton / Neurology</name>
+      <address>
+        <city>Cranston</city>
+        <state>Rhode Island</state>
+        <zip>02920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mid-South Physcians Group</name>
+      <address>
+        <city>Germantown</city>
+        <state>Tennessee</state>
+        <zip>38138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Access Clinical Trials</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VU Department of Neurology</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Associates of Arlington, PA</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Clinic of Texas P.A.</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Neurology, PA</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Todd Swick, MD, PA</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Associates of Arlington, PA</name>
+      <address>
+        <city>Mansfield</city>
+        <state>Texas</state>
+        <zip>76063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Scott and White Memorial Hospital</name>
+      <address>
+        <city>Temple</city>
+        <state>Texas</state>
+        <zip>76508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sentara Neurology Specialists</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Associates of Washington/Clinical Trials of America Inc.</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rainier Clinical Research Center, Inc.</name>
+      <address>
+        <city>Renton</city>
+        <state>Washington</state>
+        <zip>98057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Medical Centers</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Virginia University</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>London Health Sciences Center</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A5A5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro-Epilepsy Clinic</name>
+      <address>
+        <city>Greenfield Park</city>
+        <state>Quebec</state>
+        <zip>J4V2J2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Sherbrooke</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 5N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2014</verification_date>
+  <lastchanged_date>August 7, 2014</lastchanged_date>
+  <firstreceived_date>March 18, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Seizure</keyword>
+  <keyword>Epilepsy</keyword>
+  <keyword>Anticonvulsant</keyword>
+  <keyword>Historical Control</keyword>
+  <keyword>Monotherapy</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsies, Partial</mesh_term>
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anticonvulsants</mesh_term>
+    <mesh_term>Eslicarbazepine acetate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

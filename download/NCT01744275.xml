@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="437">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01744275</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HCor</org_study_id>
+    <secondary_id>Research Institute - HCor</secondary_id>
+    <nct_id>NCT01744275</nct_id>
+  </id_info>
+  <brief_title>HOPE-Epilepsy Trial</brief_title>
+  <acronym>HOPE-Epilepsy</acronym>
+  <official_title>High Dose Omega 3 Fatty Acids Supplementation in Patients With Epilepsy : The HOPE-Epilepsy Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital do Coracao</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital do Coracao</source>
+  <oversight_info>
+    <authority>Brazil: Ethics Comittee</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This a multi-center study to examine whether supplementation with omega 3 fatty acids will
+      reduce seizure frequency in patients with epilepsy .
+    </textblock>
+  </brief_summary>
+  <overall_status>Suspended</overall_status>
+  <why_stopped>
+    Lack of funding
+  </why_stopped>
+  <start_date>July 2013</start_date>
+  <completion_date type="Anticipated">July 2016</completion_date>
+  <primary_completion_date type="Anticipated">July 2014</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Seizure Frequency</measure>
+    <time_frame>18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>number of seizures during the treatment period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>categorized seizure frequency</measure>
+    <time_frame>18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>number of crises categorized as: generalized, focal with disconnection and focal without disconnection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of overall seizure frequency modification</measure>
+    <time_frame>18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>percentage of reduction or increase in seizure frequency from baseline til the end of treatment period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time Free of seizures during treatment</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in seizure frequency</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">370</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Omega 3 fatty acids supplementation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Omega 3 fatty acids capsules</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Omega 3 fatty acids</intervention_name>
+    <arm_group_label>Omega 3 fatty acids supplementation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>corn oil</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with active Epilepsy
+
+        Exclusion Criteria:
+
+          -  pregnant women or breastfeeding
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>M J Carrion, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>O Berwanger, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital do Coracao</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>R D Lopes, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>BCRI</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>F A Scorza, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Federal University of São Paulo</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Research Institute, Hospital do Coração</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>04005-909</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 25, 2014</lastchanged_date>
+  <firstreceived_date>December 4, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Epilepsy</keyword>
+  <keyword>Omega 3 fatty acids</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="102">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01974700</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCBS-0001</org_study_id>
+    <nct_id>NCT01974700</nct_id>
+  </id_info>
+  <brief_title>Seizure Prophylaxis in Aneurysm Repair</brief_title>
+  <official_title>Seizure Prophylaxis in Aneurysm Repair</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Seizures are a potential complication of surgical repair of intracranial aneurysms. In order
+      to prevent seizures, many surgeons administer prophylactic anti-epileptic medication during
+      the intra-operative and post-operative period, however, such practice is not supported by
+      clinical data. Retrospective review found the incidence of postoperative seizures was higher
+      in those who received anti-epileptics versus those who did not. The goal is to examine the
+      utility of levetiracetam (Keppra) for seizure prophylaxis in patients undergoing surgical
+      repair of unruptured intracranial aneurysms.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2013</start_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Incidence of Seizure</measure>
+    <time_frame>1 Year from Operative Procedure</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">266</enrollment>
+  <condition>Intracranial Aneurysms</condition>
+  <condition>Seizures</condition>
+  <arm_group>
+    <arm_group_label>Levetiracetam</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No anti-epileptic treatment</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levetiracetam</intervention_name>
+    <description>500 mg intravenous dose during the operative case then 500 mg orally twice a day for a total of seven days</description>
+    <arm_group_label>Levetiracetam</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Adult (≥18 years)
+
+          2. Presence of intracranial aneurysm (without rupture)
+
+          3. Treating surgeon has recommended surgical repair of the aneurysm.
+
+        Exclusion Criteria:
+
+          1. History of seizures within last 10 years
+
+          2. History of epilepsy
+
+          3. History of prior stroke
+
+          4. Currently prescribed medication with anti-epileptic activity (keppra,dilantin,
+             tegretol, lamictal, topamax, etc.)
+
+          5. Brain tumor
+
+          6. Pregnant or nursing woman
+
+          7. Known levetiracetam allergy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>IU Health Methodist Hospital</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aaron Cohen-Gadol, MD</last_name>
+      <phone>317-396-1300</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2015</verification_date>
+  <lastchanged_date>April 7, 2015</lastchanged_date>
+  <firstreceived_date>October 28, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aneurysm</mesh_term>
+    <mesh_term>Intracranial Aneurysm</mesh_term>
+    <mesh_term>Seizures</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Etiracetam</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

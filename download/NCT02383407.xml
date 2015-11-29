@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="681">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02383407</url>
+  </required_header>
+  <id_info>
+    <org_study_id>111239</org_study_id>
+    <nct_id>NCT02383407</nct_id>
+  </id_info>
+  <brief_title>Low Frequency Electrical Stimulation of the Fornix in Intractable Mesial Temporal Lobe Epilepsy (MTLE)</brief_title>
+  <acronym>MTLE-DBS</acronym>
+  <official_title>Low Frequency Electrical Stimulation of the Fornix in Intractable Mesial Temporal Lobe Epilepsy (MTLE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>George Washington University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Thomas Jefferson University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>George Washington University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary aim of the current proposal is to evaluate safety and tolerability, in terms of
+      neuropsychological effects of low frequency electrical stimulation of the fornix (LFSF) in
+      participants with medically-intractable Mesial Temporal Lobe Epilepsy. Secondary aims
+      include evaluation of psychiatric changes, seizure frequency, and quality of life during
+      LFSF.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Low frequency stimulation is an attractive, uninvestigated method for treatment of
+      intractable epilepsy. Preliminary animal and human data suggest safety and remarkable
+      efficacy of Low frequency stimulation (LFS) in epilepsy. In addition, the duty cycle of LFS
+      is very low, implying less electric current injection, with less charge density on the
+      target tissue and electrodes, and longer battery life. The current project is a classic
+      translational, single-blinded, randomized research project, demonstrating a clear path from
+      the laboratory to bedside. If successful, this new therapy will be of great value to
+      patients with medically and surgically intractable Mesial Temporal Lobe Epilepsy (MTLE).
+
+      The study is expected to last approximately 5 years, from enrollment of the first patient to
+      completion of the final subject, taking into consideration attrition and otherwise-eligible
+      subjects who will not elect to participate. Once the study is completed, and enrolled
+      participants have completed all required elements of the protocol, a final report will be
+      submitted to the FDA. Participants may also discontinue their participation in the study, if
+      they wish, at any time.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2013</start_date>
+  <completion_date type="Anticipated">January 2019</completion_date>
+  <primary_completion_date type="Anticipated">January 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Safety and tolerability of low frequency stimulation of the fornix with regards to memory function</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The primary outcome is safety and tolerability of LFSF in participants with intractable MTLE with regards to memory function.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Psychiatric Health (effects of LFS on psychiatric symptoms using standardized measures that are known to be sensitive to changes to surgical treatment of TLE)</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Since LFSF is expected to activate limbic structures, we will assess the effects of LFS on psychiatric symptoms using standardized measures that are known to be sensitive to changes to surgical treatment of TLE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess if electrode implantation in the fornix is feasible as is done in patients with Parkinson's Disease.</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The DBS leads are routinely interested for patients with Parkinson's disease. Thus, we plan to implant Model 3389 DBS leads using the same technique of stereotactic implantation. A secondary aim of this trial is to standardize the implantation, the evoked potential and electric current determination procedures in preparation for a large-scale phase III trial</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effect on seizure frequency</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>We expect LFSF to result in seizure reduction based on our preliminary data and a number of studies. For outcome measures, we will use (1) total percentage of seizure frequency change, (2) change in secondarily generalized seizure frequency, (3) change in seizure-free days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life using OoLIE31 and SF-36 to assess quality of life</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>We will use the eight domains of the SF-36 (physical functioning, role-physical, bodily pain, general health, vitality, social functioning, role-emotional, and mental health.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Mesial Temporal Lobe Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Stimulation group 1 Hz</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient will be randomized to a stimulation group of 1 Hz using Medtronic deep brain stimulation device</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stimulation group 5 Hz</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient will be randomized to a stimulation group of 5 Hz using Medtronic deep brain stimulation device</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Medtronic Deep Brain Stimulation</intervention_name>
+    <arm_group_label>Stimulation group 1 Hz</arm_group_label>
+    <arm_group_label>Stimulation group 5 Hz</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participants are between the ages of 18 -65 years of age
+
+          -  Participants must have had a non-invasive video-EEG monitoring revealing seizure
+             semiology and ictal EEG consistent with unilateral or bilateral MTLE
+
+          -  Participants must have tried and failed two trials of antiepileptic drugs (AEDs)
+
+          -  Participants with lesional or non lesional hippocampus
+
+          -  Participants are prescribed and taking 1-4 AEDs at the time of study entry
+
+          -  Brain MRI acquired within the previous two years is with evidence of abnormalities of
+             the hippocampi
+
+          -  Demonstration that the hippocampus ipsilateral to seizure onset is contributing to
+             memory function. For example, this evidence may be inferred from seizure semiology,
+             neuropsychological testing, positron emission tomography, intracarotid amobarbital
+             test, functional magnetic resonance imaging, or any other assessment that should
+             light on lateralization of memory processing.
+
+          -  Study participants will have intractable (MTLE) with a seizure frequency of at least
+             1/month averaged over the preceding 6 months prior to enrollment, including maximum
+             seizure-freedom periods of no more than 60 days.
+
+          -  Participants must have a platelet count greater than 125,000 per cubic millimeter and
+             prothrombin time (PT) and activated partial thromboplastin time (aPTT) within normal
+             limits at the visit prior to surgery
+
+          -  Not candidates for resective surgery for reasons that include an increased risk of
+             memory decline
+
+        Exclusion Criteria:
+
+          -  Progressive neurological or medical diseases, such as brain tumors or
+             neurodegenerative disease or cancer
+
+          -  Non-compliance with antiepileptic medications as demonstrated by the medical record
+
+          -  Any conditions interfering with electrode implantation
+
+          -  Any non-epileptic seizures
+
+          -  Any participant who may be a surgical candidate for resective surgery
+
+          -  Inability or unwillingness to complete neuropsychological tests or complete seizure
+             diaries
+
+          -  Current drug or alcohol use or dependence that, in the opinion of the site
+             investigator, would interfere with adherence to study requirements
+
+          -  Pregnant, or planning to become pregnant*
+
+          -  Participation in another research trial where the participant was treated with
+             another investigational drug or device within 30 days prior to enrollment of study
+
+          -  IQ less than 70 or inability to understand study procedures and to comply with them
+             for the entire length of the study
+
+          -  Inability or unwillingness of individual to give written informed consent
+
+          -  Participants who have changes to their antiepileptic medications during the baseline
+             phase (as they will need to repeat the baseline phase)
+
+          -  Subjects with history of status epilepticus within the preceding year
+
+          -  History of psychiatric illness necessitating hospitalizations
+
+          -  Subjects who have any of the following implanted devices: aneurysm clips, cardiac
+             pacemaker or defibrillator, cochlear implant, spinal cord, DBS, or vagal nerve
+             stimulator
+
+          -  Co-morbid conditions that would interfere with study stimulation activities or
+             response to treatment, which may include:
+
+               -  Neoplasm with life expectancy &lt; 5 years
+
+               -  Severe chronic pulmonary disease
+
+               -  Local, systemic acute or chronic infectious illness
+
+               -  Life threatening cardiac arrhythmias
+
+               -  Severe collagen vascular disorder
+
+               -  Kidney failure or other major organ system failures
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mohamad Z. Koubeissi, MD</last_name>
+    <phone>202-741-2533</phone>
+    <email>mkoubeissi@mfa.gwu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>GW Medical Faculty Associates</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohamad Z Koubeissi, MD</last_name>
+      <phone>202-741-2533</phone>
+      <email>mkoubeissi@mfa.gwu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Radwa Aly</last_name>
+      <phone>202-677-6210</phone>
+      <email>raly@mfa.gwu.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Jefferson Comprehensive Epilepsy Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Sperling, MD</last_name>
+      <phone>215-955-1222</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2015</verification_date>
+  <lastchanged_date>March 5, 2015</lastchanged_date>
+  <firstreceived_date>February 19, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Epilepsy, Temporal Lobe</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="502">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00212745</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MRF #0425</org_study_id>
+    <secondary_id>MRF #0425</secondary_id>
+    <nct_id>NCT00212745</nct_id>
+  </id_info>
+  <brief_title>Pilot Trial of a Behavioral Treatment for Epilepsy</brief_title>
+  <official_title>Nonrandomized Pilot Trial of the Andrews/Reiter Behavioral Treatment for Epilepsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Oregon Health and Science University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to see if a behavioral program which includes a
+      relaxation technique and lifestyle changes can improve seizure control and well-being in
+      epilepsy patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The behavioral treatment approach studied aims to help epilepsy patients discover which
+      circumstances and behaviors trigger their seizures. The most common seizure precipitants are
+      irregularities of sleep, sensory triggers such as flashing lights and emotional stress.
+      Patients will learn how to avoid seizure precipitants and how to stop seizures in their
+      first beginnings. Study participants will continue their prior medications.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>February 2004</start_date>
+  <completion_date type="Anticipated">March 2010</completion_date>
+  <primary_completion_date type="Actual">March 2009</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Seizure frequency</measure>
+    <time_frame>At enrollment, end of 2-3 month baseline, after 6 months of treatment, and 6 months after end of treatment.</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Epileptiform EEG changes</measure>
+    <time_frame>At enrollment, end of 2-3 month baseline, after 6 months of treatment, and 6 months after end of treatment.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heartrate variability</measure>
+    <time_frame>At enrollment, end of 2-3 month baseline, after 6 months of treatment, and 6 months after end of treatment.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Salivary cortisol</measure>
+    <time_frame>At enrollment, end of 2-3 month baseline, after 6 months of treatment, and 6 months after end of treatment.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaires on stress, emotional well-being, self-efficacy, sleepiness and quality of life</measure>
+    <time_frame>At enrollment, end of 2-3 month baseline, after 6 months of treatment, and 6 months after end of treatment.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">8</enrollment>
+  <condition>Epilepsies, Partial</condition>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Receives only EEG and questionnaire testing, no behavioral intervention or meditative relaxation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Andrews/Reiter behavioral treatment for epilepsy and EEG and questionnaire testing</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Andrews/Reiter behavioral treatment for epilepsy</intervention_name>
+    <description>The behavioral intervention in this study uses lifestyle counseling to avoid triggers for seizures and strategies to stop beginning seizures. Participants are taught to practice meditative relaxation exercises.</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 16-50 years.
+
+          -  Reliable diagnosis of partial epilepsy, including simple or complex partial or
+             secondarily generalized tonic-clonic seizures.
+
+          -  Average seizure frequency of at least one partial seizure per month for at least one
+             year.
+
+          -  Willing not to begin another new treatment other than anticonvulsants (acupuncture,
+             botanicals or other mind-body interventions, ketogenic diet, vagus nerve stimulator,
+             or epilepsy surgery) while enrolled in the study.
+
+        Exclusion Criteria:
+
+          -  Unreliable history of seizure semiology.
+
+          -  Average seizure frequency less than one seizure per month.
+
+          -  Patients in whom it is anticipated that current standard of care would mandate a
+             change in their conventional epilepsy treatment during the time period of the study
+             will be excluded.
+
+          -  Patients taking more than 2 anticonvulsant medications will be excluded.
+
+          -  Patients with serious other medical problems, such as brain tumors, cancer, stroke,
+             significant heart disease or psychiatric disorders will be excluded.
+
+          -  Patients with a high likelihood of psychogenic or nonepileptic seizures will be
+             excluded.
+
+          -  Patients with progressive epilepsy syndromes, neurodegenerative disorders or
+             significant mental retardation will be excluded.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Siegward M Elsas, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2009</verification_date>
+  <lastchanged_date>September 22, 2009</lastchanged_date>
+  <firstreceived_date>September 13, 2005</firstreceived_date>
+  <responsible_party>
+    <name_title>Siegward-M. Elsas, M.D.</name_title>
+    <organization>Orgeon Health &amp; Science University</organization>
+  </responsible_party>
+  <keyword>Behavior Therapy</keyword>
+  <keyword>Relaxation Techniques</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsies, Partial</mesh_term>
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

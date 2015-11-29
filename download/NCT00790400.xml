@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="728">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00790400</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRAD001M2302</org_study_id>
+    <secondary_id>2008-002113-48</secondary_id>
+    <nct_id>NCT00790400</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of RAD001 in Patients Aged 18 and Over With Angiomyolipoma Associated With Either Tuberous Sclerosis Complex (TSC) or Sporadic Lymphangioleiomyomatosis (LAM)</brief_title>
+  <acronym>EXIST-2</acronym>
+  <official_title>A Randomized, Double-blind, Placebo-controlled Study of RAD0001 in the Treatment of Angiomyolipoma in Patients With Either Tuberous Sclerosis Complex (TSC) or Sporadic Lymphangioleiomyomatosis (LAM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Canada: Health Canada</authority>
+    <authority>France: Ministry of Health</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices</authority>
+    <authority>Italy: Ministry of Health</authority>
+    <authority>Japan: Ministry of Health, Labour and Welfare, Pharmaceutical amd Medical Safety Bureau</authority>
+    <authority>Netherlands: Medical Ethics Review Committee (METC)</authority>
+    <authority>Poland: Office for Registration of Medicinal Products, Medical Devices and Biocidal Products</authority>
+    <authority>Russia: Federal Service on Surveillance in Healthcare and Social Development of Russian Federation</authority>
+    <authority>Spain: Ministerio de Sanidad y Politica Social</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>Japan: Ministry of Health, Labour and Welfare, Pharmaceutical and Medical Safety Bureau</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the safety and efficacy of RAD001 in treating patients with
+      Angiomyolipoma associated with Tuberous Sclerosis Complex or Sporadic
+      Lymphangioleiomyomatosis.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>April 2009</start_date>
+  <completion_date type="Anticipated">November 2015</completion_date>
+  <primary_completion_date type="Actual">June 2011</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Angiomyolipoma Response Rate as Per Central Radiology Review (Double-blind Period)</measure>
+    <time_frame>From date of randomization until the earliest date of first documented AML progression, date of further anti-AML medication (including open-label Everolimus)/surgery or analysis cut-off date (30-June-2011).</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Angiomyolipoma response defined as the combination of the following criteria:
+reduction in angiomyolipoma volume of ≥ 50% relative to baseline, where angiomyolipoma volume was sum of volumes of all target lesions identified at baseline, and with a confirmatory scan performed approximately 12 weeks later (no sooner than 8 weeks later)• No new angiomyolipoma lesions ≥ 1.0 cm in longest diameter were identified.• There were no kidney increases in volume &gt; 20% from nadir. The patient did not have any angiomyolipoma-related bleeding of ≥ grade 2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Angiomyolipoma Progression as Per Central Radiology Review (Double-blind Period)</measure>
+    <time_frame>From date of randomization until the earliest date of first documented AML progression, date of further anti-AML medication (including open-label Everolimus)/surgery or analysis cut-off date (30-June-2011).</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Time to angiomyolipoma progression (TTAP) is defined as time from date of randomization to date of first documented angiomyolipoma progression. Angiomyolipoma progression was defined as one or more of the following: • Increase from nadir of ≥ 25% in angiomyolipoma volume to value greater than baseline • The appearance of a new angiomyolipoma ≥ 1.0 cm in longest diameter •An increase from nadir of 20% or more in the volume of either kidney to a value greater than baseline •Angiomyolipoma-related bleeding grade ≥ 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Skin Lesion Response Rate as Per Investigator (Only Patients With at Least One Skin Lesion at Baseline)</measure>
+    <time_frame>From date of randomization until the earliest date of first documented AML progression, date of further anti-AML medication (including open-label Everolimus)/surgery or analysis cut-off date (30-June-2011).</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Skin lesion response rate in the double-blind period was determined only among patients with at least one skin lesion at baseline, and is the percentage of this group of patients with a best overall skin lesion response on the Physician's Global Assessment of Clinical Condition (PGA) of either complete clinical response (CCR) or partial response (PR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Renal Impairment</measure>
+    <time_frame>From date of randomization until the earliest date of first documented AML progression, date of further anti-AML medication (including open-label Everolimus)/surgery or analysis cut-off date (30-June-2011).</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Renal Impairment was measured by glomerular filtration rate which was calculated using the Modification of Diet in Renal Disease formula. Percentage of participants with renal impairment was reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Plasma Angiogenic Molecules</measure>
+    <time_frame>Baseline, 12 Months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">118</enrollment>
+  <condition>Tuberous Sclerosis Complex (TSC)</condition>
+  <condition>Lymphangioleiomyomatosis (LAM)</condition>
+  <arm_group>
+    <arm_group_label>Everolimus</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Study drug was given by continuous oral daily dosing of two 5 mg tablets.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo was given by continuous oral daily dosing of two 5 mg tablets. (Placebo arm closed when study was unblinded and all patients transitioned to everolimus.)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Everolimus (RAD001)</intervention_name>
+    <description>Everolimus is used in 5 mg strength tablets, blister-packed under aluminum foil in units of ten tablets and dosed on a daily basis. 10mg daily dosing throughout the trial.</description>
+    <arm_group_label>Everolimus</arm_group_label>
+    <other_name>RAD001</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo was provided as a matching tablet and was also blister-packed under aluminum foil in units of ten.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+          -  Male or Female 18 years or older
+
+          -  Clinically definite diagnosis of Tuberous Sclerosis Complex according to the modified
+             Gomez criteria or sporadic LAM (biopsy-proven or compatible chest CT scan)
+
+          -  Clinically definite diagnosis of renal angiomyolipoma
+
+          -  At least one Angiomyolipoma of ≥ 3 cm in its longest diameter using CT or MRI
+
+          -  Females of child bearing potential must use birth control and have documentation of
+             negative pregnancy test
+
+          -  Written informed consent according to local guidelines
+
+        Non-interventional follow-up inclusion:
+
+          -  No angiomyolipoma progression at time of study treatment discontinuation and no plan
+             to continue treating their angiomyolipoma(s) with systemic therapy
+
+          -  Non-interventional follow-up phase consent
+
+        Exclusion Criteria:
+
+          -  Recent heart attack, cardiac related chest pain or stroke
+
+          -  Severely impaired lung function
+
+          -  Bleeding related to angiomyolipoma or embolization during 6 months prior to
+             randomization
+
+          -  Clinically significant chylous ascites
+
+          -  Clinically significant hematological or hepatic abnormality
+
+          -  Severe liver dysfunction
+
+          -  Severe kidney dysfunction
+
+          -  Pregnancy or breast feeding
+
+          -  Current infection
+
+          -  History of organ transplant
+
+          -  Surgery within two months prior to study enrollment
+
+          -  Prior therapy with a medication in the same class as Everolimus
+
+          -  Recent use of an investigational drug
+
+          -  Bleeding diathesis or on oral anti-vitamin K medication
+
+          -  Uncontrolled high cholesterol
+
+          -  Uncontrolled diabetes
+
+          -  HIV
+
+          -  Inability to attend scheduled clinic visits
+
+          -  Patients with metal implants thus prohibiting MRI evaluations
+
+          -  Angiomyolipoma which requires surgery at the time of randomization
+
+          -  History of malignancy
+
+          -  Severe or uncontrolled medical conditions which would cause an unacceptable safety
+             risk or compromise compliance with the protocol
+
+        Non-interventional follow-up phase exclusion:
+
+          -  Starting treatment with any mTOR inhibitor
+
+          -  Embolization immediately after discontinuing study treatment
+
+          -  Surgical resection of angiomyolipoma after discontinuing study treatment
+
+          -  Prior kidney CT/MRI already performed 1-year after discontinuation of everolimus
+
+        Other protocol-defined inclusion/exclusion criteria may apply
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Barrow Tuberous Sclerosis Center</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital Massachussetts General Hospita</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Minnesota Epilepsy Group - PA</name>
+      <address>
+        <city>St. Paul</city>
+        <state>Minnesota</state>
+        <zip>55102-2383</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229-3039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>LeBonheur Childrens Medical Group SC-2</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10098</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>München</city>
+        <zip>80336</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Siena</city>
+        <state>SI</state>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Torino</city>
+        <state>TO</state>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00137</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sapporo-city</city>
+        <state>Hokkaido</state>
+        <zip>060-8648</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Suita-city</city>
+        <state>Osaka</state>
+        <zip>565-0871</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Yamagata</city>
+        <zip>990-9585</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Utrecht</city>
+        <zip>3584CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>01138</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>04-730</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>127412</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalunya</state>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Brighton</city>
+        <state>East Sussex</state>
+        <zip>BN2 5BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Craigavon</city>
+        <state>Northern Ireland</state>
+        <zip>BT63 5QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cardiff</city>
+        <state>Wales</state>
+        <zip>CF14 4XN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>London</city>
+        <zip>SW17 0QT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.novartisclinicaltrials.com/webapp/portals/EXISTClinicalTrials/page.do</url>
+    <description>Visit EXIST-2 NovartisClinicalTrials.com: Pre-qualify for a trial, and view a list of trials and participating study centers.</description>
+  </link>
+  <reference>
+    <citation>Bissler JJ, Kingswood JC, Radzikowska E, Zonnenberg BA, Frost M, Belousova E, Sauter M, Nonomura N, Brakemeier S, de Vries PJ, Whittemore VH, Chen D, Sahmoud T, Shah G, Lincy J, Lebwohl D, Budde K. Everolimus for angiomyolipoma associated with tuberous sclerosis complex or sporadic lymphangioleiomyomatosis (EXIST-2): a multicentre, randomised, double-blind, placebo-controlled trial. Lancet. 2013 Mar 9;381(9869):817-24.</citation>
+    <PMID>23312829</PMID>
+  </reference>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 7, 2015</lastchanged_date>
+  <firstreceived_date>November 10, 2008</firstreceived_date>
+  <firstreceived_results_date>May 23, 2012</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Angiomyolipoma</keyword>
+  <keyword>AML</keyword>
+  <keyword>Tuberous Sclerosis Complex</keyword>
+  <keyword>TSC</keyword>
+  <keyword>mTOR</keyword>
+  <keyword>RAD001</keyword>
+  <keyword>Mammalian Target of Rapamycin</keyword>
+  <keyword>Everolimus</keyword>
+  <keyword>Afinitor</keyword>
+  <keyword>SEGA</keyword>
+  <keyword>Subependymal Giant Cell Astrocytoma</keyword>
+  <keyword>Seizures</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Angiomyolipoma</mesh_term>
+    <mesh_term>Lymphangioleiomyomatosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+    <mesh_term>Tuberous Sclerosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Everolimus</title>
+          <description>Study drug was given by continuous oral daily dosing of two 5 mg tablets.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo was given by continuous oral daily dosing of two 5 mg tablets.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="79"/>
+                <participants group_id="P2" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7">Completed means discontinued the double-blind treatment period</participants>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="72"/>
+                <participants group_id="P2" count="26"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Ongoing in Double-blind</title>
+              <participants_list>
+                <participants group_id="P1" count="72"/>
+                <participants group_id="P2" count="26"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Everolimus</title>
+          <description>Study drug was given by continuous oral daily dosing of two 5 mg tablets.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo was given by continuous oral daily dosing of two 5 mg tablets.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="79"/>
+                <measurement group_id="B2" value="39"/>
+                <measurement group_id="B3" value="118"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="32.5" spread="10.37"/>
+                <measurement group_id="B2" value="31.0" spread="9.64"/>
+                <measurement group_id="B3" value="32.0" spread="10.12"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;30 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="35"/>
+                <measurement group_id="B2" value="20"/>
+                <measurement group_id="B3" value="55"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>≥ 30 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="44"/>
+                <measurement group_id="B2" value="19"/>
+                <measurement group_id="B3" value="63"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="52"/>
+                <measurement group_id="B2" value="26"/>
+                <measurement group_id="B3" value="78"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="27"/>
+                <measurement group_id="B2" value="13"/>
+                <measurement group_id="B3" value="40"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Angiomyolipoma Response Rate as Per Central Radiology Review (Double-blind Period)</title>
+        <description>Angiomyolipoma response defined as the combination of the following criteria:
+reduction in angiomyolipoma volume of ≥ 50% relative to baseline, where angiomyolipoma volume was sum of volumes of all target lesions identified at baseline, and with a confirmatory scan performed approximately 12 weeks later (no sooner than 8 weeks later)• No new angiomyolipoma lesions ≥ 1.0 cm in longest diameter were identified.• There were no kidney increases in volume &gt; 20% from nadir. The patient did not have any angiomyolipoma-related bleeding of ≥ grade 2</description>
+        <time_frame>From date of randomization until the earliest date of first documented AML progression, date of further anti-AML medication (including open-label Everolimus)/surgery or analysis cut-off date (30-June-2011).</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The Full Analysis Set (FAS) is defined according to the Intention-to-Treat principle and consists of all randomized patients. Patients were to be analyzed according to the treatment that they were assigned to at randomization.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Everolimus</title>
+            <description>Study drug was given by continuous oral daily dosing of two 5 mg tablets.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was given by continuous oral daily dosing of two 5 mg tablets.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="79"/>
+                  <measurement group_id="O2" value="39"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Angiomyolipoma Response Rate as Per Central Radiology Review (Double-blind Period)</title>
+            <description>Angiomyolipoma response defined as the combination of the following criteria:
+reduction in angiomyolipoma volume of ≥ 50% relative to baseline, where angiomyolipoma volume was sum of volumes of all target lesions identified at baseline, and with a confirmatory scan performed approximately 12 weeks later (no sooner than 8 weeks later)• No new angiomyolipoma lesions ≥ 1.0 cm in longest diameter were identified.• There were no kidney increases in volume &gt; 20% from nadir. The patient did not have any angiomyolipoma-related bleeding of ≥ grade 2</description>
+            <units>Percentage of Participants</units>
+            <param>Number</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="41.8" lower_limit="30.8" upper_limit="53.4"/>
+                  <measurement group_id="O2" value="0" lower_limit="0.0" upper_limit="9.0"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Angiomyolipoma Progression as Per Central Radiology Review (Double-blind Period)</title>
+        <description>Time to angiomyolipoma progression (TTAP) is defined as time from date of randomization to date of first documented angiomyolipoma progression. Angiomyolipoma progression was defined as one or more of the following: • Increase from nadir of ≥ 25% in angiomyolipoma volume to value greater than baseline • The appearance of a new angiomyolipoma ≥ 1.0 cm in longest diameter •An increase from nadir of 20% or more in the volume of either kidney to a value greater than baseline •Angiomyolipoma-related bleeding grade ≥ 2</description>
+        <time_frame>From date of randomization until the earliest date of first documented AML progression, date of further anti-AML medication (including open-label Everolimus)/surgery or analysis cut-off date (30-June-2011).</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The Full Analysis Set (FAS) is defined according to the Intention-to-Treat principle and consists of all randomized patients. Patients were to be analyzed according to the treatment that they were assigned at randomization.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Everolimus</title>
+            <description>Study drug was given by continuous oral daily dosing of two 5 mg tablets.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was given by continuous oral daily dosing of two 5 mg tablets.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="79"/>
+                  <measurement group_id="O2" value="39"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Time to Angiomyolipoma Progression as Per Central Radiology Review (Double-blind Period)</title>
+            <description>Time to angiomyolipoma progression (TTAP) is defined as time from date of randomization to date of first documented angiomyolipoma progression. Angiomyolipoma progression was defined as one or more of the following: • Increase from nadir of ≥ 25% in angiomyolipoma volume to value greater than baseline • The appearance of a new angiomyolipoma ≥ 1.0 cm in longest diameter •An increase from nadir of 20% or more in the volume of either kidney to a value greater than baseline •Angiomyolipoma-related bleeding grade ≥ 2</description>
+            <units>months</units>
+            <param>Median</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="NA">The median time to Angiomyolipoma Progression could not be estimated because &lt;50% of patients had an Angiomyolipoma Progression during the time period.</measurement>
+                  <measurement group_id="O2" value="11.37" lower_limit="11.07">The upper limit was not estimable in the study as it is longer than the estimated time period till data cut-off date (30-June-2011)</measurement>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Skin Lesion Response Rate as Per Investigator (Only Patients With at Least One Skin Lesion at Baseline)</title>
+        <description>Skin lesion response rate in the double-blind period was determined only among patients with at least one skin lesion at baseline, and is the percentage of this group of patients with a best overall skin lesion response on the Physician’s Global Assessment of Clinical Condition (PGA) of either complete clinical response (CCR) or partial response (PR).</description>
+        <time_frame>From date of randomization until the earliest date of first documented AML progression, date of further anti-AML medication (including open-label Everolimus)/surgery or analysis cut-off date (30-June-2011).</time_frame>
+        <safety_issue>No</safety_issue>
+        <population>The Full Analysis Set (FAS) is defined according to the Intention-to-Treat principle and consists of all randomized patients. Patients were to be analyzed according to the treatment that they were assigned at randomization.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Everolimus</title>
+            <description>Study drug was given by continuous oral daily dosing of two 5 mg tablets.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was given by continuous oral daily dosing of two 5 mg tablets.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="77"/>
+                  <measurement group_id="O2" value="37"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Skin Lesion Response Rate as Per Investigator (Only Patients With at Least One Skin Lesion at Baseline)</title>
+            <description>Skin lesion response rate in the double-blind period was determined only among patients with at least one skin lesion at baseline, and is the percentage of this group of patients with a best overall skin lesion response on the Physician’s Global Assessment of Clinical Condition (PGA) of either complete clinical response (CCR) or partial response (PR).</description>
+            <units>Percentage of participants</units>
+            <param>Number</param>
+            <dispersion>95% Confidence Interval</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="26" lower_limit="16.6" upper_limit="37.2"/>
+                  <measurement group_id="O2" value="0" lower_limit="0.0" upper_limit="9.5"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Renal Impairment</title>
+        <description>Renal Impairment was measured by glomerular filtration rate which was calculated using the Modification of Diet in Renal Disease formula. Percentage of participants with renal impairment was reported.</description>
+        <time_frame>From date of randomization until the earliest date of first documented AML progression, date of further anti-AML medication (including open-label Everolimus)/surgery or analysis cut-off date (30-June-2011).</time_frame>
+        <safety_issue>Yes</safety_issue>
+        <population>The safety set consists of all patients who received at least one dose of the double-blind study drug with a valid post-baseline assessment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Everolimus</title>
+            <description>Study drug was given by continuous oral daily dosing of two 5 mg tablets.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo was given by continuous oral daily dosing of two 5 mg tablets.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="79"/>
+                  <measurement group_id="O2" value="39"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>Percentage of Participants With Renal Impairment</title>
+            <description>Renal Impairment was measured by glomerular filtration rate which was calculated using the Modification of Diet in Renal Disease formula. Percentage of participants with renal impairment was reported.</description>
+            <units>Percentage of Participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <sub_title>Glomerular filtration rate &lt;30 ml/min/1.73m^2</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="2.5"/>
+                  <measurement group_id="O2" value="7.7"/>
+                </measurement_list>
+              </category>
+              <category>
+                <sub_title>Glomerular filtration rate≥ 30 ml/min/1.73m^2</sub_title>
+                <measurement_list>
+                  <measurement group_id="O1" value="97.5"/>
+                  <measurement group_id="O2" value="92.3"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Plasma Angiogenic Molecules</title>
+        <time_frame>Baseline, 12 Months</time_frame>
+        <safety_issue>No</safety_issue>
+        <posting_date>07/2015</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Everolimus</title>
+          <description>Everolimus</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>14.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bone marrow oedema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiovascular insufficiency</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Caecitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Volvulus</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bile duct stenosis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypersensitivity</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Appendicitis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Gastrointestinal infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Pyelonephritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Tonsillitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Wound infection</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Gout</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Joint effusion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Angiomyolipoma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Complex regional pain syndrome</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Convulsion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Grand mal convulsion</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Affective disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Hallucination</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal failure acute</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchospasm</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Pleuritic pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angioedema</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertensive crisis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>14.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="78" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="36" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vertigo</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Abdominal pain upper</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Aphthous stomatitis</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Mouth ulceration</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <counts group_id="E1" subjects_affected="38" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Influenza like illness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="19" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Otitis media</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Rash pustular</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Rhinitis</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Upper respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Procedural pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Activated partial thromboplastin time prolonged</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Blood alkaline phosphatase increased</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Blood creatine phosphokinase increased</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Blood creatinine increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Blood lactate dehydrogenase increased</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Blood phosphorus decreased</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Carbon monoxide diffusing capacity decreased</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Gamma-glutamyltransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Hypercholesterolaemia</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Hyperlipidaemia</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Hypophosphataemia</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Iron deficiency</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Flank pain</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Convulsion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Affective disorder</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematuria</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Leukocyturia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Proteinuria</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Amenorrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Menorrhagia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Menstruation irregular</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Vaginal haemorrhage</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="16" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acne</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Dermatitis acneiform</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Dry skin</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Eczema</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Papule</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematoma</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="79"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Principal Investigators are NOT employed by the organization sponsoring the study. Other disclosure agreement that restricts the right of the PI to discuss or publish trial results after the trial is completed. The terms and conditions of Novartis' agreements with its investigators may vary. Novartis does not prohibit any investigator from publishing. Any publications from a single-site are postponed until the publication of the pooled data (i.e., data from all sites) in the clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Novartis Pharmaceuticals</name_or_title>
+      <organization>Novartis Pharmaceuticals</organization>
+      <phone>862-778-8300</phone>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

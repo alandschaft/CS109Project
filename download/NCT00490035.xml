@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="157">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00490035</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N01252</org_study_id>
+    <secondary_id>2006-006344-59</secondary_id>
+    <nct_id>NCT00490035</nct_id>
+  </id_info>
+  <brief_title>Double-blind, Randomized Study Evaluating the Efficacy and Safety of Brivaracetam in Adults With Partial Onset Seizures</brief_title>
+  <official_title>A Multi-center, Double-blind, Parallel-group, Placebo Controlled, Randomized Study: Evaluation of the Efficacy and Safety of Brivaracetam in Subjects (&gt;= 16 to 70 Years Old) With Partial Onset Seizures.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Pharma SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <authority>Belgium: Federal Agency for Medicines and Health Products, FAMHP</authority>
+    <authority>France: Afssaps - Agence française de sécurité sanitaire des produits de santé (Saint-Denis)</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices</authority>
+    <authority>Netherlands: Medicines Evaluation Board (MEB)</authority>
+    <authority>Poland: Ministry of Health</authority>
+    <authority>Switzerland: Swissmedic</authority>
+    <authority>Hungary: National Institute of Pharmacy</authority>
+    <authority>India: Drugs Controller General of India</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the efficacy and safety of Brivaracetam to support the submission
+      file in the indication of adjunctive treatment in adolescents and adults with partial onset
+      seizures.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2007</start_date>
+  <completion_date type="Actual">February 2009</completion_date>
+  <primary_completion_date type="Actual">February 2009</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Partial onset seizure (Type I) frequency per week over the 12-week Treatment Period</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Partial onset seizure (Type I) frequency per week over the 12-week Treatment Period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Responder rate for partial onset seizures (Type I) frequency per week over the 12-week Treatment Period</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Responder rate for partial onset seizures (Type I) frequency per week over the 12-week Treatment Period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All seizure frequency (Type I+II+III) per week over the 12-week Treatment Period</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>All seizure frequency (Type I+II+III) per week over the 12-week Treatment Period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent change from Baseline to the 12-week Treatment Period in partial onset seizure (Type I) frequency per week</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percent change from Baseline to the 12-week Treatment Period in partial onset seizure (Type I) frequency per week</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Categorized percentage change from Baseline in seizure frequency for partial onset seizure (Type I)over the 12-week Treatment Period</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Categorized percentage change from Baseline in seizure frequency for partial onset seizure (Type I) over the 12-week Treatment Period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seizure freedom rate (all seizure types) over the 12-week Treatment Period</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Seizure freedom rate (all seizure types) over the 12-week Treatment Period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first Type I seizure during the 12-week Treatment Period</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Time to first Type I seizure during the 12-week Treatment Period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to fifth Type I seizure during the 12-week Treatment Period</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Time to fifth Type I seizure during the 12-week Treatment Period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to tenth Type I seizure during the 12-week Treatment Period</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Time to tenth Type I seizure during the 12-week Treatment Period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of Type IC/Type I seizure frequency ratio from Baseline to the 12- week Treatment Period.</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Reduction of Type IC/Type I seizure frequency ratio from Baseline to the 12- week Treatment Period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Total Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from Baseline to the 12-week Treatment Period in Total Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Seizure Worry Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from Baseline to the 12-week Treatment Period in Seizure Worry Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Daily Activities / Social Functioning Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from Baseline to the 12-week Treatment Period in Daily Activities / Social Functioning Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Hospital Anxiety score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from Baseline to the 12-week Treatment Period in Hospital Anxiety score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Hospital Depression score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from Baseline to the 12-week Treatment Period in Hospital Depression score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's Global Evaluation Scale (P-GES) evaluated at last visit or early discontinuation visit</measure>
+    <time_frame>Baseline to last visit or early discontinuation visit in the 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Patient's Global Evaluation Scale (P-GES) evaluated at last visit or early discontinuation visit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Investigator's Global Evaluation Scale (I-GES) evaluated at last visit or early discontinuation visit</measure>
+    <time_frame>Baseline to last visit or early discontinuation visit in the 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Investigator's Global Evaluation Scale (I-GES) evaluated at last visit or early discontinuation visit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Energy/Fatigue Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Emotional Well-being Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Cognitive Functioning Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in overall Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to the 12-week Treatment Period in Medication effects Patient Weighted Quality of Life in Epilepsy Inventory-Form 31 (QOLIE-31-P) score</measure>
+    <time_frame>Baseline to 12-week Treatment Period</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">399</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching Placebo tablets administered twice a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brivaracetam 20 mg/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brivaracetam 20 mg/day, 10 mg administered twice a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brivaracetam 50 mg/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brivaracetam 50 mg/day, 25 mg administered twice a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brivaracetam 100 mg/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brivaracetam 100 mg/day, 50 mg administered twice a day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Daily oral dose of two equal intakes, morning and evening, of Placebo in a double-blinded way for the 12-week Treatment Period</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brivaracetam</intervention_name>
+    <description>Daily oral dose of two equal intakes, morning and evening, of Brivaracetam 20 mg /day in a double-blinded way for the 12-week Treatment Period</description>
+    <arm_group_label>Brivaracetam 20 mg/day</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brivaracetam</intervention_name>
+    <description>Daily oral dose of two equal intakes, morning and evening, of Brivaracetam 50 mg /day in a double-blinded way for the 12-week Treatment Period.</description>
+    <arm_group_label>Brivaracetam 50 mg/day</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brivaracetam</intervention_name>
+    <description>Daily oral dose of two equal intakes, morning and evening, of Brivaracetam 100 mg /day in a double-blinded way for the 12-week Treatment Period.</description>
+    <arm_group_label>Brivaracetam 100 mg/day</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects were from 16 to 70 years, both inclusive. Subjects under 18 years of age
+             were only included where legally permitted and ethically accepted
+
+          -  Subjects with well-characterized focal epilepsy or epileptic syndrome according to
+             the International League Against Epilepsy (ILAE) classification
+
+          -  Subjects had a history of partial onset seizures (POS) whether or not secondarily
+             generalized (Type I seizures according to the ILAE classification)
+
+          -  Subjects had at least 2 POS whether or not secondarily generalized per month during
+             the 3 months preceding Visit 1
+
+          -  Subjects had at least 8 POS whether or not secondarily generalized during the 8-Week
+             Baseline Period
+
+          -  Subjects were uncontrolled while treated by 1 to 2 permitted concomitant
+             antiepileptic drugs (AEDs). Vagal nerve stimulation was allowed and was not counted
+             as a concomitant AED
+
+        Exclusion Criteria:
+
+          -  History or presence of seizures occurring only in clusters (too frequently or
+             indistinctly separated to be reliably counted) before Visit 3
+
+          -  History or presence of status epilepticus during the year preceding Visit 1 or during
+             Baseline
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Clinical Trial Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>+1 877 822 9493 (UCB)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>13</name>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>19</name>
+      <address>
+        <city>La Louviere</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>12</name>
+      <address>
+        <city>Liege</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>10</name>
+      <address>
+        <city>Saint-Vith</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>44</name>
+      <address>
+        <city>Kuopio</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>41</name>
+      <address>
+        <city>Oulu</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>42</name>
+      <address>
+        <city>Seinajoki</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>43</name>
+      <address>
+        <city>Tampere</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>60</name>
+      <address>
+        <city>Angers Cedex 9</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>56</name>
+      <address>
+        <city>Bethune</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>62</name>
+      <address>
+        <city>Bron</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>57</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>53</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>52</name>
+      <address>
+        <city>Montpellier Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>64</name>
+      <address>
+        <city>Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>54</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>51</name>
+      <address>
+        <city>Rennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>61</name>
+      <address>
+        <city>Roanne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>55</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>76</name>
+      <address>
+        <city>Bad Berka</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>73</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>79</name>
+      <address>
+        <city>Bernau</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>78</name>
+      <address>
+        <city>Bielefeld</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>74</name>
+      <address>
+        <city>Freiburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>75</name>
+      <address>
+        <city>Kehl-Kork</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>77</name>
+      <address>
+        <city>Mainz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>70</name>
+      <address>
+        <city>Munchen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>72</name>
+      <address>
+        <city>Radeberg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>71</name>
+      <address>
+        <city>Ulm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>94</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>90</name>
+      <address>
+        <city>Debrecen</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>92</name>
+      <address>
+        <city>Pecs</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>256</name>
+      <address>
+        <city>Bangalore</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>257</name>
+      <address>
+        <city>Bangalore</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>253</name>
+      <address>
+        <city>Hyderabad</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>258</name>
+      <address>
+        <city>Jaipur</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>255</name>
+      <address>
+        <city>Kolkata</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>250</name>
+      <address>
+        <city>Lucknow</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>259</name>
+      <address>
+        <city>Mumbai</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>251</name>
+      <address>
+        <city>Pune Maharashtra</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>270</name>
+      <address>
+        <city>Pune</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>104</name>
+      <address>
+        <city>Bologna</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>105</name>
+      <address>
+        <city>Foggia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>101</name>
+      <address>
+        <city>Perugia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>103</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>107</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>124</name>
+      <address>
+        <city>Breda</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>125</name>
+      <address>
+        <city>Den Haag</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>122</name>
+      <address>
+        <city>Zwolle</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>142</name>
+      <address>
+        <city>Bialystok</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>143</name>
+      <address>
+        <city>Gdansk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>153</name>
+      <address>
+        <city>Grodzisk Mazowiecki</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>147</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>151</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>141</name>
+      <address>
+        <city>Kielce</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>150</name>
+      <address>
+        <city>Krakow</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>148</name>
+      <address>
+        <city>Lodz</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>144</name>
+      <address>
+        <city>Lublin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>152</name>
+      <address>
+        <city>Poznan</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>146</name>
+      <address>
+        <city>Szczecin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>145</name>
+      <address>
+        <city>Warsaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>140</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>149</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>187</name>
+      <address>
+        <city>Alcorcon</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>181</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>182</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>184</name>
+      <address>
+        <city>San Sebastian</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>183</name>
+      <address>
+        <city>Vigo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>185</name>
+      <address>
+        <city>Zaragoza</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>201</name>
+      <address>
+        <city>Biel</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>205</name>
+      <address>
+        <city>Geneve</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>203</name>
+      <address>
+        <city>St Gallen</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>202</name>
+      <address>
+        <city>Tschugg</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>204</name>
+      <address>
+        <city>Zürich</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>223</name>
+      <address>
+        <city>Liverpool</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>224</name>
+      <address>
+        <city>Middlesborough</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>India</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>Switzerland</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>April 2015</verification_date>
+  <lastchanged_date>April 29, 2015</lastchanged_date>
+  <firstreceived_date>June 21, 2007</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Epilepsy</keyword>
+  <keyword>Brivaracetam</keyword>
+  <keyword>Partial Onset Seizures</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

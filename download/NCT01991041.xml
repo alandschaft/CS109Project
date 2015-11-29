@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1055">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01991041</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E2080-E044-401</org_study_id>
+    <nct_id>NCT01991041</nct_id>
+  </id_info>
+  <brief_title>European Registry of Anti-Epileptic Drug Use in Patients With Lennox-Gastaut Syndrome (LGS)</brief_title>
+  <official_title>European Registry of Anti-epileptic Drug Use in Patients With Lennox-Gastaut Syndrome (LGS).</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eisai Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eisai Inc.</source>
+  <oversight_info>
+    <authority>European Union: European Medicines Agency</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a registry study, where sites will enter patients with LGS who require a
+      modification in anti-epileptic therapy (either the addition of another anti-epileptic drug,
+      or the change of one drug to another). This will include patients who are started on
+      rufinamide. Patients will be reviewed according to local practice, but it is envisaged that
+      review will occur at approximately one month, three months and six months, and then every
+      six months. Upon entry to the registry baseline details concerning disease severity,
+      diagnosis, prior therapy, and developmental assessment will be recorded. On each subsequent
+      visit the patient (usually through their caregiver) will be asked about current medication,
+      general seizure profile, any seizures deemed to be of �medical significance�, tolerability,
+      AEs (including suicidal-related events), and healthcare resource utilisation.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>June 2008</start_date>
+  <completion_date type="Anticipated">June 2015</completion_date>
+  <primary_completion_date type="Anticipated">June 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>Safety during the use of rufinamide and other anti-epileptic drugs</measure>
+    <time_frame>At least three years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Evaluation of the incidence of seizures of medical significance (including status epilepticus, new / worsening of seizure types and withdrawal seizures) during exposure to anti-epileptic drugs, including rufinamide, in patients with LGS; incidence of hypersensitivity reactions during the exposure to anti-epileptic drugs, including rufinamide; common AEs identified with anti-epileptic drugs, as they may be related to this specific population; including sedation, neurological AEs, suicidal-related events, events associated with blood dyscrasias, and the potential increased risk of infections.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Long term use of rufinamide, and other anti-epileptic drugs</measure>
+    <time_frame>At least three years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Evaluation, within the constraints of this population, of the impact on maturation and development that anti-epileptic drugs, including rufinamide, has on the LGS population; seizure control in LGS patients, including those taking rufinamide and other anti-epileptic drugs; assessment of healthcare resource utilisation.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">225</enrollment>
+  <condition>Lennox-Gastaut Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Rufinamide</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Anti-Epileptic Drugs</arm_group_label>
+    <description>Includes those used off label as part of local clinical practice</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participation in this study will be offered to any patient of four years or older, who has
+        a known diagnosis of LGS, who requires a change in anti-epileptic therapy. This will
+        include patients who are started on rufinamide, as an adjuvant therapy.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA
+
+          -  Patients will be four years and older
+
+          -  Patients will have an established diagnosis of Lennox-Gastaut syndrome, and:
+
+          -  Documented history or current presence of multiple seizure types associated with LGS
+             (including tonic or atonic seizures (drop attacks) and atypical absences)
+
+          -  Documented history or current presence of typical EEG abnormalities (e.g., bursts of
+             slow spike and wave activity)
+
+          -  Presence of intellectual / learning disability (a variable degree is permitted)
+
+          -  Patients entered on the registry will be those requiring a modification in their
+             current anti-epileptic medication. This includes but is not limited to patients who
+             are commenced on rufinamide as adjuvant therapy
+
+        EXCLUSION CRITERIA
+
+          -  Female patients who are pregnant, lactating, or whom are planning to become pregnant
+
+          -  Female patients, of child bearing potential, who are not willing to use appropriate
+             contraception (This is at the discretion of the investigator)
+
+          -  Those starting rufinamide and for whom the investigator considers it necessary to
+             administer in contradiction to the indications, and warnings within the current
+             Summary of Product Characteristics (SPC).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2013</verification_date>
+  <lastchanged_date>November 18, 2013</lastchanged_date>
+  <firstreceived_date>November 18, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lennox-Gastaut Syndrome</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anticonvulsants</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

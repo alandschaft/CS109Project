@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="90">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02324673</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INS011-14-029</org_study_id>
+    <nct_id>NCT02324673</nct_id>
+  </id_info>
+  <brief_title>Cannabidiol Oral Solution in Pediatric Subjects With Treatment- Resistant Seizure Disorders</brief_title>
+  <official_title>A Phase 1/2 Study to Assess the Pharmacokinetics and Safety of Multiple Doses of Pharmaceutical Cannabidiol Oral Solution in Pediatric Subjects With Treatment- Resistant Seizure Disorders</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>INSYS Therapeutics Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>INSYS Therapeutics Inc</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2, open-label, trial designed to assess the pharmacokinetics, safety,
+      tolerability, and preliminary efficacy of 3 multiple ascending doses of Cannabidiol Oral
+      Solution in a sequential fashion.
+
+      Participants will be pediatric (aged 1-17, inclusive), experiencing treatment-resistant
+      seizures, and satisfy all inclusion/exclusion criteria.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2015</start_date>
+  <completion_date type="Anticipated">December 2015</completion_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Pharmacokinetics Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum plasma concentration (Cmax)</measure>
+    <time_frame>within 11 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Categories: Cmax and dose normalized Cmax (Cmax/D)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Cmax (tmax)</measure>
+    <time_frame>within 11 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Half life (t1/2)</measure>
+    <time_frame>within 11 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Elimination rate</measure>
+    <time_frame>within 11 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Oral clearance of cannabidiol</measure>
+    <time_frame>within 11 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Volume of distribution of cannabidiol</measure>
+    <time_frame>within 11 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the plasma-concentration time curve (AUC) on Day 1</measure>
+    <time_frame>Day 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Categories: AUC(0-12), AUC(0-12)/D, AUC(0-last), AUC(0-inf), AUC(0-inf)/D for participants at least 2 years old</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolite to parent ratio for Cmax on Day 1</measure>
+    <time_frame>Day 1</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolite to parent ratios for AUC on Day 1</measure>
+    <time_frame>Day 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Categories: AUC(0-inf), AUC(0-12)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUC on Day 10</measure>
+    <time_frame>Day 10</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Categories: AUC(0-12), AUC(0-12)/D</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Minimum plasma concentration (Cmin) on Day 10</measure>
+    <time_frame>Day 10</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Average plasma concentration (Cavg) on Day 10</measure>
+    <time_frame>Day 10</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Accumulation ratio for Cmax on Day 10</measure>
+    <time_frame>Day 10</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Accumulation ratio for AUC(0-12) on Day 10</measure>
+    <time_frame>Day 10</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with treatment emergent adverse events</measure>
+    <time_frame>within 17 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with clinically significant changes in physical examination and/or laboratory measurements</measure>
+    <time_frame>within 11 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolite to parent ratio for Cmax on Day 10</measure>
+    <time_frame>Day 10</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metabolite to parent ratios for AUC on Day 10</measure>
+    <time_frame>Day 10</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Categories: AUC(0-inf), AUC(0-12)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Global Impression of lmprovement (CGI-I) assessment</measure>
+    <time_frame>on Day 11</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Categories: Assessed by parent(s)/caregiver(s), Assessed by investigator - The participant's overall clinical condition is compared to the one week period just before the start of medication (the baseline visit). The participant's condition is compared to the patient's condition at admission to the project [prior to starting treatment] on a 7-point scale, where 1=very much improved since the initiation of treatment; and 7=very much worse since the initiation of treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in Clinical Global Impression of Severity (CGI-S) assessment</measure>
+    <time_frame>Baseline, Day 11</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Categories: Assessed by parent(s)/caregiver(s), Assessed by investigator - The severity of the participant's illness is rated on a seven-point scale, where 1=normal, not at all ill, and 7=among the most extremely ill patients. This rating is based upon observed and reported symptoms, behavior, and function in the past seven days. The score reflects the average severity level across the seven days.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time linearity</measure>
+    <time_frame>Day 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A linear regression analysis will assess time linearity of the individual ratios AUC(0-12) on Day 10/AUC[0-inf] on Day 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in daily seizure activity</measure>
+    <time_frame>Baseline, Day 11</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Number of seizures per day is recorded in a diary, and the change in that number between baseline and Day 11 is calculated.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Seizures</condition>
+  <arm_group>
+    <arm_group_label>Low Dose Cannabidiol Oral Solution</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mid Dose Cannabidiol Oral Solution</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose Cannabidiol Oral Solution</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cannabidiol Oral Solution</intervention_name>
+    <description>An oral solution containing pharmaceutical grade cannabidiol (nonplant-based).</description>
+    <arm_group_label>Low Dose Cannabidiol Oral Solution</arm_group_label>
+    <arm_group_label>Mid Dose Cannabidiol Oral Solution</arm_group_label>
+    <arm_group_label>High Dose Cannabidiol Oral Solution</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets protocol-specified criteria for qualification and contraception, including
+             treatment-resistant seizure disorder
+
+          -  Is able to speak and understand the language in which the study is being conducted,
+             is able to understand the procedures and study requirements and has voluntarily
+             signed and dated an informed consent form approved by the Institutional Review Board
+             before the conduct of any study procedure
+
+          -  In the opinion of the Investigator, the participants and parent(s)/caregiver(s) are
+             willing and able to comply with the study procedures and visit schedules, including
+             venipuncture, inpatient stay at the study center, dosing at the study center twice a
+             day as needed while an outpatient), and the Follow-up Visits (if applicable)
+
+        Exclusion Criteria:
+
+          -  Subject or parent(s)/caregiver(s) have daily commitments during the study duration
+             that would interfere with attending all study visits
+
+          -  History or current use of dietary supplements, drugs or over-the counter medications
+             outside protocol-specified parameters
+
+          -  Signs, symptoms or history of any condition that, per protocol or in the opinion of
+             the investigator, might compromise:
+
+               1. the safety or well-being of the participant or study staff
+
+               2. the safety or well-being of the participant's offspring (such as through
+                  pregnancy or breast-feeding)
+
+               3. the analysis of results
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neha Parikh</last_name>
+    <role>Study Director</role>
+    <affiliation>INSYS Therapeutics Inc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Operations</last_name>
+    <email>insysrx@quintiles.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Miami Children's Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Child Neurology Center - NW F</name>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health Services University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Granger Medical Clinic</name>
+      <address>
+        <city>Riverton</city>
+        <state>Utah</state>
+        <zip>84096</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Bridge Children's Hospital</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 23, 2015</lastchanged_date>
+  <firstreceived_date>December 12, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Treatment-resistant seizures</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Seizures</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pharmaceutical Solutions</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="572">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02311023</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UCLH 13/0389</org_study_id>
+    <nct_id>NCT02311023</nct_id>
+  </id_info>
+  <brief_title>Intermittent Fasting in Refractory Epilepsy</brief_title>
+  <official_title>A Single Centre Open Six Months Study of Intermittent Fasting for the Treatment of People With Refractory Epilepsy.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University College London Hospitals</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University College London Hospitals</source>
+  <oversight_info>
+    <authority>United Kingdom: National Health Service</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open trial of intermittent fasting in a group of patients with refractory
+      seizures. Patients will continue on the diet for 6 months to assess the impact of the diet
+      on seizure frequency.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A proportion of people with epilepsy continue to have seizures despite all conventional
+      treatment options. The classical ketogenic diet and its variants have been shown to help
+      some of these people. However, these diets require significant medical and dietician
+      supervision,and is frequently not well tolerated. There is a need to develop other diet
+      therapy that is easier to administer and more acceptable to the patient. This trial
+      undertaken in adult overweight UCLH outpatients examines the effect of an intermittent
+      fasting diet on seizures. Subjects may consume their normal diet for 5 days a week. On 2
+      days in a week, they consume only 25% of their daily calorie requirement. Subjects will
+      continue on the diet for 6 months. Intermittent fasting has been shown in animal studies to
+      activate a number of signalling pathways which are thought to reduce seizure thresholds. Has
+      intermittent fasting in humans might be expected to reduce seizures.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2014</start_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Daily total number of seizures</measure>
+    <time_frame>up to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Intermittent fasting</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients consume their normal diet for 5 days in the week. On 2 days they only consume 500 Cals if female and 600 Cals if male.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Intermittent fasting</intervention_name>
+    <arm_group_label>Intermittent fasting</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Experiencing at least 2 seizures per month
+
+          -  .BMI of 25 or over
+
+        Exclusion Criteria:
+
+          -  Current/previous eating disorder
+
+          -  Pregnancy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alan W Yuen, BM BCh, MRCP</last_name>
+    <phone>+441494601300</phone>
+    <phone_ext>8074</phone_ext>
+    <email>a.yuen@ucl.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UCLH , The Epilepsy Society</name>
+      <address>
+        <city>Chalfont St Peters</city>
+        <state>Buckinghamshire</state>
+        <zip>SL9 0RJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alan W Yuen, BM BCh, MRCP</last_name>
+      <phone>+441494601300</phone>
+      <phone_ext>8074</phone_ext>
+      <email>a.yuen@ucl.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>December 2014</verification_date>
+  <lastchanged_date>December 5, 2014</lastchanged_date>
+  <firstreceived_date>December 4, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University College London Hospitals</investigator_affiliation>
+    <investigator_full_name>Dr Alan Wah Cheong Yuen</investigator_full_name>
+    <investigator_title>Honorary Research Associate</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="808">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01730170</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00060793</org_study_id>
+    <secondary_id>2U01NS038455-11A1</secondary_id>
+    <nct_id>NCT01730170</nct_id>
+  </id_info>
+  <brief_title>Maternal and Neurodevelopmental Outcomes of in Utero Antiepileptic Drug (AED) Exposure</brief_title>
+  <acronym>MONEAD</acronym>
+  <official_title>Maternal Outcomes and Neurodevelopmental Effects of Antiepileptic Drugs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The EMMES Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Epilepsy is one of the most common neurological disorders affecting women of childbearing
+      age. Poor pregnancy outcomes are increased in these women and their children. The proposed
+      studies will increase our knowledge on multiple levels to improve care and reduce adverse
+      outcomes in these mothers and children. An overall goal of this study is to establish the
+      relationship between antiepileptic drug exposure and outcomes in the mother and child as
+      well as describe and explain the variability in antiepileptic drug exposure and response.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There is a compelling need for prospective, properly controlled studies in women with
+      epilepsy (WWE) during pregnancy to improve maternal and child outcomes. The proposed
+      investigations are pertinent to the National Institute of Neurological Disorders and Stroke
+      Epilepsy Research Benchmarks and will address multiple gaps in our knowledge noted by the
+      recent American Academy of Neurology guidelines. This multicenter investigation will employ
+      a prospective, observational, parallel-group, cohort design with an established research
+      team.
+
+      The specific aims are to:
+
+        1. Determine if women with epilepsy have increased seizures during pregnancy and delineate
+           the contributing factors;
+
+        2. Determine if C-section rate is increased in women with epilepsy and delineate
+           contributing factors;
+
+        3. Determine if women with epilepsy have an increased risk for depression during pregnancy
+           and post-partum period and characterize risks factors;
+
+        4. Determine the long-term effects of in utero antiepileptic drug exposure on verbal
+           intellectual abilities and other neurobehavioral outcomes in the children of women with
+           epilepsy;
+
+        5. Determine if small for gestation age and other adverse neonatal outcomes are increased
+           in children of women with epilepsy;
+
+        6. Determine if breastfeeding when taking antiepileptic drugs impairs the child's verbal
+           intellectual and other cognitive abilities.
+
+      An overall goal of the proposed research is to establish the relationship between
+      antiepileptic drug exposure and outcomes in the mother and child as well as describe and
+      explain the variability in antiepileptic drug exposure and response.
+
+      Anticonvulsant blood levels (ABLs) and area-under-the-concentration-time-curves (AUCs) will
+      be used as direct measures of drug exposure. The results will enable clinicians to
+      prospectively calculate individual dosing regimens for the mother in order to optimize
+      dosing and limit unnecessary drug exposure to the child. In addition, genetic samples will
+      be collected, which will provide a valuable resource for future pharmacogenetics studies to
+      further delineate individual variability across patients.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2013</start_date>
+  <completion_date type="Anticipated">July 2017</completion_date>
+  <primary_completion_date type="Anticipated">July 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>Changes in seizure frequency over pregnancy vs. post-partum (comparable time periods for non-pregnant women with epilepsy).</measure>
+    <time_frame>Pregnant women with epilepsy:1st Trimester through 9 months post-partum; Nonpregnant women with epilepsy: Study enrollment through 18 months participation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in seizure frequency during pregnancy vs postpartum as measured by subject completed daily electronic seizure diaries</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>C-section Rate</measure>
+    <time_frame>Pregnant women with epilepsy &amp; Pregnant women without epilepsy at child's birth</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>rate of C-sections in pregnant women without epilepsy vs pregnant women with epilepsy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of Depression</measure>
+    <time_frame>Pregnant women: 1st Trimester through 9 months post partum, again when child is 2 and 3 Years of age. Nonpregnant women with epilepsy: Study enrollment through 6months participation, then 12 months until 18 months participation</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Rate of depression during pregnancy in pregnant women with epilepsy vs pregnant women without epilepsy screened by the Beck Depression Inventory and confirmed by the Structured Clinical Interview for Diagnostic and Statistical Manual-IV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child Verbal Intellectual Ability</measure>
+    <time_frame>When child is 2, 3, 4.5 and 6 Years of age</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Child verbal intellectual ability as measured by the Language Scale of the Bayley Scales of Infant Development -III at visit 9 (2Yo) and by the Differential Abilities Scale-II at visit 10 (3Yo)and 4.5YO and 6YO.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Small for Gestational Age Rate</measure>
+    <time_frame>Child's birth</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Rate of children considered small for gestational age (&lt;10%tile)born to women with epilepsy vs women without epilepsy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Breastfeeding Effects on verbal intellectual ability in children</measure>
+    <time_frame>Birth until the child is 2 Years of age, although we anticipate not all children will breastfeed until 2 Years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measuring difference in verbal intellectual ability in breastfed children vs non-breastfed children born to women on aeds via the Bayley Scales of Infant Development III Language scale at 2 years of age and Differential Abilities Scale III at 3, 4.5 and 6 Years of age.</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">550</enrollment>
+  <condition>Epilepsy</condition>
+  <condition>Pregnancy</condition>
+  <arm_group>
+    <arm_group_label>Pregnant Women without Epilepsy</arm_group_label>
+    <description>Women in their first trimester of pregnancy who are not diagnosed with epilepsy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nonpregnant Women with Epilepsy</arm_group_label>
+    <description>Women diagnosed with epilepsy and not currently pregnant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pregnant Women with Epilepsy</arm_group_label>
+    <description>Women in their first trimester of pregnancy and diagnosed with epilepsy</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum, cheek cells, urine
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects will be recruited by the investigators from their clinic populations and
+        advertisements.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for All Women
+
+          -  Pregnant women with epilepsy up to 20 weeks gestation, healthy pregnant women without
+             epilepsy up to 20 weeks gestation, or non-pregnant women with epilepsy.
+
+          -  Ability to maintain a daily medical diary.
+
+          -  Language skills in English or Spanish adequate to perform the cognitive tests and
+             questionnaires.
+
+          -  Access to a telephone for phone contacts.
+
+          -  Age 14-45 inclusive.
+
+        Inclusion Criteria applicable for pregnant women only. -Ability for follow-up through 6
+        years after giving birth.
+
+        Criteria applicable for non-pregnant women with epilepsy only:
+
+          -  Minimum of 9 months post live birth, miscarriage, or elective termination.
+
+          -  Not currently breastfeeding.
+
+        Exclusion Criteria for All Women
+
+          -  Women with an expected IQ&lt;70.
+
+          -  IV drug use in past year or any of the following since the beginning of pregnancy:
+             Alcohol abuse, cocaine, or methamphetamine) or sequelae of drug/alcohol abuse.
+
+          -  History of psychogenic non-epileptic spells.
+
+          -  History of positive Syphilis test.
+
+          -  History of HIV positive test.
+
+          -  Progressive cerebral disease (e.g., multiple sclerosis, progressive brain tumor).
+
+          -  Presence of other major medical illness (e.g., diabetes, cancer).
+
+          -  Any medical, psychiatric, or other condition that, in the judgment of the
+             investigator, is a contraindication to protocol participation or impairs ability to
+             give informed consent.
+
+          -  Concurrent participation in an experimental drug trial.
+
+        Exclusion criteria applicable for pregnant women only.
+
+          -  Exposure to known teratogens during pregnancy, excluding AEDs.
+
+          -  Detection of fetal major congenital malformation prior to enrollment in current
+             pregnancy.
+
+          -  History of a known genetic disorder in herself or a primary relative (may contact
+             MONEAD team with details for possible exception).
+
+          -  Use of non-licensed midwife as primary source of natal care and/or planning home
+             delivery or delivery at a stand-alone birth center, independent from a hospital.
+
+        Exclusion criteria applicable for all women with epilepsy.
+
+        -Planned surgical intervention for epilepsy that would occur during the subject's
+        participation in the project
+
+        Exclusion criteria applicable for pregnant women with epilepsy only. -History of switching
+        AEDs during pregnancy prior to enrollment. &quot;Switching&quot; AEDs includes changing from no AED
+        therapy to therapy, discontinuing a current AED therapy, or changing to a different AED
+        therapy.
+
+        Exclusion criteria applicable for non-pregnant women only.
+
+          -  Diagnosed by a health care professional as perimenopausal or postmenopausal.
+
+          -  History of switching AEDs within 90 days of enrollment. &quot;Switching&quot; AEDs includes
+             changing from no AED therapy to therapy, discontinuing a current AED therapy, or
+             changing to a different AED therapy.
+
+        Inclusion Criteria for Study Family Members
+
+          -  The Father must be the biological father of the child in the study.
+
+          -  The Maternal Relative must be a full biological relative or half-sibling of the
+             mother chosen by the following hierarchy:
+
+               1. st choice: Sister of closest age to the mother in the trial
+
+               2. nd Sister of next closest age
+
+               3. rd Brother of closest age
+
+               4. th Brother of next closest age
+
+               5. th Mother
+
+               6. th Father of pregnant mother in the study
+
+               7. th Half-Sibling if NO Primary FULL relatives are available.
+
+                  Exclusion Criteria for Study Family Members
+
+          -  Any medical, psychiatric, or other condition that, in the judgment of the
+             investigator, is a contraindication to protocol participation or impairs ability to
+             give informed consent.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kimford J Meador, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Page B Pennell, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham &amp; Women's Hospital - Harvard</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gene Moore</last_name>
+    <phone>843-261-4805</phone>
+    <email>emoore5@emory.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama Birmingham Hospital- UAB</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294-0021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cheryl Hall, LPN</last_name>
+      <phone>205-934-1654</phone>
+      <email>chall@uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jennifer L DeWolfe, DO, DABPN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arizona - University Medical Center</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724-5023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sabrina D'Sousa</last_name>
+      <phone>520-518-7575</phone>
+      <email>sdsouza@neurology.arizona.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David M Labiner, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Keck Hospital of the University of Southern California</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raquel Sierra</last_name>
+      <phone>323-409-7382</phone>
+      <email>Raquel.Sierra@med.usc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Laura Kalayjian, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Swetapadma Patnaik</last_name>
+      <phone>650-497-6810</phone>
+      <email>sweta@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kimford J Meador, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Hospital - University of Miami School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pedro Figueredo, M.D.</last_name>
+      <phone>305-243-8829</phone>
+      <email>PFigueredo@med.miami.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Enrique A Serrano, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University School of Medicine</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melanee Newman</last_name>
+      <phone>404-778-4249</phone>
+      <email>melanee_newman@emoryhealthcare.org</email>
+    </contact>
+    <investigator>
+      <last_name>Kimford J Meador, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Naymee Velez-Ruiz, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Georgia at Georgia Regents University</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912-0004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patty Ray, Ph.D.</last_name>
+      <phone>706-721-6260</phone>
+      <email>paray@gru.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Suzanne Strickland, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Memorial Hospital-Northwestern University Feinberg School of Medicine</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Irena Garic</last_name>
+      <phone>312-926-1672</phone>
+      <email>igaric@nmff.org</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth Gerard, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Hopkins Bayview Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224-2735</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pam Coe</last_name>
+      <phone>410-502-5570</phone>
+      <email>pcoe@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gregory Krauss, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham &amp; Women's Hospital - Harvard</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115-6110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Li Chen</last_name>
+      <phone>617-525-3014</phone>
+      <email>LQCHEN@PARTNERS.ORG</email>
+    </contact>
+    <investigator>
+      <last_name>Page B Pennell, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202-2608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carla Sandles</last_name>
+      <phone>313-916-3923</phone>
+      <email>CSANDLE1@hfhs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gregory L Barkley, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Minnesota Epilepsy Group</name>
+      <address>
+        <city>St. Paul</city>
+        <state>Minnesota</state>
+        <zip>55102-2533</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janet Branson</last_name>
+      <phone>651-241-5595</phone>
+      <email>jbranson@mnepilepsy.net</email>
+    </contact>
+    <investigator>
+      <last_name>Patricia E Penovich, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore Jewish Medical Center</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11040-1402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Connie Lau, M.S.</last_name>
+      <phone>516-325-7022</phone>
+      <email>CLau@NSHS.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Cynthia L Harden, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center/NY Presbyterian Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032-7133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jackie Wooley</last_name>
+      <phone>212-305-1684</phone>
+      <email>jw3186@columbia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Alison Pack, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New York University School of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016-6402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Veronique Ruppe</last_name>
+      <phone>646-558-0877</phone>
+      <email>Veronique.Ruppe@nyumc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jacqueline A French, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Health-Wake Forest University School of Medicine</name>
+      <address>
+        <city>Winston Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Dimos</last_name>
+      <phone>336-716-1715</phone>
+      <email>jdimos@wakehealth.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Maria C Sam, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati UC Health University Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267-0525</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lucy Mendoza, CCRP</last_name>
+      <phone>513-558-3020</phone>
+      <email>mendozlc@UCMAIL.UC.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>Jennifer Cavitt, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822-9800</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosemarie Delucca</last_name>
+      <phone>570-808-3461</phone>
+      <email>rtdelucca@geisinger.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Paul McCabe, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kaylee Klingensmith</last_name>
+      <phone>412-864-2401</phone>
+      <email>klingensmithk@upmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Anto Bagic, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Mallahan</last_name>
+      <phone>206-744-6324</phone>
+      <email>steph22@uw.edu</email>
+    </contact>
+    <investigator>
+      <last_name>John W Miller, M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://web.emmes.com/study/monead/</url>
+    <description>MONEAD Study Website</description>
+  </link>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 20, 2015</lastchanged_date>
+  <firstreceived_date>November 9, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>kmeador@stanford.edu</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Epilepsy</keyword>
+  <keyword>Pregnancy</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anticonvulsants</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

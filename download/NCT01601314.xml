@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="671">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01601314</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MAGNA</org_study_id>
+    <secondary_id>2011-006301-10</secondary_id>
+    <nct_id>NCT01601314</nct_id>
+  </id_info>
+  <brief_title>Perioperative Magnesium Sulphate as a Cerebral Protector in Neurosurgical Patients</brief_title>
+  <acronym>MAGNA</acronym>
+  <official_title>Perioperative Magnesium Sulphate as a Cerebral Protector in Neurosurgical Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sara Varea</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fundacion Clinic per a la Recerca Biomédica</source>
+  <oversight_info>
+    <authority>Spain: Spanish Agency of Medicines</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the relationship between magnesium sulphate
+      administration and levels of S100B protein in serum of patients undergoing supratentorial
+      brain parenchymal resection.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2012</start_date>
+  <completion_date type="Anticipated">February 2016</completion_date>
+  <primary_completion_date type="Anticipated">February 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Serum S100B protein</measure>
+    <time_frame>2 hours after the end of the surgery</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum S100B protein</measure>
+    <time_frame>1 hour before surgery; daily postoperative until day 10.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Specific Neuronal Enolase (SNE)</measure>
+    <time_frame>1 hour before surgery; 2 hours after end of surgery; every 48 hours until day 10</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement on Magnetic Resonance Imaging</measure>
+    <time_frame>within the month prior to surgery; early postoperative; 6 months postoperative</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement on Neuropsychological Assessment</measure>
+    <time_frame>within the month prior to surgery; early postoperative; 1, 6 and 12 months postoperative</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glasgow Outcome Scale</measure>
+    <time_frame>6 and 12 month postoperative</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>6 and 12 month postoperative</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apolipoprotein E genotype</measure>
+    <time_frame>1 hour before surgery</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Seizures (Incl Subtypes)</condition>
+  <condition>Brain Tumor</condition>
+  <arm_group>
+    <arm_group_label>magnesium sulphate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patients who are going to receive Magnesium Sulphate</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients who are going to receive Sodium Chloride 0.9%</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Magnesium Sulfate</intervention_name>
+    <description>At the beginning of the neurosurgery, the subjects are going to receive one 4gr bolus in Sodium Chloride 100 mL, lasting 20 minutes, intravenously.
+After that, a intravenously perfusion of Magnesium Sulfate 20 gr, in Sodium Chloride 1000 mL, lasting 24 hours, will be started.</description>
+    <arm_group_label>magnesium sulphate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sodium Chloride</intervention_name>
+    <description>At the beginning of the neurosurgery, the subjects are going to receive a bolus of Sodium Chloride 100 mL, lasting 20 minutes, intravenously.
+After that, a intravenously perfusion of Sodium Chloride 1000 mL, lasting 24 hours, will be started.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male and females older than 18 years.
+
+          -  Undergoing supratentorial parenchyma resection surgery.
+
+          -  Capable of collaborate on probes and explorations included in the study.
+
+          -  Signature the written informed consent form.
+
+        Exclusion Criteria:
+
+          -  Life expectancy less than 12 months due to the suspected histological type of tumour.
+
+          -  Hypothalamic-pituitary axis illness.
+
+          -  Presence of Melanoma previously.
+
+          -  Glomerular filtration rate less than 60 mL/min.
+
+          -  Thyroid or parathyroid glands pathology.
+
+          -  Myasthenia gravis.
+
+          -  Respiratory depression.
+
+          -  Pregnancy or breastfeeding.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neus Fabregas, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Clinic of Barcelona</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Neus Fabregas, MD PhD</last_name>
+    <phone>+34932275400</phone>
+    <email>FABREGAS@clinic.ub.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Isabel Gracia, MD</last_name>
+    <phone>+34932245400</phone>
+    <email>IGRACIA@clinic.ub.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Clinic of Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neus Fabregas, PhD MD</last_name>
+      <email>FABREGAS@clinic.ub.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Isabel Gracia, MD</last_name>
+      <email>IGRACIA@clinic.ub.es</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Neus Fabrega, PhD MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 17, 2015</lastchanged_date>
+  <firstreceived_date>May 10, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Fundació Clínic per la Recerca Biomèdica</investigator_affiliation>
+    <investigator_full_name>Sara Varea</investigator_full_name>
+    <investigator_title>Clinical Research Manager</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Magnesium Sulfate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

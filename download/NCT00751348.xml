@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1287">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00751348</url>
+  </required_header>
+  <id_info>
+    <org_study_id>110876</org_study_id>
+    <nct_id>NCT00751348</nct_id>
+  </id_info>
+  <brief_title>Immunogenicity &amp; Safety Study of GSK Biologicals' Combined Measles-mumps-rubella-varicella Vaccine 208136</brief_title>
+  <official_title>Immunogenicity &amp; Safety Study of GSK Biologicals' Combined Measles-mumps-rubella-varicella Vaccine 208136</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GlaxoSmithKline</source>
+  <oversight_info>
+    <authority>South Korea: Korea Food and Drug Administration (KFDA)</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 3b study is being conducted for the purpose of registration of the GSK208136
+      vaccine in Korea.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2008</start_date>
+  <completion_date type="Actual">May 2010</completion_date>
+  <primary_completion_date type="Actual">May 2010</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Seroconversion rates for measles, mumps, rubella and varicella</measure>
+    <time_frame>approximately 42-56 days after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Measles, mumps, rubella and varicella antibody titres</measure>
+    <time_frame>42-56 days after vaccination</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of solicited local symptoms (injection site redness, pain and swelling)</measure>
+    <time_frame>within four days after vaccination (Day 0-3)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of solicited general symptoms in terms of fever, rash, any sign of meningitis including febrile convulsion and parotitis</measure>
+    <time_frame>within 43 days after each vaccination (Day 0-42)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of unsolicited symptoms</measure>
+    <time_frame>within 43 days after vaccination (Day 0-42)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of serious adverse events</measure>
+    <time_frame>from the study vaccine dose up to study end</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">475</enrollment>
+  <condition>Rubella</condition>
+  <condition>Varicella</condition>
+  <condition>Mumps</condition>
+  <condition>Measles</condition>
+  <condition>Measles-Mumps-Rubella-Varicella Vaccine</condition>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PriorixTM</intervention_name>
+    <description>Subcutaneous administration in left upper arm</description>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>VarilrixTM</intervention_name>
+    <description>Subcutaneous administration in right upper arm</description>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>GSK Biologicals' vaccine 208136</intervention_name>
+    <description>Subcutaneous injection in left upper arm</description>
+    <arm_group_label>Group A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects who the investigator believes that their parents/guardians can and will
+             comply with the requirements of the protocol should be enrolled in the study.
+
+          -  A male or female between, and including 11 and 24 months of age, at the time of the
+             vaccination.
+
+          -  Written informed consent obtained from the parent or guardian of the subject.
+
+          -  Healthy subjects as established by medical history and clinical examination before
+             entering into the study.
+
+        Exclusion Criteria:
+
+          -  Use of any investigational or non-registered product (drug or vaccine) other than the
+             study vaccine(s) within 30 days preceding the dose of study vaccine, or planned use
+             during the study period.
+
+          -  Chronic administration (defined as more than 14 days) of immunosuppressants or other
+             immune-modifying drugs within six months prior to the vaccine dose.
+
+          -  Administration of immunoglobulins and/or any blood products during the six months
+             before entering the study or planned administration during the study period.
+
+          -  Planned administration/ administration of a vaccine not foreseen by the study
+             protocol within 30 days prior to until 42 days after the study vaccine dose with the
+             exception of inactivated vaccines such as pneumococcal, Haemophilus influenzae type b
+             conjugate vaccines, inactivated influenza, hepatitis A or B vaccine or
+             diphtheria/tetanus-containing vaccines which can be administered up to eight days
+             before the study vaccine dose.
+
+          -  Previous vaccination against measles, mumps, rubella and/or varicella.
+
+          -  History of measles, mumps, rubella and/or varicella/zoster diseases.
+
+          -  Known exposure to measles, mumps, rubella and/or varicella within 30 days prior to
+             study start.
+
+          -  Any confirmed or suspected immunosuppressive or immunodeficient condition, including
+             human immunodeficiency virus (HIV) infection.
+
+          -  A family history of congenital or hereditary immunodeficiency.
+
+          -  History of allergic disease or reactions likely to be exacerbated by any component of
+             the vaccine(s), including systemic hypersensitivity to neomycin.
+
+          -  Major congenital defects or serious chronic illness.
+
+          -  Acute disease at the time of enrolment.
+
+          -  Rectal temperature ≥ 38°C or axillary temperature ≥ 37.5°C at the time of
+             vaccination.
+
+          -  Residence in the same household as a high risk person e.g.:
+
+               -  New-born infants (0-4 weeks of age)
+
+               -  Pregnant women who have a negative history of chickenpox
+
+               -  Persons with known immunodeficiency
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>11 Months</minimum_age>
+    <maximum_age>24 Months</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>GSK Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>GlaxoSmithKline</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Bucheon-si,</city>
+        <zip>420-767</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Daejeon</city>
+        <zip>301-723</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Gwangju</city>
+        <zip>501-717</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>GyeongSangNam-do</city>
+        <zip>641-560</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Iksan</city>
+        <zip>570-711</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>400-711</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Jeonju Jeonbuk</city>
+        <zip>561-712</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>130-702</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>150-719</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>150-950</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Uijeongbu, Kyonggi-do</city>
+        <zip>480-130</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>GSK Investigational Site</name>
+      <address>
+        <city>Wonju-si Kangwon-do</city>
+        <zip>220-701</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>August 2011</verification_date>
+  <lastchanged_date>January 12, 2012</lastchanged_date>
+  <firstreceived_date>September 10, 2008</firstreceived_date>
+  <responsible_party>
+    <name_title>Cheri Hudson; Clinical Disclosure Advisor</name_title>
+    <organization>GSK Clinical Disclosure</organization>
+  </responsible_party>
+  <keyword>second year of life</keyword>
+  <keyword>one-dose schedule</keyword>
+  <keyword>varicella</keyword>
+  <keyword>rubella</keyword>
+  <keyword>measles</keyword>
+  <keyword>mumps</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Chickenpox</mesh_term>
+    <mesh_term>Herpes Zoster</mesh_term>
+    <mesh_term>Measles</mesh_term>
+    <mesh_term>Mumps</mesh_term>
+    <mesh_term>Rubella</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

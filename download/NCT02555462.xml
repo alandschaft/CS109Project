@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="329">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02555462</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KEK-ZH-NR.2015-0099</org_study_id>
+    <nct_id>NCT02555462</nct_id>
+  </id_info>
+  <brief_title>Real-Ear Measurement (REM) and Test Box System Integration Into Fitting Software</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Phonak AG, Switzerland</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Phonak AG, Switzerland</source>
+  <oversight_info>
+    <authority>Switzerland: Competent Ethics Committee Zuerich</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Integration of the REM-verification within the fitting workflow will enable the hearing care
+      professional to easily run real ear measurements. The purpose of the two study parts is to
+      prove that an integrated cooperative system, consisting of fitting software and measurement
+      system, matches desired responses for certain stimuli faster, more reliably and more
+      precisely at the ear drums of hearing instrument wearers than current best practice
+      processes.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2015</start_date>
+  <primary_completion_date type="Anticipated">January 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Single Group Assignment, Masking: Open Label</study_design>
+  <primary_outcome>
+    <measure>Distance (mm) from probe tube to eardrum measurement</measure>
+    <time_frame>1 month</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Precise of the Probe Tube placement</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Procedure time (min) of fitting workflow including Real Ear measurement</measure>
+    <time_frame>2 month</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>In addition to the outcome measurement &quot;time&quot; (in minutes) further outcome measurements can be obtained due to the performed real ear measurement procedure itself.
+Data that give information pertaining to test reliability (in dB) and precision of hearing aid fitting (in dB).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Subjective rating of unpleasantness (0 = not unpleasant at all, 10 = very unpleasant)</measure>
+    <time_frame>1 month</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Pleasantness during the probe tube placement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire about perceived annoyance</measure>
+    <time_frame>2 month</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Perceived annoyance of the hearing care professional and the test subject measured with a questionnaire including rating scales for stessful and boring.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">205</enrollment>
+  <condition>Validation Studies</condition>
+  <arm_group>
+    <arm_group_label>Real-Ear Measurement</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study arm goes through a comparative test run followed by a comparative hearing aid fitting.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Real-Ear Measurement system integrated in hearing aid fitting software</intervention_name>
+    <description>The subjects individual response of the ear canal gets measured with the help of a probe tube and a following hearing aid fitting.</description>
+    <arm_group_label>Real-Ear Measurement</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Clean and healthy ear canal, eardrum and pinna
+
+          -  Ability to keep current position (of head and body) during a period of about 5
+             minutes while seated.
+
+        Exclusion Criteria:
+
+          -  Ear infections
+
+          -  Ear wax in the ear
+
+          -  Hyperacusis
+
+          -  Pacemaker
+
+          -  Tremor
+
+          -  Disability to keep position.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>67 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Phonak AG</name>
+      <address>
+        <city>Stäfa</city>
+        <state>Zürich</state>
+        <zip>8712</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martina Wolf, B. Sc.</last_name>
+      <phone>0041 058 928 86 79</phone>
+      <email>Martina.Wolf@sonova.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>September 2015</verification_date>
+  <lastchanged_date>September 18, 2015</lastchanged_date>
+  <firstreceived_date>September 14, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

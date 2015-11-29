@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="639">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01730001</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NLA-3104-03/04</org_study_id>
+    <nct_id>NCT01730001</nct_id>
+  </id_info>
+  <brief_title>Early Versus Late Intubation Trial in Physician Manned Emergency Medical Services</brief_title>
+  <acronym>ELITE</acronym>
+  <official_title>A Prospective Randomized Controlled Trial Comparing Competent EARLY-intubation to LATE-intubation in Patients With Prehospital GCS &lt; 9 and Short Transport Time to Hospital.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Norwegian Air Ambulance Foundation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Norwegian Air Ambulance Foundation</source>
+  <oversight_info>
+    <authority>Norway: Regional Ethics Commitee</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study looks at advanced airway management in critically ill or injured patients treated
+      by physician manned emergency medical services, comparing early (on-scene) intubation to
+      late (emergency department) intubation.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The ELITE trial is a prospective randomized controlled trial (RCT) to compare competent
+      EARLY-intubation to LATE-intubation in patients with on-scene Glasgow Coma Scale (GCS) &lt; 9
+      and short ambulance transport times (&lt; 20 min) to hospital.
+
+      The study aims to establish if advanced airway management with endotracheal intubation (ETI)
+      in the field by specially trained Emergency Medical Services (EMS) physicians - compared to
+      endotracheal intubation (ETI) performed by physicians in the emergency department in the
+      same group - improves outcome in terms of 30-day mortality, degree of disability at
+      discharge, complications and length of hospital stay, and neurologic outcome at 6 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Suspended</overall_status>
+  <why_stopped>
+    Change in study protocol, needs new ethical consideration.
+  </why_stopped>
+  <start_date>September 2013</start_date>
+  <completion_date type="Anticipated">December 2015</completion_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>30 days mortality after injury or illness.</measure>
+    <time_frame>30 days after illness or injury</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Dead or alive</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neurologic outcome at 6 months after injury or illness.</measure>
+    <time_frame>6 months after illness or injury</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Neurologic outcome will be assessed using glascow outcome scores (GOS-E)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Intubation success rates and airway management complications for the entire cohort and for key subsets</measure>
+    <time_frame>up to 6 months after illness or injury</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay, complications and degree of disability at discharge.</measure>
+    <time_frame>up to 6 months after illness or injury</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of adverse effects like cardiovascular complications (e.g. bradycardia, hypotension, asystole), and respiratory complications (e.g. hypoxia, pneumothorax).</measure>
+    <time_frame>up to 6 months after illness or injury</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Trauma</condition>
+  <condition>Craniocerebral Trauma</condition>
+  <condition>Intracerebral Hemorrhage</condition>
+  <condition>Seizures</condition>
+  <condition>Unconsciousness</condition>
+  <arm_group>
+    <arm_group_label>Early Intubation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Early intubation is defined as prehospital intubation on the scene of the patient illness/injury, or where the EMS physician first meets the patient (e.g en route to hospital). Intubation includes drug assisted and/or rapid sequence intubation (RSI) with endotracheal tube.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Late intubation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Late intubation is defined as on-scene prehospital high-flow (&gt; 10 L/min) supplemental oxygen by mask, assisted bag-mask-ventilation by EMS physician if required and stable recovery position during transport to hospital. Intubation should be done on arrival in the emergency department.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Early Intubation</intervention_name>
+    <arm_group_label>Early Intubation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Late intubation</intervention_name>
+    <arm_group_label>Late intubation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult patients (&gt; 18 years)
+
+          -  Initial GCS &lt; 9 independent of cause.
+
+          -  Intact airway reflexes and no impending airway obstruction.
+
+          -  Located &lt; 20 min ambulance transport time from nearest hospital emergency department.
+
+        Exclusion Criteria:
+
+          -  Pediatric patients (under 18 years).
+
+          -  Primary cardiorespiratory arrest (of non-traumatic / medical cause).
+
+          -  Planned helicopter transport to hospital.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Geir A Sunde, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Norwegian Air Ambulance Foundation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Stephen JM Sollid, MD, PhD, Ass.Prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>Norwegian Air Ambulance Foundation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hans M Lossius, MD, PhD, Prof</last_name>
+    <role>Study Director</role>
+    <affiliation>Norwegian Air Ambulance Foundation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Espen Fevang, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Norwegian Air Ambulance Foundation</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Haukeland University Hospital</name>
+      <address>
+        <city>Bergen</city>
+        <zip>5021</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Norwegian Air Ambulance Foundation</name>
+      <address>
+        <city>Drøbak</city>
+        <zip>1441</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <link>
+    <url>http://www.norskluftambulanse.no</url>
+    <description>Norwegian Air Ambulance Foundation</description>
+  </link>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 25, 2013</lastchanged_date>
+  <firstreceived_date>November 10, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cerebral Hemorrhage</mesh_term>
+    <mesh_term>Craniocerebral Trauma</mesh_term>
+    <mesh_term>Unconsciousness</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

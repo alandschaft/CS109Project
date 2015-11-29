@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="254">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00938431</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SP0847</org_study_id>
+    <secondary_id>2011-001558-27</secondary_id>
+    <nct_id>NCT00938431</nct_id>
+  </id_info>
+  <brief_title>A Multicenter, Open-Label Study To Investigate The Safety And Pharmacokinetics Of Lacosamide In Children With Partial Seizures</brief_title>
+  <official_title>A Multicenter, Open-Label Study To Investigate The Safety, Tolerability, And Pharmacokinetics Of Lacosamide (LCM) Oral Solution (Syrup) As Adjunctive Therapy In Children With Partial-Onset Seizures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Mexico: Ministry of Health</authority>
+    <authority>Belgium: Federal Agency for Medicinal Products and Health Products</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and pharmacokinetics of LCM syrup in
+      children ages 1 month-17 years with uncontrolled partial seizures when added to 1 to 3 other
+      antiepileptic drugs (AEDs) seizure medications.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Six subjects aged 5-11 will initially be enrolled at the 8 mg/kg/day dose level. Upon
+      completion of the trial for these subjects, pharmacokinetic and safety data will be analyzed
+      to determine the target dose for the remaining subjects (either 8, 10 or 12 mg/kg/day).
+      Depending on the selected target dose, different age-based Cohorts of subjects will be
+      enrolled. LCM will be increased 2 mg/kg/day per week until the target dose or maximum dose
+      able to be tolerated is achieved.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2009</start_date>
+  <completion_date type="Actual">July 2014</completion_date>
+  <primary_completion_date type="Actual">July 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Pharmacokinetics Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Number of subjects that report at least one Treatment-emergent Adverse Event during the study (approximately 13 weeks)</measure>
+    <time_frame>13 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean LCM plasma concentration at Visit 5 (Day 27/28) or Early Termination</measure>
+    <time_frame>Visit 5 (Day 27/28) or Early Termination</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean SPM 12809 plasma concentration at Visit 5 (Day 27/28) or Early Termination</measure>
+    <time_frame>Visit 5 (Day 27/28) or Early Termination</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in seizure frequency from Baseline to End of Treatment</measure>
+    <time_frame>From Baseline to End of Treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>For assessment of the Clinical Global Impression of Change, the investigator should provide his/her assessment of the subject's clinical status, compared to Baseline (Visit 1), including an evaluation of seizure frequency and intensity, the occurrence of AEs, and subject's functional status.
+The investigator will be asked to check the number that best describes the subject's condition over the past 4 weeks compared to Baseline:
+Very much improved
+Much improved
+Minimally improved
+No Change
+Minimally worse
+Much worse
+Very much worse</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Caregiver Global Impression of Change score at Visit 5 (Day 27/28) or Early Termination</measure>
+    <time_frame>Visit 5 (Day 27/28) or Early Termination</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>For the assessment of the Caregiver Global Impression of Change, the caregiver (including parent/legal guardian) should provide his/her assessment of the subject's clinical status,compared to Baseline (Visit 1), including an evaluation of seizure frequency and intensity, the occurrence of AEs, and subject's functional status.
+The caregiver will be asked to check the number that best describes the subject's condition over the past 4 weeks compared to Baseline:
+Very much improved
+Much improved
+Minimally improved
+No change
+Minimally worse
+Much worse
+Very much worse</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean in Clinical Global Impression of Change score at Visit 5 (Day 27/28) or Early Termination</measure>
+    <time_frame>Visit 5 (Day 27/28) or Early Termination</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">47</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Lacosamide - Age 5 - 11 years (up to 8 mg/kg/day))</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 1 (Age 5 - 11 years)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lacosamide - (Age 12 - 17 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 2 (Age 12 - 17 years); 8 mg/kg/day, 10 mg/kg/day, or 12 mg/kg/day.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lacosamide (Age 2 - 4 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 3 (Age 2 - 4 years); 8 mg/kg/day, 10 mg/kg/day, or 12 mg/kg/day.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lacosamide (Age 5 - 11 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 4 (Age 5 - 11 years); 10 mg/kg/day or 12 mg/kg/day.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lacosamide (Age 1 month - &lt; 2 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 5 ((Age 1 month - &lt; 2 years); 8 mg/kg/day, 10 mg/kg/day, or 12 mg/kg/day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lacosamide</intervention_name>
+    <description>Lacosamide oral solution (syrup) 8 mg/kg/day, 10 mg/kg/day, and/or 12 mg/kg/day.
+Depending on the target dose, treatment duration can last up to 42 days.</description>
+    <arm_group_label>Lacosamide - Age 5 - 11 years (up to 8 mg/kg/day))</arm_group_label>
+    <arm_group_label>Lacosamide - (Age 12 - 17 years)</arm_group_label>
+    <arm_group_label>Lacosamide (Age 2 - 4 years)</arm_group_label>
+    <arm_group_label>Lacosamide (Age 5 - 11 years)</arm_group_label>
+    <arm_group_label>Lacosamide (Age 1 month - &lt; 2 years)</arm_group_label>
+    <other_name>Vimpat®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject is male or female between 1 month and 17 years of age inclusive
+
+          -  Subject's Body Mass Index (BMI) is within the 5th to 95th percentile for his/her age
+             group
+
+          -  Subject has a diagnosis of epilepsy with partial-onset seizures
+
+          -  Subject has been observed to have uncontrolled partial-onset seizures after an
+             adequate course of treatment with at least 2 anti-epileptic drugs (AEDs)
+             (concurrently or sequentially)
+
+          -  Subject has been observed to have at least 2 countable seizures in the 4-week period
+             prior to Screening
+
+          -  Subject is on a stable dosage regimen of 1 to 3 AEDs
+
+        Exclusion Criteria:
+
+          -  Subject is currently participating or has participated within the last 2 months in
+             any study of an investigational drug or experimental device
+
+          -  Subject with seizures that are uncountable due to clustering during the 8-week period
+             prior to study entry
+
+          -  Subject is on a ketogenic or other specialized diet
+
+          -  Subject has a history of primary generalized epilepsy
+
+          -  Subject has a history of status epilepticus within the 6-month period prior to
+             Screening
+
+          -  Subject is receiving concomitant treatment with felbamate or has received previous
+             felbamate therapy within the last 6 months prior to Screening
+
+          -  Subject has taken or is currently taking vigabatrin
+
+          -  Subject is taking monoamine oxidase (MAO) inhibitors or narcotic analgesics
+
+          -  Subject has a lifetime history of suicide attempt, or has suicidal ideation in the
+             past 6 months
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>1 Month</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Clinical Trial Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>+1 877 822 9493 (UCB)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>025</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>002</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>012</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>019</name>
+      <address>
+        <city>Wellington</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>006</name>
+      <address>
+        <city>St Paul</city>
+        <state>Minnesota</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>008</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>015</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>005</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>001</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>016</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>004</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>026</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>022</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>020</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>201</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>200</name>
+      <address>
+        <city>Edegem</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>202</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>101</name>
+      <address>
+        <city>Culiacan</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>104</name>
+      <address>
+        <city>Guadalajara</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>105</name>
+      <address>
+        <city>Monterrey</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>103</name>
+      <address>
+        <city>San Luis Potosi</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Mexico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2014</verification_date>
+  <lastchanged_date>September 19, 2014</lastchanged_date>
+  <firstreceived_date>July 2, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lacosamide</keyword>
+  <keyword>Vimpat®</keyword>
+  <keyword>Children</keyword>
+  <keyword>Epilepsy</keyword>
+  <keyword>Seizures</keyword>
+  <keyword>Anti-epileptic</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lacosamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

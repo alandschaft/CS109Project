@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="621">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02394847</url>
+  </required_header>
+  <id_info>
+    <org_study_id>14835</org_study_id>
+    <nct_id>NCT02394847</nct_id>
+  </id_info>
+  <brief_title>Does Repetitive Electroconvulsive Therapies Affect Propofol Induction Dose ?</brief_title>
+  <official_title>Does Repetitive Electroconvulsive Therapies Affect Propofol Induction Dose?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ankara University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ankara University</source>
+  <oversight_info>
+    <authority>Turkey: Ministry of Health</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Electroconvulsive therapy has been used for many years for different types of physiatric
+      diseases. General anesthesia is used during the procedure. Different anesthesiologists use
+      different regimens. The duration of seizure is important in this procedure. The
+      investigators evaluated the relationship between the dose of propofol and the number of
+      electroconvulsive therapy and duration of the seizure.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2012</start_date>
+  <completion_date type="Actual">December 2012</completion_date>
+  <primary_completion_date type="Actual">December 2012</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Screening</study_design>
+  <primary_outcome>
+    <measure>dose of propofol</measure>
+    <time_frame>10 seconds</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>duration of seizure</measure>
+    <time_frame>10 seconds</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">10</enrollment>
+  <condition>Physiatrics</condition>
+  <condition>Electroconvulsive Therapy</condition>
+  <arm_group>
+    <arm_group_label>propofol</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>dose of propofol according to the number of therapies</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>propofol</intervention_name>
+    <arm_group_label>propofol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients required electroconvulsive therapy for the physiatric disease
+
+        Exclusion Criteria:
+
+          -  Patients refusal
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>March 2015</verification_date>
+  <lastchanged_date>March 17, 2015</lastchanged_date>
+  <firstreceived_date>March 8, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ankara University</investigator_affiliation>
+    <investigator_full_name>CIGDEM YILDIRIM GUCLU</investigator_full_name>
+    <investigator_title>specialist anesthesiologist</investigator_title>
+  </responsible_party>
+  <keyword>propofol</keyword>
+  <keyword>electroconvulsive therapy</keyword>
+  <keyword>anesthesia</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Propofol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

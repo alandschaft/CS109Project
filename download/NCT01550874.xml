@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="642">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01550874</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REB 12-035</org_study_id>
+    <nct_id>NCT01550874</nct_id>
+  </id_info>
+  <brief_title>STEP: Enhanced Physical Activity in Children and Youth With Epilepsy</brief_title>
+  <acronym>STEP</acronym>
+  <official_title>STEP: Enhanced Physical Activity in Children and Youth With Epilepsy: Developing Evidence of Impacts on Health, Functioning, Psychological Wellbeing, and Quality of Life</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <authority>Canada: Health Canada</authority>
+    <authority>Canada: Ethics Review Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hypothesis: The investigators hypothesize that a pedometer-based motivated 6-months walking
+      program will result in sustainable enhanced PA.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Enhanced PA will in turn positively influence health, social participation and QoL of
+      sedentary CWE through multiple pathways. These will involve biomedical factors (i.e.
+      attention deficit, depression, anxiety and sleep disorders); and contextual environmental
+      and personal factors that include psychosocial factors at the child, family and community
+      level (Figure 1).21 These factors may include family stressors, social support,
+      self-efficacy, and autonomy.22 We expect that enhanced, sustained PA will improve health,
+      functioning and QoL of CWE through its potential neuroprotective and circadian rhythm
+      regulatory effects, and by increasing social participation, promoting a positive outlook on
+      life and self-image, decreasing worries and concerns, decreasing emotional problems and the
+      concealment of epilepsy, and delaying secondary health complications.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2012</start_date>
+  <completion_date type="Anticipated">March 2018</completion_date>
+  <primary_completion_date type="Anticipated">March 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Single Group Assignment, Masking: Single Blind (Outcomes Assessor)</study_design>
+  <primary_outcome>
+    <measure>Quality of Life (CHEQOL-25)</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Physical Activity</condition>
+  <condition>Epilepsy</condition>
+  <condition>Seizures</condition>
+  <condition>Children</condition>
+  <condition>Motivation</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Sedentary children with epilepsy will maintain step count for 6 months and then be asked to increase the step count.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Sedentary Children with epilepsy, increase the step count weekly with phon-based motivational coaching strategies for 6 months and then check sustainability without further motivational support for another 6 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Motivation</intervention_name>
+    <description>Participants in the experimental group will be motivated by augmented behavior modification strategies aiming to increase performance by: (i) having access to the pedometer web page that allows them to view their automatically calculated goals, and get feedback about performance toward goals</description>
+    <arm_group_label>Experimental Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  ages of 8 - 14 years
+
+          -  has epilepsy, as confirmed by a pediatric neurologist with at least 1 seizures in the
+             previous 12 months
+
+          -  must be ambulatory; (iv) understands English or French
+
+          -  functions at a grade 3 level as judged by parents
+
+          -  not involved in regular competitive physical sports
+
+          -  able and willing to complete the web-based questionnaires.
+
+        Exclusion Criteria:
+
+          -  anyone not between ages of 8 and 14
+
+          -  patient must have epilepsy
+
+          -  unable to walk
+
+          -  non english or french speaking
+
+          -  functioning below a grade 3 level
+
+          -  already involved in regular physical activity
+
+          -  unable to complete web-based questionnaires
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>8 Years</minimum_age>
+    <maximum_age>14 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gabriel M Ronen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gabriel M Ronen, MD</last_name>
+    <phone>905-521-2100</phone>
+    <phone_ext>73392</phone_ext>
+    <email>roneng@mcmaster.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sarah L Mitchell</last_name>
+    <phone>905-521-2100</phone>
+    <phone_ext>73392</phone_ext>
+    <email>smitch@mcmaster.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>McMaster Children's Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8S 4K1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gabriel M Ronen, MD</last_name>
+      <phone>905-521-2100</phone>
+      <phone_ext>73392</phone_ext>
+      <email>roneng@mcmaster.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Helena Viveiros</last_name>
+      <email>viveiro@mcmaster.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ronen M. Ronen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brian Timmons, PHD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David Streiner, PHD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Steven Bray, PHD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Peter Rosenbaum, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Eastern Ontario</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2015</verification_date>
+  <lastchanged_date>September 22, 2015</lastchanged_date>
+  <firstreceived_date>March 8, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Physical Activity</keyword>
+  <keyword>Epilepsy</keyword>
+  <keyword>Children</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

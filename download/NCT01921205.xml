@@ -1,0 +1,1859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="163">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01921205</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SP0969</org_study_id>
+    <secondary_id>2012-004996-38</secondary_id>
+    <nct_id>NCT01921205</nct_id>
+  </id_info>
+  <brief_title>Study to Investigate Lacosamide as Add-on Therapy in Subjects ≥4 Years to &lt;17 Years of Age With Partial Onset Seizures</brief_title>
+  <official_title>A Multicenter, Double Blind, Randomized, Placebo Controlled, Parallel Group Study to Investigate the Efficacy and Safety of Lacosamide as Adjunctive Therapy in Subjects With Epilepsy ≥4 Years to &lt;17 Years of Age With Partial Onset Seizures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Argentina: Ministry of Health</authority>
+    <authority>Colombia: Ministry of Health and Social Protection</authority>
+    <authority>Belgium: Federal Agency for Medicinal Products and Health Products</authority>
+    <authority>France: Ministry of Health</authority>
+    <authority>Germany: Ministry of Health</authority>
+    <authority>Italy: Ministry of Health</authority>
+    <authority>Spain: Ministry of Health</authority>
+    <authority>Switzerland: Federal Office of Public Health</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>Israel: Ministry of Health</authority>
+    <authority>Czech Republic: State Institute for Drug Control</authority>
+    <authority>Hungary: Ministry of Health, Social and Family Affairs</authority>
+    <authority>Poland: Ministry of Health</authority>
+    <authority>Bulgaria: Ministry of Health</authority>
+    <authority>Turkey: Ministry of Health</authority>
+    <authority>Estonia: The State Agency of Medicine</authority>
+    <authority>Latvia: State Agency of Medicines</authority>
+    <authority>Lithuania: State Medicine Control Agency - Ministry of Health</authority>
+    <authority>Russia: Ministry of Health of the Russian Federation</authority>
+    <authority>Slovakia: State Institute for Drug Control</authority>
+    <authority>Serbia: Medicines and Medical Devices Agency</authority>
+    <authority>Thailand: Research Institute for Health Sciences</authority>
+    <authority>Japan: Pharmaceuticals and Medical Devices Agency</authority>
+    <authority>Taiwan : Food and Drug Administration</authority>
+    <authority>Korea: Food and Drug Administration</authority>
+    <authority>Australia: Department of Health and Ageing Therapeutic Goods Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study to evaluate the efficacy of Lacosamide (LCM) administered in addition to 1 to ≤3 other
+      Anti-Epileptic Drugs in subjects with epilepsy ≥4 years to &lt;17 years of age who currently
+      have uncontrolled partial onset seizures.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objective of this study is to evaluate the efficacy of LCM administered
+      concomitantly with 1 to ≤3 Anti-Epileptic Drugs (AEDs) in subjects with epilepsy ≥4 years to
+      &lt;17 years of age who currently have uncontrolled partial onset seizures.
+
+      The secondary objective is to evaluate the safety and tolerability of LCM in subjects ≥4
+      years to &lt;17 years of age.
+
+      An additional objective is to evaluate the pharmacokinetics (PK) of LCM in subjects ≥4 years
+      to &lt;17 years of age.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2013</start_date>
+  <completion_date type="Anticipated">December 2016</completion_date>
+  <primary_completion_date type="Anticipated">December 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Change in partial onset seizure frequency per 28 days from Baseline to the Maintenance Period</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of responders, ≥ 50% reduction in partial onset seizure frequency from Baseline to the Maintenance Period</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of responders, where a responder is a subject experiencing a 50 % or greater reduction in partial onset seizure frequency from Baseline to the Maintenance Period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects experiencing a ≥25 % to &lt;50 %, 50 % to 75 %, or &gt;75 % reduction in partial onset seizure frequency from Baseline to the end of Maintenance Period</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in partial onset seizure frequency per 28 days from Baseline to the entire treatment (ie, Titration+Maintenance Periods)</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects experiencing a ≥25 % to &lt;50 %, 50 % to 75 %, or &gt;75 % reduction in partial onset seizure frequency from Baseline to the entire treatment (ie, Titration+Maintenance Periods)</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects experiencing no change in partial onset seizure frequency (between &lt;25 % reduction and &lt;25 % increase) from Baseline to the entire treatment (ie, Titration+Maintenance Periods)</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects experiencing an increase in partial onset seizure frequency of ≥25 % from Baseline to the entire treatment (ie, Titration+Maintenance Periods)</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in partial onset seizure frequency per 28 days from Baseline to the entire treatment (ie, Titration+Maintenance Periods) by seizure type</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of seizure free days during the Maintenance Period for subjects who completed the Maintenance Period</measure>
+    <time_frame>Week 7 to Week 16</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who achieved &quot;seizure free&quot; status (yes/no) for subjects who completed the Maintenance Period</measure>
+    <time_frame>Baseline to Week 16 (or last value on treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">308</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Lacosamide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lacosamide</intervention_name>
+    <description>Subjects &lt;30 kg (LCM oral solution): 4 mg/kg - 6 mg/kg BID ( 8mg/kg/day - 12 mg/kg/day)
+Subjects ≥30 kg to &lt;50 kg (LCM oral solution): 3 mg/kg - 4 mg/kg BID (6 mg/kg/day - 8 mg/kg/day)
+Subjects ≥50 kg (LCM tablets): 150 mg - 200 mg BID (300 mg/day - 400 mg/day)</description>
+    <arm_group_label>Lacosamide</arm_group_label>
+    <other_name>Vimpat(R)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Subjects &lt;30 kg (placebo oral solution): 4 mg/kg - 6 mg/kg BID (8 mg/kg/day - 12 mg/kg/day)
+Subjects ≥30 kg to &lt;50 kg (placebo oral solution): 3 mg/kg - 4 mg/kg BID (6 mg/kg/day - 8 mg/kg/day)
+Subjects ≥50 kg (placebo tablets): 150 mg - 200 mg BID (300 mg/day - 400 mg/day)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  An Institutional Review Board (IRB)/Independent Ethics Committee (IEC) approved
+             written Informed Consent form is signed and dated by the parent(s) or legal
+             representative. The Informed Consent form or a specific Assent form, where required,
+             will be signed and dated by minors
+
+          -  Subject/legal representative is considered reliable and capable of adhering to the
+             protocol (eg, able to understand and complete diaries), visit schedule, and
+             medication intake according to the judgment of the investigator
+
+          -  Subject is male or female from ≥4 years to &lt;17 years of age
+
+          -  Subject has a diagnosis of Epilepsy with partial-onset seizures. The results of ≥1
+             prior electroencephalogram (EEG) AND 1 prior magnetic resonance imaging/computerized
+             tomography scan should be consistent with the above diagnosis
+
+          -  Subject has been observed to have uncontrolled partial-onset seizures after an
+             adequate course of treatment (in the opinion of the investigator) with ≥2
+             Anti-Epileptic Drugs (AEDs) (concurrently or sequentially)
+
+          -  Subject must have been observed to have on average ≥2 partial onset seizures per 28
+             days with seizure free phase no longer than 21 days in the 8 week period prior to
+             entry into the Baseline Period. During this study, subjects must have reported ≥2
+             partial onset seizures during the 8 week prospective Baseline Period to be eligible
+             for randomization at Visit 2. (Note: In the case of simple partial onset seizures,
+             only those seizures with motor signs will be counted towards meeting the inclusion
+             criterion.)
+
+          -  Subject is on a stable dosage regimen of 1 to ≤3 AEDs. The daily dosage regimen of
+             concomitant AED therapy must be kept constant for a period of ≥4 weeks prior to the
+             Baseline Period
+
+          -  Vagal nerve stimulation (VNS) is allowed and will not be counted as a concomitant
+             AED. The VNS device must be implanted for ≥6 months before Visit 1, and the device
+             settings must be stable for ≥4 weeks before Visit 1 and be kept stable during the
+             Baseline Period. Use of the VNS device magnet is allowed
+
+        Exclusion Criteria:
+
+          -  Subject has previously participated in this study or subject has been assigned to
+             Lacosamide (LCM) in a previous LCM study
+
+          -  Subject has participated in another study of an investigational medicinal product
+             (IMP) or a medical device within ≤2 months of Visit 1 or is currently participating
+             in another study of an IMP or a medical device
+
+          -  Subject has any medical or psychiatric condition that, in the opinion of the
+             investigator, could jeopardize or would compromise the subject's ability to
+             participate in this study
+
+          -  Subject ≥6 years of age has a lifetime history of suicide attempt (including an
+             actual attempt, interrupted attempt, or aborted attempt), or has suicidal ideation in
+             the past 6 months as indicated by a positive response (&quot;Yes&quot;) to either Question 4 or
+             Question 5 of the Columbia Suicide Severity Rating Scale (C SSRS) at Screening
+
+          -  Subject has a known hypersensitivity to any component of the IMP or has ever received
+             LCM
+
+          -  Female subject who is pregnant or nursing, and/or a female subject of childbearing
+             potential who is not surgically sterile or does not practice 1 highly effective
+             method of contraception (according to International Conference on Harmonisation [ICH]
+             guidance defined as those that result in a failure rate of less than 1% per year when
+             used consistently and correctly), unless sexually abstinent, for the duration of the
+             study. Female subject of childbearing potential taking enzyme inducing antiepileptic
+             drugs (EI AEDs: carbamazepine, phenytoin, barbiturates, primidone, topiramate,
+             oxcarbazepine) who is not surgically sterile or does not practice 1 highly effective
+             method of contraception according to the WHO recommendation (ie, depot
+             medroxyprogesterone acetate, norethisterone enantate, intrauterine devices, combined
+             injectables, and progestogen implants) with administration of EI AEDs OR does not
+             practice 2 combined methods of contraception (ie, combined hormonal contraception
+             plus barrier method with spermicidal agent), unless sexually abstinent, for the
+             duration of the study
+
+          -  Subject has a medical condition that could be expected in the opinion of the
+             investigator to interfere with drug absorption, distribution, metabolism, or
+             excretion
+
+          -  Subject has experienced febrile seizures exclusively. The occurrence of febrile
+             seizures in addition to other unprovoked seizures is not exclusionary
+
+          -  Subject is on a ketogenic or other specialized diet. If the subject was on a
+             specialized diet in the past, they must be off the diet for ≥2 months prior to the
+             Baseline Period
+
+          -  Subject has an alanine aminotransferase (ALT), aspartate aminotransferase (AST), or
+             total bilirubin level ≥2 times the upper limit of normal (ULN), or creatinine
+             clearance less than 30 mL/min
+
+          -  Subject has a clinically relevant ECG abnormality, in the opinion of the investigator
+             (eg, second or third degree heart block at rest or a corrected QT interval [QTc]
+             greater than 450 ms)
+
+          -  Subject has hemodynamically significant congenital heart disease
+
+          -  Subject has an arrhythmic heart condition requiring medical therapy
+
+          -  Subject has a known history of severe anaphylactic reaction or serious blood
+             dyscrasias
+
+          -  Subject has nonepileptic events that could be confused with seizures
+
+          -  Subject has a current diagnosis of Lennox-Gastaut syndrome, primary generalized
+             epilepsy, mixed seizure disorder (partial and primarily generalized seizures), or
+             purely nocturnal seizures
+
+          -  Subject has a history of convulsive status epilepticus ≤2 months prior to the
+             Baseline Period
+
+          -  Subject has been treated with vigabatrin and experienced any vision loss. Subjects
+             who have received vigabatrin in the past must have documentation of an assessment for
+             vision loss prior to study entry or documentation of why visual field testing cannot
+             be performed
+
+          -  Subject has been treated with felbamate and has experienced any serious toxicity
+             issues (defined as liver failure, aplastic anemia) with this treatment. Subjects
+             treated with felbamate for &lt;12 months are excluded. Note: any subject who has been
+             treated with felbamate for ≥12 months and has not experienced serious toxicity issues
+             is eligible
+
+          -  Subject has epilepsy secondary to a progressing cerebral disease or any other
+             progressively neurodegenerative disease, such as Rasmussen syndrome
+
+          -  Subject has a medically documented history of alcohol or drug abuse
+
+          -  Subject has a known cardiac sodium channelopathy, such as Brugada syndrome
+
+          -  Subject has an acute or sub acutely progressive central nervous system disease.
+             Subject has epilepsy secondary to a progressing cerebral disease or any other
+             progressively neurodegenerative disease (malignant brain tumor or Rasmussen Syndrome)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Clinical Trial Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>1 877 822 9493</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>UCB Call Center</last_name>
+    <phone>1 877 822 9493</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>106</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>127</name>
+      <address>
+        <city>Boulder</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>105</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>117</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>103</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>110</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>124</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>112</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>121</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>104</name>
+      <address>
+        <city>Waldorf</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>115</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>120</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>119</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>107</name>
+      <address>
+        <city>Schenectady</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>102</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>640</name>
+      <address>
+        <city>Eugene</city>
+        <state>Oregon</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>113</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>122</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>101</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>114</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>116</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>143</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>140</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aire</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>142</name>
+      <address>
+        <city>Cordoba</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>200</name>
+      <address>
+        <city>Heidelberg West</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>203</name>
+      <address>
+        <city>Herston</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>201</name>
+      <address>
+        <city>Perth</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>202</name>
+      <address>
+        <city>Randwick</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>205</name>
+      <address>
+        <city>South Brisbane</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>304</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>303</name>
+      <address>
+        <city>Edegem</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>300</name>
+      <address>
+        <city>Gent</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>301</name>
+      <address>
+        <city>Hasselt</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>302</name>
+      <address>
+        <city>Jette</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>310</name>
+      <address>
+        <city>Sofia</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>312</name>
+      <address>
+        <city>Sofia</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>173</name>
+      <address>
+        <city>Bogota</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>172</name>
+      <address>
+        <city>Floridablanca</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>171</name>
+      <address>
+        <city>Medellin</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>613</name>
+      <address>
+        <city>Osijek</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>610</name>
+      <address>
+        <city>Rijeka</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>612</name>
+      <address>
+        <city>Zagreb</city>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>321</name>
+      <address>
+        <city>Hradec Kralove</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>320</name>
+      <address>
+        <city>Ostrava-Poruba</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>322</name>
+      <address>
+        <city>Praha 4</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>323</name>
+      <address>
+        <city>Praha 5</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>331</name>
+      <address>
+        <city>Tallinn</city>
+        <country>Estonia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>330</name>
+      <address>
+        <city>Tartu</city>
+        <country>Estonia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>341</name>
+      <address>
+        <city>Angers Cedex 9</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>342</name>
+      <address>
+        <city>Marseille Cedex 20</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>343</name>
+      <address>
+        <city>Toulouse Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>620</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>621</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>622</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>623</name>
+      <address>
+        <city>Tbilisi</city>
+        <country>Georgia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>361</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>362</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>363</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>364</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>360</name>
+      <address>
+        <city>Debrecen</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>367</name>
+      <address>
+        <city>Miskolc</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>366</name>
+      <address>
+        <city>Pecs</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>370</name>
+      <address>
+        <city>Holon</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>371</name>
+      <address>
+        <city>Kfar Saba</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>374</name>
+      <address>
+        <city>Petach Tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>372</name>
+      <address>
+        <city>Tel Aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>373</name>
+      <address>
+        <city>Zerifin</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>384</name>
+      <address>
+        <city>Bologna</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>388</name>
+      <address>
+        <city>Florence</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>387</name>
+      <address>
+        <city>Genova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>380</name>
+      <address>
+        <city>Mantova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>381</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>390</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>393</name>
+      <address>
+        <city>Padova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>383</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>392</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>391</name>
+      <address>
+        <city>Salerno</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>386</name>
+      <address>
+        <city>Verona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>214</name>
+      <address>
+        <city>Cheongju</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>211</name>
+      <address>
+        <city>Daegu</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>210</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>212</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>213</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>215</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>400</name>
+      <address>
+        <city>Riga</city>
+        <country>Latvia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>401</name>
+      <address>
+        <city>Valmiera</city>
+        <country>Latvia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>402</name>
+      <address>
+        <city>Valmiera</city>
+        <country>Latvia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>411</name>
+      <address>
+        <city>Kaunas</city>
+        <country>Lithuania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>561</name>
+      <address>
+        <city>Chihuahua</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>563</name>
+      <address>
+        <city>Guadalajara</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>568</name>
+      <address>
+        <city>Monterrey</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>660</name>
+      <address>
+        <city>Podgorica</city>
+        <country>Montenegro</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>424</name>
+      <address>
+        <city>Bialystok</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>433</name>
+      <address>
+        <city>Gdansk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>432</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>420</name>
+      <address>
+        <city>Kielce</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>422</name>
+      <address>
+        <city>Krakow</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>431</name>
+      <address>
+        <city>Krakow</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>423</name>
+      <address>
+        <city>Poznan</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>425</name>
+      <address>
+        <city>Poznan</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>421</name>
+      <address>
+        <city>Szczecin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>429</name>
+      <address>
+        <city>Tyniec Maly</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>430</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>428</name>
+      <address>
+        <city>Wroclaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>574</name>
+      <address>
+        <city>Bucuresti</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>572</name>
+      <address>
+        <city>Cluj-Napoca</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>578</name>
+      <address>
+        <city>Iasi</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>576</name>
+      <address>
+        <city>Sibiu</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>580</name>
+      <address>
+        <city>Suceava</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>570</name>
+      <address>
+        <city>Timisoara</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>577</name>
+      <address>
+        <city>Timisoara</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>443</name>
+      <address>
+        <city>Kazan</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>444</name>
+      <address>
+        <city>Kazan</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>449</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>440</name>
+      <address>
+        <city>Smolensk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>441</name>
+      <address>
+        <city>St. Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>446</name>
+      <address>
+        <city>St. Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>447</name>
+      <address>
+        <city>Voronezh</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>464</name>
+      <address>
+        <city>Belgrade</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>460</name>
+      <address>
+        <city>Kragujevac</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>461</name>
+      <address>
+        <city>Novi Beograd</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>462</name>
+      <address>
+        <city>Novi Sad</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>463</name>
+      <address>
+        <city>Novi Sad</city>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>470</name>
+      <address>
+        <city>Bardejov</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>473</name>
+      <address>
+        <city>Nitra</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>472</name>
+      <address>
+        <city>Nove Zamky</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>670</name>
+      <address>
+        <city>Ljubljana</city>
+        <country>Slovenia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>480</name>
+      <address>
+        <city>El Palmar</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>481</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>483</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>590</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>220</name>
+      <address>
+        <city>Changhua</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>222</name>
+      <address>
+        <city>Taichung</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>224</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>236</name>
+      <address>
+        <city>Bangkoknoi</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>232</name>
+      <address>
+        <city>Bangkok</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>231</name>
+      <address>
+        <city>Muang</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>233</name>
+      <address>
+        <city>Muang</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>235</name>
+      <address>
+        <city>Pathumwan</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>230</name>
+      <address>
+        <city>Ratchathewi</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>500</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>514</name>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>515</name>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>513</name>
+      <address>
+        <city>Bristol</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>511</name>
+      <address>
+        <city>Leeds</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>512</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>510</name>
+      <address>
+        <city>Sheffield</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Bulgaria</country>
+    <country>Colombia</country>
+    <country>Croatia</country>
+    <country>Czech Republic</country>
+    <country>Estonia</country>
+    <country>France</country>
+    <country>Georgia</country>
+    <country>Hungary</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Latvia</country>
+    <country>Lithuania</country>
+    <country>Mexico</country>
+    <country>Montenegro</country>
+    <country>Poland</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Serbia</country>
+    <country>Slovakia</country>
+    <country>Slovenia</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 6, 2015</lastchanged_date>
+  <firstreceived_date>August 8, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lacosamide</keyword>
+  <keyword>Vimpat</keyword>
+  <keyword>UCB</keyword>
+  <keyword>Epilepsy</keyword>
+  <keyword>Partial Onset Seizures</keyword>
+  <keyword>Pediatric</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lacosamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

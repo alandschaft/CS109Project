@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="749">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01048255</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VX09-765-401</org_study_id>
+    <nct_id>NCT01048255</nct_id>
+  </id_info>
+  <brief_title>Study of VX-765 in Subjects With Treatment-resistant Partial Epilepsy</brief_title>
+  <official_title>A Phase 2, Randomized, Double-blind,Placebo-controlled Study of VX-765 in Subjects With Treatment-resistant Partial Epilepsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vertex Pharmaceuticals Incorporated</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vertex Pharmaceuticals Incorporated</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the safety, tolerability, and efficacy of VX-765
+      in subjects with Treatment-resistant Partial Epilepsy
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2010</start_date>
+  <completion_date type="Actual">November 2010</completion_date>
+  <primary_completion_date type="Actual">November 2010</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Safety and tolerability (vital sign assessments, physical and neurological examinations, laboratory assessments, and adverse events)</measure>
+    <time_frame>18 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent reduction in seizure frequency</measure>
+    <time_frame>6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of subjects with 50% or greater reduction in seizure frequency</measure>
+    <time_frame>6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of subjects that become seizure free</measure>
+    <time_frame>2 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of subjects who discontinue study drug treatment</measure>
+    <time_frame>6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma levels of study drug and other concomitant antiepileptic drugs</measure>
+    <time_frame>13 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Partial Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>VX-765</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VX-765</intervention_name>
+    <description>300mg Oral Tablet, 900mg TID</description>
+    <arm_group_label>VX-765</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects that are male or female aged 18 to 64 years (inclusive) with a body mass
+             index between 18 and 35 (kg/m2)
+
+          -  Subjects must have a diagnosis and history of treatment resistant partial onset
+             seizures for which they are taking 1 to 4 concomitant antiepileptic drugs (AED).
+             Treatment resistance is defined as failure to achieve seizure freedom despite
+             adequate use of 2 different AEDs. All AED doses must remain stable for 4 weeks prior
+             to the Screening Visit and throughout the entire study
+
+          -  Subjects must have had at least 1 electroencephalogram (EEG) consistent with partial
+             epilepsy and a brain magnetic resource imaging (MRI) or computed tomography (CT) scan
+             within 5 years of Screening Visit negative for other confounding conditions
+
+          -  Subjects must have had at least 6 observable partial seizures in 6 weeks prior to
+             randomization, with at least 1 seizure per week during 3 of the 6 weeks within the
+             Baseline Period
+
+          -  Subjects who are male or female must agree to use acceptable contraceptive methods as
+             defined in the protocol
+
+          -  Subjects who are in otherwise good health
+
+        Exclusion Criteria:
+
+          -  Subjects with a history of non-epileptic transient alterations in consciousness
+
+          -  Subjects who have a history of status epilepticus in the past 12 months
+
+          -  Subjects whose seizure frequency cannot be quantified
+
+          -  Subjects who have significant medical illness including kidney, liver, pulmonary or
+             gastrointestinal disease; or unstable or poorly controlled conditions
+
+          -  Subjects who have clinically significant psychiatric illness
+
+          -  Subjects with a positive drug screen (excluding any allowed prescribed medications)
+             and history of alcoholism or drug addiction within past 2 years
+
+          -  Males subjects that have a female partner of childbearing potential who do not agree
+             to use medically approved methods of birth control
+
+          -  Male subjects that have a female partner who is pregnant, nursing, or is planning to
+             become pregnant during the study period, or within 90 days of the last dose of study
+             drug
+
+          -  Female subjects who are pregnant or lactating, or who are of reproductive potential
+             who do not agree to use medically approved birth-control methods
+
+          -  Subjects with a current or prior history of illness precluding them from
+             immunomodulatory therapy (e.g. history of recurrent infections)
+
+          -  Subjects with active hepatitis B, hepatitis C, or human immunodeficiency virus (HIV)
+
+          -  Subjects who have participated in any other clinical trials involving an
+             investigational product or device and have received the last dose of study drug
+             within 45 days or 5 half-lives of the Screening Visit
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chris Wright, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Vertex Pharmaceuticals Incorporated</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Arkansas</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Illinois</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maryland</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maryland</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Missouri</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New Jersey</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pennsylvania</name>
+      <address>
+        <city>Philidelphia</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>December 19, 2013</lastchanged_date>
+  <firstreceived_date>January 8, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsies, Partial</mesh_term>
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

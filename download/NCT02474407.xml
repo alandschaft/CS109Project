@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="722">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02474407</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DZNS-EP-1019</org_study_id>
+    <nct_id>NCT02474407</nct_id>
+  </id_info>
+  <brief_title>A Study to Determine the Bioavailability, Safety and Tolerability of Diazepam Nasal Spray Versus Diazepam Rectal Gel (Diastat®)</brief_title>
+  <official_title>An Open-Label, Randomized, Crossover Pharmacokinetic Study to Determine the Bioavailability, Safety and Tolerability of Single Doses of Diazepam Nasal Spray Versus Diazepam Rectal Gel (Diastat®) in Patients With Refractory Epilepsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Acorda Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Acorda Therapeutics</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-center, open-label, crossover, pharmacokinetic, bioavailability study
+      involving adolescents and adults with refractory (drug-resistant) epilepsy
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To determine the bioavailability of diazepam nasal spray versus diazepam rectal gel
+      (Diastat®) under conditions of use in adolescent and adult persons with epilepsy (PWE)
+      meeting the definition of refractory epilepsy.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2015</start_date>
+  <completion_date type="Anticipated">November 2016</completion_date>
+  <primary_completion_date type="Anticipated">August 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Bio-availability Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum measured plasma concentration (Cmax)</measure>
+    <time_frame>baseline, up to 24 hours post-dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to maximum measured plasma concentration (tmax)</measure>
+    <time_frame>baseline, up to 24 hours post-dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the concentration curve (AUC) values</measure>
+    <time_frame>baseline, up to 24 hours post-dose</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Focused nasal exam</measure>
+    <time_frame>pre-dose (day 1) up to 24 hours post-dose (up to day 31)</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Smell Identification Test (SIT)</measure>
+    <time_frame>day 1 up to day 31</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Taste change questionnaire</measure>
+    <time_frame>up to 24 hours post-dose</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with serious and non-serious adverse events</measure>
+    <time_frame>up to 33 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">122</enrollment>
+  <condition>Refractory Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>diazepam nasal spray/diazepam rectal gel</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One dose of diazepam nasal spray is administered as two intranasal sprays; one in each nostril using a nasal spray device.
+A single rectal dose of diazepam will be administered to subjects according to the Diastat prescribing information.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>diazepam nasal spray</intervention_name>
+    <arm_group_label>diazepam nasal spray/diazepam rectal gel</arm_group_label>
+    <other_name>Diazepam</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>diazepam rectal gel</intervention_name>
+    <arm_group_label>diazepam nasal spray/diazepam rectal gel</arm_group_label>
+    <other_name>Diastat®</other_name>
+    <other_name>AcuDial™</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of refractory epilepsy
+
+          -  Body weight 26 to 111 kilogram (kg) inclusive
+
+          -  Other inclusion criteria apply
+
+        Exclusion Criteria:
+
+          -  Male or female subject who is not surgically sterile or female subject who is less
+             than 2 years postmenopausal, and does not agree to use a highly effective birth
+             control method during the study and up to 3 months after the last dose of
+             investigational product
+
+          -  Female subject who is pregnant, breastfeeding, or planning to become pregnant
+
+          -  Presence or history of any abnormality or illness that may affect the absorption,
+             distribution, metabolism or elimination of diazepam
+
+          -  Other exclusion criteria apply
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Squillacote, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Acorda Therapeutics</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Acorda Site #115</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Teri Walters</last_name>
+      <phone>501-227-5061</phone>
+      <phone_ext>111</phone_ext>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #101</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tara McTigue</last_name>
+      <phone>813-259-0826</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #125</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul Adanpo</last_name>
+      <phone>808-372-9688</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #104</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40513</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judy Kinley</last_name>
+      <phone>859-685-0667</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #111</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Virginia Ganley</last_name>
+      <phone>410-328-6395</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #102</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arkady Barber</last_name>
+      <phone>301-530-9744</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #112</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Fulk</last_name>
+      <phone>314-453-9300</phone>
+      <phone_ext>33</phone_ext>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #121</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Munazza Malik</last_name>
+      <phone>201-343-6676</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #123</name>
+      <address>
+        <city>Amherst</city>
+        <state>New York</state>
+        <zip>14226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Rainka</last_name>
+      <phone>716-250-2038</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #114</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chad Sorenson</last_name>
+      <phone>503-494-9633</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #105</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lauren Fedor</last_name>
+      <phone>215-955-4663</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #116</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Meryl Lozano</last_name>
+      <phone>215-349-5166</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #103</name>
+      <address>
+        <city>Bellaire</city>
+        <state>Texas</state>
+        <zip>77401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pam Lindley</last_name>
+      <phone>713-242-4109</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Acorda Site #108</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lauren Howard</last_name>
+      <phone>281-770-5752</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 25, 2015</lastchanged_date>
+  <firstreceived_date>June 15, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Seizures</keyword>
+  <keyword>Epilepsy</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diazepam</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

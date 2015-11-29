@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1220">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02308579</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDUS1</org_study_id>
+    <nct_id>NCT02308579</nct_id>
+  </id_info>
+  <brief_title>Centralized Reading Assessment of Chronic CerebroSpinal Venous Insufficiency (CCSVI) in Patients With Multiple Sclerosis and Other Neurological Diseases</brief_title>
+  <official_title>Prevalence of Chronic Cerebrospinal Venous Insufficiency in Patients With Multiple Sclerosis and Other Neurological Diseases. An Ultrasound, Blinded, Case-Controlled, Centralized Reading Assessment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University at Buffalo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Pavia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University at Buffalo</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This a retrospective, blinded trial in which collaborators in Italy will review the doppler
+      findings from the Combined Transcranial and Extracranial Venous Doppler (CTEVD) trial in an
+      attempt to measure reproducibility.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will retrospectively investigate doppler images from the second phase of the
+      CTEVD trial.
+
+        1. To determine the prevalence of CCSVI in patients with MS, compared with the prevalence
+           observed in a control population consisting of Other Neurological Diseases (OND)
+           patients and Healthy Controls (HC) by using blinded, controlled centralized ultrasound
+           reading assessment of 5 Venous Haemodynamic (VH) CCSVI CCSVI Doppler UltraSound (CDUS)
+           criteria.
+
+        2. To investigate whether prevalence of CCSVI is different between centralized and local
+           CDUS reading of 5 VH CCSVI CDUS criteria.
+
+        3. To investigate the prevalence of CCSVI in patients with MS, compared with the
+           prevalence observed in a control population consisting of OND patients and HC, when
+           bidirectional flow in the intracranial veins and sinuses CDUS criterion is not
+           considered as part of VH CCSVI CDUS criteria.
+
+        4. To determine whether prevalence of CCSVI in patients with MS, compared with the
+           prevalence observed in a control population consisting of OND patients and HC differs
+           when using CDUS velocity and flow parameters in the Internal Jugular Veins (IJVs) and
+           Vertebral Veins (VVs).
+
+        5. To determine the reproducibility of VH criteria by using of centralized and local
+           blinded, controlled CDUS reading assessment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date>July 2014</start_date>
+  <completion_date type="Anticipated">March 2015</completion_date>
+  <primary_completion_date type="Anticipated">March 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Case Control, Time Perspective: Retrospective</study_design>
+  <primary_outcome>
+    <measure>Number of MS (or CIS) and HC (or OND) who have 5 VH CCSVI CDUS criteria on doppler ultrasound</measure>
+    <time_frame>Baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The prevalence (number) of MS/CIS vs. HC/OND who fulfill the 5 venous haemodynamic (VH) criteria on doppler ultrasound.</description>
+  </primary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Actual">499</enrollment>
+  <condition>Clinically Isolated Syndrome (CIS)</condition>
+  <condition>Multiple Sclerosis (MS)</condition>
+  <condition>Other Neurological Disorders (OND)</condition>
+  <condition>Healthy (HC)</condition>
+  <arm_group>
+    <arm_group_label>Multiple Sclerosis</arm_group_label>
+    <description>Patients diagnosed with Multiple Sclerosis (MS), identified in the CTEVD trial</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Clinically Isolated Syndrome</arm_group_label>
+    <description>Patients diagnosed with Clinically Isolated Syndrome (CIS), identified in the CTEVD trial.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other Neurological Disorders</arm_group_label>
+    <description>Patients diagnosed with Other Neurological Disorders (OND), identified in the CTEVD trial. ONDs fall into one of four categories: Neurodegenerative, Vascular, Autoimmune, and Neuromuscular; and the following disorders: Acute Disseminated Encephalomyelitis (ADEM); Antiphospholipid Antibody (syndrome; APLA); Atypical, short-lasting neurodegenerative disease; Autoimmune disease not otherwise specified (NOS); Cerebellum Syndrome; Charcot-Marie Tooth Disease; Chiari Malformation; Chronic Fatigue Syndrome; Central Nervous System Vasculitis; Demyelinating Disease; Epilepsy; Headaches; Idiopathic Chronic Neuropathy; Migraines; Mitochondrial Disease; Myelopathy; Neurofibromatosis; Neuropathy; Optic Neuritis; Parasthesia related to Transient Ischemic Attacks (TIA); Parkinson's Disease; Restless legs syndrome; Seizures; Spinal Cerebellum Disease; Spinal Disc Degeneration; Syringomyelia; and Vertigo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Controls</arm_group_label>
+    <description>Individuals who are healthy (i.e., free from neurological conditions; HC) , identified in the CTEVD trial.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants in this study will be those who had participated in the second phase of the
+        Combined Transcranial/Extracranial Venous Deficiency (CTEVD) study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participation in the CTEVD Phase 2 study
+
+          -  Available CDUS exam
+
+          -  Diagnosed with CIS, MS, OND, or being a HC
+
+          -  Fulfilling inclusion criteria from the CTEVD study
+
+        Exclusion Criteria:
+
+          -  Not having an available CDUS exam
+
+          -  Diagnosed with Radiologically Isolated Syndrome (RIS) or Neuromyelitis Optic (NMO)
+
+          -  Fulfilling exclusion criteria from the CTEVD study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Zivadinov, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University at Buffalo</affiliation>
+  </overall_official>
+  <verification_date>December 2014</verification_date>
+  <lastchanged_date>December 4, 2014</lastchanged_date>
+  <firstreceived_date>July 8, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University at Buffalo</investigator_affiliation>
+    <investigator_full_name>Robert Zivadinov, MD, PhD</investigator_full_name>
+    <investigator_title>Professor of Neurology</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Multiple Sclerosis</mesh_term>
+    <mesh_term>Nervous System Diseases</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+    <mesh_term>Venous Insufficiency</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

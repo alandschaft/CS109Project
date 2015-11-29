@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="177">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01137110</url>
+  </required_header>
+  <id_info>
+    <org_study_id>09-1717</org_study_id>
+    <nct_id>NCT01137110</nct_id>
+  </id_info>
+  <brief_title>Comparison of Short Duration Levetiracetam to Extended Course for Seizure Prophylaxis After Subarachnoid Hemorrhage (SAH)</brief_title>
+  <acronym>DOPAST</acronym>
+  <official_title>Comparison of Short Duration Levetiracetam to Extended Course Levetiracetam for Seizure Prophylaxis Following Subarachnoid Hemorrhage</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Our primary objective is to compare two treatment options for prevention of seizures
+      following a subarachnoid hemorrhage and determine if a short-course regimen of levetiracetam
+      is as efficacious in the prevention of in-hospital seizures when compared to an extended
+      course.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, single-center, randomized, controlled trial. Patients admitted with
+      spontaneous SAH (and meet enrollment criteria) will be randomized to either levetiracetam
+      1000 mg twice daily for 3 days or levetiracetam 1000mg twice daily until hospital discharge.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2010</start_date>
+  <completion_date type="Anticipated">January 2015</completion_date>
+  <primary_completion_date type="Anticipated">January 2013</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>In-hospital seizures after SAH</measure>
+    <time_frame>3-4 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>We will compare two different lengths of levetiracetam therapy (3 days vs. hospital length) to determine if one is more efficacious in preventing seizures in patients after SAH.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Compare incidence of seizure after hospital discharge and/or development of epilepsy</measure>
+    <time_frame>3-4 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Patient's will be followed to outpatient follow visits to determine incidence of seizures.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare incidence of adverse drug reactions related to levetiracetam and the rate of discontinuation of medication secondary to the reaction</measure>
+    <time_frame>3-4 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare intensive care and hospital length of stay between regimens</measure>
+    <time_frame>3-4 year</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate differences in cognitive and functional outcomes at discharge and outpatient follow-up</measure>
+    <time_frame>5 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Outcome measurements (mini mental, barthal index and CGOS) will be obtained at each follow up visit.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">460</enrollment>
+  <condition>Subarachnoid Hemorrhage</condition>
+  <arm_group>
+    <arm_group_label>Levetiracetam 1000mg BID for 3 days</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Levetiracetam 1000mg BID x hospital stay</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levetiracetam short course</intervention_name>
+    <description>Levetiracetam 1000mg BID x 3 days</description>
+    <arm_group_label>Levetiracetam 1000mg BID for 3 days</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levetiracetam Long course</intervention_name>
+    <description>Levetiracetam 1000mg BID x hospital stay</description>
+    <arm_group_label>Levetiracetam 1000mg BID x hospital stay</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age &gt;18 years of age
+
+          2. Diagnosis of spontaneous SAH
+
+        Exclusion Criteria:
+
+          1. SAH secondary to trauma or arteriovenous malformation
+
+          2. Early death (defined as death within 3 days of presentation)
+
+          3. Known allergy to levetiracetam
+
+          4. Know seizure history on chronic AEDs
+
+          5. Pregnancy
+
+          6. Current incarceration
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Theresa Human-Murphy</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Barnes-Jewish Hospital, Washington University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Theresa Human-Murphy</last_name>
+    <phone>314-747-8799</phone>
+    <email>txm5120@bjc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rajat Dhar</last_name>
+    <phone>314-632-2508</phone>
+    <email>dharr@neuro.wustl.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Barnes-jewish Hospital</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Theresa Human-Murphy</last_name>
+      <phone>314-747-8799</phone>
+      <email>txm5120@bjc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rajat Dhar, MD</last_name>
+      <phone>314-632-2508</phone>
+      <email>dharr@neuro.wustl.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Theresa Human-Murphy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 21, 2012</lastchanged_date>
+  <firstreceived_date>May 28, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Washington University School of Medicine</investigator_affiliation>
+    <investigator_full_name>Theresa Human-Murphy</investigator_full_name>
+    <investigator_title>Dr.</investigator_title>
+  </responsible_party>
+  <keyword>Subarachnoid Hemorrhage</keyword>
+  <keyword>Seizure Prophylaxis</keyword>
+  <keyword>Levetiracetam</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hemorrhage</mesh_term>
+    <mesh_term>Subarachnoid Hemorrhage</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Etiracetam</mesh_term>
+    <mesh_term>Piracetam</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

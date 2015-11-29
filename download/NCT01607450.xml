@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1310">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01607450</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1010002497</org_study_id>
+    <secondary_id>R21HL092799</secondary_id>
+    <nct_id>NCT01607450</nct_id>
+  </id_info>
+  <brief_title>Modulation of Human Myocardial Metabolism by GLP-1 Dose Response</brief_title>
+  <official_title>Modulation of Human Myocardial Metabolism by GLP-1 Dose Response</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this proposal is to provide quantitative dose-response data for effects of
+      GLP-1 on myocardial glucose uptake in healthy control subjects and obese type 2 diabetic
+      subjects, in support of the design of later studies evaluating therapeutic applications of
+      GLP-1 to heart disease.
+
+      Aim 1: To measure the effects of GLP-1 infusion on myocardial fuel selection in lean healthy
+      humans under fasting (fatty acid-dominant) conditions. Four groups of 10 lean healthy
+      subjects will be studied during infusions of 0 (saline control), 0.5, 1.5, and 4.0
+      pmol/kg/min GLP-1 (one study per subject). Cardiac metabolism will be measured using PET,
+      using a dual-tracer approach which allows measurement of myocardial glucose uptake (the
+      primary endpoint) along with total oxidation rate and myocardial perfusion (secondary
+      endpoints). In concert with measures of circulating metabolites and regulatory hormones, the
+      investigators will produce the most comprehensive assessment of actions of GLP-1 on
+      myocardial metabolism in humans to date. Effects of each dose will be compared to the saline
+      control, plus the investigators will combine all data and use nonlinear curve-fitting to
+      derive sensitivity (ED50) and maximal responses for GLP-1 effects on myocardial glucose
+      uptake.
+
+      Aim 2: To measure the effects of GLP-1 infusion on myocardial fuel selection in obese type 2
+      diabetic humans under fasting (fatty acid-dominant) conditions Four groups of 10 obese type
+      2 diabetic subjects will be studied during infusions of 0, 0.5, 1.5, and 4.0 pmol/kg/min
+      GLP-1 as under Aim 1. Analyses will be parallel to those described under Aim 1. Results from
+      Aims 1 and 2 will be combined to allow direct comparison of the dose-response between
+      nondiabetic control and type 2 diabetic subjects.
+
+      No literature has been published to inform dose selection in the design of clinical trials
+      of GLP-1 for modulation of heart fuel selection. With our expertise and experience in PET
+      measurement of heart metabolism in diabetes, the investigators are uniquely positioned to
+      fill this gap in knowledge. These studies are a necessary preamble to further evaluation of
+      the potential for GLP-1 based treatments in heart disease.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2010</start_date>
+  <completion_date type="Actual">December 2012</completion_date>
+  <primary_completion_date type="Actual">December 2012</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Dose dependent myocardial glucose uptake.</measure>
+    <time_frame>After 12 hours of GLP-1 exposure</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Myocardial glucose uptake will be quantified using a 3-compartment model, according to the methods of Morita and colleagues with a lumped constant of 1.0.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Dose dependent Myocardial blood flow.</measure>
+    <time_frame>After 12 hours of GLP-1 exposure</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myocardial total oxidation with a given dose of GLP-1</measure>
+    <time_frame>After 12 hours of GLP-1 exposure</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systemic hemodynamics measured by impedence cardiography</measure>
+    <time_frame>After 12 hours of GLP-1 exposure</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating metabolic substrates and hormones</measure>
+    <time_frame>After 12 hours of GLP-1 exposure</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">29</enrollment>
+  <condition>Type 2 Diabetes Mellitus</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>12 hour placebo (saline) infusion prior to PET study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GLP-1 Low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GLP-1 Mid-Range Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GLP-1 High Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GLP-1 Low Dose</intervention_name>
+    <description>0.5mmol/kg/hr GLP-1 for 12 hours prior to PET study</description>
+    <arm_group_label>GLP-1 Low dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GLP-1 Mid-Range Dose</intervention_name>
+    <description>1.5mmol/kg/min for 12 hours prior to PET study</description>
+    <arm_group_label>GLP-1 Mid-Range Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GLP-1 High Dose</intervention_name>
+    <description>4.0mmol/kg/min GLP-1 for 12 hours prior to PET study</description>
+    <arm_group_label>GLP-1 High Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Saline placebo infusion for 12 hours prior to PET study</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 18-60
+
+          -  Lean subjects will be defined as having a BMI &lt;25 kg/m2, in good general health,
+             taking no regular medications
+
+          -  Diabetic subjects will be obese (BMI &gt;30 kg/m2 but &lt;40 kg/m2), HbA1c 7.0-10.0%,
+             treated with diet and exercise plus oral agents or injected insulin. All diabetic
+             subjects will be treated with injected insulin for 2 weeks prior to study, to avoid
+             potential confounding effects of other antidiabetic agents.
+
+        Exclusion Criteria:
+
+          -  Chronic illnesses or infections (other than type 2 diabetes)
+
+          -  Known coronary artery disease or abnormal ECG on screening evaluation
+
+          -  Blood pressure &gt; 160/100 mmHg on two occasions during screening evaluations. Current
+             use of 3 or fewer blood pressure medications with blood pressure below this cutpoint
+             will be acceptable.
+
+          -  Total cholesterol &gt; 240 mg/dL. Current use of 2 or fewer lipid lowering agents with
+             cholesterol below this cutpoint will be acceptable.
+
+          -  Diabetic subjects: Treatment with a GLP-1 agonist or DPP4 inhibitor within the past 6
+             months
+
+          -  Known intolerance to injected GLP-1 agonist
+
+          -  Treatment with PPAR gamma agonists currently or within the past 6 months
+
+          -  Recognized microvascular complications (retinopathy, nephropathy, neuropathy)
+
+          -  Unwillingness or inability to use injected insulin for the purposes of this study
+
+          -  Chronic pain or other physical conditions which limit ability to remain supine for
+             the duration of the study protocol
+
+          -  History of claustrophobia, musculoskeletal or other factors which would result in an
+             inability to comfortably remain within PET scanner gantry for the duration of the
+             imaging protocol
+
+          -  Occupational, investigational or other known radiation exposure which, together with
+             the planned radiologic studies, will result in greater than 500 mrem total exposure
+             in a contiguous 12 month period
+
+          -  For female participants, current pregnancy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kieren J Mather, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Indiana Clinical Research Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2013</verification_date>
+  <lastchanged_date>April 17, 2013</lastchanged_date>
+  <firstreceived_date>May 21, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Type 2 diabetes mellitus</keyword>
+  <keyword>lean healthy control</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glucagon</mesh_term>
+    <mesh_term>Glucagon-Like Peptide 1</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

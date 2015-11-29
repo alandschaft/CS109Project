@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1177">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02272725</url>
+  </required_header>
+  <id_info>
+    <org_study_id>31907</org_study_id>
+    <nct_id>NCT02272725</nct_id>
+  </id_info>
+  <brief_title>Non-steroidal Anti-inflammatory Affect on Kidneys in Endurance Distances</brief_title>
+  <acronym>NAKED</acronym>
+  <official_title>Non-steroidal Anti-inflammatory Affect on Kidneys in Endurance Distances</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The specific aim of this study is to evaluate the safety of non-steroidal anti-inflammatory
+      drugs (NSAIDs) and their impact on renal function and/or contribution to exercise-associated
+      hyponatremia (EAH) during an ultramarathon foot race. There is currently much debate over
+      whether NSAID ingestion during endurance events contributes to acute kidney injury.
+      Endurance events often ignite a &quot;perfect storm&quot; of physiologic insults- heat stress,
+      dehydration, and myopathy- which can all negatively impact kidney function. There is a
+      concern that NSAIDs may further potentiate these negative effects as well as contribute to
+      EAH through its anti-diuretic affect. To date, no powered, prospective study has ever
+      examined the effects of NSAIDs on either of these two biochemical outcomes
+
+      Ultramarathon endurance events, defined as any race longer than a marathon (26.2 miles), are
+      increasing in popularity, with a 10% increase in annual participants, and more than 69,000
+      finishers worldwide in 2013. Considerable literature has documented alterations in serum
+      biochemical profiles of these endurance athletes, with consistent evidence of elevated serum
+      creatinine (Cr) levels in healthy race finishers as well as those seeking medical care.
+      While acute renal failure in ultramarathon runners is a rare occurrence, acute kidney injury
+      is common, ranging from 34% in a single-stage ultramarathon to 55-80% in multi-stage
+      ultramarathons. The evidence is equivocal regarding NSAID ingestion and AKI. One study
+      showed that runners who ingested NSAIDs prior to marathons had greater post-race creatinine
+      levels than matched controls as well as higher rates of hospitalization and acute renal
+      failure. However, this contrasts with several other studies that showed a marked lack of
+      difference in creatinine levels or development of acute kidney injury between NSAID users
+      and non-users during ultramarathons. The only randomized trial to date on this subject found
+      no difference in serum creatinine levels between the NSAID and placebo groups at
+      ultramarathon race end, however conclusions were limited by a small unpowered sample size.
+
+      Exercise associated hyponatremia (EAH), defined as a serum sodium concentration below
+      135mEq/L, is recognized as a relatively common issue in endurance running events. The
+      incidence of EAH varies depending upon the distance of the race, with reported values of
+      3-28% for marathons, 23 - 38% for triathlons and 4-51% in single-stage ultramarathons. EAH
+      is likely under-diagnosed as athletes are often asymptomatic. While EAH most often manifests
+      as non-specific symptoms such as nausea, vomiting, dizziness, and fatigue, it can be a
+      potentially fatal disease that can progress to encephalopathy, seizures, pulmonary edema,
+      and death. There have been no large prospective studies examining the relationship between
+      EAH and NSAID ingestion.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be conducted during the fifth stage of a 6-stage ultramarathon foot race
+      that covers a total of 250 kilometers. Data will be collected during four separate events
+      over the course of the coming year. All races are run by the RacingThePlanet™ 4-desert race
+      series with locations including: Jordan, Ecuador, China, and Chile. The evening after stage
+      4, participants will be reminded to check in at the medical tent prior to stage 5 start, and
+      at that time the participants will be weighed and given their study drug packet (ibuprofen
+      or visually identical placebo). Approximately 80% of the finishers complete the 80-kilometer
+      Stage 5 in less than 19 hours, so the majority of participants will ingest 1600mg of
+      ibuprofen (400mg q 4 hours x 4 doses). The optimal adult dosing for analgesia is 400mg every
+      4 hours, with a maximum daily dose of 3200mg ((1999). Product information: Motrin™,
+      ibuprofen. Kalamazoo, MI, Pharmacia &amp; Upjohn Company.)
+
+      Immediately after crossing the finish line of Stage 5, participants will be reweighed, then
+      seated in the study tent where a fingertip blood sample will be obtained via lancet and
+      capillary collection tube (Mock, Morrison, &amp; Yatscoff, 1995) then analyzed for Na, Cr and
+      BUN (utilizing a Chem-8 cartridge) onsite immediately after collection using an iSTAT®
+      point-of- care analyzer (Abbott; East Windsor, NJ). Any participant who did not complete any
+      stage prior to stage 5 will be removed from the competition and the study. Both the
+      point-of-care device and the digital scale will be calibrated for prior to taking
+      measurements. At this point, the study is over and there is no further participant
+      responsibilities.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2015</start_date>
+  <completion_date type="Anticipated">March 2016</completion_date>
+  <primary_completion_date type="Anticipated">March 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator)</study_design>
+  <primary_outcome>
+    <measure>Acute Kidney Injury</measure>
+    <time_frame>participants will be followed through the duration of a 50 mile ultramaraton, an expeced average of 18 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The incidence of acute kidney injury (by RIFLE criteria to qualify extent of injury) will be estimated from measured point-of-care blood test of the finish line of a 50 mile ultramarathon.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Exertion</measure>
+    <time_frame>participants will be followed through the duration of a 50 mile ultramaraton, an expeced average of 18 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A BORG score of perceived exertion will be measured at the finish line of a 50 mile ultramarathon to measure what affect ibuprofen had on perceived exertion as analgesia may have made the endurance event perceived as less exertional.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exercise-Associated Hyponatremia</measure>
+    <time_frame>participants will be followed through the duration of a 50 mile ultramaraton, an expeced average of 18 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The incidence of exercise-associated hyponatremia (defined as &lt; 135 mEq) will be estimated from measured point-of-care blood test of the finish line of a 50 mile ultramarathon.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Acute Kidney Injury</condition>
+  <condition>Exercise-associated Hyponatremia</condition>
+  <condition>Perceived Exertion</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>tasteless and inert tablets</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ibuprofen</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Each tablet containing 400mg of ibuprofen</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ibuprofen</intervention_name>
+    <description>Ibuprofen</description>
+    <arm_group_label>Ibuprofen</arm_group_label>
+    <other_name>motrin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Tasteless and inert visually identical (to ibuprofen) pills</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>sugar pill</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Any participant in a RacingThePlanet sanctioned event who understands the consent
+             form in English.
+
+        Exclusion Criteria:
+
+          -  Allergic to any form of non-steroidal anti-inflammatory
+
+          -  Taken a NSAID or steroid in prior 12 hours
+
+          -  1 kidney
+
+          -  Known to be pregnant or suspected to be pregnant
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Grant S Lipman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Grant S Lipman, MD</last_name>
+    <phone>415-290-9286</phone>
+    <email>grantlip@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kate Shea, MD</last_name>
+    <phone>415-516-7896</phone>
+    <email>anderson.kate@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Grant S Lipman, MD</last_name>
+      <phone>415-290-9286</phone>
+      <email>grantlip@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Grant S Lipman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>November 12, 2015</lastchanged_date>
+  <firstreceived_date>October 9, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Grant S Lipman</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>ultramarathon</keyword>
+  <keyword>ibuprofen</keyword>
+  <keyword>acute kidney injury</keyword>
+  <keyword>exercise-associated hyponatremia</keyword>
+  <keyword>exertion</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acute Kidney Injury</mesh_term>
+    <mesh_term>Hyponatremia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anti-Inflammatory Agents</mesh_term>
+    <mesh_term>Ibuprofen</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

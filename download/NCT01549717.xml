@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="636">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01549717</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12/LO/0526</org_study_id>
+    <nct_id>NCT01549717</nct_id>
+  </id_info>
+  <brief_title>Feasibility And Efficacy Of Continuous In-Hospital Patient Monitoring</brief_title>
+  <acronym>LISTEN</acronym>
+  <official_title>Feasibility And Efficacy Of Continuous In-Hospital Patient Monitoring</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guy's and St Thomas' NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Engineering and Physical Sciences Research Council, UK</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Guy's and St Thomas' NHS Foundation Trust</source>
+  <oversight_info>
+    <authority>United Kingdom: Research Ethics Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators plan to study patients who have had cardiac surgery. Current standard
+      practice is to monitor patients who have had cardiac surgery using wall-mounted monitors
+      whilst they are on the Overnight Intensive Recovery (OIR) and the cardiac High Dependency
+      Unit (HDU). The wall-mounted monitors monitor the vital signs continuously and alert the
+      nurses if any abnormalities are detected. Once a patient is transferred from HDU to the
+      cardiac surgery ward for the most part they are no longer connected to a continuous monitor.
+      Instead, the majority of patients on the ward have their vital signs only intermittently
+      checked during the day, using a &quot;spot check monitor&quot;. There is a small minority, chosen on
+      clinical grounds, who are assessed with wireless &quot;telemetry&quot; monitors for a day or two.
+
+      In this study the investigators will continuously monitor the vital signs of all enrolled
+      patients from the time that they leave the operating theatre to the the time they are
+      discharged from hospital. Whilst they are on OIR and HDU they will be monitored with the
+      standard wall-mounted monitors in the normal fashion. When they then move to the ward the
+      investigators will give all enrolled patients a telemetry monitor to wear as well as asking
+      the nurses to check their vital signs with spot check monitors.
+
+      The investigators will also collect information about the patients' general state of health
+      and record indicators of worsening in patients' condition so that the investigators can
+      determine how changes in the vital signs relate to deterioration. Finally the investigators
+      plan to survey the patients and nurses to understand their experiences of continuous
+      monitoring and what needs to be changed to improve the patient experience.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>December 2012</start_date>
+  <completion_date type="Actual">February 2014</completion_date>
+  <primary_completion_date type="Actual">February 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>The number of patients in whom abnormal vital signs are detected by a continuous monitor more than an hour before they are detected according to standard ward practice</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of patient stay for which good quality continuous data is captured</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of alerts caused by probe off alarms and artefactual readings</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The sensitivity of the automated early warning score developed from this data for predicting clinical deterioration</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The specificity of the automated early warning score developed from this data for predicting clinical deterioration</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Monitoring of Patients Following Surgery</condition>
+  <arm_group>
+    <arm_group_label>Elective cardiac surgery patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergoing elective cardiac surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Fitting of a wireless telemetry device</intervention_name>
+    <description>Fitting of a Philips Intellivue Trx + SpO2 telemetry device. To be worn throughout patient stay except if being monitored using a standard bedside monitor or bathing.</description>
+    <arm_group_label>Elective cardiac surgery patients</arm_group_label>
+    <other_name>Philips Intellivue Trx + SpO2</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult (aged over 18 years old)
+
+          -  Planned for elective cardiac surgery
+
+          -  Post surgery care is planned to be on a study ward
+
+        Exclusion Criteria:
+
+          -  Inability or refusal to consent
+
+          -  Pregnant
+
+          -  Prisoners
+
+          -  For palliative care only
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Beale, MBBS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Guy's &amp; St Thomas' Foundation Trust</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>St Thomas' Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 7EH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 11, 2014</lastchanged_date>
+  <firstreceived_date>March 7, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Guy's and St Thomas' NHS Foundation Trust</investigator_affiliation>
+    <investigator_full_name>Richard Beale</investigator_full_name>
+    <investigator_title>Consultant</investigator_title>
+  </responsible_party>
+  <keyword>Early warning score</keyword>
+  <keyword>Physiological score</keyword>
+  <keyword>Track and trigger score</keyword>
+  <keyword>Scoring system</keyword>
+  <keyword>Physiological model</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>Patient monitoring</keyword>
+  <keyword>Wireless monitoring</keyword>
+  <keyword>Wearable monitor</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

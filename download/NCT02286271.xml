@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="164">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02286271</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIP version 5.1</org_study_id>
+    <nct_id>NCT02286271</nct_id>
+  </id_info>
+  <brief_title>Preliminary Testing of a Novel Device to Detect Epileptic Seizures</brief_title>
+  <acronym>PTEpD</acronym>
+  <official_title>Preliminary Testing of a Novel Device to Detect Epileptic Seizures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Edinburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NHS Lothian</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Edinburgh</source>
+  <oversight_info>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>United Kingdom: Research Ethics Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Official statistics report around 1000 deaths due to epilepsy in the UK each year (Hanna et
+      al 2002). Most of these deaths are un-witnessed and in many cases are believed to have been
+      avoidable with timely assistance (Langan et al 2000). A major problem is detecting nocturnal
+      seizures to allow body re-positioning, to maintain an open airway and to administer rescue
+      medication. There are several seizure alarms commercially available but are often unreliable
+      with many false alarms. The aim of this study is to investigate a novel seizure detection
+      system with a unique algorithm.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Two duplicate novel medical devices conforming to safety regulation BS EN 60601 containing
+      the unique algorithm will be evaluated in clinical trials at two hospitals over a 14 month
+      period. Each device is time synchronised with an Electroencephalographic (EEG)
+      videotelemetry system which is the gold standard in identifying different seizure types
+      recording from scalp electrodes. The devices will be monitoring participants from 3 months
+      and older (children and adults). The algorithm was created from results from a PhD where 527
+      seizures were categorised into different seizure types. Sensitivity of identifying seizures
+      was 91% and specificity was 75% using an optimal trigger level and algorithm. This trial
+      will investigate how reliable the algorithm is in practice and determine an optimal trigger
+      level..
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2014</start_date>
+  <completion_date type="Anticipated">May 2016</completion_date>
+  <primary_completion_date type="Anticipated">February 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>Reliable detection of epileptic seizures (Trigger level to be determined for total seizures)</measure>
+    <time_frame>14 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Trigger level to be determined for total seizures</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reliable detection of epileptic seizures (Trigger level to be determined for different types of seizures.)</measure>
+    <time_frame>14 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Trigger level to be determined for different types of seizures.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">126</enrollment>
+  <condition>Epilepsy</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who are being admitted for electroencephalographic videotelemetry as part of
+        their clinical management of their epilepsy will be invited to participate in the study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Frequent epileptic seizures 3 months and older Informed consent for participation
+
+        Exclusion Criteria:
+
+          -  Infrequent seizures Attacks are of a non-epileptic nature Younger than 3 months Has
+             an implantable device No informed consent.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>3 Months</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter AG Sandercock, BA,BM, BCh</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Edinburgh</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ruth E Brotherstone, PhD</last_name>
+    <phone>0131 537 1000</phone>
+    <phone_ext>2098</phone_ext>
+    <email>ruth.brotherstone@luht.scot.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ailsa E McLellan, MB ChB</last_name>
+    <phone>0131 536 0000</phone>
+    <email>ailsa.mclellan@nhslothian.scot.nhs.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Royal Hospital for Sick Children</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH9 1LF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ruth E Brotherstone, PhD</last_name>
+      <phone>0131 536 0000</phone>
+      <phone_ext>0709</phone_ext>
+      <email>ruth.brotherstone@luht.scot.nhs.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ailsa E McLellan, MB ChB</last_name>
+      <phone>0131 536 0000</phone>
+      <email>ailsa.mclellan@nhslothian.scot.nhs.uk</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Western General Hospital</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH4 2XU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ruth E Brotherstone, PhD</last_name>
+      <phone>0131 537 1000</phone>
+      <phone_ext>2098</phone_ext>
+      <email>ruth.brotherstone@luht.scot.nhs.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michele Thorpe</last_name>
+      <phone>0131 537 1000</phone>
+      <phone_ext>2489</phone_ext>
+      <email>michele.thorpe@luht.scot.nhs.uk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Hanna H.J, Black M, Sander J.W.S, Smithson W.H, Appleton R, Brown S, Fish D.R. The National Sentinel Clinical Audit of Epilepsy-Related Death- Death in the Shadows. The Stationery Office. The National Sentinel of Epilepsy-Related Deaths Report 2002 ISBN 0-117-02868-1</citation>
+  </reference>
+  <reference>
+    <citation>Langan Y, Nashef L, Sander JW. Sudden unexpected death in epilepsy: a series of witnessed deaths. J Neurol Neurosurg Psychiatry. 2000 Feb;68(2):211-3.</citation>
+    <PMID>10644790</PMID>
+  </reference>
+  <verification_date>November 2014</verification_date>
+  <lastchanged_date>May 27, 2015</lastchanged_date>
+  <firstreceived_date>November 4, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Seizure detection</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

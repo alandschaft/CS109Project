@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="208">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00175929</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N01114</org_study_id>
+    <secondary_id>2004-001856-35</secondary_id>
+    <nct_id>NCT00175929</nct_id>
+  </id_info>
+  <brief_title>A Study of Brivaracetam in Subjects With Partial Onset Seizures</brief_title>
+  <official_title>A Multicenter, Double-blind, Randomized, Placebo-controlled, 3 Parallel Groups, Dose-ranging Trial Evaluating the Efficacy and Safety of Ucb 34714 Used as Adjunctive Treatment at Doses of 50 and 150 mg/Day in b.i.d. Administration (Oral Capsules of 25 mg) for a Maximum of 12 Weeks in Subjects From 16 to 65 Years With Refractory Epilepsy Suffering From Partial Onset Seizures Whether or Not Secondarily Generalized</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <authority>Belgium: Federal Agency for Medicines and Health Products, FAMHP</authority>
+    <authority>Czech Republic: State Institute for Drug Control</authority>
+    <authority>Finland: Finnish Medicines Agency</authority>
+    <authority>France: Afssaps - Agence française de sécurité sanitaire des produits de santé (Saint-Denis)</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices</authority>
+    <authority>Netherlands: Medicines Evaluation Board (MEB)</authority>
+    <authority>Poland: Ministry of Health</authority>
+    <authority>Spain: Ministry of Health and Consumption</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial will evaluate the efficacy and safety of brivaracetam (at doses of 50 and 150
+      mg/day in twice a day administration) as add on therapy in subjects with focal epilepsy
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2005</start_date>
+  <completion_date type="Actual">March 2006</completion_date>
+  <primary_completion_date type="Actual">March 2006</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Partial onset seizure frequency (Type I) per week over the 7-week maintenance period</measure>
+    <time_frame>7-week maintenance period</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Partial onset seizure frequency (Type I) per week over the 7-week maintenance period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Seizure frequency per week for all seizures (types I+II+III) over the 7-week Maintenance period</measure>
+    <time_frame>During the Maintenance period (approximately 7 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of reduction from Baseline in seizure frequency per week for partial onset seizures (type I) over the 7-week Maintenance period</measure>
+    <time_frame>During the Maintenance period (approximately 7 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of reduction from Baseline in seizure frequency per week for all seizures (types I+II+III) over the 7-week Maintenance period</measure>
+    <time_frame>During the Maintenance period (approximately 7 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Responder rate in partial onset seizures (type I) over the 7-week Maintenance period</measure>
+    <time_frame>During the Maintenance period (approximately 7 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A responder was defined as a subject with a ≥ 50% reduction in seizure frequency per week from the Baseline period to the Maintenance period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response to treatment in partial onset seizures (type I) over the 7-week Maintenance period</measure>
+    <time_frame>During the Maintenance period (approximately 7 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The percentage reduction from Baseline in partial seizure frequency per week over the Maintenance period was grouped in 5 categories: &lt; -25%, -25% to &lt; 25%, 25% to &lt; 75%, 75% to ≤ 100%, and 100%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of seizure-free subjects over the 7-week Maintenance period</measure>
+    <time_frame>During the Maintenance period (approximately 7 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of seizure-free days per 4 weeks over Baseline and Maintenance periods</measure>
+    <time_frame>Baseline through Maintenance period (approximately 11 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to N-th seizure in the Maintenance period</measure>
+    <time_frame>During the Maintenance period (approximately 7 weeks)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">157</enrollment>
+  <condition>Epilepsy, Focal</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo tablets administered twice a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brivaracetam 50 mg/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brivaracetam 50 mg/day, 25 mg administered twice a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brivaracetam 150 mg/day</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brivaracetam 150 mg/day, 75 mg administered twice a day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Daily oral dose of two equal intakes, morning and evening, of placebo in a double-blinded way for the 10-week Treatment Period (3 weeks up-titration followed by 7-week maintenance period)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brivaracetam</intervention_name>
+    <description>Daily oral dose of two equal intakes, morning and evening, of Brivaracetam 50 mg/day in a double-blinded way for the 10-week Treatment Period (3 weeks up-titration followed by 7-week maintenance period)</description>
+    <arm_group_label>Brivaracetam 50 mg/day</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brivaracetam</intervention_name>
+    <description>Daily oral dose of two equal intakes, morning and evening, of Brivaracetam 150 mg/day in a double-blinded way for the 10-week Treatment Period (3 weeks up-titration followed by 7-week maintenance period)</description>
+    <arm_group_label>Brivaracetam 150 mg/day</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Well-characterized focal epilepsy or epileptic syndrome according to the
+             International League Against Epilepsy (ILAE) classification
+
+          -  Subjects with a history of partial onset seizures
+
+          -  Subjects having at least 4 partial onset seizures during the Baseline period and at
+             least 2 partial onset seizures per month during the 3 months preceding Visit 1
+
+          -  Subjects being uncontrolled while treated by 1 or 2 concomitant Antiepileptic drug(s)
+             AED(s) being stable
+
+          -  Male/ female subjects from 16 to 65 years, both inclusive. Subjects under 18 years
+             may only be included where legally permitted and ethically accepted
+
+        Exclusion Criteria:
+
+          -  Seizure type IA non-motor as only seizure type
+
+          -  History or presence of seizures occurring only in clustered patterns
+
+          -  History of cerebrovascular accident (CVA)
+
+          -  Presence of any sign suggesting rapidly progressing brain disorder or brain tumor
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Clinical Trial Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>+1 877 822 9493 (UCB)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Brugge</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Duffel</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Edegem</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Liege</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Beroun</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brno</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ceske Budejovice</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Praha 1</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Praha 5</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kuopio</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oys (Oulu)</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tampere</city>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Angers Cedex 1</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bethune</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Grenoble Cedex 9</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Montpellier Cedex 5</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Rennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tain L'Hermitage</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toulouse Cedex 04</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bielefeld</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bonn</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chemnitz</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Erlangen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Frankfurt</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Freiburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kehl</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Munchen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Ulm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Heemstede</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Heeze</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gdansk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lodz</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lublin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Szczecin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Vigo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bucks</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cambridge</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cardiff</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Glasgow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hartshill</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Liverpool</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Newcastle</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Czech Republic</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>April 2015</verification_date>
+  <lastchanged_date>April 10, 2015</lastchanged_date>
+  <firstreceived_date>September 9, 2005</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Epilepsy</keyword>
+  <keyword>Focal Epilepsy</keyword>
+  <keyword>Partial Onset Seizures</keyword>
+  <keyword>Brivaracetam</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsies, Partial</mesh_term>
+    <mesh_term>Epilepsy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

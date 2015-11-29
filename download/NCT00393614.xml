@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="822">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00393614</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S06080</org_study_id>
+    <secondary_id>EudraCT number 2006-000795-32</secondary_id>
+    <secondary_id>SLV 200604331</secondary_id>
+    <nct_id>NCT00393614</nct_id>
+  </id_info>
+  <brief_title>Levetiracetam Treatment of Children With Subclinical Sleep-Activated Epileptiform Activity (SSEA)</brief_title>
+  <official_title>Levetiracetam Treatment of Children With Subclinical Sleep-Activated Epileptiform Activity (SSEA) - a Placebo Controlled Double-blind Cross-over-study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oslo University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Oslo University Hospital</source>
+  <oversight_info>
+    <authority>Norway: Norwegian Medicines Agency</authority>
+    <authority>Norway: The Data Inspectorate</authority>
+    <authority>Norway: Directorate of Health</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In clinical practice at the National centre for epilepsy (SSE) in Norway we see many
+      children who have subclinical epileptiform activity in EEG that increases substantially
+      during slow wave sleep (SSEA; subclinical sleep-activated epileptiform activity). They may
+      or may not have seizures. Hence, according to the definition some children with SSEA do not
+      suffer from epilepsy because they do not experience seizures. Many of these children have
+      symptoms such as: attention deficit hyperactivity disorders (AD/HD), dyslectic problems,
+      sleep problems, tantrums or autistic symptoms . We hypothesize that this subclinical
+      epileptiform activity during slow sleep may act negatively on cognitive functions, language
+      and behaviour in some children; even when the spike-wave discharges are less frequent than
+      in CSWS (continuous spike-waves during slow sleep).
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>May 2007</start_date>
+  <completion_date type="Anticipated">March 2010</completion_date>
+  <primary_completion_date type="Anticipated">March 2010</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Caregiver, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>24 hour EEG</measure>
+    <time_frame>End of the study</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neuro-psychological testing,</measure>
+    <time_frame>End of the study</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health related quality of life</measure>
+    <time_frame>End of the study</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Behavioral problems</measure>
+    <time_frame>End of the study</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Subclinical Sleep-Activated Epileptiform Activity</condition>
+  <condition>CSWS</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>levetiracetam</intervention_name>
+    <description>20 mg pr. kg a day</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Children 5-10 years
+
+          -  IQ &gt; 50
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>10 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ann-Sofie Eriksson, MD Phd</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oslo University Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rikshospitalet-Radiumhospitalet HF</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0027</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>February 2008</verification_date>
+  <lastchanged_date>September 22, 2009</lastchanged_date>
+  <firstreceived_date>October 27, 2006</firstreceived_date>
+  <responsible_party>
+    <name_title>Ann-Sofie Eriksson, MD Phd</name_title>
+    <organization>The National Centre for Epilepsy</organization>
+  </responsible_party>
+  <keyword>CSWS, interiktal epileptiform activity</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Etiracetam</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

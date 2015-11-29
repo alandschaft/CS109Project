@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="694">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02150213</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CBGG492A2216</org_study_id>
+    <secondary_id>2013-003431-29</secondary_id>
+    <nct_id>NCT02150213</nct_id>
+  </id_info>
+  <brief_title>Medical Safety Follow-up Study for Patients Who Received More Than 28 Days of Total Exposure to BGG492</brief_title>
+  <official_title>A Multicenter Medical Safety Follow-up Study for Patients With Partial Onset Seizures Who Received More Than 28 Days of Total Exposure to BGG492 in Studies CBGG492A2207 and/or CBGG492A2212</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices (BfArM)</authority>
+    <authority>South Korea: Korea Food and Drug Administration (KFDA)</authority>
+    <authority>Slovakia: State Institute for Drug Control</authority>
+    <authority>Italy: Ministry of Health</authority>
+    <authority>Hungary: National Institute of Pharmacy</authority>
+    <authority>Poland: Ministry of Health</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To provide medical follow-up to patients exposed to BGG492 for more than 28 days in study
+      CBGG492A2207 and/or CBGG492A2212.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of the study is to provide medical follow-up to patients exposed to BGG492 for
+      more than 28 days in study CBGG492A2207 and/or CBGG492A2212. Data from study CBGG492A2216
+      will be used to support the clinical safety assessment of BGG492 regarding the observance of
+      uterine endometrial stromal tumors and adrenal cortical adenomas at least one year after the
+      completion of BGG492 treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2014</start_date>
+  <completion_date type="Actual">September 2015</completion_date>
+  <primary_completion_date type="Actual">September 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label</study_design>
+  <primary_outcome>
+    <measure>Incidence of adrenal cortical adenomas</measure>
+    <time_frame>By approx day 7 or earlier</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Incidence of adrenal cortical adenomas as assessed by non-contrast MRI of the abdomen (males and females)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of uterine endometrial stromal sarcomas</measure>
+    <time_frame>By approx day 31 or earlier</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Incidence of uterine endometrial stromal sarcomas as assessed by sonogram/biopsy (females)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence and severity of adverse events</measure>
+    <time_frame>Monitored for the duration of the study which is approx 42 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Incidence and severity of adverse events</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">59</enrollment>
+  <condition>Adrenocortical Adenoma</condition>
+  <condition>Sarcoma, Endometrial Stromal</condition>
+  <arm_group>
+    <arm_group_label>All patients</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>All patients who get enrolled in the study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>MRI</intervention_name>
+    <description>MRI of the abdomen</description>
+    <arm_group_label>All patients</arm_group_label>
+    <other_name>Magnetic Resonance Imaging</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Dexamethasone Supression Test</intervention_name>
+    <description>Dexamethasone Supression test</description>
+    <arm_group_label>All patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Sonogram</intervention_name>
+    <description>Sonogram of the uterus (females only)</description>
+    <arm_group_label>All patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biopsy</intervention_name>
+    <description>Uterine endometrial biopsy (females only)</description>
+    <arm_group_label>All patients</arm_group_label>
+    <other_name>Uterine biopsy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BGG492</intervention_name>
+    <description>No study-drug gets administered in this study</description>
+    <arm_group_label>All patients</arm_group_label>
+    <other_name>Selurampanel</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Total exposure to BGG492 treatment in study CBGG492A2207 and/or CBGG492A2212 must
+             have been greater than 28 days.
+
+          -  At least one year must have elapsed since the patient received his or her last dose
+             of BGG492.
+
+        Exclusion Criteria:
+
+        - None
+
+        Other protocol-defined inclusion criteria may apply.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Tallahassee</city>
+        <state>Florida</state>
+        <zip>32308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Monroe Township</city>
+        <state>New Jersey</state>
+        <zip>08831</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bernau</city>
+        <zip>16321</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bielefeld</city>
+        <zip>33617</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bonn</city>
+        <zip>53105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kehl-Kork</city>
+        <zip>77694</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>H-1097</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kecskemet</city>
+        <zip>6000</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Szombathely</city>
+        <zip>9700</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Firenze</city>
+        <state>FI</state>
+        <zip>50143</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Milano</city>
+        <state>MI</state>
+        <zip>20142</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>110 744</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hlohovec</city>
+        <state>Slovak Republic</state>
+        <zip>92001</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Kosice</city>
+        <state>Slovak Republic</state>
+        <zip>041 90</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Banska Bystrica</city>
+        <zip>97517</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Korea, Republic of</country>
+    <country>Slovakia</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 17, 2015</lastchanged_date>
+  <firstreceived_date>May 15, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adrenocortical Adenoma</mesh_term>
+    <mesh_term>Sarcoma, Endometrial Stromal</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dexamethasone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

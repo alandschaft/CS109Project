@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1272">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02045511</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NA_00088278</org_study_id>
+    <nct_id>NCT02045511</nct_id>
+  </id_info>
+  <brief_title>The Baltimore HEARS Pilot Study</brief_title>
+  <acronym>HEARS</acronym>
+  <official_title>The Baltimore HEARS Pilot Study: Hearing Health Care Equality Through Accessible Research &amp; Solutions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>American Academy of Otolaryngology-Head and Neck Surgery Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary purpose of the study is to develop and test the preliminary efficacy of a
+      first-in-kind community-based intervention to provide affordable, accessible and effective
+      hearing health care to low-income, minority older adults.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Age-related hearing impairment is strongly associated with poorer communicative functioning
+      and social isolation, but hearing impairment often goes undiagnosed and untreated,
+      particularly among minority and low-income older adults. Novel interventions that translate
+      research on social engagement, minority health, and hearing technology are needed to expand
+      delivery of hearing health care to underserved older adults. The Baltimore Hearing Equality
+      through Accessible Research and Solutions (HEARS) project will develop and pilot a
+      first-in-kind community-based intervention to provide affordable, accessible, and effective
+      hearing health care to minority and low-income older adults and their communication
+      partners. The study will follow a mixed-methods approach that will incorporate quantitative
+      and qualitative components throughout the formative and evaluative processes. Participants
+      and their communication partners will be randomized to an immediate treatment group or a
+      3-month delayed treatment group. We hypothesize that the intervention is associated with
+      increased social engagement and communication, improved quality of life, and decreased
+      loneliness and third-party disability in the immediate treatment compared to the delayed
+      treatment group.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>February 2014</start_date>
+  <completion_date type="Anticipated">September 2015</completion_date>
+  <primary_completion_date type="Anticipated">September 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label</study_design>
+  <primary_outcome>
+    <measure>Change from baseline in Hearing Handicap Inventory for the Elderly (HHIE) at 1 month and 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Age-related Hearing Impairment 1</condition>
+  <condition>Personal Communication</condition>
+  <arm_group>
+    <arm_group_label>Immediate Treatment Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Immediate treatment with Baltimore HEARS intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Delayed Treatment Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>3-month delayed treatment with Baltimore HEARS intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Baltimore HEARS</intervention_name>
+    <description>Tailored aural rehabilitation for participant and communication partner</description>
+    <arm_group_label>Immediate Treatment Group</arm_group_label>
+    <arm_group_label>Delayed Treatment Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Baltimore HEARS</intervention_name>
+    <description>Tailored fitting and programming of a personal sound amplifier. This will be accompanied by a component of aural rehabilitation.</description>
+    <arm_group_label>Immediate Treatment Group</arm_group_label>
+    <arm_group_label>Delayed Treatment Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 60 years or older
+
+          -  English-speaking
+
+          -  Aural-oral verbal communication as primary communication modality
+
+          -  Post-lingual hearing loss
+
+          -  Does not currently use a hearing amplification device or hearing aid
+
+          -  Signed informed consent to participate in baseline, 1 month, and 3 month assessments
+
+          -  Have a communication partner able to accompany them to all study-related appointments
+
+        Exclusion Criteria:
+
+          -  Individuals who do not fulfill inclusion criteria
+
+          -  Score ≤ 25 on the Montreal Cognitive Assessment
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frank Lin, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Weinberg Senior Living Communities</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 31, 2015</lastchanged_date>
+  <firstreceived_date>January 22, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Johns Hopkins University</investigator_affiliation>
+    <investigator_full_name>Frank Lin</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Deafness</mesh_term>
+    <mesh_term>Hearing Loss</mesh_term>
+    <mesh_term>Presbycusis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

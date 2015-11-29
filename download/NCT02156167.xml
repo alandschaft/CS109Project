@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1244">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02156167</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEL5441</org_study_id>
+    <nct_id>NCT02156167</nct_id>
+  </id_info>
+  <brief_title>Clinical Assessment of the External Sound Processor Worn by Patients Implanted With Codacs</brief_title>
+  <official_title>Clinical Validation of the Nucleus® CP810 Sound Processor for the Codacs™ System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cochlear</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cochlear</source>
+  <oversight_info>
+    <authority>Germany: Ethics Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the effect of the sound processor upgrade from the
+      C-DACS investigational device Freedom sound processor to the Nucleus® CP810 sound processor
+      for the Codacs™ system on the speech reception threshold in noise, to evaluate the usability
+      of the Codacs™ Fitting Software, to evaluate the quality of life with the Nucleus® CP810
+      Sound Processor for the Codacs™ system, to collect long term data, to evaluate the
+      acceptance criteria of the postoperative Codacs™ system test and to evaluate the usability
+      of the Codacs™ Test System.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2014</start_date>
+  <completion_date type="Actual">June 2015</completion_date>
+  <primary_completion_date type="Actual">June 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Aided speech reception thresholds in noise measured by signal to noise ratio for 50% correct scores with the Oldenburger Sentence test</measure>
+    <time_frame>3 months after initial upgraded fitting</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Description: Noise level is fixed at 65 decibel sound pressure level and speech level is varied adaptively based on number of words the patient understood in previous sentence.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">15</enrollment>
+  <condition>Severe to Profound Mixed Hearing Loss</condition>
+  <arm_group>
+    <arm_group_label>CP810 and Codacs™Test System</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nucleus® CP810 Sound Processor for the Codacs™ system (CE marked) and Codacs™ Test System (CE marked)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CP810 and Codacs™ system test</intervention_name>
+    <description>Nucleus® CP810 Sound Processor for the Codacs™ system (CE marked) and Codacs™ Test System (CE marked)</description>
+    <arm_group_label>CP810 and Codacs™Test System</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects implanted with a Cochlear C-DACS investigational device
+
+        Exclusion Criteria:
+
+          -  Participation in another medical device study
+
+          -  Unwillingness or inability of the subject to comply with the study requirements
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ernst von Wallenberg, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cochlear</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hannover Medical School</name>
+      <address>
+        <city>Hannover</city>
+        <state>Niedersachsen</state>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <reference>
+    <citation>Lenarz T, Zwartenkot JW, Stieger C, Schwab B, Mylanus EA, Caversaccio M, Kompis M, Snik AF, D'hondt C, Mojallal H. Multicenter study with a direct acoustic cochlear implant. Otol Neurotol. 2013 Sep;34(7):1215-25. doi: 10.1097/MAO.0b013e318298aa76.</citation>
+    <PMID>23921930</PMID>
+  </reference>
+  <reference>
+    <citation>Lenarz T, Verhaert N, Desloovere C, Desmet J, D'hondt C, González JC, Kludt E, Macías AR, Skarżyński H, Van de Heyning P, Vyncke C, Wasowski A. A comparative study on speech in noise understanding with a direct acoustic cochlear implant in subjects with severe to profound mixed hearing loss. Audiol Neurootol. 2014;19(3):164-74. doi: 10.1159/000358004. Epub 2014 Feb 18.</citation>
+    <PMID>24556905</PMID>
+  </reference>
+  <verification_date>July 2015</verification_date>
+  <lastchanged_date>July 20, 2015</lastchanged_date>
+  <firstreceived_date>June 3, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Otosclerosis, cochlear implant, acoustic stimulation</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hearing Loss</mesh_term>
+    <mesh_term>Hearing Loss, Mixed Conductive-Sensorineural</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

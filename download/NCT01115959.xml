@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="392">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01115959</url>
+  </required_header>
+  <id_info>
+    <org_study_id>001</org_study_id>
+    <nct_id>NCT01115959</nct_id>
+  </id_info>
+  <brief_title>Seizures Post Intracerebral Hemorrhage</brief_title>
+  <official_title>Are Post Intracerebal Hemorrhage Prevented By Anti-Epileptic Treatment?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wolfson Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wolfson Medical Center</source>
+  <oversight_info>
+    <authority>Israel: Ministry of Health</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study examines early antiepileptic treatment with valproic acid for acute cerebral
+      hemorrhage against a placebo group immediately post event to evaluate the outcome of these
+      patients regarding seizures and neurological outcome.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2003</start_date>
+  <completion_date type="Actual">December 2008</completion_date>
+  <primary_completion_date type="Actual">October 2008</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>number of seizures</measure>
+    <time_frame>study drug for 1 month and 1 year follow up</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>neurological outcome NIHSS</measure>
+    <time_frame>during 1 month study drug and 1 year post follow up</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">72</enrollment>
+  <condition>Post Cerebral Hemorrhage</condition>
+  <arm_group>
+    <arm_group_label>valproic acid</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Valproic acid given orally 400mg twice daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo twice daily for one month</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>valproic acid</intervention_name>
+    <description>treatment of 1 month dosage of 400 mg BID</description>
+    <arm_group_label>valproic acid</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo bid</intervention_name>
+    <arm_group_label>valproic acid</arm_group_label>
+    <arm_group_label>placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  cerebral hemorrhage spontaneous
+
+        Exclusion Criteria:
+
+          -  early seizures
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ronit gilad, md</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>E Wolfson med center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>ronit gilad, md</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>E wofson med center</affiliation>
+  </overall_official>
+  <verification_date>May 2010</verification_date>
+  <lastchanged_date>June 11, 2014</lastchanged_date>
+  <firstreceived_date>May 2, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Wolfson Medical Center</investigator_affiliation>
+    <investigator_full_name>Dr. Yair Lampl</investigator_full_name>
+    <investigator_title>Professor Yair Lampl</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cerebral Hemorrhage</mesh_term>
+    <mesh_term>Hemorrhage</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Valproic Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

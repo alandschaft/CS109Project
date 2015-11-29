@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="906">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01926808</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Longitudinal Vitamin D</org_study_id>
+    <nct_id>NCT01926808</nct_id>
+  </id_info>
+  <brief_title>Vitamin D Serum Concentrations &amp; Supplementation in Children With Cerebral Palsy</brief_title>
+  <official_title>Vitamin D Serum Concentrations and Vitamin D Supplementation in Children and Young Adults With Cerebral Palsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Akron Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Akron Children's Hospital</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to try to correlate vitamin D dosing and dosing adjustment with
+      Vitamin D levels, measure affects of seizure medications on levels as well as pathologic
+      fractures and bone density in severely cognitively impaired, non-mobile children and
+      adolescents with CP.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>June 2013</start_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Retrospective</study_design>
+  <primary_outcome>
+    <measure>Change in serum vitamin D concentrations</measure>
+    <time_frame>5 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Vitamin D Deficiency</condition>
+  <arm_group>
+    <arm_group_label>Vitamin D supplementation</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Severely cognitively impaired, non-mobile children and young adults who are residents at
+        long-term care facility
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Recorded vitamin D supplementation dose (i.e. prescribed diet and any additional
+             sources of vitamin D) with at least two serum vitamin D concentrations recorded in
+             the medical chart from January 1, 2008 to June 30, 2013.
+
+          -  Resident of HLCCD since 2008
+
+        Exclusion Criteria:
+
+          -  No vitamin D levels recorded.
+
+          -  History of hyperthyroidism or parathyroid pathology.
+
+          -  Short gut syndrome that requires TPN.
+
+          -  Poor medical documentation.
+
+          -  Heritable disorders that affect vitamin D levels such as Pseudovitamin D deficiency
+             rickets, Vitamin D resistant rickets, autosomal dominant hypophosphatemic rickets and
+             X-linked hypophosphatemic rickets
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>January 2015</verification_date>
+  <lastchanged_date>January 14, 2015</lastchanged_date>
+  <firstreceived_date>August 19, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Akron Children's Hospital</investigator_affiliation>
+    <investigator_full_name>Martha Blackford, PharmD</investigator_full_name>
+    <investigator_title>PharmD</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cerebral Palsy</mesh_term>
+    <mesh_term>Vitamin D Deficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

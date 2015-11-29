@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1033">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02551731</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INS011-15-054</org_study_id>
+    <nct_id>NCT02551731</nct_id>
+  </id_info>
+  <brief_title>Cannabidiol Oral Solution for Treatment of Refractory Infantile Spasms</brief_title>
+  <official_title>A Phase 2 Study to Assess the Efficacy and Safety of Cannabidiol Oral Solution for the Treatment of Refractory Infantile Spasms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>INSYS Therapeutics Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>INSYS Therapeutics Inc</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Infantile Spasms (IS) is a diagnosis described as a fairly rare and terrible form of
+      epilepsy that usually strikes children in the first year of life. There is a great need for
+      safe and effective therapies in the treatment of IS. This need is even more important for
+      infants and toddlers still sick after being treated with medicine that is already available.
+
+      This study is taking place at a single center and will include a Screening Period (up to 7
+      days), an Initial Treatment Period (2 weeks), a Follow-up Period (4 weeks), and an Extended
+      Treatment Phase (10 weeks).
+
+      The overall study duration for participants who do not respond to treatment is expected to
+      be up to 5 weeks, including the Screening Period, Initial Treatment Period and the Follow-up
+      Visit. For those who show a complete or partial response to treatment, the maximum possible
+      study duration for each patient is approximately 17 weeks.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>November 2015</start_date>
+  <completion_date type="Anticipated">June 2016</completion_date>
+  <primary_completion_date type="Anticipated">June 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Percentage of participants with absence of infantile spasms at Day 14</measure>
+    <time_frame>at Day 14</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Infantile spasms are the specific kind of seizure seen in children diagnosed with condition called Infantile Spasm at Day 14.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with absence of hypsarrhythmia at Day 14</measure>
+    <time_frame>at Day 14</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Electroencephalography (EEG) is the recording of the brain's electrical activity over a period of time, recorded from electrodes placed on the scalp. Video-EEG is a special form of EEG test that permits the study of brainwaves while seizures are occurring. It helps doctors determine the nature of the seizure and how best to treat it. Hypsarrhythmia is an abnormal pattern recognized in the video-EEG of children with infantile spasms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with absence of both infantile spasms and hypsarrythmia at Day 14 (complete response)</measure>
+    <time_frame>at Day 14</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>If there are no more spasms or hypsarrythmia, it is considered a complete response, meaning the drug had the intended effect.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Median reduction in seizure-burden comparing video-EEG at Pre-Screen to repeat video-EEG at Day 14</measure>
+    <time_frame>Baseline, Day 14</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The seizure-burden is the number of minutes that a child is having seizures during an hour in which they are having seizures. This outcome measures the average reduction in the seizure-burden.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The parent's impression of efficacy and tolerability of study drug</measure>
+    <time_frame>At Day 14, monthly visits, and end of study</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Parent impression of efficacy and tolerability of study drug as measured by a change in Clinical Global Impression of improvement Assessment at Day 14, monthly visits, and end of study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with a partial response to treatment</measure>
+    <time_frame>within 17 Weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of complete responders who relapsed</measure>
+    <time_frame>within 17 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Relapse will be confirmed by video-EEG following parent report of relapse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean time in days to relapse of complete responders</measure>
+    <time_frame>within 17 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Spasms, Infantile</condition>
+  <arm_group>
+    <arm_group_label>Full Analysis Set - All Participants</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The dose of study drug may be de-escalated (reduced) at any time if the investigator feels the safety or well-being of the participant is at risk.
+After a 1-week screening period, participants will receive 10 mg/kg of cannabidiol (study drug) twice daily (BID) during a 2-week Initial Treatment Period. They will return to the study clinic on Day 14 for evaluation.
+Participants with no response will not receive any more study drug and will return the following week for a follow-up visit, so the study will last only 5 weeks for them.
+Responders will enter an extended treatment period (up to Week 10). Complete responders continue at the same dose and partial responders may continue receiving study drug titrating up (increasing) to 20 mg/kg BID. They will all be tapered off study drug over a 2-week period (Weeks 10-12), and will return for a post-treatment visit at Week 16, so the study will last 17 weeks for them.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cannabidiol Oral Solution</intervention_name>
+    <description>20-40 mg/kg/day BID</description>
+    <arm_group_label>Full Analysis Set - All Participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets protocol-specified criteria for qualification, including infantile spasms
+
+          -  Parent(s)/caregiver(s) fully comprehend and sign the informed consent form,
+             understand all study procedures, and can communicate satisfactorily with the
+             Investigator and study coordinator.
+
+        Exclusion Criteria:
+
+          -  History or current use of over-the-counter medications, dietary supplements, or drugs
+             outside protocol-specified parameters
+
+          -  Signs, symptoms or history of any condition that, per protocol or in the opinion of
+             the investigator, might compromise:
+
+               1. the safety or well-being of the participant or study staff
+
+               2. the safety or well-being of the participant's offspring (such as through
+                  pregnancy or breast-feeding)
+
+               3. the analysis of results
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>36 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neha Parikh</last_name>
+    <role>Study Director</role>
+    <affiliation>INSYS Therapeutics Inc</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mattel Children's Hospital at UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ruby G Escalante</last_name>
+      <phone>310-206-4037</phone>
+      <email>RubyEscalante@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Raman Sankar, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shaun Hussain, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>October 15, 2015</lastchanged_date>
+  <firstreceived_date>September 14, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Spasm</mesh_term>
+    <mesh_term>Spasms, Infantile</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pharmaceutical Solutions</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="216">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02408549</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EP0012</org_study_id>
+    <secondary_id>2012-001770-29</secondary_id>
+    <nct_id>NCT02408549</nct_id>
+  </id_info>
+  <brief_title>Saftey and Efficacy of Lacosamide as Additional Therapy in Patients Suffering From Epileptic Tonic Clonic Seizures</brief_title>
+  <acronym>VALUE</acronym>
+  <official_title>An Open-label, Multicenter Extension Study to Evaluate the Long-term Safety and Efficacy of Lacosamide as Adjunctive Therapy for Uncontrolled Primary Generalized Tonic Clonic Seizures in Subjects With Idiopathic Generalized Epilepsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB BIOSCIENCES, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pharmaceutical Research Associates</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <authority>Australia: Department of Health and Ageing Therapeutic Goods Administration</authority>
+    <authority>Belgium: Federal Agency for Medicinal Products and Health Products</authority>
+    <authority>Bulgaria: Bulgarian Drug Agency</authority>
+    <authority>Czech Republic: State Institute for Drug Control</authority>
+    <authority>France: Afssaps - Agence française de sécurité sanitaire des produits de santé (Saint-Denis)</authority>
+    <authority>Germany: Federal Institute for Drugs and Medical Devices</authority>
+    <authority>Hungary: National Institute for Quality and Organizational Development in Healthcare and Medicines</authority>
+    <authority>Italy: National Monitoring Centre for Clinical Trials - Ministry of Health</authority>
+    <authority>Japan: Pharmaceuticals and Medical Devices Agency</authority>
+    <authority>Mexico: Federal Commission for Protection Against Health Risks</authority>
+    <authority>Poland: Office for Registration of Medicinal Products, Medical Devices and Biocidal Products</authority>
+    <authority>Romania: National Agency for Medicines and Medical Devices</authority>
+    <authority>Spain: Agencia Española de Medicamentos y Productos Sanitarios</authority>
+    <authority>Taiwan : Food and Drug Administration</authority>
+    <authority>Turkey: Ministry of Health</authority>
+    <authority>Russia: Ministry of Health of the Russian Federation</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Slovakia: State Institute for Drug Control</authority>
+    <authority>Portugal: National Pharmacy and Medicines Institute</authority>
+    <authority>Israel: Israeli Health Ministry Pharmaceutical Administration</authority>
+    <authority>Brazil: National Health Surveillance Agency</authority>
+    <authority>South Korea: Korea Food and Drug Administration (KFDA)</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Assessment of long-term safety and efficacy of oral lacosamide (LCM) as an adjunctive
+      therapy for uncontrolled primary generalized tonic-clonic (PGTC) seizures in subjects = 4
+      years of age with idiopathic generalized epilepsy (IGE). This study will enroll subjects
+      from the LCM SP0982 study.
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date>May 2015</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Number of subjects experiencing at least one Adverse Event (AE) during the study (up to 5 years)</measure>
+    <time_frame>During the study (up to 5 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Adverse Events will be reported spontaneously by the subject/ caregiver or observed by the investigator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of subjects withdrawing due to Adverse Events (AEs) during the study (up to 5 years)</measure>
+    <time_frame>During the study (up to 5 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Adverse Events will be reported spontaneously by the subject/ caregiver or observed by the investigator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of subjects experiencing at least one Serious Adverse Event (SAE)</measure>
+    <time_frame>During the study (up to 5 years)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Serious Adverse Events will be reported spontaneously by the subject/ caregiver or observed by the investigator.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in Primary Generalized Tonic-clonic (PGTC) seizure frequency per 28 days from Baseline</measure>
+    <time_frame>28 days from Baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percent change in PGTC seizure frequency per 28 days from Baseline, where Baseline is defined as the 12-week Historical Baseline and 4-week Prospective Baseline periods immediately prior to randomization in the parent study (SP0982).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Epilepsy</condition>
+  <arm_group>
+    <arm_group_label>Lacosamide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Start dose
+SP982 completers at V1:
+LCM 10 mg/kg/day for pediatric subjects weighing &lt;30 kg
+LCM 8 mg/kg/day for pediatric subjects weighing ≥ 30kg to &lt;50 kg
+LCM 400 mg/day (200 mg bid) for adult subjects (≥18 years of age) or pediatric subjects weighing ≥50 kg
+SP982 Baseline failures at V1:
+LCM 2 mg/kg/day for pediatric subjects weighing &lt;50 kg
+LCM 100 mg/day (50 mg bid) for adult subjects (≥18 years of age) or pediatric subjects weighing ≥50 kg
+Oral solution (pediatric subjects &lt;50 kg):
+Minimum LCM dose: 4 mg/kg/day
+Maximum LCM dose: 12 mg/kg/day
+Tablets (pediatric subjects ≥50kg):
+Minimum LCM dose: 200 mg/day
+Minimum LCM dose: 600 mg/day
+Tablets (adult subjects):
+Minimum LCM dose: 200 mg/day
+Maximum LCM dose: 800 mg/day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lacosamide Tablet</intervention_name>
+    <description>Active substance: Lacosamide
+Pharmaceutical form: Tablet
+Concentration: 50 mg and 100 mg
+Route of Administration: oral administration</description>
+    <arm_group_label>Lacosamide</arm_group_label>
+    <other_name>Vimpat</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lasosamide Oral Solution</intervention_name>
+    <description>Active substance: Lacosamide
+Pharmaceutical form: Oral solution
+Concentration: 10 mg/ml
+Route of Administration: Oral administration</description>
+    <arm_group_label>Lacosamide</arm_group_label>
+    <other_name>Vimpat</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject must have completed or be an eligible Baseline failure from the parent study
+             (SP0982)
+
+        Exclusion Criteria:
+
+          -  Subject is receiving any investigational drugs or using any experimental devices in
+             addition to Lacosamide (LCM)
+
+          -  Subject meets the withdrawal criteria for SP0982 or is experiencing an ongoing
+             serious adverse event (SAE)
+
+          -  Subject has an active suicidal ideation as indicated by a positive response (&quot;Yes&quot;)
+             to either Question 4 or Question 5 of the &quot;Since Last Visit&quot; version of the
+             Columbia-Suicide Severity Rating Scale (C-SSRS)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Clinical Trial Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>UCB Pharma</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ep0012 028</name>
+      <address>
+        <city>Alabaster</city>
+        <state>Alabama</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 005</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 008</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 031</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 036</name>
+      <address>
+        <city>Danbury</city>
+        <state>Connecticut</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 003</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 10</name>
+      <address>
+        <city>Jackson Ville</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 011</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 002</name>
+      <address>
+        <city>Port Charlotte</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 001</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 14</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 19</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 042</name>
+      <address>
+        <city>Wellington</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 015</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 021</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 21</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 041</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 007</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 010</name>
+      <address>
+        <city>Waldorf</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 025</name>
+      <address>
+        <city>Golden Valley</city>
+        <state>Minnesota</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 25</name>
+      <address>
+        <city>Golden Valley</city>
+        <state>Minnesota</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 044</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 039</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 39</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 034</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 027</name>
+      <address>
+        <city>Renton</city>
+        <state>Washington</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 023</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 201</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 200</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 203</name>
+      <address>
+        <city>Liege</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 500</name>
+      <address>
+        <city>Blagoevgrad</city>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 554</name>
+      <address>
+        <city>Hradec Kralove</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 550</name>
+      <address>
+        <city>Ostrava-Poruba</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 553</name>
+      <address>
+        <city>Praha</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 552</name>
+      <address>
+        <city>Zlin</city>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 250</name>
+      <address>
+        <city>Rennes Cedex 9</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 300</name>
+      <address>
+        <city>Bielefeld</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 309</name>
+      <address>
+        <city>Bonn</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 303</name>
+      <address>
+        <city>Erlangen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 304</name>
+      <address>
+        <city>Leipzig</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 302</name>
+      <address>
+        <city>München</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 306</name>
+      <address>
+        <city>Ulm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 600</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 942</name>
+      <address>
+        <city>Busan</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 940</name>
+      <address>
+        <city>Daegu</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 941</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 657</name>
+      <address>
+        <city>Czestochowa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 655</name>
+      <address>
+        <city>Gdansk</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 658</name>
+      <address>
+        <city>Gdynia</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 652</name>
+      <address>
+        <city>Gliwice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 651</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 653</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 654</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 660</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 650</name>
+      <address>
+        <city>Warszaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 702</name>
+      <address>
+        <city>Campulung-Muscel</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 703</name>
+      <address>
+        <city>Targu Mures</city>
+        <country>Romania</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 751</name>
+      <address>
+        <city>Kazan</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 755</name>
+      <address>
+        <city>St. Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 821</name>
+      <address>
+        <city>Bardejov</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 820</name>
+      <address>
+        <city>Dolni Kubin</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 820</name>
+      <address>
+        <city>Dolny Kubin</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 823</name>
+      <address>
+        <city>Hlohovec</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 822</name>
+      <address>
+        <city>Nove Zamky</city>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 402</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ep0012 403</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Bulgaria</country>
+    <country>Czech Republic</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Hungary</country>
+    <country>Korea, Republic of</country>
+    <country>Poland</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Slovakia</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <lastchanged_date>November 2, 2015</lastchanged_date>
+  <firstreceived_date>March 31, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lacosamide</keyword>
+  <keyword>Vimpat</keyword>
+  <keyword>Epilepsy</keyword>
+  <keyword>Children</keyword>
+  <keyword>Primary Generalized Tonic Clonic seizures</keyword>
+  <keyword>Idiopathic Generalized Epilepsy</keyword>
+  <keyword>Adults</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Epilepsy, Generalized</mesh_term>
+    <mesh_term>Seizures</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lacosamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

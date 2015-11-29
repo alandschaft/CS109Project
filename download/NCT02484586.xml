@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="978">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02484586</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRTC2014-04</org_study_id>
+    <nct_id>NCT02484586</nct_id>
+  </id_info>
+  <brief_title>Dispensing Study to Assess the Visual Performance of Optimised Prototype Contact Lenses</brief_title>
+  <official_title>Dispensing Study to Assess the Visual Performance of Optimised Prototype Contact Lenses</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brien Holden Vision</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brien Holden Vision</source>
+  <oversight_info>
+    <authority>Australia: Human Research Ethics Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to assess the visual performance of multiple optimised prototype
+      soft contact lens designs compared to commercially available contact lenses.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Prospective, double-masked, crossover, bilateral wear, dispensing clinical trial where
+      participants will wear multiple prototype (test) and commercial (control) lenses.
+
+      Multiple prototype contact lens designs will be assessed against commercial control lenses
+      during the study, where each design will be worn for up to a week. There will be a minimum
+      24 hour washout period between lens designs.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>October 2015</start_date>
+  <completion_date type="Anticipated">December 2015</completion_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Visual acuity on a LogMAR (logarithm of the minimum angle of resolution) scale</measure>
+    <time_frame>Approximately 1 week after lens fitting</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>For each lens, visual acuity will be measured at distance with a computerised LogMAR chart and at near with a near LogMAR chart. Data will be summarised as means +/- standard deviations. No transformation is likely to be required. Visual acuity will be compared between each lens design and control lens types. The significance of lens design will be determined for each visit.
+Repeated effects linear mixed model with subject random intercepts or paired t tests will be employed for the analysis of visual acuity. Analysis will be performed within each study arm namely presbyopes and non-presbyopes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Subjective rating of vision on a 1-10 visual analogue scale</measure>
+    <time_frame>Approximately 1 week after lens fitting</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>For each lens, subjective ratings of vision will be assessed with a questionnaire based on a 1 to 10 scale in steps of 1. The questionnaire has been designed specifically for this study. Data will be summarised as means +/- standard deviations. No transformation is likely to be required. Subjective ratings will be compared between each lens design and control lens types. The significance of lens design will be determined for each visit. Repeated effects linear mixed model with subject random intercepts or paired t tests will be employed for the analysis of subjective ratings. Analysis will be performed within each study arm namely presbyopes and non-presbyopes.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Presbyopia</condition>
+  <condition>Refractive Error</condition>
+  <arm_group>
+    <arm_group_label>Presbyope group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>40 years and over with a reading add.
+Control lens: Etafilcon A, Nelfilcon A, Nesofilcon A, Somofilcon A
+Test lens: Etafilcon A
+Up to 10 prototype contact lens designs and at least 1 commercially available contact lens designs will be worn by each participant for up to a week on a daily disposable modality. Participants will attend separate fitting and assessment visits for each lens type (Fitting Visit on Day 1, and Assessment Visit as late as Day 7, but may be as early as 6 hours after the Fitting Visit). There will be a minimum 24 hour washout period between lens designs, i.e. after an assessment visit but before the next fitting visit.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-Presbyope group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>18-39 years with no reading add.
+Control lens: Etafilcon A, Nelfilcon A
+Test lens: Etafilcon A
+Up to 10 prototype contact lens designs and at least 1 commercially available contact lens designs will be worn by participants for up to a week on a daily disposable modality. Participants will attend separate fitting and assessment visits for each lens type (Fitting Visit on Day 1, and Assessment Visit as late as Day 7, but may be as early as 6 hours after the Fitting Visit). There will be a minimum 24 hour washout period between lens designs, i.e. after an assessment visit but before the next fitting visit.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Etafilcon A</intervention_name>
+    <description>Prototype lens material</description>
+    <arm_group_label>Presbyope group</arm_group_label>
+    <arm_group_label>Non-Presbyope group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Etafilcon A</intervention_name>
+    <description>Control lens for presbyope group</description>
+    <arm_group_label>Presbyope group</arm_group_label>
+    <other_name>1-Day Acuvue Moist Multifocal</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Nelfilcon A</intervention_name>
+    <description>Control lens for presbyope group</description>
+    <arm_group_label>Presbyope group</arm_group_label>
+    <other_name>Dailies Aqua Comfort Plus Multifocal</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Nesofilcon A</intervention_name>
+    <description>Control lens for presbyope group</description>
+    <arm_group_label>Presbyope group</arm_group_label>
+    <other_name>Biotrue ONEday for Presbyopia</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Nelfilcon A</intervention_name>
+    <description>Control lens for non-presbyope group</description>
+    <arm_group_label>Non-Presbyope group</arm_group_label>
+    <other_name>Dailies Aqua Comfort Plus</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Etafilcon A</intervention_name>
+    <description>Control lens for non-presbyope group</description>
+    <arm_group_label>Non-Presbyope group</arm_group_label>
+    <other_name>1-Day Acuvue Moist</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Somofilcon A</intervention_name>
+    <description>Control lens for presbyope group</description>
+    <arm_group_label>Presbyope group</arm_group_label>
+    <other_name>Clariti 1 Day Multifocal</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Able to read and comprehend English and give informed consent as demonstrated by
+             signing a record of informed consent.
+
+          -  Be at least 18 years old, male or female.
+
+          -  Willing to comply with the wearing and clinical trial visit schedule as directed by
+             the Investigator.
+
+          -  Have ocular health findings considered to be &quot;normal&quot; and which would not prevent the
+             participant from safely wearing contact lenses.
+
+          -  Is correctable to at least 6/12 (20/40) or better in each eye with contact lenses.
+
+          -  Be suitable and willing to wear contact lenses.
+
+        Exclusion Criteria:
+
+          -  Any pre-existing ocular irritation, injury or condition (including infection or
+             disease) of the cornea, conjunctiva or eyelids that would preclude contact lens
+             fitting and safe wearing of contact lenses.
+
+          -  Any systemic disease that adversely affects ocular health e.g. diabetes, Graves
+             disease, and auto immune diseases such as ankylosing spondylitis, multiple sclerosis,
+             Sjogrens syndrome and systemic lupus erythematosus. Conditions such as systemic
+             hypertension and arthritis do not automatically exclude prospective participants.
+
+          -  Use of or a need for concurrent category S3 and above ocular medication at enrolment.
+             Ocular medication can be prescribed during the course of the trial as per standard
+             optometric practice.
+
+          -  Use of or a need for any systemic medication or topical medications which may alter
+             normal ocular findings / are known to affect a participant's ocular health /
+             physiology or contact lens performance either in an adverse or beneficial manner at
+             enrolment and/or during the clinical trial. Note: Systemic antihistamines are allowed
+             on an &quot;as needed basis&quot;, provided they are not used prophylactically during the trial
+             and at least 24 hours before the clinical trial product is used.
+
+          -  Eye surgery within 12 weeks immediately prior to enrolment for this trial.
+
+          -  Previous corneal refractive surgery.
+
+          -  Contraindications to contact lens wear.
+
+          -  Known allergy or intolerance to ingredients in any of the clinical trial products.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jennifer Sha, BOptom/BSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brien Holden Vision Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elise Robertson</last_name>
+    <phone>+61293857507</phone>
+    <email>e.robertson@brienholdenvision.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Sha, BOptom/BSc</last_name>
+    <phone>+61293849811</phone>
+    <email>j.sha@brienholdenvision.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Brien Holden Vision Institute</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2052</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Elise Robertson</last_name>
+      <phone>+61293857507</phone>
+      <email>e.robertson@brienholdenvision.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Sha, BOptom/BSc</last_name>
+      <phone>+61293859811</phone>
+      <email>j.sha@brienholdenvision.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jennifer Sha, BOptom/BSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 30, 2015</lastchanged_date>
+  <firstreceived_date>June 24, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Presbyopia</keyword>
+  <keyword>Refractive error</keyword>
+  <keyword>Contact lens</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Presbyopia</mesh_term>
+    <mesh_term>Refractive Errors</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

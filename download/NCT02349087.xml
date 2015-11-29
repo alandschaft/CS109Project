@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="473">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02349087</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KUH507T010</org_study_id>
+    <nct_id>NCT02349087</nct_id>
+  </id_info>
+  <brief_title>EEG in Resuscitated In-hospital Patients</brief_title>
+  <official_title>Integrating EEG Into Acute Medicine: EEG in Resuscitated In-hospital Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kuopio University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kuopio University Hospital</source>
+  <oversight_info>
+    <authority>Finland: Research Ethics Committee, Hospital District of Northern Savo</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Kuopio University Hospital Department of Clinical Neurophysiology there have been
+      designed a fast EEG electrode, that is suitable for acute emergency use. This study will
+      address the clinical use of acute EEG with this fast EEG electrode in in- hospital patients
+      who have been resuscitated due to cardiac arest. After resuscitation patients will be
+      treated in ICU and EEG will be recorded for 24 hours.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2014</start_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>24 hours of EEG monitoring starting from resuscitation and quantity of non-convulsive status epilepticus found</measure>
+    <time_frame>24 hours</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Sudden Cardiac Arrest</condition>
+  <condition>Seizures</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Acute EEG with fast applicable EEG electrode</intervention_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        In- hospital resuscitated patients, who are going to be treated in ICU after ROSC.
+        Patients with Do Not Attempt to Resuscitate -decision will not be included.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Resuscitated in-hospital patients
+
+        Exclusion Criteria:
+
+          -  Patients with Do Not Attempt to Resuscitate-decision
+
+          -  Patients who are not going to be treated in ICU after resuscitation
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Esa Mervaala, MD, PhD,prof</last_name>
+    <role>Study Director</role>
+    <affiliation>Clinical Neurophysiology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stepani Bendel, MD, PhD</last_name>
+    <phone>358 44 7175539</phone>
+    <email>stepani.bendel@kuh.fi</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sanna Savikkomaa, MD</last_name>
+    <phone>358 44 7175039</phone>
+    <email>sanna.savikkomaa@kuh.fi</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Kuopio University Hospital</name>
+      <address>
+        <city>Kuopio</city>
+        <state>Northern Savo</state>
+        <zip>70210</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Finland</country>
+  </location_countries>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>August 31, 2015</lastchanged_date>
+  <firstreceived_date>January 23, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>EEG</keyword>
+  <keyword>cardiac arrest</keyword>
+  <keyword>resuscitation</keyword>
+  <keyword>seizures</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Heart Arrest</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

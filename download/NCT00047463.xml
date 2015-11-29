@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="903">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00047463</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB030633</org_study_id>
+    <secondary_id>R01NS42698</secondary_id>
+    <nct_id>NCT00047463</nct_id>
+  </id_info>
+  <brief_title>Effects of Treating Obstructive Sleep Apnea in Epilepsy</brief_title>
+  <official_title>Effects of Treating Obstructive Sleep Apnea in Epilepsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanderbilt University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vanderbilt University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this trial is to work out design issues prior to conducting a definitive
+      phase 3 trial to determine whether treating sleep-related breathing disorders in people with
+      epilepsy results in improvement in seizure control or an improvement in alertness during the
+      day.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Despite appropriate treatment with medications, individuals with epilepsy often continue to
+      have seizures, and many suffer from excessive daytime sleepiness and poor quality of life.
+      Evidence from case studies suggests that treatment of coexisting obstructive sleep apnea
+      (OSA)-stoppage in breathing during sleep-can reduce the frequency of seizures in people with
+      epilepsy that is resistant to antiepileptic medication.
+
+      In this study, individuals with symptoms of OSA and 2 or more seizures a month who meet
+      study criteria will undergo polysomnography, a test that continuously monitors normal and
+      abnormal physiological activity during sleep. Those individuals who test positive for OSA
+      will be randomized to either therapeutic or placebo continuous positive airway pressure
+      (CPAP)-a mask treatment for sleep apnea-for 10 weeks, during which time seizure frequency,
+      daytime sleepiness, health-related quality of life, and CPAP compliance will be assessed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2002</start_date>
+  <completion_date type="Actual">July 2008</completion_date>
+  <primary_completion_date type="Actual">July 2008</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>CPAP Adherence/Tolerance as Measured by Proportion of Nights</measure>
+    <time_frame>10 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>This measure quantifies how well patients use their CPAP. The standard unit of measurement is proportion of nights that the CPAP is used by a participant. Data were downloaded by a card placed in the CPAP machine reflecting use over the entire 10 weeks.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ability to Blind CPAP</measure>
+    <time_frame>10 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for One vs. Two Nights of Baseline Sleep Studies</measure>
+    <time_frame>1 night</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ability to Screen for Sleep Apnea With a Questionnaire</measure>
+    <time_frame>1 day</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">35</enrollment>
+  <condition>Epilepsy</condition>
+  <condition>Sleep Apnea</condition>
+  <condition>Obstructive Sleep Apnea</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>continuous positive airway pressure (CPAP)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo-CPAP</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>continuous positive airway pressure (CPAP)</intervention_name>
+    <description>a mask treatment for sleep apnea</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Placebo-CPAP</intervention_name>
+    <description>Placebo-CPAP</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age of 18 years or older.
+
+          -  A history supportive of obstructive sleep apnea.
+
+          -  Subject is able and willing to provide informed consent and to cooperate with
+             polysomnography.
+
+          -  Four or more quantifiable seizures per month.
+
+          -  Subjects and their physicians agree to have their medication regimens optimized so
+             that they are on the best regimen titrated to therapeutic benefit prior to the
+             baseline phase of the study.
+
+        Exclusion Criteria:
+
+          -  Seizures secondary to drugs, alcohol, infection, neoplasia, demyelination, metabolic
+             illness, or progressive degenerative disease.
+
+          -  Non-epileptic spells (e.g., pseudoseizures) alone or in combination with epileptic
+             seizures.
+
+          -  Narcolepsy or another primary sleep disorder that requires intervention with
+             medications and which may affect results of study (e.g., severe periodic limb
+             movement disorder).
+
+          -  Effectively treated OSA or prior exposure to continuous positive airway pressure.
+
+          -  History of poor compliance with antiepileptic medications.
+
+          -  Current treatment with the vagus nerve stimulator.
+
+          -  Pregnancy.
+
+          -  A significant history of medical or psychiatric disease which may impair
+             participation in the trial.
+
+          -  A history of alcohol or drug abuse during the one-year period prior to trial
+             participation.
+
+          -  Evidence of medical instability (e.g., congestive heart failure, cardiac arrhythmias,
+             pulmonary disease) due to obstructive sleep apnea.
+
+          -  Subjects who are unaware of the majority of their seizures and lack a reliable
+             witness.
+
+          -  Greater than ten seizures a day.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Beth Malow, M.D., M.S.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Malow BA, Foldvary-Schaefer N, Vaughn BV, Selwa LM, Chervin RD, Weatherwax KJ, Wang L, Song Y. Treating obstructive sleep apnea in adults with epilepsy: a randomized pilot trial. Neurology. 2008 Aug 19;71(8):572-7. doi: 10.1212/01.wnl.0000323927.13250.54.</citation>
+    <PMID>18711110</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Selwa LM, Marzec ML, Chervin RD, Weatherwax KJ, Vaughn BV, Foldvary-Schaefer N, Wang L, Song Y, Malow BA. Sleep staging and respiratory events in refractory epilepsy patients: Is there a first night effect? Epilepsia. 2008 Dec;49(12):2063-8. doi: 10.1111/j.1528-1167.2008.01681.x. Epub 2008 May 29.</citation>
+    <PMID>18513353</PMID>
+  </results_reference>
+  <verification_date>January 2014</verification_date>
+  <lastchanged_date>January 14, 2014</lastchanged_date>
+  <firstreceived_date>October 7, 2002</firstreceived_date>
+  <firstreceived_results_date>November 18, 2009</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vanderbilt University</investigator_affiliation>
+    <investigator_full_name>Beth Ann Malow</investigator_full_name>
+    <investigator_title>Professor of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>epilepsy</keyword>
+  <keyword>sleep apnea</keyword>
+  <keyword>obstructive sleep apnea</keyword>
+  <keyword>continuous positive airway pressure</keyword>
+  <keyword>CPAP</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Apnea</mesh_term>
+    <mesh_term>Epilepsy</mesh_term>
+    <mesh_term>Sleep Apnea Syndromes</mesh_term>
+    <mesh_term>Sleep Apnea, Obstructive</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>This pilot clinical trial was conducted between September 2002 and July 2005 at University of Michigan, Cleveland Clinic, University of North Carolina at Chapel Hill, and Vanderbilt University, with a Data Coordinating Center at the University of Michigan. 68 participants were enrolled and 35 were randomized.</recruitment_details>
+      <pre_assignment_details>Epilepsy clinic patients initially meeting trial eligibility on the basis of chart review completed the Sleep Apnea Scale of the Sleep Disorders Questionnaire, a validated instrument that assesses the likelihood of having obstructive sleep apnea, and underwent a sleep and epilepsy evaluation by the site investigator.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo Continuous Positive Airway Pressure</title>
+          <description>With placebo continuous positive airway pressure, the subject feels like he/she is receiving the real treatment because of the presence of a blower and mask. However, there is a large leak that prevents the subject from receiving adequate pressurized air to keep the airway open.</description>
+        </group>
+        <group group_id="P2">
+          <title>Continuous Positive Airway Pressure</title>
+          <description>Continuous positive airway pressure is a standard treatment for obstructive sleep apnea that uses pressurized air delivered through a mask to keep the airway open and prevent obstruction during sleep.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Treatment Phase</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="22"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="19"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo Continuous Positive Airway Pressure</title>
+          <description>With placebo continuous positive airway pressure, the subject feels like he/she is receiving the real treatment because of the presence of a blower and mask. However, there is a large leak that prevents the subject from receiving adequate pressurized air to keep the airway open.</description>
+        </group>
+        <group group_id="B2">
+          <title>Continuous Positive Airway Pressure</title>
+          <description>Continuous positive airway pressure is a standard treatment for obstructive sleep apnea that uses pressurized air delivered through a mask to keep the airway open and prevent obstruction during sleep.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <measure_list>
+        <measure>
+          <title>Number of Participants</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="13"/>
+                <measurement group_id="B2" value="22"/>
+                <measurement group_id="B3" value="35"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>&lt;=18 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Between 18 and 65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="13"/>
+                <measurement group_id="B2" value="22"/>
+                <measurement group_id="B3" value="35"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>&gt;=65 years</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="0"/>
+                <measurement group_id="B2" value="0"/>
+                <measurement group_id="B3" value="0"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <category_list>
+            <category>
+              <measurement_list>
+                <measurement group_id="B1" value="40.2" spread="14.3"/>
+                <measurement group_id="B2" value="42.7" spread="12.3"/>
+                <measurement group_id="B3" value="41.8" spread="12.9"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Gender</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>Female</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="7"/>
+                <measurement group_id="B2" value="8"/>
+                <measurement group_id="B3" value="15"/>
+              </measurement_list>
+            </category>
+            <category>
+              <sub_title>Male</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="6"/>
+                <measurement group_id="B2" value="14"/>
+                <measurement group_id="B3" value="20"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <category_list>
+            <category>
+              <sub_title>United States</sub_title>
+              <measurement_list>
+                <measurement group_id="B1" value="13"/>
+                <measurement group_id="B2" value="22"/>
+                <measurement group_id="B3" value="35"/>
+              </measurement_list>
+            </category>
+          </category_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>CPAP Adherence/Tolerance as Measured by Proportion of Nights</title>
+        <description>This measure quantifies how well patients use their CPAP. The standard unit of measurement is proportion of nights that the CPAP is used by a participant. Data were downloaded by a card placed in the CPAP machine reflecting use over the entire 10 weeks.</description>
+        <time_frame>10 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Continuous Positive Airway Pressure</title>
+            <description>With placebo continuous positive airway pressure, the subject feels like he/she is receiving the real treatment because of the presence of a blower and mask. However, there is a large leak that prevents the subject from receiving adequate pressurized air to keep the airway open.</description>
+          </group>
+          <group group_id="O2">
+            <title>Continuous Positive Airway Pressure</title>
+            <description>Continuous positive airway pressure is a standard treatment for obstructive sleep apnea that uses pressurized air delivered through a mask to keep the airway open and prevent obstruction during sleep.</description>
+          </group>
+        </group_list>
+        <measure_list>
+          <measure>
+            <title>Number of Participants</title>
+            <units>participants</units>
+            <param>Number</param>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="13"/>
+                  <measurement group_id="O2" value="22"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+          <measure>
+            <title>CPAP Adherence/Tolerance as Measured by Proportion of Nights</title>
+            <description>This measure quantifies how well patients use their CPAP. The standard unit of measurement is proportion of nights that the CPAP is used by a participant. Data were downloaded by a card placed in the CPAP machine reflecting use over the entire 10 weeks.</description>
+            <units>proportion of nights</units>
+            <param>Mean</param>
+            <dispersion>Standard Deviation</dispersion>
+            <category_list>
+              <category>
+                <measurement_list>
+                  <measurement group_id="O1" value="0.74" spread="0.24"/>
+                  <measurement group_id="O2" value="0.66" spread="0.3"/>
+                </measurement_list>
+              </category>
+            </category_list>
+          </measure>
+        </measure_list>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The null hypothesis was that the groups would be similar in tolerance. This was a pilot study so we did not do a power calculation.</groups_desc>
+            <non_inferiority>No</non_inferiority>
+            <p_value>0.26</p_value>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ability to Blind CPAP</title>
+        <time_frame>10 weeks</time_frame>
+        <safety_issue>No</safety_issue>
+        <posting_date>10/2011</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Need for One vs. Two Nights of Baseline Sleep Studies</title>
+        <time_frame>1 night</time_frame>
+        <safety_issue>No</safety_issue>
+        <posting_date>10/2011</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Ability to Screen for Sleep Apnea With a Questionnaire</title>
+        <time_frame>1 day</time_frame>
+        <safety_issue>No</safety_issue>
+        <posting_date>10/2011</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo Continuous Positive Airway Pressure</title>
+          <description>With placebo continuous positive airway pressure, the subject feels like he/she is receiving the real treatment because of the presence of a blower and mask. However, there is a large leak that prevents the subject from receiving adequate pressurized air to keep the airway open.</description>
+        </group>
+        <group group_id="E2">
+          <title>Continuous Positive Airway Pressure</title>
+          <description>Continuous positive airway pressure is a standard treatment for obstructive sleep apnea that uses pressurized air delivered through a mask to keep the airway open and prevent obstruction during sleep.</description>
+        </group>
+      </group_list>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="13"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>tachycardia or chest tightness</sub_title>
+                <description>patient described a rapid heart rate</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>nasal congestion</sub_title>
+                <description>nasal congestion for CPAP use</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>GI discomfort</sub_title>
+                <description>Gastrointestinal discomfort after use of CPAP</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>anxiety</sub_title>
+                <assessment>Systematic Assessment</assessment>
+                <description>anxious using CPAP</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>skin irritation</sub_title>
+                <description>Skin irritation at site of CPAP mask</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="13"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="22"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Being a pilot study with a relatively small sample size, we were unable to isolate the effects of specific medications or seizure types on the presence of sleep apnea.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Beth Malow/Principal Investigator</name_or_title>
+      <organization>Vanderbilt University</organization>
+      <phone>615-322-0283</phone>
+      <email>beth.malow@vanderbilt.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>

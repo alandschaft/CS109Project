@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1037">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02175173</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INO01T</org_study_id>
+    <nct_id>NCT02175173</nct_id>
+  </id_info>
+  <brief_title>Post-marketing Surveillance of Long-term Administration of Inovelon Tablets in Patients With Lennox-Gastaut Syndrome</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eisai Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eisai Inc.</source>
+  <oversight_info>
+    <authority>Japan: Ministry of Health, Labor and Welfare</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This surveillance's objectives are
+
+        1. Unknown adverse reactions
+
+        2. Incidences of adverse drug reaction
+
+        3. Efficacy during long-term administration
+
+        4. Factors considered to have effect to safety and effectiveness
+
+        5. Incidences of status epileptics, skin disorders and hyper sensitivity reaction, and
+           central nervous system-related adverse events(ataxia , somnolence and/or dizzy, etc.)
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2013</start_date>
+  <completion_date type="Anticipated">April 2018</completion_date>
+  <primary_completion_date type="Anticipated">April 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Time Perspective: Retrospective</study_design>
+  <primary_outcome>
+    <measure>Investigations on adverse events and adverse drug reactions</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of attacks</measure>
+    <time_frame>12 weeks and every 6 monthsup to 2years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall assessments of the improvement in the seriousness of seizures</measure>
+    <time_frame>12 weeks and every 6 monthsup to 2years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Lennox-Gastaut Syndrome</condition>
+  <arm_group>
+    <arm_group_label>E2080</arm_group_label>
+    <description>Children ages &gt;= 4 years: Patients weighing 15.0-30.0 kg: oral daily dose of 200 mg in two divided doses after meals for the first 2 days. The dose will be increased by up to 200 mg/day every two days. The maintenance dose should be 1000 mg/day in two divided doses after meals. The dose can be increased or decreased within a range not exceeding 1000 mg/day, and should be increased by up to 200 mg/day at intervals not less than 2 days. Patients weighing &gt;= 30.1 kg: Adults: oral daily dose of 400 mg in two divided doses after meals for the first 2 days, then increased by up to 400 mg/day every two days. The maintenance dose should be 1800 mg/day for patients weighing 30.1-50.0 kg, 2400 mg/day for patients weighing 50.1-70.0 kg, and 3200 mg/day for patients weighing 70.1 kg or over in two divided doses after meals. Dose can be increased or decreased within a range not exceeding the above maintenance dose, and should be increased by up to 400 mg/day at intervals not less than 2 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rufinamide</intervention_name>
+    <description>Administration of Inoveron 100mg or 200mg Tablets</description>
+    <arm_group_label>E2080</arm_group_label>
+    <other_name>Inoveron Tablet</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with Lennox-Gastaut Syndrome
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        All patients with Lennox-Gastaut syndrome and administrated Inovelon
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Customer Information Services Department. CRC and QA</last_name>
+    <email>_ML_CLNCL@hhc.eisai.co.jp</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <address>
+        <city>Multiple Sites</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 5, 2015</lastchanged_date>
+  <firstreceived_date>June 10, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Epileptic encephalopathy, Lennox-Gastaut type</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

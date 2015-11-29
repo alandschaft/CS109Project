@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="811">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02175693</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NB01S</org_study_id>
+    <nct_id>NCT02175693</nct_id>
+  </id_info>
+  <brief_title>Post-marketing Surveillance of Administration of Botulinum Toxin Type B(NerBloc)-Investigation of the Clinical Condition and Safety in Patients With Cervical Dystonia</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eisai Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eisai Inc.</source>
+  <oversight_info>
+    <authority>Japan: Ministry of Health, Labor and Welfare</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Investigation of the clinical condition and safety in patients with cervical dystonia
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2013</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>Overall assessments of the improvement in the seriousness of seizures</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Improvement is based on the 5 following elements: 1) Eminent improvement 2) Improvement 3) Improvement a little invariability 5) Exacerbation 6) It is not possible to judge</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Cervical Dystonia</condition>
+  <arm_group>
+    <arm_group_label>E2014</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with cervical dystonia
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+        Patients with cervical dystonia
+
+        Exclusion criteria:
+
+        The patients who participated in this surveillance in the past
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Akira Endo</last_name>
+    <role>Study Director</role>
+    <affiliation>Drug Fostering and Evolution Coordination Department, Eisai Co., Ltd.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Customer Information Services Department. CRC and QA</last_name>
+    <email>_ML_CLNCL@hhc.eisai.co.jp</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <address>
+        <city>Osaka</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 20, 2015</lastchanged_date>
+  <firstreceived_date>June 24, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Torticollis</keyword>
+  <keyword>rimabotulinumtoxinB</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dystonia</mesh_term>
+    <mesh_term>Dystonic Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

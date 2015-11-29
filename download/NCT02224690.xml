@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="294">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02224690</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GWEP1423</org_study_id>
+    <secondary_id>2014-002941-23</secondary_id>
+    <nct_id>NCT02224690</nct_id>
+  </id_info>
+  <brief_title>A Study to Investigate the Efficacy and Safety of Cannabidiol (GWP42003-P; CBD) as Adjunctive Treatment for Seizures Associated With Lennox-Gastaut Syndrome in Children and Adults</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled Study to Investigate the Efficacy and Safety of Cannabidiol (GWP42003-P; CBD) as Adjunctive Treatment for Seizures Associated With Lennox-Gastaut Syndrome in Children and Adults.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GW Research Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GW Research Ltd</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To investigate the potential antiepileptic effects of cannabidiol (GWP42003-P) in subjects
+      with Lennox-Gastaut syndrome.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a 1:1 randomized, double-blind, 14-week comparison of GWP42003-P versus
+      placebo. The treatment period will consist of a two-week titration period followed by a
+      12-week maintenance period. The study will aim to determine the efficacy, safety and
+      tolerability of GWP42003-P compared with placebo. The dose will be as recommended by the
+      Data Safety Monitoring Committee (DSMC) after assessment of safety and pharmacokinetic data
+      from Part A of study GWEP1332. The first subject will not enroll into this study until the
+      DSMC has reviewed the safety data from Part A of study GWEP1332.
+
+      Following study completion, all subjects will be invited to continue to receive GWP42003-P
+      in an open label extension (OLE) study (under a separate protocol).
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>March 2015</start_date>
+  <completion_date type="Anticipated">December 2015</completion_date>
+  <primary_completion_date type="Anticipated">November 2015</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Mean percentage change from baseline in number of drop seizures (average per week) during the maintenance period.</measure>
+    <time_frame>2-14 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The primary endpoint is the mean percentage change from baseline in number of drop seizures (average per week) during the maintenance period (Day 15 to the end of the evaluable period) in subjects taking GWP42003-P compared with placebo.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean percentage change from baseline in number of drop seizures (average per week) during the Weeks 1-4, 5-8 and 9-12 of the maintenance period.</measure>
+    <time_frame>2-14 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects considered treatment responders, defined as those with a ≥25%, ≥50%, ≥75%, or 100% reduction in drop seizures from baseline.</measure>
+    <time_frame>2-14 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects experiencing a &gt;25% worsening, −25 to +25% no change, 25-50% improvement, 50-75% improvement or &gt;75% improvement in drop seizures from baseline.</measure>
+    <time_frame>2-14 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean percentage change from baseline in number of non-drop seizures (average per week).</measure>
+    <time_frame>2-14 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean percentage change from baseline in the frequencies of sub-types of seizures (average per week).</measure>
+    <time_frame>2-14 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in quality of life.</measure>
+    <time_frame>2-14 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in the Caregiver Global Impression of Change (CGIC) score.</measure>
+    <time_frame>End of week 14 of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of adverse events as measure of subject safety.</measure>
+    <time_frame>Day -28 to Day 137</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The number of age-appropriate subjects with a treatment-emergent flag using the Columbia-Suicide Severity Rating Scale (C-SSRS or C-SSRS Children's depending on age) during the course of the study.</measure>
+    <time_frame>Day -28 to Day 137</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Epilepsy</condition>
+  <condition>Lennox-Gastaut Syndrome</condition>
+  <arm_group>
+    <arm_group_label>GWP42003-P</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>GWP42003-P oral solution (100 mg/mL cannabidiol in sesame oil with anhydrous ethanol with added sweetener [sucralose] and strawberry flavoring).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo oral solution containing the excipients sesame oil and anhydrous ethanol with added sweetener (sucralose) and strawberry flavoring.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GWP42003-P</intervention_name>
+    <description>GWP42003-P oral solution</description>
+    <arm_group_label>GWP42003-P</arm_group_label>
+    <other_name>Cannabidiol</other_name>
+    <other_name>CBD</other_name>
+    <other_name>Epidiolex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Control</intervention_name>
+    <description>Placebo oral solution</description>
+    <arm_group_label>Placebo Control</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          -  Subject must be male or female aged between two and 55 years (inclusive).
+
+          -  Subject must have a documented history of Lennox-Gastaut syndrome. This includes
+             written documentation of having met electroencephalogram (EEG) diagnostic criteria
+             during the patient's history and evidence of at least one type of generalized
+             seizure, including drop seizures (atonic, tonic, tonic-clonic or myoclonic) for at
+             least six months.
+
+          -  Subjects who have a history of slow (&lt;2.5 Hz) spike-and-wave pattern in an EEG prior
+             to the enrollment into the baseline period.
+
+          -  Subjects should be refractory; that is having documented failures on more than one
+             antiepileptic drug (AED).
+
+          -  Subject must be taking one or more AEDs at a dose which has been stable for at least
+             four weeks prior to screening.
+
+          -  All medications or interventions for epilepsy (including ketogenic diet and vagus
+             nerve stimulation [VNS]) must have been stable for four weeks prior to screening and
+             patient is willing to maintain a stable regimen throughout the study. The ketogenic
+             diet and VNS treatments are not accounted as an AED.
+
+        Key Exclusion Criteria:
+
+          -  Etiology of subject's seizures is a progressive neurologic disease. Subjects with
+             tuberous sclerosis will not be excluded from study participation, unless there is a
+             progressive tumor.
+
+          -  Subject has had an anoxic episode requiring resuscitation within six months of
+             screening.
+
+          -  Subject has clinically significant unstable medical conditions other than epilepsy.
+
+          -  Subject has had clinically relevant symptoms or a clinically significant illness in
+             the four weeks prior to screening or randomization, other than epilepsy.
+
+          -  Subject is currently using or has in the past used recreational or medicinal
+             cannabis, or synthetic cannabinoid based medications (including Sativex®) within the
+             three months prior to study entry and is unwilling to abstain for the duration of the
+             study.
+
+          -  Subject has any known or suspected hypersensitivity to cannabinoids or any of the
+             excipients of the Investigational Medicinal Product (IMP), such as sesame oil.
+
+          -  Subject has been part of a clinical trial involving another IMP in the previous six
+             months.
+
+          -  Subject has significantly impaired hepatic function at screening (Visit 1) or
+             randomization (Visit 2) (Alanine aminotransferase [ALT] &gt;5 x upper limit of normal
+             [ULN] or total bilirubin [TBL] &gt;2 x ULN) OR the ALT or Aspartate aminotransferase
+             (AST) &gt;3 x ULN and (TBL &gt;2 x ULN or international normalized ratio &gt;1.5). This
+             criterion can only be confirmed once the laboratory results are available; subjects
+             randomized into the study who are later found not to meet this criterion should be
+             withdrawn from the study.
+
+          -  Any history of suicidal behavior or any suicidal ideation of type four or five on the
+             Columbia Suicide Severity Rating Scale in the last month or at screening.
+
+          -  Subject is taking more than four concurrent AEDs.
+
+          -  Subject has taken corticotropins in the six months prior to screening.
+
+          -  Subject is currently taking long-term systemic steroids (excluding inhaled medication
+             for asthma treatment) or any other daily medication known to exacerbate epilepsy. An
+             exception will be made of prophylactic medication, for example, idiopathic nephrotic
+             syndrome or asthma.
+
+          -  Subject is taking felbamate, and they have been taking it for less than one year
+             prior to screening.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>GW Investigational Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 24, 2015</lastchanged_date>
+  <firstreceived_date>August 21, 2014</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cannabidiol</keyword>
+  <keyword>CBD</keyword>
+  <keyword>Epidiolex</keyword>
+  <keyword>GWP42003-P</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

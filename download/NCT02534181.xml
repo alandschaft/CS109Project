@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="877">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02534181</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1.015.415</org_study_id>
+    <nct_id>NCT02534181</nct_id>
+  </id_info>
+  <brief_title>Refeeding Syndrome in Cancer Patients</brief_title>
+  <acronym>RESCUE</acronym>
+  <official_title>Refeeding Syndrome in Cancer Patients Admitted to Adult Intensive Care Unit</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sao Paulo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Sao Paulo</source>
+  <oversight_info>
+    <authority>Brazil: National Committee of Ethics in Research</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate whether a nutritional strategy is effective in
+      critically ill patients with cancer diagnosed with refeeding syndrome.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Refeeding syndrome is a clinical entity triggered by the introduction of calories in
+      chronically undernourished patients. A number of organs may be affected due to imbalance of
+      fluids and electrolytes. In the intensive care setting, there are no formal guidelines to
+      recommend the appropriate treatment of this condition. The aim of this study is to evaluate
+      the implementation of a nutritional protocol to address cancer patients admitted to the ICU
+      with refeeding syndrome.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>July 2015</start_date>
+  <completion_date type="Anticipated">February 2017</completion_date>
+  <primary_completion_date type="Anticipated">December 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Logistic Organ Dysfunction Score</measure>
+    <time_frame>72 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Score of the number and severity of organ failures during ICU stay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Number of days in the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Number of days in hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days in mechanical ventilation</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Number of days in mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days in vasopressor therapy</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Number of days using vasopressor therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular events</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Incidence of acute ischemic event or acute heart failure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delirium</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Incidence of delirium according to CAM-ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute kidney injury</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Incidence of acute kidney injury according to KDIGO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Incidence of all-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal Replacement Therapy</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Number of days in renal replacement therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute ischemic stroke</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Incidence of acute ischemic stroke</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seizures</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Number of seizure episodes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Number of episodes of the following events: hypoglycemia, diarrhea, ileous, nausea and vomiting.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Refeeding Syndrome</condition>
+  <condition>Cancer</condition>
+  <condition>Critical Illness</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will undergo a caloric management protocol:
+Days 1 and 2:
+Reduction of caloric intake to 5kcal/kg/day;
+Replacement of serum phosforus, potassium and magnesium;
+Administration of 100mg intravenous thiamine, vitamins and microelements.
+From day 3:
+If serum phosphorus &lt; 2.5mg/dL, protocol will be followed according to day 2;
+If serum phosphorus &gt; 2.5mg/dL, a gradual increase to target caloric intake will ensue.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Nutritional management will be followed according to institutional protocol.
+Electrolyte replacement will be provided at the clinician's discretion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Caloric Management Protocol</intervention_name>
+    <description>Strategy based on reduction of nutritional intake and electrolyte replacement.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Initiation of any type of nutrition (enteral, parenteral or glucose solution of at
+             least 10% concentration) in the ICU in the last 48 hours;
+
+          -  Reduction of serum phosphorus to a level below 2.5mg/dL with a drop above 0.5mg/dL
+             compared to a previous measurement;
+
+          -  Caloric intake greater than 500kcal in the last 24 hours;
+
+          -  Central venous access for electrolyte replacement;
+
+          -  Signature of the informed consent form.
+
+        Exclusion Criteria:
+
+          -  Use of enteral or parenteral nutrition before ICU admission;
+
+          -  Prediction of ICU discharge in the following 2 days;
+
+          -  End-stage renal disease;
+
+          -  Admission for diabetic ketoacidosis or hyperosmolar hyperglycemic state;
+
+          -  Recent treatment of hyperphosphatemia;
+
+          -  Parathyroidectomy surgery;
+
+          -  Participation in another study;
+
+          -  Refusal to participate in the study.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ludhmila A Hajjar, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Director, Intensive Care Unit, Institute of Cancer of State of Sao Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Eduardo A Osawa, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Physician, Intensive Care Unit, Institute of Cancer of State of Sao Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ilana Roitman</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nutritionist, Intensive Care Unit, Institute of Cancer of State of Sao Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Clarice H Park, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Physician, Intensive Care Unit, Institute of Cancer of State of Sao Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gisele Queiroz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Physician, Intensive Care Unit, Institute of Cancer of State of Sao Paulo</affiliation>
+  </overall_official>
+  <link>
+    <url>https://research.evidencebased.net/login/Refeeding/Refeeding_SAP.pdf</url>
+    <description>The Refeeding Syndrome Trial Protocol</description>
+  </link>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 24, 2015</lastchanged_date>
+  <firstreceived_date>August 23, 2015</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Sao Paulo</investigator_affiliation>
+    <investigator_full_name>Eduardo Atsushi Osawa</investigator_full_name>
+    <investigator_title>ICU Consultant Physician</investigator_title>
+  </responsible_party>
+  <keyword>Refeeding Syndrome</keyword>
+  <keyword>Cancer</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Critical Illness</mesh_term>
+    <mesh_term>Refeeding Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1148">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01182285</url>
+  </required_header>
+  <id_info>
+    <org_study_id>100041</org_study_id>
+    <secondary_id>10-C-0041</secondary_id>
+    <nct_id>NCT01182285</nct_id>
+  </id_info>
+  <brief_title>A Phase II Trial of Valproic Acid in Patients With Advanced Thyroid Cancers of Follicular Cell Origin</brief_title>
+  <official_title>A Phase II Trial of Valproic Acid in Patients With Advanced Thyroid Cancers of Follicular Origin</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:
+
+        -  Patients who have advanced thyroid cancer have a low long-term survival rate. These
+           types of thyroid cancer do not respond well to conventional surgery or radiation, or to
+           specific thyroid cancer treatments such as radioactive iodine treatment and thyroid
+           hormone for thyroid stimulating hormone (TSH) suppression.
+
+        -  Valproic acid has long been approved as an anticonvulsant to treat seizures in patients
+           with epilepsy. It has also been used to treat bipolar disorder. Recent studies have
+           shown that valproic acid has promising effects in thyroid cancer treatment because it
+           may help destroy cancer cells and help conventional treatments be more effective.
+           However, valproic acid is not approved for thyroid cancer and is therefore an
+           investigational drug.
+
+      Objectives:
+
+        -  To determine whether valproic acid can inhibit tumor growth or induce tumor cell death.
+
+        -  To determine whether valproic acid can make tumor cells increase their uptake of
+           radioiodine.
+
+      Eligibility:
+
+      - Individuals at least 18 years of age who have advanced-stage thyroid cancer that is either
+      unresponsive to conventional treatments or fails to absorb radioiodine.
+
+      Design:
+
+        -  Eligible participants will continue on the standard thyroid hormone suppression therapy
+           and begin receiving valproic acid for a total of 10 weeks. Participants will keep a
+           study diary to record doses and side effects, and will have regular clinic visits to
+           provide blood samples and receive additional valproic acid.
+
+        -  After 10 weeks, participants will have a Thyrogen scan to measure radioiodine uptake
+           after valproic acid therapy. Tumor biopsies and blood samples will be taken at this
+           time.
+
+        -  If there is increased radioiodine uptake on the scan, participants will have additional
+           radioiodine therapy.
+
+        -  If there is no increased uptake on the scan, participants will continue on valproic
+           acid for 7 more weeks. After 16 total weeks of treatment, additional blood samples and
+           scans will be taken. Participants may continue to take valproic acid if the thyroid
+           cancer appears to be responding to the treatment.
+
+        -  Follow-up visits will be scheduled at 3, 6, 9 (for patients continuing on valproic acid
+           only), and 12 months.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:
+
+      Patients who have advanced differentiated thyroid cancers (Stage IV) have a five-year
+      survival of only 25%. Clinically this results in more aggressive growth, metastasis,
+      decreased or loss of iodine uptake in the tumor, and tumors that may be refractory to
+      conventional treatment: surgical resection, radioactive iodine treatment and thyroid hormone
+      for Thyroid Stimulating Hormone (TSH) suppression.
+
+      In thyroid cancer, valproic acid, at clinically achievable concentrations, has an
+      antiproliferative and differentiating effect.
+
+      We hypothesize that valproic acid may inhibit proliferation and induce differentiation in
+      thyroid cancer cells so that 131-I may detect residual disease and be more effective for
+      radioiodine ablation of thyroid cancer cells of follicular cell origin.
+
+      Objectives:
+
+      The primary goal of this study is to determine if valproic acid will have an antineoplastic
+      and differentiation effect in patients with advanced and or metastatic thyroid cancer of
+      follicular cell origin.
+
+      Eligibility:
+
+      Unresectable advanced and/or poorly differentiated thyroid cancers of follicular cell origin
+      (excluding anaplastic and medullary thyroid cancer) that have no uptake (less than 1%) on
+      radioiodine scan or are unresponsive to radioiodine therapy.
+
+      Elevated serum thyroglobulin (Tg) level (greater than 100ng/ml on thyroid hormone; greater
+      than 10ng/ml off thyroid hormone).
+
+      Design:
+
+      This will be an open label phase II study to assess the efficacy of valproic acid therapy as
+      an antiproliferative and differentiation agent in patients with incurable differentiated
+      thyroid cancer (unresponsive and/or radioiodine negative and unresectable).
+
+      Oral valproic acid will be administered to reach a therapeutic serum level (50 to 100
+      microgram/ml).
+
+      The number of patients to be enrolled is 25 with an interim analysis of response once 13
+      patients are evaluable for response. It is anticipated that five patients may be enrolled
+      per year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>January 2010</start_date>
+  <completion_date type="Anticipated">September 2016</completion_date>
+  <primary_completion_date type="Anticipated">September 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>To determine if valproic acid will inhibit thyroid cancer growth, as evidenced by a decrease in thyroglobulin level, and tumor size.</measure>
+    <time_frame>End of Treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine if valproic acid therapy will induce differentiation of and therefore increase uptake of radioactive iodine by the tumor cells. To determine the effect of valproic acid on differentiation markers.</measure>
+    <time_frame>5 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">8</enrollment>
+  <condition>Thyroid Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Phase I</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Phase 2 Schedule 1 (increased radioiodine uptake on Thyrogen scan)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Phase 2 Schedule 2 (No increased radioiodine uptake on Thyrogen scan)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Valproic Acid</intervention_name>
+    <description>Week 1:
+(Days 1-3): Valproic acid - 500 mg every evening (Day 4-7): Valproic acid - 500 mg twice daily (morning and evening) Weeks 2 through 10: Valproic acid 500 mg every morning and 1000 mg every evening</description>
+    <arm_group_label>A</arm_group_label>
+    <arm_group_label>B1</arm_group_label>
+    <arm_group_label>B2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Liothyronine Sodium</intervention_name>
+    <description>Patients who exhibit an increased radioiodine uptake on Thyrogen scan post valproic acid therapy at week 10. Begin Cytomel for 4 weeks (25 micrograms twice a day)</description>
+    <arm_group_label>B1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:
+
+               1. Advanced/poorly differentiated thyroid cancers of follicular cell origin that
+                  have no uptake (less than 1%) on radioiodine scan or are unresponsive to
+                  radioiodine therapy. Unresponsiveness to radioiodine therapy is defined as a
+                  patient s thyroglobulin not falling to less than 2ng/ml within 6 months after
+                  previous radioiodine ablative treatment.
+
+               2. Extensive (invasive) loco-regional tumor mass and/or metastatic spread,
+                  rendering patient inoperable.
+
+               3. Thyroglobulin (Tg) levels greater than or equal to 100 ng/ml in the absence of
+                  Tg antibodies. Patients who are Tg-antibody (Tg-Ab) positive may be included
+                  despite a lower Tg level if they have detectable disease on cross sectional
+                  imaging. (The presence of Tg-Ab may lead to falsely low Tg levels and therefore
+                  render the Tg a less sensitive marker of disease. However, Tg-Ab has been shown
+                  to also act as a tumor marker, and will be used as an endpoint for the study in
+                  patients who are Tg-Ab positive.).
+
+               4. Within 18 months of enrollment, patients must have had an RAI scan, showing no
+                  or therapeutically insignificant RAI uptake (less than or equal to 1%).
+
+               5. Initial therapy must have included total/near-total thyroidectomy and RAI
+                  ablation therapy.
+
+               6. Patients must have had no chemotherapy, radiotherapy, or biologic therapy for
+                  their malignancy in the month prior to treatment and must have recovered from
+                  all side effects of therapeutic and diagnostic interventions.
+
+               7. Greater than or equal to 18 years of age.
+
+               8. Must be able to understand and sign the Informed Consent Document.
+
+               9. Clinical performance status of ECOG less than or equal to 1.
+
+              10. Life expectancy of greater than three months.
+
+              11. Women of childbearing potential must have a negative serum beta-HCG within 72
+                  hours prior to study entry and must be willing to practice effective birth
+                  control to prevent pregnancy while receiving treatment and for three months
+                  after treatment is discontinued. All males of child fathering potential must
+                  also be willing to practice effective birth control.
+
+              12. Laboratory results must be within the following parameters before entry:
+
+          -  Absolute Neutrophil Count greater than 750 cells/mm(3)
+
+          -  Hemoglobin greater than 8.0 gm/dl
+
+          -  Platelet count greater than 75000/mm(3)
+
+          -  Creatinine less tha 1.5 times ULN
+
+          -  Total protein greater than 6.4.
+
+          -  Total bilirubin should be less than 1.5 times ULN.
+
+          -  AST (SGOT), ALT (SGPT) less than 1.5 times ULN.
+
+          -  Amylase less than 1.5 times ULN
+
+          -  Ammonia less than 1.5 times ULN
+
+        EXCLUSION CRITERIA:
+
+          1. Allergy to valproic acid.
+
+          2. Current coexisting malignancy other than basal cell carcinoma.
+
+          3. Women of child-bearing potential who are pregnant or breastfeeding.
+
+             Valproic acid is a known teratogen, causing primary neural tube defects, facial
+             abnormalities, and skeletal malformation; therefore pregnant women will be excluded.
+             Additionally, patients that become pregnant while on study protocol will be
+             discontinued immediately.
+
+          4. Active systemic infections, coagulation disorders or other major medical illnesses.
+
+          5. Patients taking tolbutamide, warfarin, zidovudine, benzodiazapines, clonazepam,
+             diazepam.
+
+          6. Seizure disorder.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Electron Kebebew, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2010-C-0041.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Davies L, Welch HG. Increasing incidence of thyroid cancer in the United States, 1973-2002. JAMA. 2006 May 10;295(18):2164-7.</citation>
+    <PMID>16684987</PMID>
+  </reference>
+  <reference>
+    <citation>Hundahl SA, Fleming ID, Fremgen AM, Menck HR. A National Cancer Data Base report on 53,856 cases of thyroid carcinoma treated in the U.S., 1985-1995 [see commetns]. Cancer. 1998 Dec 15;83(12):2638-48.</citation>
+    <PMID>9874472</PMID>
+  </reference>
+  <reference>
+    <citation>Goretzki PE, Simon D, Frilling A, Witte J, Reiners C, Grussendorf M, Horster FA, Röher HD. Surgical reintervention for differentiated thyroid cancer. Br J Surg. 1993 Aug;80(8):1009-12.</citation>
+    <PMID>8402050</PMID>
+  </reference>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 28, 2015</lastchanged_date>
+  <firstreceived_date>August 13, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Depakote</keyword>
+  <keyword>Poorly Differentiated Thyroid Cancer</keyword>
+  <keyword>RAI Uptake</keyword>
+  <keyword>Thyrogen</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Thyroid Diseases</mesh_term>
+    <mesh_term>Thyroid Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Valproic Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

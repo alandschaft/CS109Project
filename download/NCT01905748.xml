@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="775">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01905748</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0040-09-EMC</org_study_id>
+    <nct_id>NCT01905748</nct_id>
+  </id_info>
+  <brief_title>Acute Phase Reactions and Thrombophilia in Pediatric Patients With Migraine</brief_title>
+  <official_title>Acute Phase Reactions and Thrombophilia in Pediatric Patients With Migraine, Laboratory Investigations in Steady State and During Migraine Attack</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HaEmek Medical Center, Israel</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>HaEmek Medical Center, Israel</source>
+  <oversight_info>
+    <authority>Israel: Ministry of Health</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute Migraine attacks can be related to vascular or coagulation activation. Previous
+      studies found relative high incidence of prothrombotic events in Migraine. The present study
+      intends to assess the coagulation system and activation in patients with Migraine during
+      steady state phase and at the beginning of attacks and after 72 hours. A control group of
+      patients with another acute neurologic event like convulsions will be also studied. Patients
+      will be at pediatric age and teenagers.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2011</start_date>
+  <completion_date type="Anticipated">December 2016</completion_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Proportion of patients with activation of the coagulation system.</measure>
+    <time_frame>Two years, each patient will be studied at attack onset and after 72 hours.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The further analysis will be performed in each patient: Pt, PTT, Platelets, Protein C, S, Antithrombin III, D Dimer, Factor VIII, Factor IX, Von Willebrand Factor and Prothrombin fragments I and II will be analyzed on day one of the crises, after 72 hours and in steady state.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Migraine</condition>
+  <condition>Thrombophilia</condition>
+  <arm_group>
+    <arm_group_label>Patients during Migraine attacks</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with Migraine before, during and after Migraine attacks. Acute phase reaction profile, and activation of the coagulation system will be investigated together with thrombophilia profile.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with acute neurologic events like convulsions not related to fever or central nervous system (CNS) infections will be studied including acute phase reaction laboratory tests, thrombophilia and activation of the coagulation system</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Laboratory tests</intervention_name>
+    <description>Laboratory tests: erythrocyte sedimentation rate (ESR), Blood Count, C reactive Protein, Protein C activity, Protein S activity,Antithrombin II activity, Coagulation Factor VIII and IX,Con Willebrand Factor, prothrombin time (PT), activated partial thromboplastin time (aPTT), Fibrinogen, D Dimer and Prothrombin Fragments F1 and F2.</description>
+    <arm_group_label>Patients during Migraine attacks</arm_group_label>
+    <arm_group_label>Control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients at the pediatric age (5 to 20 ys old) suffering from Migraine attacks
+             diagnosed by a neurologist.
+
+        Exclusion Criteria:
+
+          -  Patients with other underlying neurological conditions of coagulation diseases
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>20 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ariel Koren, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ha'Emek Medical Center, Afula, Israel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ariel Koren, MD</last_name>
+    <phone>972-4-6495576</phone>
+    <phone_ext>5576</phone_ext>
+    <email>koren_a@clalit.org.il</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ha'Emek Medical Center</name>
+      <address>
+        <city>Afula</city>
+        <zip>18101</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arial Koren, MD</last_name>
+      <phone>972-4-6495576</phone>
+      <email>koren_a@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Ariel Koren, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carina Levin, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Miriam Kutay, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Stavit Shalev, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Luci Zalman, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 30, 2015</lastchanged_date>
+  <firstreceived_date>September 27, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>HaEmek Medical Center, Israel</investigator_affiliation>
+    <investigator_full_name>Dr Koren Ariel</investigator_full_name>
+    <investigator_title>Head of Pediatric Dpt B and Pediatric Hematology Unit</investigator_title>
+  </responsible_party>
+  <keyword>Coagulation</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acute-Phase Reaction</mesh_term>
+    <mesh_term>Migraine Disorders</mesh_term>
+    <mesh_term>Thrombophilia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

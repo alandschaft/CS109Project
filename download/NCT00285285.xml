@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="635">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00285285</url>
+  </required_header>
+  <id_info>
+    <org_study_id>25448</org_study_id>
+    <nct_id>NCT00285285</nct_id>
+  </id_info>
+  <brief_title>Point of Care Device Use in the Pediatric Emergency Department</brief_title>
+  <official_title>A Randomized Trial to Assess the Efficacy of Point-of-Care Testing in Decreasing Length of Stay in a Pediatric Emergency Department</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karen A. Santucci</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>M. Douglas Baker</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>i-Stat Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the effect of “point-of-care” (POC) analysis of blood work with traditional
+      laboratory methods on length of stay in a pediatric emergency department (PED).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study was a prospective, randomized controlled study of patients requiring blood work
+      that a POC device was capable of performing. Length of time spent at various timepoints were
+      prospectively recorded by a dedicated research assistant after randomization.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2004</start_date>
+  <completion_date>August 2004</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Total Length of Stay</measure>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time length for results return, disposition decision, time in ED proper</measure>
+  </secondary_outcome>
+  <enrollment>200</enrollment>
+  <condition>Dehydration</condition>
+  <condition>Seizure</condition>
+  <condition>Gastroenteritis</condition>
+  <condition>Hyperglycemia</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Point of Care Device; i-Stat Analyzer</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Clinically requiring bloodwork capable by the POC device
+
+        Exclusion Criteria:
+
+          -  Requiring other bloodwork such as medication levels, WBC
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>M. Douglas Baker, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <verification_date>January 2006</verification_date>
+  <lastchanged_date>January 31, 2006</lastchanged_date>
+  <firstreceived_date>January 31, 2006</firstreceived_date>
+  <keyword>Point-of-care Testing</keyword>
+  <keyword>Pediatric Emergency Department</keyword>
+  <keyword>Length of Stay</keyword>
+  <keyword>Efficiency</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dehydration</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+    <mesh_term>Gastroenteritis</mesh_term>
+    <mesh_term>Hyperglycemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
