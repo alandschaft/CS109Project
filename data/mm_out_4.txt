@@ -1,0 +1,680 @@
+80-0|MMI|11.49|Disease|C0012634|[dsyn]|["Disorder"-tx-1-"disorder"-noun-0]|TX|0:8|C23.550.288
+80-1|MMI|5.18|Entry (data)|C1705654|[inpr]|["Entry"-tx-1-"entry"-noun-0]|TX|0:5|
+80-2|MMI|5.18|Assessed|C1516048|[acty]|["Assessment"-tx-1-"assessment"-noun-0]|TX|0:10|
+80-2|MMI|5.18|Evaluation procedure|C1261322|[hlca]|["Assessment"-tx-1-"assessment"-noun-0]|TX|0:10|
+80-3|MMI|7.43|Mental disorders|C0004936|[mobd]|["Psychiatric disorder"-tx-1-"psychiatric disorder"-noun-0,"Psychological disorder"-tx-1-"psychological disorder"-noun-0]|TX|14:20;0:13^26:8|F03
+80-3|MMI|3.59|Psychiatric|C0205487|[ftcn]|["Psychiatric"-tx-1-"psychiatric"-noun-0]|TX|14:11|
+80-3|MMI|3.45|Psychiatric problem|C1306597|[mobd]|["PSYCHOLOGICAL"-tx-1-"psychological"-adj-0]|TX|0:13|
+80-3|MMI|3.45|Psychologic|C0205486|[ftcn]|["Psychological"-tx-1-"psychological"-adj-0]|TX|0:13|
+80-4|MMI|9.95|Disease|C0012634|[dsyn]|["Disorder"-tx-1-"disorder"-noun-0]|TX|0:8|C23.550.288
+80-5|MMI|3.59|Entry (data)|C1705654|[inpr]|["Entry"-tx-1-"entry"-noun-0]|TX|10:5|
+80-5|MMI|3.52|Pre-study|C1527048|[tmco]|["Pre-study"-tx-1-"pre-study"-adj-0]|TX|0:9|
+80-6|MMI|3.64|Entry (data)|C1705654|[inpr]|["Entry"-tx-1-"entry"-noun-0]|TX|0:5|
+80-6|MMI|3.48|Psychiatric|C0205487|[ftcn]|["Psychiatric"-tx-1-"psychiatric"-adj-0]|TX|6:11|
+80-7|MMI|5.18|psychiatric assessment|C0846574|[diap]|["psychiatric assessment"-tx-1-"psychiatric assessment"-noun-0]|TX|0:22|
+80-8|MMI|3.71|Psychological Well Being|C0424578|[fndg]|["No psychiatric disorder"-tx-1-"no psychiatric disorder"-noun-1]|TX|0:2^17:20|
+80-8|MMI|3.44|Psychiatric problem|C1306597|[mobd]|["PSYCHOLOGICAL"-tx-1-"psychological"-adj-1]|TX|3:13|
+80-8|MMI|3.44|Psychologic|C0205486|[ftcn]|["Psychological"-tx-1-"psychological"-adj-0]|TX|3:13|
+80-9|MMI|7.30|Mental disorders|C0004936|[mobd]|["Psychiatric disorder"-tx-1-"psychiatric disorder"-noun-0,"Psychological disorder"-tx-1-"psychological disorder"-noun-0]|TX|14:20;0:13^26:8|F03
+80-9|MMI|3.57|Psychiatric|C0205487|[ftcn]|["Psychiatric"-tx-1-"psychiatric"-noun-0]|TX|14:11|
+80-9|MMI|3.44|Psychiatric problem|C1306597|[mobd]|["PSYCHOLOGICAL"-tx-1-"psychological"-adj-0]|TX|0:13|
+80-9|MMI|3.44|Psychologic|C0205486|[ftcn]|["Psychological"-tx-1-"psychological"-adj-0]|TX|0:13|
+80-10|MMI|9.90|Disease|C0012634|[dsyn]|["Disorder"-tx-1-"disorder"-noun-0]|TX|0:8|C23.550.288
+80-10|MMI|3.45|Act Code - Identified|C1551388|[ftcn]|["Identified"-tx-1-"identified"-adj-0]|TX|11:10|
+80-10|MMI|3.45|Container status - Identified|C1550043|[fndg]|["Identified"-tx-1-"identified"-adj-0]|TX|11:10|
+80-10|MMI|3.45|Identified|C0205396|[qlco]|["Identified"-tx-1-"identified"-adj-0]|TX|11:10|
+80-11|MMI|3.57|Entry (data)|C1705654|[inpr]|["Entry"-tx-1-"entry"-noun-0]|TX|12:5|
+80-11|MMI|3.48|Pre-study|C1527048|[tmco]|["Pre-study"-tx-1-"pre-study"-adj-0]|TX|2:9|
+80-12|MMI|3.57|Entry (data)|C1705654|[inpr]|["Entry"-tx-1-"entry"-noun-0]|TX|10:5|
+80-12|MMI|3.48|Pre-study|C1527048|[tmco]|["Pre-study"-tx-1-"pre-study"-adj-0]|TX|0:9|
+80-12|MMI|3.44|Psychiatric|C0205487|[ftcn]|["Psychiatric"-tx-1-"psychiatric"-adj-0]|TX|16:11|
+80-13|MMI|3.72|psychiatric assessment|C0846574|[diap]|["psychiatric assessment"-tx-1-"psychiatric assessment"-noun-0]|TX|6:22|
+80-13|MMI|3.45|Entry (data)|C1705654|[inpr]|["Entry"-tx-1-"entry"-noun-0]|TX|0:5|
+81-0|MMI|8.34|Patients|C0030705|[podg]|["*^patient"-tx-1-"patient"-noun-0]|TX|0:7|M01.643
+81-1|MMI|8.34|Hypersensitivity|C0020517|[patf]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|0:16|C20.543
+81-1|MMI|5.18|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|0:16|
+81-2|MMI|5.18|Intolerance - biological effect of chemicals|C2355652|[orga]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-2|MMI|5.18|intolerance function|C0231199|[orgf]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-2|MMI|5.18|intolerance to substance|C1744706|[inpr]|["intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-3|MMI|8.34|Placebos|C0032042|[topp]|["placebo"-tx-1-"placebo"-noun-0]|TX|0:7|D26.660;E02.785
+81-3|MMI|5.18|Placebo Control|C1706408|[resa]|["PLACEBO"-tx-1-"placebo"-noun-0]|TX|0:7|
+81-3|MMI|5.18|placebo|C1696465|[bodm]|["placebo"-tx-1-"placebo"-noun-0]|TX|0:7|
+81-4|MMI|6.79|Patients|C0030705|[podg]|["*^patient"-tx-1-"patient"-noun-0]|TX|0:7|M01.643
+81-5|MMI|6.79|Hypersensitivity|C0020517|[patf]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|5:16|C20.543
+81-5|MMI|3.64|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|5:16|
+81-5|MMI|3.64|Have|C3539897|[qlco]|["Have"-tx-1-"have"-aux-0]|TX|0:4|
+81-5|MMI|3.64|Possess|C3154893|[idcn]|["Have"-tx-1-"have"-aux-0]|TX|0:4|
+81-6|MMI|6.79|Hypersensitivity|C0020517|[patf]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|0:16|C20.543
+81-6|MMI|3.64|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|0:16|
+81-7|MMI|3.64|Intolerance - biological effect of chemicals|C2355652|[orga]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|3:11|
+81-7|MMI|3.64|intolerance function|C0231199|[orgf]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|3:11|
+81-7|MMI|3.64|intolerance to substance|C1744706|[inpr]|["intolerance"-tx-1-"intolerance"-noun-0]|TX|3:11|
+81-8|MMI|3.64|Intolerance - biological effect of chemicals|C2355652|[orga]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-8|MMI|3.64|intolerance function|C0231199|[orgf]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-8|MMI|3.64|intolerance to substance|C1744706|[inpr]|["intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-9|MMI|6.79|Placebos|C0032042|[topp]|["placebo"-tx-1-"placebo"-noun-0]|TX|7:7|D26.660;E02.785
+81-9|MMI|3.64|Active|C0205177|[ftcn]|["Active"-tx-1-"active"-noun-0]|TX|0:6|
+81-9|MMI|3.64|Placebo Control|C1706408|[resa]|["PLACEBO"-tx-1-"placebo"-noun-0]|TX|7:7|
+81-9|MMI|3.64|placebo|C1696465|[bodm]|["placebo"-tx-1-"placebo"-noun-0]|TX|7:7|
+81-10|MMI|6.74|Patients|C0030705|[podg]|["*^patient"-tx-1-"patient"-noun-0]|TX|0:7|M01.643
+81-10|MMI|3.45|Negation|C1518422|[ftcn]|["Not"-tx-1-"not"-adv-0]|TX|13:3|
+81-11|MMI|6.74|Hypersensitivity|C0020517|[patf]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-1]|TX|9:16|C20.543
+81-11|MMI|3.59|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-1]|TX|9:16|
+81-11|MMI|3.59|Negation|C1518422|[ftcn]|["Not"-tx-1-"not"-adv-0]|TX|0:3|
+81-12|MMI|6.74|Hypersensitivity|C0020517|[patf]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|5:16|C20.543
+81-12|MMI|3.59|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|5:16|
+81-12|MMI|3.59|Have|C3539897|[qlco]|["Have"-tx-1-"have"-aux-0]|TX|0:4|
+81-12|MMI|3.59|Possess|C3154893|[idcn]|["Have"-tx-1-"have"-aux-0]|TX|0:4|
+81-13|MMI|6.74|Hypersensitivity|C0020517|[patf]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|0:16|C20.543
+81-13|MMI|3.59|Emotional hypersensitivity|C0520946|[fndg]|["Hypersensitivity"-tx-1-"hypersensitivity"-noun-0]|TX|0:16|
+81-13|MMI|3.45|Intolerance - biological effect of chemicals|C2355652|[orga]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|20:11|
+81-13|MMI|3.45|intolerance function|C0231199|[orgf]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|20:11|
+81-13|MMI|3.45|intolerance to substance|C1744706|[inpr]|["intolerance"-tx-1-"intolerance"-noun-0]|TX|20:11|
+81-14|MMI|3.59|Intolerance - biological effect of chemicals|C2355652|[orga]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|3:11|
+81-14|MMI|3.59|intolerance function|C0231199|[orgf]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|3:11|
+81-14|MMI|3.59|intolerance to substance|C1744706|[inpr]|["intolerance"-tx-1-"intolerance"-noun-0]|TX|3:11|
+81-15|MMI|16.07|Dextromethorphan|C0011816|[orch,phsu]|["Dextromethorphan"-tx-1-"dextromethorphan"-noun-0]|TX|15:16|D03.132.577.249.200;D03.549.686.212;D03.605.497.212;D04.615.723.795.200
+81-15|MMI|3.59|Intolerance - biological effect of chemicals|C2355652|[orga]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-15|MMI|3.59|intolerance function|C0231199|[orgf]|["Intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-15|MMI|3.59|intolerance to substance|C1744706|[inpr]|["intolerance"-tx-1-"intolerance"-noun-0]|TX|0:11|
+81-16|MMI|6.74|Placebos|C0032042|[topp]|["placebo"-tx-1-"placebo"-noun-0]|TX|11:7|D26.660;E02.785
+81-16|MMI|3.59|Active|C0205177|[ftcn]|["Active"-tx-1-"active"-noun-0]|TX|4:6|
+81-16|MMI|3.59|Placebo Control|C1706408|[resa]|["PLACEBO"-tx-1-"placebo"-noun-0]|TX|11:7|
+81-16|MMI|3.59|placebo|C1696465|[bodm]|["placebo"-tx-1-"placebo"-noun-0]|TX|11:7|
+82-0|MMI|5.18|Substance|C0439861|[sbst]|["Substance"-tx-1-"substance"-noun-0]|TX|0:9|
+82-1|MMI|5.18|Drug abuse|C0013146|[mobd]|["ABUSE"-tx-1-"abuse"-noun-0]|TX|0:5|
+82-1|MMI|5.18|Victim of abuse finding|C0562381|[fndg]|["Abuse"-tx-1-"abuse"-noun-0]|TX|0:5|
+82-2|MMI|14.64|Alcoholic Intoxication, Chronic|C0001973|[mobd]|["Alcoholism"-tx-1-"alcoholism"-noun-0]|TX|0:10|C25.775.100.250;F03.900.100.350
+82-3|MMI|3.64|Substance|C0439861|[sbst]|["Substance"-tx-1-"substance"-noun-0]|TX|8:9|
+82-3|MMI|3.48|chronic|C0205191|[tmco]|["chronic"-tx-1-"chronic"-adj-0]|TX|0:7|
+82-4|MMI|5.18|Substance abuse problem|C0740858|[mobd]|["Substance Abuse"-tx-1-"substance abuse"-noun-0]|TX|0:15|
+82-5|MMI|3.64|Drug abuse|C0013146|[mobd]|["ABUSE"-tx-1-"abuse"-noun-0]|TX|0:5|
+82-5|MMI|3.64|Victim of abuse finding|C0562381|[fndg]|["Abuse"-tx-1-"abuse"-noun-0]|TX|0:5|
+82-5|MMI|3.48|Include (action)|C2700399|[acty]|["Include"-tx-1-"include"-verb-0]|TX|6:7|
+82-5|MMI|3.48|Including (qualifier)|C0332257|[ftcn]|["include"-tx-1-"include"-verb-0]|TX|6:7|
+82-5|MMI|3.48|include - SetOperator|C1552866|[idcn]|["include"-tx-1-"include"-verb-0]|TX|6:7|
+82-6|MMI|13.10|Alcoholic Intoxication, Chronic|C0001973|[mobd]|["Alcoholism"-tx-1-"alcoholism"-noun-0]|TX|8:10|C25.775.100.250;F03.900.100.350
+82-6|MMI|3.64|Include (action)|C2700399|[acty]|["Include"-tx-1-"include"-verb-0]|TX|0:7|
+82-6|MMI|3.64|Including (qualifier)|C0332257|[ftcn]|["include"-tx-1-"include"-verb-0]|TX|0:7|
+82-6|MMI|3.64|include - SetOperator|C1552866|[idcn]|["include"-tx-1-"include"-verb-0]|TX|0:7|
+82-7|MMI|3.59|Substance|C0439861|[sbst]|["Substance"-tx-1-"substance"-noun-0]|TX|11:9|
+82-7|MMI|3.45|No - yes/no indicator|C1549444|[idcn]|["No"-tx-1-"no"-det-0]|TX|0:2|
+82-7|MMI|3.45|chronic|C0205191|[tmco]|["chronic"-tx-1-"chronic"-adj-0]|TX|3:7|
+82-7|MMI|3.45|no|C1298908|[idcn]|["no"-tx-1-"no"-det-0]|TX|0:2|
+82-8|MMI|3.72|Substance abuse problem|C0740858|[mobd]|["Substance Abuse"-tx-1-"substance abuse"-noun-0]|TX|8:15|
+82-8|MMI|3.68|Chronic drug abuse|C0743244|[mobd]|["chronic abuse"-tx-1-"chronic abuse"-noun-0]|TX|0:7^18:5|
+82-8|MMI|3.59|Substance|C0439861|[sbst]|["Substance"-tx-1-"substance"-noun-0]|TX|8:9|
+82-8|MMI|3.45|chronic|C0205191|[tmco]|["chronic"-tx-1-"chronic"-adj-0]|TX|0:7|
+82-9|MMI|3.72|Substance abuse problem|C0740858|[mobd]|["Substance Abuse"-tx-1-"substance abuse"-noun-0]|TX|0:15|
+82-9|MMI|3.45|Include (action)|C2700399|[acty]|["Include"-tx-1-"include"-verb-0]|TX|16:7|
+82-9|MMI|3.45|Including (qualifier)|C0332257|[ftcn]|["include"-tx-1-"include"-verb-0]|TX|16:7|
+82-9|MMI|3.45|include - SetOperator|C1552866|[idcn]|["include"-tx-1-"include"-verb-0]|TX|16:7|
+82-10|MMI|12.91|Alcoholic Intoxication, Chronic|C0001973|[mobd]|["Alcoholism"-tx-1-"alcoholism"-noun-0]|TX|14:10|C25.775.100.250;F03.900.100.350
+82-10|MMI|3.59|Drug abuse|C0013146|[mobd]|["ABUSE"-tx-1-"abuse"-noun-0]|TX|0:5|
+82-10|MMI|3.59|Victim of abuse finding|C0562381|[fndg]|["Abuse"-tx-1-"abuse"-noun-0]|TX|0:5|
+82-10|MMI|3.45|Include (action)|C2700399|[acty]|["Include"-tx-1-"include"-verb-0]|TX|6:7|
+82-10|MMI|3.45|Including (qualifier)|C0332257|[ftcn]|["include"-tx-1-"include"-verb-0]|TX|6:7|
+82-10|MMI|3.45|include - SetOperator|C1552866|[idcn]|["include"-tx-1-"include"-verb-0]|TX|6:7|
+83-0|MMI|8.34|Patients|C0030705|[podg]|["*^patient"-tx-1-"patient"-noun-0]|TX|0:7|M01.643
+83-1|MMI|14.64|Physicians|C0031831|[prog]|["Physician"-tx-1-"physician"-noun-0]|TX|0:9|M01.526.485.810;N02.360.810
+83-1|MMI|5.18|Physician:Identifier:Point in time:^Patient:Nominal|C0804815|[clna]|["Physician"-tx-1-"physician"-noun-0]|TX|0:9|
+83-2|MMI|6.79|Patients|C0030705|[podg]|["*^patient"-tx-1-"patient"-noun-0]|TX|0:7|M01.643
+83-3|MMI|5.18|Primary physician|C1508823|[prog]|["Primary physician"-tx-1-"primary physician"-noun-0]|TX|0:17|
+83-4|MMI|6.74|Patients|C0030705|[podg]|["*^patient"-tx-1-"patient"-noun-0]|TX|0:7|M01.643
+83-5|MMI|3.72|Primary physician|C1508823|[prog]|["Primary physician"-tx-1-"primary physician"-noun-0]|TX|2:17|
+84-0|MMI|5.18|Human Study Subject|C2349001|[humn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-0|MMI|5.18|Investigative Subject|C2697811|[ftcn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-0|MMI|5.18|Study Subject|C0681850|[grup]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-0|MMI|5.18|Subject - topic|C1706203|[idcn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-0|MMI|5.18|Subject -direct target|C1550501|[idcn]|["{Subject}"-tx-1-"subject"-noun-0]|TX|0:7|
+84-1|MMI|5.18|Pharmaceutical Preparations|C0013227|[phsu]|["Drug"-tx-1-"drug"-noun-0]|TX|0:4|D26
+84-1|MMI|5.18|Pharmacologic Substance|C1254351|[phsu]|["Drug"-tx-1-"drug"-noun-0]|TX|0:4|
+84-2|MMI|5.18|Devices|C0699733|[mnob]|["Device"-tx-1-"device"-noun-0]|TX|0:6|E07
+84-2|MMI|5.18|Medical Devices|C0025080|[medd]|["Device"-tx-1-"device"-noun-0]|TX|0:6|E07
+84-3|MMI|5.18|Daily|C0332173|[tmco]|["/day"-tx-1-"day"-noun-0]|TX|0:3|
+84-3|MMI|5.18|day|C0439228|[tmco]|["day"-tx-1-"day"-noun-0]|TX|0:3|
+84-3|MMI|5.18|per day|C0439505|[tmco]|["/day"-tx-1-"day"-noun-0]|TX|0:3|
+84-4|MMI|3.64|Human Study Subject|C2349001|[humn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-4|MMI|3.64|Investigative Subject|C2697811|[ftcn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-4|MMI|3.64|Study Subject|C0681850|[grup]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-4|MMI|3.64|Subject - topic|C1706203|[idcn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-4|MMI|3.64|Subject -direct target|C1550501|[idcn]|["{Subject}"-tx-1-"subject"-noun-0]|TX|0:7|
+84-5|MMI|8.34|Investigational New Drugs|C0013230|[phsu]|["experimental drug"-tx-1-"experimental drug"-noun-0]|TX|0:17|D26.371
+84-5|MMI|5.18|Experimental drug|C0304229|[phsu]|["Experimental drug"-tx-1-"experimental drug"-noun-0]|TX|0:17|
+84-6|MMI|3.64|Pharmaceutical Preparations|C0013227|[phsu]|["Drug"-tx-1-"drug"-noun-0]|TX|0:4|D26
+84-6|MMI|3.64|Pharmacologic Substance|C1254351|[phsu]|["Drug"-tx-1-"drug"-noun-0]|TX|0:4|
+84-7|MMI|5.18|Experimental device|C0237568|[resd]|["Experimental device"-tx-1-"experimental device"-noun-0]|TX|0:19|
+84-8|MMI|3.64|Devices|C0699733|[mnob]|["Device"-tx-1-"device"-noun-0]|TX|0:6|E07
+84-8|MMI|3.64|Medical Devices|C0025080|[medd]|["Device"-tx-1-"device"-noun-0]|TX|0:6|E07
+84-9|MMI|3.64|Daily|C0332173|[tmco]|["/day"-tx-1-"day"-noun-0]|TX|3:3|
+84-9|MMI|3.64|day|C0439228|[tmco]|["day"-tx-1-"day"-noun-0]|TX|3:3|
+84-9|MMI|3.64|per day|C0439505|[tmco]|["/day"-tx-1-"day"-noun-0]|TX|3:3|
+84-10|MMI|3.59|Human Study Subject|C2349001|[humn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-10|MMI|3.59|Investigative Subject|C2697811|[ftcn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-10|MMI|3.59|Study Subject|C0681850|[grup]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-10|MMI|3.59|Subject - topic|C1706203|[idcn]|["Subject"-tx-1-"subject"-noun-0]|TX|0:7|
+84-10|MMI|3.59|Subject -direct target|C1550501|[idcn]|["{Subject}"-tx-1-"subject"-noun-0]|TX|0:7|
+84-10|MMI|3.45|Negation|C1518422|[ftcn]|["Not"-tx-1-"not"-adv-0]|TX|13:3|
+84-11|MMI|6.87|Investigational New Drugs|C0013230|[phsu]|["experimental drug"-tx-1-"experimental drug"-noun-0]|TX|3:17|D26.371
+84-11|MMI|3.72|Experimental drug|C0304229|[phsu]|["Experimental drug"-tx-1-"experimental drug"-noun-0]|TX|3:17|
+84-12|MMI|6.87|Investigational New Drugs|C0013230|[phsu]|["experimental drug"-tx-1-"experimental drug"-noun-0]|TX|0:17|D26.371
+84-12|MMI|3.72|Experimental drug|C0304229|[phsu]|["Experimental drug"-tx-1-"experimental drug"-noun-0]|TX|0:17|
+84-13|MMI|3.68|Drug usage|C0242510|[mobd]|["drug use"-tx-1-"drug use"-noun-0]|TX|0:4^8:3|
+84-14|MMI|3.72|Experimental device|C0237568|[resd]|["Experimental device"-tx-1-"experimental device"-noun-0]|TX|4:19|
+84-14|MMI|3.59|And|C1515981|[idcn]|["And"-tx-1-"and"-conj-0]|TX|0:3|
+84-15|MMI|3.72|Experimental device|C0237568|[resd]|["Experimental device"-tx-1-"experimental device"-noun-0]|TX|0:19|
+84-16|MMI|3.59|Devices|C0699733|[mnob]|["Device"-tx-1-"device"-noun-0]|TX|0:6|E07
+84-16|MMI|3.59|Medical Devices|C0025080|[medd]|["Device"-tx-1-"device"-noun-0]|TX|0:6|E07
+84-17|MMI|3.59|Daily|C0332173|[tmco]|["/day"-tx-1-"day"-noun-0]|TX|10:3|
+84-17|MMI|3.59|day|C0439228|[tmco]|["day"-tx-1-"day"-noun-0]|TX|10:3|
+84-17|MMI|3.59|per day|C0439505|[tmco]|["/day"-tx-1-"day"-noun-0]|TX|10:3|
+84-17|MMI|3.45|Within|C0332285|[spco]|["Within"-tx-1-"within"-prep-0]|TX|0:6|
+85-0|MMI|5.18|per year|C0439508|[tmco]|["/year"-tx-1-"year"-noun-0]|TX|0:4|
+85-0|MMI|5.18|year|C0439234|[tmco]|["year"-tx-1-"year"-noun-0]|TX|0:4|
+85-1|MMI|3.64|per year|C0439508|[tmco]|["/year"-tx-1-"year"-noun-0]|TX|3:4|
+85-1|MMI|3.64|year|C0439234|[tmco]|["year"-tx-1-"year"-noun-0]|TX|3:4|
+85-1|MMI|3.48|Arabic numeral 65|C0450385|[inpr]|["65"-tx-1-"65"-integer-0]|TX|0:2|
+85-2|MMI|3.59|per year|C0439508|[tmco]|["/year"-tx-1-"year"-noun-0]|TX|6:4|
+85-2|MMI|3.59|year|C0439234|[tmco]|["year"-tx-1-"year"-noun-0]|TX|6:4|
+85-2|MMI|3.45|Arabic numeral 65|C0450385|[inpr]|["65"-tx-1-"65"-integer-0]|TX|3:2|
+85-2|MMI|3.45|To|C1883351|[qlco]|["To"-tx-1-"to"-prep-0]|TX|0:2|
+86-0|MMI|11.49|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|0:7|x.x.x
+86-0|MMI|8.34|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|0:7|K01.400
+86-0|MMI|5.18|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+86-0|MMI|5.18|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|0:7|
+86-0|MMI|5.18|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+86-0|MMI|5.18|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+86-1|MMI|11.49|Disease|C0012634|[dsyn]|["condition"-tx-1-"condition"-noun-0]|TX|0:9|C23.550.288
+86-1|MMI|5.18|Condition|C0348080|[qlco]|["Condition"-tx-1-"condition"-noun-0]|TX|0:9|
+86-1|MMI|5.18|Logical Condition|C1705253|[cnce]|["Condition"-tx-1-"condition"-noun-0]|TX|0:9|
+86-2|MMI|5.18|Flow|C0806140|[npop]|["Flow"-tx-1-"flow"-noun-0]|TX|0:4|
+86-3|MMI|9.95|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|0:7|x.x.x
+86-3|MMI|6.79|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|0:7|K01.400
+86-3|MMI|3.64|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+86-3|MMI|3.64|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|0:7|
+86-3|MMI|3.64|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+86-3|MMI|3.64|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+86-4|MMI|9.95|Disease|C0012634|[dsyn]|["condition"-tx-1-"condition"-noun-0]|TX|8:9|C23.550.288
+86-4|MMI|3.64|Condition|C0348080|[qlco]|["Condition"-tx-1-"condition"-noun-0]|TX|8:9|
+86-4|MMI|3.64|Logical Condition|C1705253|[cnce]|["Condition"-tx-1-"condition"-noun-0]|TX|8:9|
+86-4|MMI|3.48|Medical|C0205476|[ftcn]|["Medical"-tx-1-"medical"-adj-0]|TX|0:7|
+86-5|MMI|9.95|Disease|C0012634|[dsyn]|["condition"-tx-1-"condition"-noun-0]|TX|0:9|C23.550.288
+86-5|MMI|9.79|Affect (mental function)|C0001721|[menp]|["Affect"-tx-1-"affect"-verb-0]|TX|10:6|F01.470.047
+86-5|MMI|3.64|Condition|C0348080|[qlco]|["Condition"-tx-1-"condition"-noun-0]|TX|0:9|
+86-5|MMI|3.64|Logical Condition|C1705253|[cnce]|["Condition"-tx-1-"condition"-noun-0]|TX|0:9|
+86-6|MMI|3.64|Flow|C0806140|[npop]|["Flow"-tx-1-"flow"-noun-0]|TX|9:4|
+86-6|MMI|3.48|Salivary|C0442040|[spco]|["Salivary"-tx-1-"salivary"-adj-0]|TX|0:8|
+86-7|MMI|5.18|Medical History|C0262926|[fndg]|["history of medical"-tx-1-"history of medical"-noun-0]|TX|0:18|
+86-8|MMI|9.90|Disease|C0012634|[dsyn]|["condition"-tx-1-"condition"-noun-0]|TX|11:9|C23.550.288
+86-8|MMI|3.59|Condition|C0348080|[qlco]|["Condition"-tx-1-"condition"-noun-0]|TX|11:9|
+86-8|MMI|3.59|Logical Condition|C1705253|[cnce]|["Condition"-tx-1-"condition"-noun-0]|TX|11:9|
+86-8|MMI|3.45|Medical|C0205476|[ftcn]|["Medical"-tx-1-"medical"-adj-0]|TX|3:7|
+86-8|MMI|3.45|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+86-9|MMI|9.90|Disease|C0012634|[dsyn]|["condition"-tx-1-"condition"-noun-0]|TX|8:9|C23.550.288
+86-9|MMI|9.76|Affect (mental function)|C0001721|[menp]|["Affect"-tx-1-"affect"-verb-0]|TX|18:6|F01.470.047
+86-9|MMI|3.59|Condition|C0348080|[qlco]|["Condition"-tx-1-"condition"-noun-0]|TX|8:9|
+86-9|MMI|3.59|Logical Condition|C1705253|[cnce]|["Condition"-tx-1-"condition"-noun-0]|TX|8:9|
+86-9|MMI|3.45|Medical|C0205476|[ftcn]|["Medical"-tx-1-"medical"-adj-0]|TX|0:7|
+86-10|MMI|9.98|Salivary Gland Diseases|C0036093|[dsyn]|["salivary condition"-tx-1-"condition salivary"-noun-0]|TX|0:9^17:8|C07.465.815
+86-10|MMI|9.76|Affect (mental function)|C0001721|[menp]|["Affect"-tx-1-"affect"-verb-0]|TX|10:6|F01.470.047
+86-11|MMI|9.90|Affect (mental function)|C0001721|[menp]|["Affect"-tx-1-"affect"-verb-0]|TX|0:6|F01.470.047
+86-11|MMI|3.59|Flow|C0806140|[npop]|["Flow"-tx-1-"flow"-noun-0]|TX|16:4|
+86-11|MMI|3.59|Salivary|C0442040|[spco]|["Salivary"-tx-1-"salivary"-adj-0]|TX|7:8|
+87-0|MMI|11.49|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|0:7|x.x.x
+87-0|MMI|8.34|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|0:7|K01.400
+87-0|MMI|5.18|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-0|MMI|5.18|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|0:7|
+87-0|MMI|5.18|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-0|MMI|5.18|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-1|MMI|24.11|therapeutic aspects|C0039798|[ftcn]|["therapy"-tx-1-"therapy"-noun-0]|TX|0:7|x.x.x.x.x.x.x
+87-1|MMI|5.18|Therapeutic procedure|C0087111|[topp]|["Therapy"-tx-1-"therapy"-noun-0]|TX|0:7|
+87-1|MMI|5.18|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-1-"therapy"-noun-0]|TX|0:7|
+87-2|MMI|9.95|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|0:7|x.x.x
+87-2|MMI|6.79|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|0:7|K01.400
+87-2|MMI|3.64|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-2|MMI|3.64|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|0:7|
+87-2|MMI|3.64|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-2|MMI|3.64|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-3|MMI|16.63|Therapeutic immunosuppression|C0021079|[topp]|["Immunosuppressive therapy"-tx-1-"immunosuppressant therapy"-noun-0]|TX|0:25|E02.095.465.425.450;E05.478.610
+87-4|MMI|16.07|Immunosuppressive Agents|C0021081|[imft,phsu]|["Immunosuppressant"-tx-1-"immunosuppressant"-adj-0]|TX|11:17|D27.505.696.477.656
+87-4|MMI|9.90|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|0:7|x.x.x
+87-4|MMI|6.74|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|0:7|K01.400
+87-4|MMI|3.59|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-4|MMI|3.59|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|0:7|
+87-4|MMI|3.59|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-4|MMI|3.59|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+87-5|MMI|16.29|Therapeutic immunosuppression|C0021079|[topp]|["Immunosuppressive therapy"-tx-1-"immunosuppressant therapy"-noun-0]|TX|3:25|E02.095.465.425.450;E05.478.610
+87-5|MMI|3.45|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+88-0|MMI|11.49|utilization qualifier|C0042153|[ftcn]|["use"-tx-1-"use"-noun-0]|TX|0:3|x.x.x
+88-0|MMI|5.18|Usage|C0457083|[ftcn]|["Use"-tx-1-"use"-noun-0]|TX|0:3|
+88-0|MMI|5.18|Use - dosing instruction imperative|C1947944|[inpr]|["Use"-tx-1-"use"-noun-0]|TX|0:3|
+88-1|MMI|27.26|Nicotiana|C0086707|[plnt]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|0:7|B01.650.940.800.575.100.905.900
+88-1|MMI|27.26|Nicotiana tabacum|C0740009|[plnt]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|0:7|B01.650.940.800.575.100.905.900
+88-1|MMI|11.49|Tobacco|C0040329|[hops,orch,phsu]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|0:7|J01.637.836
+88-2|MMI|5.18|Use of|C1524063|[ftcn]|["Use of"-tx-1-"use of"-noun-0]|TX|0:6|
+88-3|MMI|25.72|Nicotiana|C0086707|[plnt]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|3:7|B01.650.940.800.575.100.905.900
+88-3|MMI|25.72|Nicotiana tabacum|C0740009|[plnt]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|3:7|B01.650.940.800.575.100.905.900
+88-3|MMI|9.95|Tobacco|C0040329|[hops,orch,phsu]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|3:7|J01.637.836
+88-3|MMI|3.48|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+88-4|MMI|25.53|Nicotiana|C0086707|[plnt]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|7:7|B01.650.940.800.575.100.905.900
+88-4|MMI|25.53|Nicotiana tabacum|C0740009|[plnt]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|7:7|B01.650.940.800.575.100.905.900
+88-4|MMI|9.76|Tobacco|C0040329|[hops,orch,phsu]|["Tobacco"-tx-1-"tobacco"-noun-0]|TX|7:7|J01.637.836
+88-4|MMI|3.72|Use of|C1524063|[ftcn]|["Use of"-tx-1-"use of"-noun-0]|TX|0:6|
+89-0|MMI|11.49|utilization qualifier|C0042153|[ftcn]|["use"-tx-1-"use"-noun-0]|TX|0:3|x.x.x
+89-0|MMI|5.18|Usage|C0457083|[ftcn]|["Use"-tx-1-"use"-noun-0]|TX|0:3|
+89-0|MMI|5.18|Use - dosing instruction imperative|C1947944|[inpr]|["Use"-tx-1-"use"-noun-0]|TX|0:3|
+89-1|MMI|17.80|Antibiotics|C0003232|[antb]|["Antibiotic"-tx-1-"antibiotic"-noun-0]|TX|0:10|D27.505.954.122.085
+89-2|MMI|5.18|Before|C0332152|[tmco]|["Preceding"-tx-1-"preceding"-noun-0]|TX|0:9|
+89-3|MMI|5.18|month|C0439231|[tmco]|["month"-tx-1-"month"-noun-0]|TX|0:5|
+89-3|MMI|5.18|per month (qualifier value)|C0439507|[tmco]|["/month"-tx-1-"month"-noun-0]|TX|0:5|
+89-4|MMI|5.18|Use of|C1524063|[ftcn]|["Use of"-tx-1-"use of"-noun-0]|TX|0:6|
+89-5|MMI|16.26|Antibiotics|C0003232|[antb]|["Antibiotic"-tx-1-"antibiotic"-adj-0]|TX|3:10|D27.505.954.122.085
+89-5|MMI|3.48|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+89-6|MMI|16.26|Antibiotics|C0003232|[antb]|["Antibiotic"-tx-1-"antibiotic"-noun-0]|TX|0:10|D27.505.954.122.085
+89-7|MMI|3.64|Before|C0332152|[tmco]|["Preceding"-tx-1-"preceding"-adj-0]|TX|4:9|
+89-8|MMI|3.64|Before|C0332152|[tmco]|["Preceding"-tx-1-"preceding"-adj-0]|TX|0:9|
+89-8|MMI|3.64|Four|C0205450|[qnco]|["Four"-tx-1-"four"-word_numeral-0]|TX|10:4|
+89-9|MMI|3.64|month|C0439231|[tmco]|["month"-tx-1-"month"-noun-0]|TX|5:5|
+89-9|MMI|3.64|per month (qualifier value)|C0439507|[tmco]|["/month"-tx-1-"month"-noun-0]|TX|5:5|
+89-9|MMI|3.48|Four|C0205450|[qnco]|["Four"-tx-1-"four"-word_numeral-0]|TX|0:4|
+89-10|MMI|16.07|Antibiotics|C0003232|[antb]|["Antibiotic"-tx-1-"antibiotic"-adj-0]|TX|7:10|D27.505.954.122.085
+89-10|MMI|3.72|Use of|C1524063|[ftcn]|["Use of"-tx-1-"use of"-noun-0]|TX|0:6|
+89-11|MMI|16.21|Antibiotics|C0003232|[antb]|["Antibiotic"-tx-1-"antibiotic"-noun-0]|TX|3:10|D27.505.954.122.085
+89-11|MMI|3.45|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+89-12|MMI|16.21|Antibiotics|C0003232|[antb]|["Antibiotic"-tx-1-"antibiotic"-noun-0]|TX|0:10|D27.505.954.122.085
+89-13|MMI|3.59|Before|C0332152|[tmco]|["Preceding"-tx-1-"preceding"-adj-0]|TX|11:9|
+89-13|MMI|3.45|Within|C0332285|[spco]|["Within"-tx-1-"within"-prep-0]|TX|0:6|
+89-14|MMI|3.59|Before|C0332152|[tmco]|["Preceding"-tx-1-"preceding"-adj-0]|TX|4:9|
+89-14|MMI|3.59|Four|C0205450|[qnco]|["Four"-tx-1-"four"-word_numeral-0]|TX|14:4|
+89-15|MMI|3.59|month|C0439231|[tmco]|["month"-tx-1-"month"-noun-0]|TX|15:5|
+89-15|MMI|3.59|per month (qualifier value)|C0439507|[tmco]|["/month"-tx-1-"month"-noun-0]|TX|15:5|
+89-15|MMI|3.45|Before|C0332152|[tmco]|["Preceding"-tx-1-"preceding"-adj-0]|TX|0:9|
+89-15|MMI|3.45|Four|C0205450|[qnco]|["Four"-tx-1-"four"-word_numeral-0]|TX|10:4|
+90-0|MMI|11.49|utilization qualifier|C0042153|[ftcn]|["use"-tx-1-"use"-noun-0]|TX|0:3|x.x.x
+90-0|MMI|5.18|Usage|C0457083|[ftcn]|["Use"-tx-1-"use"-noun-0]|TX|0:3|
+90-0|MMI|5.18|Use - dosing instruction imperative|C1947944|[inpr]|["Use"-tx-1-"use"-noun-0]|TX|0:3|
+90-1|MMI|5.18|Pharmaceutical Preparations|C0013227|[phsu]|["Medication, NOS"-tx-1-"medication"-noun-0]|TX|0:10|D26
+90-1|MMI|5.18|medication - HL7 publishing domain|C3244316|[ftcn]|["medication"-tx-1-"medication"-noun-0]|TX|0:10|
+90-2|MMI|5.18|Flow|C0806140|[npop]|["Flow"-tx-1-"flow"-noun-0]|TX|0:4|
+90-3|MMI|5.18|Use of|C1524063|[ftcn]|["Use of"-tx-1-"use of"-noun-0]|TX|0:6|
+90-4|MMI|3.64|Pharmaceutical Preparations|C0013227|[phsu]|["Medication, NOS"-tx-1-"medication"-noun-0]|TX|3:10|D26
+90-4|MMI|3.64|medication - HL7 publishing domain|C3244316|[ftcn]|["medication"-tx-1-"medication"-noun-0]|TX|3:10|
+90-4|MMI|3.48|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+90-5|MMI|9.79|Thinking, function|C0039869|[menp]|["think"-tx-1-"think"-verb-0]|TX|11:5|F02.463.785
+90-5|MMI|3.64|Pharmaceutical Preparations|C0013227|[phsu]|["Medication, NOS"-tx-1-"medication"-noun-0]|TX|0:10|D26
+90-5|MMI|3.64|medication - HL7 publishing domain|C3244316|[ftcn]|["medication"-tx-1-"medication"-noun-0]|TX|0:10|
+90-6|MMI|3.64|Flow|C0806140|[npop]|["Flow"-tx-1-"flow"-noun-0]|TX|9:4|
+90-6|MMI|3.48|Salivary|C0442040|[spco]|["Salivary"-tx-1-"salivary"-adj-0]|TX|0:8|
+90-7|MMI|3.72|Use of|C1524063|[ftcn]|["Use of"-tx-1-"use of"-noun-0]|TX|0:6|
+90-7|MMI|3.45|Pharmaceutical Preparations|C0013227|[phsu]|["Medication, NOS"-tx-1-"medication"-noun-0]|TX|7:10|D26
+90-7|MMI|3.45|medication - HL7 publishing domain|C3244316|[ftcn]|["medication"-tx-1-"medication"-noun-0]|TX|7:10|
+90-8|MMI|9.76|Thinking, function|C0039869|[menp]|["think"-tx-1-"think"-verb-0]|TX|14:5|F02.463.785
+90-8|MMI|3.59|Pharmaceutical Preparations|C0013227|[phsu]|["Medication, NOS"-tx-1-"medication"-noun-0]|TX|3:10|D26
+90-8|MMI|3.59|medication - HL7 publishing domain|C3244316|[ftcn]|["medication"-tx-1-"medication"-noun-0]|TX|3:10|
+90-8|MMI|3.45|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+90-9|MMI|9.76|Thinking, function|C0039869|[menp]|["think"-tx-1-"think"-verb-0]|TX|11:5|F02.463.785
+90-9|MMI|3.59|Pharmaceutical Preparations|C0013227|[phsu]|["Medication, NOS"-tx-1-"medication"-noun-0]|TX|0:10|D26
+90-9|MMI|3.59|medication - HL7 publishing domain|C3244316|[ftcn]|["medication"-tx-1-"medication"-noun-0]|TX|0:10|
+90-10|MMI|9.90|Affect (mental function)|C0001721|[menp]|["Affect"-tx-1-"affect"-verb-0]|TX|0:6|F01.470.047
+90-10|MMI|3.59|Flow|C0806140|[npop]|["Flow"-tx-1-"flow"-noun-0]|TX|16:4|
+90-10|MMI|3.59|Salivary|C0442040|[spco]|["Salivary"-tx-1-"salivary"-adj-0]|TX|7:8|
+91-0|MMI|17.80|permanent premolar tooth|C1704302|[bpoc]|["Premolar"-tx-1-"premolar"-noun-0]|TX|0:8|A14.549.167.860.150
+91-1|MMI|5.18|Structure of maxillary premolar tooth|C0927244|[bpoc]|["maxillary premolar"-tx-1-"maxillary premolar"-noun-0]|TX|0:18|
+91-2|MMI|16.10|permanent premolar tooth|C1704302|[bpoc]|["Premolar"-tx-1-"premolar"-noun-0]|TX|0:8|A14.549.167.860.150
+91-2|MMI|3.64|First (number)|C0205435|[qnco]|["First"-tx-1-"first"-noun-0]|TX|9:5|
+91-2|MMI|3.64|Firstly|C1279901|[qlco]|["First"-tx-1-"first"-noun-0]|TX|9:5|
+91-3|MMI|3.72|Structure of maxillary premolar tooth|C0927244|[bpoc]|["maxillary premolar"-tx-1-"maxillary premolar"-noun-0]|TX|4:18|
+91-3|MMI|3.45|Any|C1552551|[qlco]|["Any"-tx-1-"any"-det-0]|TX|0:3|
+91-3|MMI|3.45|Any Data Type|C3272371|[inpr]|["ANY"-tx-1-"any"-det-0]|TX|0:3|
+91-4|MMI|3.81|Upper first secondary premolar tooth|C0927324|[bpoc]|["maxillary first premolar"-tx-1-"maxillary premolar first"-noun-0]|TX|0:24|
+91-5|MMI|16.07|permanent premolar tooth|C1704302|[bpoc]|["Premolar"-tx-1-"premolar"-noun-0]|TX|0:8|A14.549.167.860.150
+91-5|MMI|3.59|First (number)|C0205435|[qnco]|["First"-tx-1-"first"-noun-0]|TX|9:5|
+91-5|MMI|3.59|Firstly|C1279901|[qlco]|["First"-tx-1-"first"-noun-0]|TX|9:5|
+92-0|MMI|5.18|ActClass - consent|C1554192|[idcn]|["consent"-tx-1-"consent"-noun-0]|TX|0:7|
+92-0|MMI|5.18|Consent|C1511481|[ftcn]|["Consent"-tx-1-"consent"-noun-0]|TX|0:7|
+92-1|MMI|13.10|Oprelvekin|C0537670|[aapp,imft,phsu]|["Inform"-tx-1-"inform"-verb-0]|TX|0:6|x.x.x.x
+92-1|MMI|3.64|ActClass - consent|C1554192|[idcn]|["consent"-tx-1-"consent"-noun-0]|TX|7:7|
+92-1|MMI|3.64|Consent|C1511481|[ftcn]|["Consent"-tx-1-"consent"-noun-0]|TX|7:7|
+92-1|MMI|3.64|Reporting|C0700287|[hlca]|["inform"-tx-1-"inform"-verb-0]|TX|0:6|
+92-1|MMI|3.64|inform|C1552002|[idcn]|["inform"-tx-1-"inform"-verb-0]|TX|0:6|
+92-2|MMI|13.05|Oprelvekin|C0537670|[aapp,imft,phsu]|["Inform"-tx-1-"inform"-verb-0]|TX|5:6|x.x.x.x
+92-2|MMI|3.59|ActClass - consent|C1554192|[idcn]|["consent"-tx-1-"consent"-noun-0]|TX|12:7|
+92-2|MMI|3.59|Consent|C1511481|[ftcn]|["Consent"-tx-1-"consent"-noun-0]|TX|12:7|
+92-2|MMI|3.59|Give - dosing instruction imperative|C1947971|[ftcn]|["Give"-tx-1-"give"-verb-0]|TX|0:4|
+92-2|MMI|3.59|Reporting|C0700287|[hlca]|["inform"-tx-1-"inform"-verb-0]|TX|5:6|
+92-2|MMI|3.59|inform|C1552002|[idcn]|["inform"-tx-1-"inform"-verb-0]|TX|5:6|
+93-0|MMI|5.18|per year|C0439508|[tmco]|["/year"-tx-1-"year"-noun-0]|TX|0:4|
+93-0|MMI|5.18|year|C0439234|[tmco]|["year"-tx-1-"year"-noun-0]|TX|0:4|
+93-1|MMI|5.18|Age|C0001779|[orga]|["Age"-tx-1-"age"-noun-0]|TX|0:3|
+93-2|MMI|11.49|Child|C0008059|[aggp]|["Child"-tx-1-"child"-noun-0]|TX|0:5|M01.060.406
+93-2|MMI|5.18|Offspring|C0680063|[famg]|["CHILD"-tx-1-"child"-noun-0]|TX|0:5|
+93-3|MMI|5.18|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-3|MMI|5.18|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-3|MMI|5.18|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-3|MMI|5.18|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-4|MMI|5.18|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-4|MMI|5.18|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-4|MMI|5.18|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-4|MMI|5.18|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-5|MMI|5.18|Exception - Property or Attribute|C1705847|[cnce]|["Exception"-tx-1-"exception"-noun-0]|TX|0:9|
+93-5|MMI|5.18|exception - ResponseLevel|C1554961|[idcn]|["exception"-tx-1-"exception"-noun-0]|TX|0:9|
+93-6|MMI|3.64|per year|C0439508|[tmco]|["/year"-tx-1-"year"-noun-0]|TX|3:4|
+93-6|MMI|3.64|year|C0439234|[tmco]|["year"-tx-1-"year"-noun-0]|TX|3:4|
+93-7|MMI|3.64|per year|C0439508|[tmco]|["/year"-tx-1-"year"-noun-0]|TX|0:4|
+93-7|MMI|3.64|year|C0439234|[tmco]|["year"-tx-1-"year"-noun-0]|TX|0:4|
+93-8|MMI|3.64|Age|C0001779|[orga]|["Age"-tx-1-"age"-noun-0]|TX|3:3|
+93-8|MMI|3.48|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+93-9|MMI|3.64|Age|C0001779|[orga]|["Age"-tx-1-"age"-noun-0]|TX|0:3|
+93-10|MMI|9.95|Child|C0008059|[aggp]|["Child"-tx-1-"child"-noun-0]|TX|3:5|M01.060.406
+93-10|MMI|3.64|If|C0750557|[qlco]|["If"-tx-1-"if"-conj-0]|TX|0:2|
+93-10|MMI|3.64|Offspring|C0680063|[famg]|["CHILD"-tx-1-"child"-noun-0]|TX|3:5|
+93-11|MMI|9.95|Child|C0008059|[aggp]|["Child"-tx-1-"child"-noun-0]|TX|0:5|M01.060.406
+93-11|MMI|3.64|Offspring|C0680063|[famg]|["CHILD"-tx-1-"child"-noun-0]|TX|0:5|
+93-12|MMI|3.64|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-12|MMI|3.64|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-12|MMI|3.64|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-12|MMI|3.64|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-12|MMI|3.48|Act Code - General|C1553889|[idcn]|["General"-tx-1-"general"-adj-0]|TX|0:7|
+93-12|MMI|3.48|Generalized|C0205246|[spco]|["General"-tx-1-"general"-adj-0]|TX|0:7|
+93-13|MMI|3.64|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-13|MMI|3.64|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-13|MMI|3.64|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-13|MMI|3.64|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-14|MMI|3.64|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-14|MMI|3.64|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-14|MMI|3.64|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-14|MMI|3.64|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-14|MMI|3.48|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|0:7|
+93-14|MMI|3.48|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|0:7|
+93-15|MMI|3.64|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-15|MMI|3.64|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-15|MMI|3.64|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-15|MMI|3.64|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-16|MMI|3.64|Exception - Property or Attribute|C1705847|[cnce]|["Exception"-tx-1-"exception"-noun-0]|TX|3:9|
+93-16|MMI|3.64|exception - ResponseLevel|C1554961|[idcn]|["exception"-tx-1-"exception"-noun-0]|TX|3:9|
+93-17|MMI|3.59|per year|C0439508|[tmco]|["/year"-tx-1-"year"-noun-0]|TX|3:4|
+93-17|MMI|3.59|year|C0439234|[tmco]|["year"-tx-1-"year"-noun-0]|TX|3:4|
+93-18|MMI|3.59|per year|C0439508|[tmco]|["/year"-tx-1-"year"-noun-0]|TX|0:4|
+93-18|MMI|3.59|year|C0439234|[tmco]|["year"-tx-1-"year"-noun-0]|TX|0:4|
+93-18|MMI|3.45|Age|C0001779|[orga]|["Age"-tx-1-"age"-noun-0]|TX|8:3|
+93-19|MMI|3.59|Age|C0001779|[orga]|["Age"-tx-1-"age"-noun-0]|TX|3:3|
+93-19|MMI|3.45|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+93-20|MMI|3.68|Old age|C1999167|[popg]|["Old age"-tx-1-"age old"-noun-0]|TX|0:3^7:3|
+93-20|MMI|3.68|Senility|C0231337|[fndg]|["Old age"-tx-1-"age old"-noun-0]|TX|0:3^7:3|
+93-21|MMI|3.68|OLD_CHILD (NCIt property)|C2919014|[idcn]|["OLD_CHILD"-tx-1-"old child"-noun-0]|TX|0:3^7:5|
+93-22|MMI|9.90|Child|C0008059|[aggp]|["Child"-tx-1-"child"-noun-0]|TX|3:5|M01.060.406
+93-22|MMI|3.59|If|C0750557|[qlco]|["If"-tx-1-"if"-conj-0]|TX|0:2|
+93-22|MMI|3.59|Offspring|C0680063|[famg]|["CHILD"-tx-1-"child"-noun-0]|TX|3:5|
+93-23|MMI|12.91|Evaluation|C0220825|[ftcn]|["Evaluate"-tx-1-"evaluate"-verb-0]|TX|9:8|E05.337;N05.715.360.335
+93-23|MMI|9.90|Child|C0008059|[aggp]|["Child"-tx-1-"child"-noun-0]|TX|0:5|M01.060.406
+93-23|MMI|3.59|Offspring|C0680063|[famg]|["CHILD"-tx-1-"child"-noun-0]|TX|0:5|
+93-24|MMI|3.59|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|12:8|
+93-24|MMI|3.59|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|12:8|
+93-24|MMI|3.59|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|12:8|
+93-24|MMI|3.59|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|12:8|
+93-24|MMI|3.45|Act Code - General|C1553889|[idcn]|["General"-tx-1-"general"-adj-0]|TX|4:7|
+93-24|MMI|3.45|Generalized|C0205246|[spco]|["General"-tx-1-"general"-adj-0]|TX|4:7|
+93-25|MMI|3.59|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-25|MMI|3.59|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-25|MMI|3.59|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-25|MMI|3.59|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-25|MMI|3.45|Act Code - General|C1553889|[idcn]|["General"-tx-1-"general"-adj-0]|TX|0:7|
+93-25|MMI|3.45|Generalized|C0205246|[spco]|["General"-tx-1-"general"-adj-0]|TX|0:7|
+93-26|MMI|3.59|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-26|MMI|3.59|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-26|MMI|3.59|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-26|MMI|3.59|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-27|MMI|3.59|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|12:8|
+93-27|MMI|3.59|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|12:8|
+93-27|MMI|3.59|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|12:8|
+93-27|MMI|3.59|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|12:8|
+93-27|MMI|3.45|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|4:7|
+93-27|MMI|3.45|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|4:7|
+93-28|MMI|3.59|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-28|MMI|3.59|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-28|MMI|3.59|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-28|MMI|3.59|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|8:8|
+93-28|MMI|3.45|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|0:7|
+93-28|MMI|3.45|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|0:7|
+93-29|MMI|3.59|Clinical trial protocol document|C1507394|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-29|MMI|3.59|Library Protocol|C1522729|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-29|MMI|3.59|Protocols documentation|C0442711|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-29|MMI|3.59|Study Protocol|C2348563|[inpr]|["Protocol"-tx-1-"protocol"-noun-0]|TX|0:8|
+93-30|MMI|3.59|Exception - Property or Attribute|C1705847|[cnce]|["Exception"-tx-1-"exception"-noun-0]|TX|9:9|
+93-30|MMI|3.59|exception - ResponseLevel|C1554961|[idcn]|["exception"-tx-1-"exception"-noun-0]|TX|9:9|
+93-30|MMI|3.45|Inferior|C0542339|[spco]|["Under"-tx-1-"under"-prep-0]|TX|0:5|
+94-0|MMI|17.80|Cysticercosis|C0010678|[dsyn]|["Cysticercosis"-tx-1-"cysticercosis"-noun-0]|TX|0:13|C03.335.190.902.185
+94-1|MMI|5.18|Present|C0150312|[qnco]|["Present"-tx-1-"present"-noun-0]|TX|0:7|
+94-1|MMI|5.18|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-noun-0]|TX|0:7|
+94-2|MMI|17.80|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+94-2|MMI|5.18|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|
+94-3|MMI|5.18|*Activity (kind of quantity)|C1561536|[idcn]|["*Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-3|MMI|5.18|Active|C0205177|[ftcn]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-3|MMI|5.18|Activities|C0441655|[acty]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-3|MMI|5.18|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-3|MMI|5.18|Percent Activity|C0439167|[qnco]|["% activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-4|MMI|5.18|Per Billion|C2347469|[qnco]|["/B"-tx-1-"b"-noun-0]|TX|0:1|
+94-5|MMI|5.18|criteria|C0243161|[inpr]|["Criterion"-tx-1-"criterion"-noun-0]|TX|0:9|
+94-6|MMI|16.26|Cysticercosis|C0010678|[dsyn]|["Cysticercosis"-tx-1-"cysticercosis"-noun-0]|TX|9:13|C03.335.190.902.185
+94-6|MMI|3.48|Sedentary|C0205254|[qlco]|["Inactive"-tx-1-"inactive"-adj-0]|TX|0:8|
+94-7|MMI|16.26|Cysticercosis|C0010678|[dsyn]|["Cysticercosis"-tx-1-"cysticercosis"-noun-0]|TX|0:13|C03.335.190.902.185
+94-8|MMI|3.64|And|C1515981|[idcn]|["And"-tx-1-"and"-conj-0]|TX|0:3|
+94-8|MMI|3.64|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|4:7|
+94-8|MMI|3.64|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|4:7|
+94-9|MMI|3.64|Present|C0150312|[qnco]|["Present"-tx-1-"present"-noun-0]|TX|0:7|
+94-9|MMI|3.64|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-noun-0]|TX|0:7|
+94-10|MMI|16.26|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|5:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+94-10|MMI|3.64|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|5:7|
+94-10|MMI|3.48|Past|C1444637|[tmco]|["Past"-tx-1-"past"-adj-0]|TX|0:4|
+94-11|MMI|5.18|Seizure activity|C1148454|[fndg]|["Seizure activity"-tx-1-"seizure activity"-noun-0]|TX|0:16|
+94-12|MMI|3.64|*Activity (kind of quantity)|C1561536|[idcn]|["*Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-12|MMI|3.64|Active|C0205177|[ftcn]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-12|MMI|3.64|Activities|C0441655|[acty]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-12|MMI|3.64|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-12|MMI|3.64|Percent Activity|C0439167|[qnco]|["% activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-13|MMI|3.64|And|C1515981|[idcn]|["And"-tx-1-"and"-conj-0]|TX|0:3|
+94-14|MMI|3.64|Per Billion|C2347469|[qnco]|["/B"-tx-1-"b"-noun-0]|TX|0:1|
+94-14|MMI|3.48|In addition to|C0332287|[qlco]|["Plus"-tx-1-"plus"-prep-0]|TX|2:4|
+94-15|MMI|3.64|criteria|C0243161|[inpr]|["Criterion"-tx-1-"criterion"-noun-0]|TX|7:9|
+94-16|MMI|16.21|Cysticercosis|C0010678|[dsyn]|["Cysticercosis"-tx-1-"cysticercosis"-noun-0]|TX|12:13|C03.335.190.902.185
+94-16|MMI|3.45|Sedentary|C0205254|[qlco]|["Inactive"-tx-1-"inactive"-adj-0]|TX|3:8|
+94-16|MMI|3.45|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+94-17|MMI|16.21|Cysticercosis|C0010678|[dsyn]|["Cysticercosis"-tx-1-"cysticercosis"-noun-0]|TX|9:13|C03.335.190.902.185
+94-17|MMI|3.45|Sedentary|C0205254|[qlco]|["Inactive"-tx-1-"inactive"-adj-0]|TX|0:8|
+94-18|MMI|16.21|Cysticercosis|C0010678|[dsyn]|["Cysticercosis"-tx-1-"cysticercosis"-noun-0]|TX|0:13|C03.335.190.902.185
+94-18|MMI|3.45|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|18:7|
+94-18|MMI|3.45|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|18:7|
+94-19|MMI|3.68|And/Or|C1706528|[cnce]|["And/Or"-tx-1-"and or"-conj-0]|TX|0:3^12:2|
+94-19|MMI|3.59|Present|C0150312|[qnco]|["Present"-tx-1-"present"-noun-0]|TX|4:7|
+94-19|MMI|3.59|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-noun-0]|TX|4:7|
+94-20|MMI|3.59|Present|C0150312|[qnco]|["Present"-tx-1-"present"-noun-0]|TX|0:7|
+94-20|MMI|3.59|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-noun-0]|TX|0:7|
+94-20|MMI|3.45|Past|C1444637|[tmco]|["Past"-tx-1-"past"-adj-0]|TX|11:4|
+94-21|MMI|16.21|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|8:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+94-21|MMI|3.59|Past|C1444637|[tmco]|["Past"-tx-1-"past"-adj-0]|TX|3:4|
+94-21|MMI|3.59|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|8:7|
+94-22|MMI|3.72|Seizure activity|C1148454|[fndg]|["Seizure activity"-tx-1-"seizure activity"-noun-0]|TX|5:16|
+94-22|MMI|3.45|Past|C1444637|[tmco]|["Past"-tx-1-"past"-adj-0]|TX|0:4|
+94-23|MMI|3.72|Seizure activity|C1148454|[fndg]|["Seizure activity"-tx-1-"seizure activity"-noun-0]|TX|0:16|
+94-24|MMI|3.59|*Activity (kind of quantity)|C1561536|[idcn]|["*Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-24|MMI|3.59|Active|C0205177|[ftcn]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-24|MMI|3.59|Activities|C0441655|[acty]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-24|MMI|3.59|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-24|MMI|3.59|Percent Activity|C0439167|[qnco]|["% activity"-tx-1-"activity"-noun-0]|TX|0:8|
+94-26|MMI|3.59|And|C1515981|[idcn]|["And"-tx-1-"and"-conj-0]|TX|0:3|
+94-26|MMI|3.59|In addition to|C0332287|[qlco]|["Plus"-tx-1-"plus"-prep-0]|TX|6:4|
+94-27|MMI|3.59|Per Billion|C2347469|[qnco]|["/B"-tx-1-"b"-noun-0]|TX|0:1|
+94-27|MMI|3.45|In addition to|C0332287|[qlco]|["Plus"-tx-1-"plus"-prep-0]|TX|2:4|
+94-28|MMI|3.59|criteria|C0243161|[inpr]|["Criterion"-tx-1-"criterion"-noun-0]|TX|11:9|
+95-0|MMI|11.49|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|0:7|x.x.x
+95-0|MMI|8.34|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|0:7|K01.400
+95-0|MMI|5.18|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-0|MMI|5.18|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|0:7|
+95-0|MMI|5.18|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-0|MMI|5.18|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-1|MMI|17.80|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-1|MMI|5.18|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|
+95-2|MMI|17.80|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-2|MMI|5.18|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|
+95-3|MMI|5.18|*Activity (kind of quantity)|C1561536|[idcn]|["*Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+95-3|MMI|5.18|Active|C0205177|[ftcn]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+95-3|MMI|5.18|Activities|C0441655|[acty]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+95-3|MMI|5.18|Activity (animal life circumstance)|C3668946|[fndg]|["Activity"-tx-1-"activity"-noun-0]|TX|0:8|
+95-3|MMI|5.18|Percent Activity|C0439167|[qnco]|["% activity"-tx-1-"activity"-noun-0]|TX|0:8|
+95-4|MMI|9.95|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|2:7|x.x.x
+95-4|MMI|6.79|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|2:7|K01.400
+95-4|MMI|3.64|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|2:7|
+95-4|MMI|3.64|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|2:7|
+95-4|MMI|3.64|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|2:7|
+95-4|MMI|3.64|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|2:7|
+95-4|MMI|3.48|1+ Score|C2827734|[qnco]|["1+"-tx-1-"1"-integer-0]|TX|0:1|
+95-4|MMI|3.48|1+ Score, WHO|C2981698|[clas]|["1+"-tx-1-"1"-integer-0]|TX|0:1|
+95-5|MMI|9.95|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|0:7|x.x.x
+95-5|MMI|6.79|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|0:7|K01.400
+95-5|MMI|3.64|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-5|MMI|3.64|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|0:7|
+95-5|MMI|3.64|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-5|MMI|3.64|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-6|MMI|16.26|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|3:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-6|MMI|3.64|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|3:7|
+95-6|MMI|3.48|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+95-7|MMI|16.26|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-7|MMI|3.64|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|
+95-8|MMI|16.26|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|8:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-8|MMI|3.64|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|8:7|
+95-8|MMI|3.48|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|0:7|
+95-8|MMI|3.48|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|0:7|
+95-9|MMI|5.18|Seizure activity|C1148454|[fndg]|["Seizure activity"-tx-1-"seizure activity"-noun-0]|TX|0:16|
+95-10|MMI|9.90|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|2:7|x.x.x
+95-10|MMI|6.74|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|2:7|K01.400
+95-10|MMI|3.59|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|2:7|
+95-10|MMI|3.59|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|2:7|
+95-10|MMI|3.59|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|2:7|
+95-10|MMI|3.59|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|2:7|
+95-10|MMI|3.45|1+ Score|C2827734|[qnco]|["1+"-tx-1-"1"-integer-0]|TX|0:1|
+95-10|MMI|3.45|1+ Score, WHO|C2981698|[clas]|["1+"-tx-1-"1"-integer-0]|TX|0:1|
+95-11|MMI|16.07|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|11:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-11|MMI|9.90|Historical aspects qualifier|C0019665|[inpr]|["history"-tx-1-"history"-noun-0]|TX|0:7|x.x.x
+95-11|MMI|6.74|History|C0019664|[ocdi]|["History"-tx-1-"history"-noun-0]|TX|0:7|K01.400
+95-11|MMI|3.59|Concept History|C1705255|[cnce]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-11|MMI|3.59|History of present illness|C0262512|[orga]|["History, NOS"-tx-1-"history"-noun-0]|TX|0:7|
+95-11|MMI|3.59|History of previous events|C2004062|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-11|MMI|3.59|Medical History|C0262926|[fndg]|["History"-tx-1-"history"-noun-0]|TX|0:7|
+95-11|MMI|3.45|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|11:7|
+95-12|MMI|16.21|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|3:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-12|MMI|3.59|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|3:7|
+95-12|MMI|3.45|Within|C0332285|[spco]|["Of"-tx-1-"of"-prep-0]|TX|0:2|
+95-13|MMI|16.21|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-13|MMI|3.59|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|0:7|
+95-13|MMI|3.45|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|11:7|
+95-13|MMI|3.45|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|11:7|
+95-14|MMI|16.21|Seizures|C0036572|[sosy]|["Seizure"-tx-1-"seizure"-noun-0]|TX|11:7|C10.228.140.490.631;C10.597.742;C23.888.592.742
+95-14|MMI|3.59|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|3:7|
+95-14|MMI|3.59|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|3:7|
+95-14|MMI|3.59|Seizure Adverse Event|C1959629|[fndg]|["Seizure"-tx-1-"seizure"-noun-0]|TX|11:7|
+95-15|MMI|3.72|Seizure activity|C1148454|[fndg]|["Seizure activity"-tx-1-"seizure activity"-noun-0]|TX|8:16|
+95-15|MMI|3.45|Present|C0150312|[qnco]|["Present"-tx-1-"present"-adj-0]|TX|0:7|
+95-15|MMI|3.45|Presentation|C0449450|[idcn]|["Present"-tx-1-"present"-adj-0]|TX|0:7|
+96-0|MMI|11.49|Disease|C0012634|[dsyn]|["Disease"-tx-1-"disease"-noun-0]|TX|0:7|C23.550.288
+96-1|MMI|24.11|therapeutic aspects|C0039798|[ftcn]|["treatment"-tx-1-"treatment"-noun-0]|TX|0:9|x.x.x.x.x.x.x
+96-1|MMI|5.18|Administration procedure|C1533734|[topp]|["Treatment"-tx-1-"treatment"-noun-0]|TX|0:9|
+96-1|MMI|5.18|Biomaterial Treatment|C1705169|[cnce]|["Treatment"-tx-1-"treatment"-noun-0]|TX|0:9|
+96-1|MMI|5.18|Therapeutic procedure|C0087111|[topp]|["Treatment"-tx-1-"treatment"-noun-0]|TX|0:9|
+96-1|MMI|5.18|Treating|C1522326|[ftcn]|["Treatment"-tx-1-"treatment"-noun-0]|TX|0:9|
+96-1|MMI|5.18|Treatment Epoch|C3538994|[resa]|["TREATMENT"-tx-1-"treatment"-noun-0]|TX|0:9|
+96-2|MMI|5.18|Disease remission|C0544452|[fndg]|["inactive disease"-tx-1-"inactive disease"-noun-0]|TX|0:16|
+96-3|MMI|9.95|Disease|C0012634|[dsyn]|["Disease"-tx-1-"disease"-noun-0]|TX|0:7|C23.550.288
+96-4|MMI|22.57|therapeutic aspects|C0039798|[ftcn]|["treatment"-tx-1-"treatment"-noun-0]|TX|8:9|x.x.x.x.x.x.x
+96-4|MMI|3.64|Administration procedure|C1533734|[topp]|["Treatment"-tx-1-"treatment"-noun-0]|TX|8:9|
+96-4|MMI|3.64|Biomaterial Treatment|C1705169|[cnce]|["Treatment"-tx-1-"treatment"-noun-0]|TX|8:9|
+96-4|MMI|3.64|Therapeutic procedure|C0087111|[topp]|["Treatment"-tx-1-"treatment"-noun-0]|TX|8:9|
+96-4|MMI|3.64|Treating|C1522326|[ftcn]|["Treatment"-tx-1-"treatment"-noun-0]|TX|8:9|
+96-4|MMI|3.64|Treatment Epoch|C3538994|[resa]|["TREATMENT"-tx-1-"treatment"-noun-0]|TX|8:9|
+96-5|MMI|3.72|Disease remission|C0544452|[fndg]|["inactive disease"-tx-1-"inactive disease"-noun-0]|TX|5:16|
+96-5|MMI|3.59|Have|C3539897|[qlco]|["Have"-tx-1-"have"-aux-0]|TX|0:4|
+96-5|MMI|3.59|Possess|C3154893|[idcn]|["Have"-tx-1-"have"-aux-0]|TX|0:4|
+96-6|MMI|3.72|Disease remission|C0544452|[fndg]|["inactive disease"-tx-1-"inactive disease"-noun-0]|TX|0:16|
+96-7|MMI|9.90|Disease|C0012634|[dsyn]|["Disease"-tx-1-"disease"-noun-0]|TX|0:7|C23.550.288
+96-8|MMI|22.51|therapeutic aspects|C0039798|[ftcn]|["treatment"-tx-1-"treatment"-noun-0]|TX|12:9|x.x.x.x.x.x.x
+96-8|MMI|3.59|Administration procedure|C1533734|[topp]|["Treatment"-tx-1-"treatment"-noun-0]|TX|12:9|
+96-8|MMI|3.59|And|C1515981|[idcn]|["And"-tx-1-"and"-conj-0]|TX|0:3|
+96-8|MMI|3.59|Biomaterial Treatment|C1705169|[cnce]|["Treatment"-tx-1-"treatment"-noun-0]|TX|12:9|
+96-8|MMI|3.59|Therapeutic procedure|C0087111|[topp]|["Treatment"-tx-1-"treatment"-noun-0]|TX|12:9|
+96-8|MMI|3.59|Treating|C1522326|[ftcn]|["Treatment"-tx-1-"treatment"-noun-0]|TX|12:9|
+96-8|MMI|3.59|Treatment Epoch|C3538994|[resa]|["TREATMENT"-tx-1-"treatment"-noun-0]|TX|12:9|
+97-0|MMI|20.95|Unmarried|C0087136|[fndg]|["single"-tx-1-"single"-adj-0]|TX|0:6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.225.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+97-0|MMI|20.95|Unmarried person|C0037179|[popg]|["Single"-tx-1-"single"-adj-0]|TX|0:6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.225.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+97-0|MMI|5.18|Singular|C0205171|[qnco]|["Single"-tx-1-"single"-adj-0]|TX|0:6|
+97-1|MMI|5.18|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+97-1|MMI|5.18|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+97-2|MMI|8.34|Study of serum|C0036745|[bmod]|["Serology"-tx-1-"serology"-noun-0]|TX|0:8|H02.781
+97-2|MMI|5.18|Sample serology (procedure)|C0455278|[lbpr]|["Serology"-tx-1-"serology"-noun-0]|TX|0:8|
+97-2|MMI|5.18|Serological aspects|C0220911|[ftcn]|["serology"-tx-1-"serology"-noun-0]|TX|0:8|
+97-3|MMI|19.41|Unmarried|C0087136|[fndg]|["single"-tx-1-"single"-adj-0]|TX|2:6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.225.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+97-3|MMI|19.41|Unmarried person|C0037179|[popg]|["Single"-tx-1-"single"-adj-0]|TX|2:6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.225.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+97-3|MMI|3.64|Singular|C0205171|[qnco]|["Single"-tx-1-"single"-adj-0]|TX|2:6|
+97-3|MMI|3.48|3+ Score|C2827736|[qnco]|["3+"-tx-1-"3"-integer-0]|TX|0:1|
+97-3|MMI|3.48|3+ Score, WHO|C2981702|[clas]|["3+"-tx-1-"3"-integer-0]|TX|0:1|
+97-3|MMI|3.48|<3 (qualifier value)|C0439086|[qnco]|["<3"-tx-1-"3"-integer-0]|TX|0:1|
+97-4|MMI|19.41|Unmarried|C0087136|[fndg]|["single"-tx-1-"single"-adj-0]|TX|0:6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.225.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+97-4|MMI|19.41|Unmarried person|C0037179|[popg]|["Single"-tx-1-"single"-adj-0]|TX|0:6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.225.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+97-4|MMI|3.64|Singular|C0205171|[qnco]|["Single"-tx-1-"single"-adj-0]|TX|0:6|
+97-4|MMI|3.48|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|7:7|
+97-5|MMI|3.64|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|0:7|
+97-5|MMI|3.64|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|8:6|
+97-5|MMI|3.64|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|8:6|
+97-6|MMI|3.64|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+97-6|MMI|3.64|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+97-7|MMI|5.18|Serology positive|C0242089|[lbtr]|["positive serology"-tx-1-"positive serology"-noun-0]|TX|0:17|
+97-8|MMI|19.36|Unmarried|C0087136|[fndg]|["single"-tx-1-"single"-adj-0]|TX|2:6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.225.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+97-8|MMI|19.36|Unmarried person|C0037179|[popg]|["Single"-tx-1-"single"-adj-0]|TX|2:6|F01.829.263.315.500.725;I01.240.361.500.725;I01.880.225.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+97-8|MMI|3.59|Singular|C0205171|[qnco]|["Single"-tx-1-"single"-adj-0]|TX|2:6|
+97-8|MMI|3.45|3+ Score|C2827736|[qnco]|["3+"-tx-1-"3"-integer-0]|TX|0:1|
+97-8|MMI|3.45|3+ Score, WHO|C2981702|[clas]|["3+"-tx-1-"3"-integer-0]|TX|0:1|
+97-8|MMI|3.45|<3 (qualifier value)|C0439086|[qnco]|["<3"-tx-1-"3"-integer-0]|TX|0:1|
+97-8|MMI|3.45|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|9:7|
+97-9|MMI|3.68|Single lesion|C0577304|[fndg]|["Single lesion"-tx-1-"single lesion"-noun-0]|TX|0:6^15:6|
+97-9|MMI|3.45|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|7:7|
+97-10|MMI|3.59|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|0:7|
+97-10|MMI|3.59|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|8:6|
+97-10|MMI|3.59|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|8:6|
+97-11|MMI|3.59|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+97-11|MMI|3.59|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+97-11|MMI|3.45|Positive|C1446409|[qlco]|["Positive"-tx-1-"positive"-adj-0]|TX|11:8|
+97-11|MMI|3.45|Positive Charge|C2825490|[qlco]|["Positive"-tx-1-"positive"-adj-0]|TX|11:8|
+97-11|MMI|3.45|Positive Finding|C1514241|[fndg]|["Positive"-tx-1-"positive"-adj-0]|TX|11:8|
+97-11|MMI|3.45|percent positive cells|C0439178|[qnco]|["% Positive"-tx-1-"positive"-adj-0]|TX|11:8|
+97-12|MMI|3.72|Serology positive|C0242089|[lbtr]|["positive serology"-tx-1-"positive serology"-noun-0]|TX|4:17|
+97-12|MMI|3.59|And|C1515981|[idcn]|["And"-tx-1-"and"-conj-0]|TX|0:3|
+98-0|MMI|5.18|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|0:8|
+98-1|MMI|5.18|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+98-1|MMI|5.18|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+98-2|MMI|3.64|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|2:8|
+98-3|MMI|3.64|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|0:8|
+98-3|MMI|3.48|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|9:7|
+98-4|MMI|3.64|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|0:7|
+98-4|MMI|3.64|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|8:6|
+98-4|MMI|3.64|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|8:6|
+98-5|MMI|3.59|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|2:8|
+98-5|MMI|3.45|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|11:7|
+98-6|MMI|3.59|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|0:8|
+98-6|MMI|3.45|Calcified (qualifier)|C0175895|[qlco]|["calcify"-tx-1-"calcify"-verb-0]|TX|9:7|
+98-6|MMI|3.45|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|17:6|
+98-6|MMI|3.45|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|17:6|
+99-0|MMI|5.18|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|0:8|
+99-1|MMI|5.18|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+99-1|MMI|5.18|Specimen Source Codes - Lesion|C1546698|[inpr]|["Lesion"-tx-1-"lesion"-noun-0]|TX|0:6|
+99-2|MMI|3.64|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|2:8|
+99-2|MMI|3.48|>5|C0439084|[qnco]|[">5"-tx-1-"5"-integer-0]|TX|0:1|
+99-2|MMI|3.48|Integer +5|C0728893|[qnco]|["+5"-tx-1-"5"-integer-0]|TX|0:1|
+99-3|MMI|3.64|Small|C0700321|[qnco]|["Small"-tx-1-"small"-adj-0]|TX|9:5|
+99-3|MMI|3.48|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|0:8|
+99-4|MMI|5.18|Nodular lesions|C1518345|[fndg]|["Nodular Lesion"-tx-1-"nodular lesion"-noun-0]|TX|0:14|
+99-5|MMI|3.68|5 Minutes|C1442468|[tmco]|["5 small"-tx-1-"5 small"-adj-0]|TX|0:1^11:5|
+99-5|MMI|3.68|5 minutes Office visit|C0886384|[topp]|["5 small"-tx-1-"5 small"-adj-0]|TX|0:1^11:5|
+99-5|MMI|3.45|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|2:8|
+99-6|MMI|3.59|Small|C0700321|[qnco]|["Small"-tx-1-"small"-adj-0]|TX|9:5|
+99-6|MMI|3.45|Enhance (action)|C2349975|[acty]|["Enhance"-tx-1-"enhance"-verb-0]|TX|15:7|
+99-6|MMI|3.45|Numerous|C0439064|[qnco]|["Multiple"-tx-1-"multiple"-adj-0]|TX|0:8|
+99-7|MMI|3.72|Nodular lesions|C1518345|[fndg]|["Nodular Lesion"-tx-1-"nodular lesion"-noun-0]|TX|8:14|
+99-7|MMI|3.59|Enhance (action)|C2349975|[acty]|["Enhance"-tx-1-"enhance"-verb-0]|TX|0:7|
