@@ -1,0 +1,1 @@
+1	Severe medical neurological and psychiatric disorders or laboratory values which may have an impact on the safety of the subject|impact[93,99]|||||||||C0726639|222931|222931|impact

@@ -1,0 +1,5 @@
+1	3 Daily acetaminophen glucocorticoid or nonsteroidal anti-inflammatory drugs or daily NAC or high-dose antioxidant vitamin supplements within 30 days of baseline|acetaminophen[8,21]||||||Daily[2,7]||||993045|993045|acetaminophen
+1	3 Daily acetaminophen glucocorticoid or nonsteroidal anti-inflammatory drugs or daily NAC or high-dose antioxidant vitamin supplements within 30 days of baseline|nonsteroidal anti - inflammatory drugs[40,76]||||||||||889|889|nonsteroidal anti-inflammatory drugs
+1	3 Daily acetaminophen glucocorticoid or nonsteroidal anti-inflammatory drugs or daily NAC or high-dose antioxidant vitamin supplements within 30 days of baseline|NAC[86,89]||||||daily[80,85]||||607770|607770|nac
+1	3 Daily acetaminophen glucocorticoid or nonsteroidal anti-inflammatory drugs or daily NAC or high-dose antioxidant vitamin supplements within 30 days of baseline|vitamin supplements[115,134]|||||||30 days[142,149]|||90224|90224|vitamin supplements
+1	3 Daily acetaminophen glucocorticoid or nonsteroidal anti-inflammatory drugs or daily NAC or high-dose antioxidant vitamin supplements within 30 days of baseline|antioxidant[103,114]||||||||||215334|215334|antioxidant

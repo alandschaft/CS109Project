@@ -1,0 +1,2 @@
+1	Current use of melatonin or sustained release melatonin|melatonin[15,24]|||||||||C0025219|6711|6711|melatonin
+1	Current use of melatonin or sustained release melatonin|melatonin[46,55]||sustained release[28,45]||||||||669308|6711|melatonin

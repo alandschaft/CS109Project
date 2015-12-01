@@ -1,0 +1,1 @@
+1	Patients taking bisphosphonates|bisphosphonates[16,31]||||||||||3508|3508|bisphosphonates

@@ -1,0 +1,1 @@
+1	15 Suffering from psychotic disorder s and/or unstable recurrent affective disorder s evident by use of antipsychotics or have had a suicide attempt s within approximately the last 2 years|antipsychotics[104,118]|||||||2 years[181,188]||C0040615|10693|10693|antipsychotic drug

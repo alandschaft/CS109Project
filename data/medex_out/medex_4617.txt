@@ -1,0 +1,4 @@
+1	use of 2 concomitant antiepileptic treatment or valproate ethosuximide or lamotrigine|antiepileptic[21,34]|||||||||C0003299|932|932|antiepileptic
+1	use of 2 concomitant antiepileptic treatment or valproate ethosuximide or lamotrigine|ethosuximide[58,70]|||||||||C0015043|4135|4135|ethosuximide
+1	use of 2 concomitant antiepileptic treatment or valproate ethosuximide or lamotrigine|valproate[48,57]|||||||||C0080356|40254|40254|valproate
+1	use of 2 concomitant antiepileptic treatment or valproate ethosuximide or lamotrigine|lamotrigine[74,85]|||||||||C0064636|28439|28439|lamotrigine

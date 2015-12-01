@@ -1,0 +1,2 @@
+1	not to take any medications during the study period with the exception of antihypertensives and lipid lowering agents|antihypertensives[74,91]|||||||||C0003364|968|968|antihypertensives
+1	not to take any medications during the study period with the exception of antihypertensives and lipid lowering agents|lipid lowering agents[96,117]||||||||||969|969|lipid lowering agents

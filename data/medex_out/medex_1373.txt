@@ -1,0 +1,1 @@
+1	Must currently be receiving treatment with a stable regimen of one or two antiepileptic drugs for at least four weeks|antiepileptic drugs[74,93]|||||||four weeks[107,117]||C0003299|932|932|antiepileptic drugs

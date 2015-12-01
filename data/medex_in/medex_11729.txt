@@ -1,0 +1,1 @@
+Patients must have been treated with at least 2 different AEDs within the last 2 years prior to the screening visit 

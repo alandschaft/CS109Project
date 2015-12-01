@@ -1,0 +1,3 @@
+1	Positive serum titer for Toxoplasma gondii or Positive CSF titer for Toxoplasma gondii after treatment within 2 weeks|Toxoplasma gondii[25,42]|||||||||C0040557|1432991|1432991|toxoplasma gondii
+1	Positive serum titer for Toxoplasma gondii or Positive CSF titer for Toxoplasma gondii after treatment within 2 weeks|Toxoplasma gondii[69,86]|||||||2 weeks[110,117]||C0040557|1432991|1432991|toxoplasma gondii
+1	Positive serum titer for Toxoplasma gondii or Positive CSF titer for Toxoplasma gondii after treatment within 2 weeks|CSF[55,58]||||||||||40209|40209|csf

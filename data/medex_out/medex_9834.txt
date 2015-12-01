@@ -1,0 +1,1 @@
+1	If there is 2 cm post-operative residual T2/FLAIR abnormality and the neurosurgeon believes this represents edema and not primarily tumor the neurosurgeon is encouraged to repeat imaging within the allowed study period up to 84 days post-operatively to confirm resolution of edema|FLAIR[44,49]|||||||84 days[225,232]|||||

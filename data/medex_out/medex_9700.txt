@@ -1,0 +1,2 @@
+1	Patients on seizure medication or diuretics|seizure medication[12,30]||||||||||1021750|1021750|seizure medication
+1	Patients on seizure medication or diuretics|diuretics[34,43]|||||||||C0012798|3567|3567|diuretics

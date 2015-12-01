@@ -1,0 +1,2 @@
+1	2 Any known hypersensitivity to triheptanoin or safflower oil that in the judgment of the investigator places the subject at increased risk for adverse effects|triheptanoin[32,44]||||||||||1313234|1313234|triheptanoin
+1	2 Any known hypersensitivity to triheptanoin or safflower oil that in the judgment of the investigator places the subject at increased risk for adverse effects|safflower oil[48,61]|||||||||C0036048|9515|9515|safflower oil

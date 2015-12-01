@@ -1,0 +1,2 @@
+1	Previous experience on lamotrigine or carbamazepine|lamotrigine[23,34]|||||||||C0064636|28439|28439|lamotrigine
+1	Previous experience on lamotrigine or carbamazepine|carbamazepine[38,51]|||||||||C0006949|2002|2002|carbamazepine

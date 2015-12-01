@@ -1,0 +1,1 @@
+1	Participant is taking felbamate and they have been taking it for less than 1 year prior to screening|felbamate[22,31]|||||||||C0060135|24812|24812|felbamate

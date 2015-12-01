@@ -1,0 +1,2 @@
+1	17 Received an investigational drug or a medical device within 3 months of screening or is currently participating in another trial of an investigational drug or medical device trial|investigational drug[15,35]|||||||3 months[63,71]||C1875327|691729|691729|investigational drug
+1	17 Received an investigational drug or a medical device within 3 months of screening or is currently participating in another trial of an investigational drug or medical device trial|investigational drug[138,158]|||||||||C1875327|691729|691729|investigational drug

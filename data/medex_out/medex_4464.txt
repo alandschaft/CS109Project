@@ -1,0 +1,1 @@
+1	Patient has taken an investigational drug within a period of 3 months prior to inclusion|investigational drug[21,41]|||||||3 months[61,69]||C1875327|691729|691729|investigational drug

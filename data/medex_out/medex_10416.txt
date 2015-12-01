@@ -1,0 +1,1 @@
+1	Patient treated with an experimental drug within four weeks prior to the introduction of ESL|experimental drug[24,41]|||||||four weeks[49,59]|||91034|91034|experimental drug

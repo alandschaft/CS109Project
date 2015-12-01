@@ -1,0 +1,1 @@
+Patients must be greater than or equal to 18 years old and with a life expectancy greater than 8 weeks 

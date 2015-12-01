@@ -1,0 +1,2 @@
+1	2 Previously received Azacitidine Pharmion Corp.|Azacitidine[22,33]|||||||||C0004475|1251|1251|azacitidine
+2	Boulder CO or decitabine MGI Pharma Inc.|decitabine[63,73]|||||||||C0049065|15657|15657|decitabine

@@ -1,0 +1,2 @@
+1	5 Subjects receiving phenytoin phenobarbitone or metabolites of these drugs|phenobarbitone[31,45]||||||||||8134|8134|phenobarbital
+1	5 Subjects receiving phenytoin phenobarbitone or metabolites of these drugs|phenytoin[21,30]|||||||||C0031507|8183|8183|phenytoin

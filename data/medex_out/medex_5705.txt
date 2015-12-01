@@ -1,0 +1,2 @@
+1	1 Previous treatment with valproate or zonisamide|valproate[26,35]|||||||||C0080356|40254|40254|valproate
+1	1 Previous treatment with valproate or zonisamide|zonisamide[39,49]|||||||||C0078844|39998|39998|zonisamide

@@ -1,0 +1,1 @@
+1	Patient accepting an interview with a psychologist and to be refered to a psychiatrist in the event that mood disorders were detected on mood scores and considered severe by the investigator and or psychologist leading to require psychiatric care or immediate antidepressant treatment|antidepressant[260,274]||||||||||927|927|antidepressant

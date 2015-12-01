@@ -1,0 +1,3 @@
+1	Planned use of immune globulin ganciclovir or valganciclovir|ganciclovir[31,42]|||||||||C0017066|4678|4678|ganciclovir
+1	Planned use of immune globulin ganciclovir or valganciclovir|immune globulin[15,30]||||||||||5720|5720|globulin,immune
+1	Planned use of immune globulin ganciclovir or valganciclovir|valganciclovir[46,60]|||||||||C0909381|275891|275891|valganciclovir

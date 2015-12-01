@@ -1,0 +1,1 @@
+1	At least 1 week since prior interferon|interferon[28,38]|||||||1 week[9,15]||C0021747|5886|5886|interferon

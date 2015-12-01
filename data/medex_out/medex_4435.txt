@@ -1,0 +1,1 @@
+1	Second Antiepileptic Drug AED must be less than or equal to 50 of the minimum recommended maintenance dose per USA product label at screening|Antiepileptic[7,20]|||||||||C0003299|932|932|antiepileptic

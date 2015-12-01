@@ -1,0 +1,1 @@
+1	7 No changes in AED regimen lamotrigine or concomitant AED for at least 28 days prior to first pharmacokinetic testing|lamotrigine[28,39]|||||||28 days[72,79]||C0064636|28439|28439|lamotrigine

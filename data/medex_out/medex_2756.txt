@@ -1,0 +1,2 @@
+1	Subjects with a history of oral treatment with Levetiracetam LEV|LEV[61,64]|||||||||C3220305|1166072|5032|guaifenesin
+1	Subjects with a history of oral treatment with Levetiracetam LEV|Levetiracetam[47,60]|||||oral[27,31]||||C1827202|1163451|114477|levetiracetam

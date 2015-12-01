@@ -1,0 +1,2 @@
+1	Subjects currently taking levetiracetam LEV|LEV[40,43]|||||||||C3220305|1166072|5032|guaifenesin
+1	Subjects currently taking levetiracetam LEV|levetiracetam[26,39]|||||||||C0377265|114477|114477|levetiracetam

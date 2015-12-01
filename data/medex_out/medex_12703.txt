@@ -1,0 +1,1 @@
+1	Any condition rendering patients medically unfit for general anaesthesia or ECT treatment with ECT in previous six months dementia or other Axis 1 diagnosis alcohol/other substance abuse in previous six months inability/refusal to consent|refusal[220,227]|||||||six months[111,121]|||||

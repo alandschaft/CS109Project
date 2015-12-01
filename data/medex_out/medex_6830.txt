@@ -1,0 +1,2 @@
+1	Patient has received intravenous epoetin alfa or epoetin beta for a least 6 months when the informed consent is signed|epoetin alfa[33,45]|||||intravenous[21,32]||||C0357126|105694|105694|epoetin alfa,recombinant
+1	Patient has received intravenous epoetin alfa or epoetin beta for a least 6 months when the informed consent is signed|epoetin beta[49,61]|||||||6 months[74,82]||C0357131|105695|105695|epoetin beta

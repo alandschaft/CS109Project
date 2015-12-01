@@ -1,0 +1,2 @@
+1	4. patients with or anesthesia contraindications such as long-term use of anticoagulation antiplatelet drugs etc|antiplatelet drugs[90,108]||||||||||42539|42539|antiplatelet drugs
+1	4. patients with or anesthesia contraindications such as long-term use of anticoagulation antiplatelet drugs etc|anticoagulation[74,89]||||||||||1024413|1024413|anticoagulation

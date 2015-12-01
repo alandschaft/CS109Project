@@ -1,0 +1,1 @@
+1	Compensated cirrhosis will be defined histologically and/or clinically presence of compatible lab findings platelet count 150,000 total bilirubin 2 serum albumin 3.5 INR 1.2 PLUS compatible physical exam features cutaneous stigmata gynecomastia in men or splenomegaly OR compatible radiological findings|albumin[154,161]|||3.5[162,165]||||||C0001924|433|433|albumin

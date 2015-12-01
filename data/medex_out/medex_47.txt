@@ -1,0 +1,1 @@
+1	Ability to tolerate tegretol monotherapy|tegretol[20,28]||||||||||203029|2002|carbamazepine

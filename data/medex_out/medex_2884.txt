@@ -1,0 +1,2 @@
+1	Drug-free two weeks for most antidepressants four weeks for Fluoxetine|Fluoxetine[60,70]|||||||four weeks[45,55]||C0016365|4493|4493|fluoxetine
+1	Drug-free two weeks for most antidepressants four weeks for Fluoxetine|antidepressants[29,44]|||||||two weeks[10,19]||C0003289|927|927|antidepressants

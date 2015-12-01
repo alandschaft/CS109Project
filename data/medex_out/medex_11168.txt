@@ -1,0 +1,1 @@
+1	Is currently or has been abusing substance s or any medications in the 12 months prior to study entry|substance s[33,44]|||||||12 months[71,80]|||20500|20500|substance s

@@ -1,0 +1,3 @@
+1	Contraindications to lamotrigine therapy severe side effects in the past taking medications such as some anticonvulsants with drug-drug interactions with lamotrigine|lamotrigine[21,32]|||||||||C0064636|28439|28439|lamotrigine
+1	Contraindications to lamotrigine therapy severe side effects in the past taking medications such as some anticonvulsants with drug-drug interactions with lamotrigine|anticonvulsants[105,120]|||||||||C0003286|926|926|anticonvulsants
+1	Contraindications to lamotrigine therapy severe side effects in the past taking medications such as some anticonvulsants with drug-drug interactions with lamotrigine|lamotrigine[154,165]|||||||||C0064636|28439|28439|lamotrigine

@@ -1,0 +1,1 @@
+1	Consumption of Fish Oil at any time 30 days or less prior to enrollment|Fish Oil[15,23]|||||||30 days[36,43]||C0016157|4419|4419|fish oil

@@ -1,0 +1,2 @@
+1	On another anticonvulsant other than levetiracetam|levetiracetam[37,50]|||||||||C0377265|114477|114477|levetiracetam
+1	On another anticonvulsant other than levetiracetam|anticonvulsant[11,25]||||||||||926|926|anticonvulsant

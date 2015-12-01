@@ -1,0 +1,2 @@
+1	11 Allergy or adverse reaction to methohexital or succinylcholine|methohexital[34,46]|||||||||C0025668|6847|6847|methohexital
+1	11 Allergy or adverse reaction to methohexital or succinylcholine|succinylcholine[50,65]|||||||||C0038627|10154|10154|succinylcholine

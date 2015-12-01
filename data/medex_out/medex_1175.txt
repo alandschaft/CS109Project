@@ -1,0 +1,1 @@
+1	Progesterone treatment used or planned after 14 weeks gestation|Progesterone[0,12]|||||||14 weeks[45,53]||C0033308|8727|8727|progesterone

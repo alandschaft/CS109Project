@@ -1,0 +1,1 @@
+1	Patients who experience multiple episodes of acute repetitive seizures requiring at least one concomitant antiepileptic drug AED|antiepileptic[106,119]|||||||||C0003299|932|932|antiepileptic

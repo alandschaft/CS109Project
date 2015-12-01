@@ -1,0 +1,2 @@
+1	Subject is currently using recreational or medicinal cannabis or synthetic cannabinoid based medications including other than the investigational medicinal product IMP and are unwilling to abstain for the duration for the study|cannabis[53,61]||||||||||196583|196583|cannabis
+1	Subject is currently using recreational or medicinal cannabis or synthetic cannabinoid based medications including other than the investigational medicinal product IMP and are unwilling to abstain for the duration for the study|medicinal product[146,163]||||||||||107337|107337|medicinal product

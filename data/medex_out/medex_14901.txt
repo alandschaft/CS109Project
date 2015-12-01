@@ -1,0 +1,3 @@
+1	Treatment that can interfere with the performance of the subject beta2 adrenergic agonists analgesics corticostero?ds anti-inflammatory drugs|anti - inflammatory drugs[118,141]||||||||||887|887|anti-inflammatory drugs
+1	Treatment that can interfere with the performance of the subject beta2 adrenergic agonists analgesics corticostero?ds anti-inflammatory drugs|analgesics[91,101]|||||||||C0002771|760|760|analgesics
+1	Treatment that can interfere with the performance of the subject beta2 adrenergic agonists analgesics corticostero?ds anti-inflammatory drugs|adrenergic agonists[71,90]||||||||||1029285|1029285|adrenergic agonists

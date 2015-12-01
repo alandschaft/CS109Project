@@ -1,0 +1,2 @@
+1	10 Use of diuretics or other sodium-lowering medications within seven days prior to first dose of SM|diuretics[10,19]|||||||||C0012798|3567|3567|diuretics
+1	10 Use of diuretics or other sodium-lowering medications within seven days prior to first dose of SM|sodium[29,35]|||||||seven days[64,74]||C0037473|9853|9853|sodium

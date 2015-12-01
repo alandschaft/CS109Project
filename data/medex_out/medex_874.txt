@@ -1,0 +1,1 @@
+1	Vitamin D supplements must be less than 800 IU daily|Vitamin D[0,9]|||800IU[40,46]|||daily[47,52]||||1426127|11253|vitamin d

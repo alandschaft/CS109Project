@@ -1,0 +1,1 @@
+1	3 Have known or suspected condition in which anti-epileptic medications or pyridoxine treatment is contraindicated|pyridoxine[75,85]|||||||||C0034272|684879|684879|pyridoxine (vit b6)

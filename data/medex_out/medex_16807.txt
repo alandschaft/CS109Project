@@ -1,0 +1,1 @@
+1	Participants on CLB at doses above 20 mg per day|CLB[16,19]|||20mg[35,40]|||per day[41,48]||||||

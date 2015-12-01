@@ -1,0 +1,2 @@
+1	8 Patient has known hypersensitivity to lithium or divalproex|lithium[40,47]|||||||||C0023870|6448|6448|lithium
+1	8 Patient has known hypersensitivity to lithium or divalproex|divalproex[51,61]|||||||||C0042291|11118|11118|valproic acid

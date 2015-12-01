@@ -1,0 +1,2 @@
+1	8 Concomitant use of medication contraindicated with divalproex sodium including topiramate lamotragine and drugs that inhibit cytochrome p450 enzymes|topiramate[81,91]|||||||||C0076829|38404|38404|topiramate
+1	8 Concomitant use of medication contraindicated with divalproex sodium including topiramate lamotragine and drugs that inhibit cytochrome p450 enzymes|divalproex sodium[53,70]|||||||||C0886883|266856|266856|divalproex sodium

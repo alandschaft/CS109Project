@@ -1,0 +1,2 @@
+1	current benzodiazepine use exceeding the equivalent of 10mg diazepam/day|diazepam[60,68]|||10mg[55,59]||||||C0985489|315796|3322|diazepam
+1	current benzodiazepine use exceeding the equivalent of 10mg diazepam/day|benzodiazepine[8,22]||||||||||1402|1402|benzodiazepine

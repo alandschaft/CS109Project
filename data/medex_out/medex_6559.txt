@@ -1,0 +1,2 @@
+1	Received at least one dose of IPV vaccine from 1 August 2008 with or without RotaTeq vaccination|vaccine[34,41]||||||||||11094|11094|vaccine
+1	Received at least one dose of IPV vaccine from 1 August 2008 with or without RotaTeq vaccination|RotaTeq[77,84]|||||||||C1528013|496892|798286|human-bovine reassortant rotavirus strain g1 vaccine

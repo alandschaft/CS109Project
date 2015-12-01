@@ -1,0 +1,2 @@
+1	2 Mood stabilizers lithium valproic acid|valproic acid[27,40]|||||||||C0042291|11118|11118|valproic acid
+1	2 Mood stabilizers lithium valproic acid|lithium[19,26]|||||||||C0023870|6448|6448|lithium

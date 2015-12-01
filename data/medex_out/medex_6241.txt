@@ -1,0 +1,2 @@
+1	have received diuretics such as furosemide or BTN|furosemide[32,42]|||||||||C0016860|4603|4603|furosemide
+1	have received diuretics such as furosemide or BTN|diuretics[14,23]|||||||||C0012798|3567|3567|diuretics

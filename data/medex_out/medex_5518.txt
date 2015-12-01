@@ -1,0 +1,2 @@
+1	Any ocular or systemic disorder which may contraindicate Contact Lens CL wear|CL[70,72]||||||||||47104|47104|cl
+1	Any ocular or systemic disorder which may contraindicate Contact Lens CL wear|Contact Lens[57,69]||||||||||2809|2809|contact lens

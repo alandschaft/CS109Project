@@ -1,0 +1,1 @@
+1	Note A subject is still eligible to participate if antiepileptic medication s were temporarily discontinued for the purposes of diagnostic or medical procedures during the preceding 3 months|antiepileptic[51,64]|||||||3 months[182,190]||C0003299|932|932|antiepileptic

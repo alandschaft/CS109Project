@@ -1,0 +1,2 @@
+1	Subject must have failed at least one course of androgen deprivation therapy ADT i.e. treatment with GnRH analogues|GnRH[101,105]||||||||||6384|6384|gonadorelin (obsolete)
+1	Subject must have failed at least one course of androgen deprivation therapy ADT i.e. treatment with GnRH analogues|androgen[48,56]||||||||||777|777|androgens

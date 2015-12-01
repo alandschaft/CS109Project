@@ -1,0 +1,2 @@
+1	Benzodiazepines or other drugs with significant sedating or anticholinergic activity|Benzodiazepines[0,15]||||||||||1402|1402|benzodiazepines
+1	Benzodiazepines or other drugs with significant sedating or anticholinergic activity|anticholinergic[60,75]||||||||||71624|71624|anticholinergic

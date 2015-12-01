@@ -1,0 +1,2 @@
+1	5 The patient has received clobazam within 3 months prior to the Screening Visit If the patient has received clobazam in the past discontinuation must not have been for adverse events or lack of efficacy|clobazam[27,35]|||||||3 months[43,51]||C0055891|21241|21241|clobazam
+1	5 The patient has received clobazam within 3 months prior to the Screening Visit If the patient has received clobazam in the past discontinuation must not have been for adverse events or lack of efficacy|clobazam[109,117]|||||||||C0055891|21241|21241|clobazam

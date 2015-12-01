@@ -1,0 +1,2 @@
+1	Newly dispensed esomeprazole other proton pump inhibitors or H2-receptor antagonists|proton pump inhibitors[35,57]||||||||||986356|986356|proton pump inhibitors
+1	Newly dispensed esomeprazole other proton pump inhibitors or H2-receptor antagonists|esomeprazole[16,28]|||||||||C0937846|283742|283742|esomeprazole

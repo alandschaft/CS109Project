@@ -1,0 +1,4 @@
+1	Patients with a known hypersensitivity to RAD001 everolimus or other rapamycin sirolimus temsirolimus or to its excipients|everolimus[49,59]|||||||||C0541315|141704|141704|everolimus
+1	Patients with a known hypersensitivity to RAD001 everolimus or other rapamycin sirolimus temsirolimus or to its excipients|RAD001[42,48]||||||||||||
+1	Patients with a known hypersensitivity to RAD001 everolimus or other rapamycin sirolimus temsirolimus or to its excipients|temsirolimus[89,101]|||||||||C1707080|657797|657797|temsirolimus
+1	Patients with a known hypersensitivity to RAD001 everolimus or other rapamycin sirolimus temsirolimus or to its excipients|sirolimus[79,88]|||||||||C0072980|35302|35302|sirolimus

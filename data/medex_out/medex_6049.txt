@@ -1,0 +1,7 @@
+1	not on any medication that will interact with lamotrigine e.g carbamazepine phenytoin phenobarbital valproic acid St.|valproic acid[100,113]|||||||||C0042291|11118|11118|valproic acid
+1	not on any medication that will interact with lamotrigine e.g carbamazepine phenytoin phenobarbital valproic acid St.|phenobarbital[86,99]|||||||||C0031412|8134|8134|phenobarbital
+1	not on any medication that will interact with lamotrigine e.g carbamazepine phenytoin phenobarbital valproic acid St.|phenytoin[76,85]|||||||||C0031507|8183|8183|phenytoin
+1	not on any medication that will interact with lamotrigine e.g carbamazepine phenytoin phenobarbital valproic acid St.|carbamazepine[62,75]|||||||||C0006949|2002|2002|carbamazepine
+1	not on any medication that will interact with lamotrigine e.g carbamazepine phenytoin phenobarbital valproic acid St.|lamotrigine[46,57]|||||||||C0064636|28439|28439|lamotrigine
+2	John 's wort rifampin tamoxifen|tamoxifen[140,149]|||||||||C0039286|10324|10324|tamoxifen
+2	John 's wort rifampin tamoxifen|rifampin[131,139]|||||||||C0035608|9384|9384|rifampicin

@@ -1,0 +1,1 @@
+1	Patients with a history of or concurrent second malignancy other than non-melanoma skin cancer or cervical cancer less than 3 years since GBM diagnosis|melanoma[74,82]|||||||3 years[124,131]|||1023577|1023577|melanoma

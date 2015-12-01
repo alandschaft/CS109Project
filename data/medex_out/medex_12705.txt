@@ -1,0 +1,1 @@
+1	2 The patient 's present antiepileptic drug AED therapy is ineffective or intolerable|antiepileptic[25,38]|||||||||C0003299|932|932|antiepileptic

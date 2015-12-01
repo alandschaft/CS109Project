@@ -1,0 +1,2 @@
+1	Regularly use over-the-counter cough suppressants antihistamines or sleep aids or who ingest over 7 cups of daily coffee or currently smoke cigarettes|antihistamines[50,64]||||||daily[108,113]|||C0003360|967|967|antihistamines
+1	Regularly use over-the-counter cough suppressants antihistamines or sleep aids or who ingest over 7 cups of daily coffee or currently smoke cigarettes|cough suppressants[31,49]||||||||||1016|1016|cough suppressants

@@ -1,0 +1,3 @@
+1	History of tetanus diphtheria pertussis measles mumps and/or rubella|mumps[48,53]||||||||||1027774|1027774|mumps
+1	History of tetanus diphtheria pertussis measles mumps and/or rubella|pertussis[30,39]||||||||||1025994|1025994|pertussis
+1	History of tetanus diphtheria pertussis measles mumps and/or rubella|rubella[61,68]||||||||||1022799|1022799|rubella

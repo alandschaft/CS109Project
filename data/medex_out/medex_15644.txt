@@ -1,0 +1,1 @@
+1	Subject has been maintained on a stable dose regimen of anti-epileptic drugs AEDs including lamotrigine at 200mg 400mg or 600mg total daily dosage divided BID for at least 8 weeks prior to Visit 1 and during the screening period|lamotrigine[92,103]|||200mg[107,112]|||daily[134,139]|8 weeks[172,179]||C0987072|316130|28439|lamotrigine

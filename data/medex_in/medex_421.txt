@@ -1,0 +1,1 @@
+Technical contraindications to MRI procedures e.g no braces distort image data 

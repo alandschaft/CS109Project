@@ -1,0 +1,1 @@
+1	5 The patient is currently taking long-term systemic steroids 2 weeks|steroids[53,61]|||||||2 weeks[62,69]|||10072|10072|steroids

@@ -1,0 +1,1 @@
+1	9 Received any propofol infusions within 24 hours|propofol[15,23]|||||||24 hours[41,49]||C0033487|8782|8782|propofol

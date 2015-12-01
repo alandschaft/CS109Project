@@ -1,0 +1,1 @@
+1	Has taken gabapentin in the last month or has experienced adverse effects from it at any time in the past|gabapentin[10,20]|||||||||C0060926|25480|25480|gabapentin

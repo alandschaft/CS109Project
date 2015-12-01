@@ -1,0 +1,1 @@
+1	Patient has not had an acceptable clinical response due to failure with at least 2 antidepressant treatments during the current episode|antidepressant[83,97]||||||||||927|927|antidepressant

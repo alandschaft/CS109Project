@@ -1,0 +1,2 @@
+1	Opioid overdose responding to Narcan|Narcan[30,36]|||||||||C0684237|197117|7242|naloxone
+1	Opioid overdose responding to Narcan|Opioid[0,6]||||||||||71507|71507|opioid

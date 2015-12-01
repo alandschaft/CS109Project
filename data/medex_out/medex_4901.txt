@@ -1,0 +1,2 @@
+1	Subjects who are taking drugs that significantly reduce blood cloting such as Coumadin or Warfarin|Coumadin[78,86]|||||||||C0699129|202421|11289|warfarin
+1	Subjects who are taking drugs that significantly reduce blood cloting such as Coumadin or Warfarin|Warfarin[90,98]|||||||||C0043031|11289|11289|warfarin

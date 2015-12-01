@@ -1,0 +1,1 @@
+1	Normal liver enzymes tests should be completed within 14 days before injection of the radiopharmaceutical SGOT SGPT 5x ULN bilirubin less than or equal to 2x ULN|radiopharmaceutical[86,105]||||||2x[155,157]|14 days[54,61]|||388375|388375|radiopharmaceutical

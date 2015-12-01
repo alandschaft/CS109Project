@@ -1,0 +1,1 @@
+1	Clinically significant psychiatric illness psychological or behavioral problem which in the opinion of the investigator would interfere with the subject 's ability to participate in the study OR the subject is receiving therapy with neuroleptic drugs|neuroleptic drugs[233,250]||||||||||10693|10693|antipsychotic drug

@@ -1,0 +1,2 @@
+1	Chronic diuretic use defined as use of any oral or intravenous diuretics for 7 days|diuretic[8,16]|||||oral[43,47]|||||1424804|3567|
+1	Chronic diuretic use defined as use of any oral or intravenous diuretics for 7 days|diuretics[63,72]|||||intravenous[51,62]||7 days[77,83]||C0012798|3567|3567|diuretics

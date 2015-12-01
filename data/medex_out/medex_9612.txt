@@ -1,0 +1,1 @@
+1	Currently receiving a stable dose of 1 to 3 antiepileptic drugs stable within 28 days prior to screening|antiepileptic drugs[44,63]|||||||28 days[78,85]||C0003299|932|932|antiepileptic drugs
