@@ -1,0 +1,1 @@
+1	Salicylates ARE permitted|Salicylates[0,11]||||||||||9523|9523|salicylates

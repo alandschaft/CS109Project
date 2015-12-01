@@ -1,0 +1,2 @@
+1	Subject is receiving concomitant treatment with felbamate or has received previous felbamate therapy within the last 6 months prior to Screening|felbamate[48,57]|||||||||C0060135|24812|24812|felbamate
+1	Subject is receiving concomitant treatment with felbamate or has received previous felbamate therapy within the last 6 months prior to Screening|felbamate[83,92]|||||||6 months[117,125]||C0060135|24812|24812|felbamate

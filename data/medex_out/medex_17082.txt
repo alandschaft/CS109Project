@@ -1,0 +1,4 @@
+1	In the VPA arm only the participant must not be receiving STP VPA allowed in STP arm|STP[58,61]||||||||||3625|3625|stp
+1	In the VPA arm only the participant must not be receiving STP VPA allowed in STP arm|VPA[7,10]||||||||||1099703|40254|valproate
+1	In the VPA arm only the participant must not be receiving STP VPA allowed in STP arm|STP[77,80]||||||||||3625|3625|stp
+1	In the VPA arm only the participant must not be receiving STP VPA allowed in STP arm|VPA[62,65]||||||||||1099703|40254|valproate

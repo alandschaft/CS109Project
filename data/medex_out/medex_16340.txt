@@ -1,0 +1,2 @@
+1	Either not receiving steroids for disease symptoms or are on stable dose of steroids for at least 5 days|steroids[21,29]||||||||||10072|10072|steroids
+1	Either not receiving steroids for disease symptoms or are on stable dose of steroids for at least 5 days|steroids[76,84]|||||||5 days[98,104]|||10072|10072|steroids

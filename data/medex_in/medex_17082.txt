@@ -1,0 +1,1 @@
+In the VPA arm only the participant must not be receiving STP VPA allowed in STP arm 

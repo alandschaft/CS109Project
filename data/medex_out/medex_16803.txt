@@ -1,0 +1,2 @@
+1	Participant must have epilepsy as determined by the investigator and be taking clobazam CLB|CLB[88,91]||||||||||||
+1	Participant must have epilepsy as determined by the investigator and be taking clobazam CLB|clobazam[79,87]|||||||||C0055891|21241|21241|clobazam

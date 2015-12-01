@@ -1,0 +1,1 @@
+1	Subject is currently participating or has participated within the last 2 months in a trial of an investigational drug or experimental device|investigational drug[97,117]|||||||2 months[71,79]||C1875327|691729|691729|investigational drug

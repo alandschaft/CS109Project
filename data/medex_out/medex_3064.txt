@@ -1,0 +1,3 @@
+1	Patients with MNDs ALS PLS or PMA who have cramps with average severity 50/100 points are able to provide informed consent have normal renal function and are on a stable riluzole dose|ALS[19,22]||||||||||||
+1	Patients with MNDs ALS PLS or PMA who have cramps with average severity 50/100 points are able to provide informed consent have normal renal function and are on a stable riluzole dose|PMA[30,33]||||||||||15190|15190|pma
+1	Patients with MNDs ALS PLS or PMA who have cramps with average severity 50/100 points are able to provide informed consent have normal renal function and are on a stable riluzole dose|riluzole[170,178]|||||||||C0073379|35623|35623|riluzole

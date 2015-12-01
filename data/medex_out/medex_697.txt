@@ -1,0 +1,2 @@
+1	Routine use of NSAIDS defined as NSAID use more than two doses a week|NSAID[33,38]||||||||||889|889|nsaid
+1	Routine use of NSAIDS defined as NSAID use more than two doses a week|NSAIDS[15,21]||||||||||||

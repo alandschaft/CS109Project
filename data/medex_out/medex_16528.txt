@@ -1,0 +1,1 @@
+1	Gadolinium enhanced MRI component specific exclusions|Gadolinium[0,10]|||||||||C0016911|1310171|1310171|gadolinium

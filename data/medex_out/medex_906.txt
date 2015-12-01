@@ -1,0 +1,2 @@
+1	On stable dose of 1 or 2 antiepileptic drug s AED other than valproate for at least 1 month|valproate[61,70]|||||||1 month[84,91]||C0080356|40254|40254|valproate
+1	On stable dose of 1 or 2 antiepileptic drug s AED other than valproate for at least 1 month|antiepileptic[25,38]|||||||||C0003299|932|932|antiepileptic

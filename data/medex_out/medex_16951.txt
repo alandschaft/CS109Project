@@ -1,0 +1,2 @@
+1	Subject is receiving any investigational drugs or using any experimental devices in addition to lacosamide LCM|investigational drugs[25,46]|||||||||C1875327|691729|691729|investigational drugs
+1	Subject is receiving any investigational drugs or using any experimental devices in addition to lacosamide LCM|lacosamide[96,106]|||||||||C0893761|623400|623400|lacosamide

@@ -1,0 +1,2 @@
+1	Patients who are allergic to drugs with a chemical structure similar to labetalol or magnesium sulfate|labetalol[72,81]|||||||||C0022860|6185|6185|labetalol
+1	Patients who are allergic to drugs with a chemical structure similar to labetalol or magnesium sulfate|magnesium sulfate[85,102]|||||||||C0024480|6585|6585|magnesium sulfate

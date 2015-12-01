@@ -1,0 +1,1 @@
+2	of 1 seizure in the last 6 hours and treatment with an antiepileptic drug AED is required according to the physician 's clinical judgment|antiepileptic[357,370]|||||||6 hours[327,334]||C0003299|932|932|antiepileptic

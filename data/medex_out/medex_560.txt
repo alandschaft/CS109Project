@@ -1,0 +1,2 @@
+1	Able to withdraw psychotropic drugs up to 3 mg/day lorazepam allowed|lorazepam[51,60]|||3mg[42,46]||||||C1132125|335170|6470|lorazepam
+1	Able to withdraw psychotropic drugs up to 3 mg/day lorazepam allowed|psychotropic drugs[17,35]||||||||||8927|8927|psychotropic drugs

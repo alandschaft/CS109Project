@@ -1,0 +1,4 @@
+1	Patients presently taking Gabapentin Neurontin Pregabalin Lyrica etc drugs for neuropathic pain|Lyrica[58,64]|||||||||C1570232|593441|187832|pregabalin
+1	Patients presently taking Gabapentin Neurontin Pregabalin Lyrica etc drugs for neuropathic pain|Pregabalin[47,57]|||||||||C0657912|187832|187832|pregabalin
+1	Patients presently taking Gabapentin Neurontin Pregabalin Lyrica etc drugs for neuropathic pain|Neurontin[37,46]|||||||||C0678176|196498|25480|gabapentin
+1	Patients presently taking Gabapentin Neurontin Pregabalin Lyrica etc drugs for neuropathic pain|Gabapentin[26,36]|||||||||C0060926|25480|25480|gabapentin

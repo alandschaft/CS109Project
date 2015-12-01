@@ -1,0 +1,3 @@
+1	Is currently taking felbamate ACTH adrenocorticotrophic hormone or is on the ketogenic diet|adrenocorticotrophic hormone[35,63]||||||||||376|376|corticotropin
+1	Is currently taking felbamate ACTH adrenocorticotrophic hormone or is on the ketogenic diet|ACTH[30,34]||||||||||376|376|corticotropin
+1	Is currently taking felbamate ACTH adrenocorticotrophic hormone or is on the ketogenic diet|felbamate[20,29]|||||||||C0060135|24812|24812|felbamate

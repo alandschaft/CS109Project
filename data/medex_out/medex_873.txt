@@ -1,0 +1,2 @@
+1	Not currently using coumadin or warfarin|coumadin[20,28]|||||||||C0699129|202421|11289|warfarin
+1	Not currently using coumadin or warfarin|warfarin[32,40]|||||||||C0043031|11289|11289|warfarin

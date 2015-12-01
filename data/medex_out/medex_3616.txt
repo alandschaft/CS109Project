@@ -1,0 +1,1 @@
+1	2 Physician-diagnosed hypoparathyroidism of at least 1-year duration confirmed by medical record review The investigators will confirm the diagnosis during the screening visit at which time the subject must have an intact PTH 30 pg/mL|PTH[222,225]|||30[226,228]||||||C1956225|1427222|1427222|parathyroid hormone

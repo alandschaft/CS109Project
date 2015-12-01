@@ -1,0 +1,2 @@
+1	AED doses including STP or VPA must be stable for 4 weeks prior to screening and regimen must remain stable throughout the duration of the blinded period of the trial|STP[20,23]||||||||||3625|3625|stp
+1	AED doses including STP or VPA must be stable for 4 weeks prior to screening and regimen must remain stable throughout the duration of the blinded period of the trial|VPA[27,30]|||||||4 weeks[50,57]|||1099703|40254|valproate

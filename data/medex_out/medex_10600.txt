@@ -1,0 +1,1 @@
+1	4 Patients must be maintained on a stable corticosteroid regimen for 5 days prior to entry|corticosteroid[42,56]|||||||5 days[69,75]|||354|354|corticosteroid

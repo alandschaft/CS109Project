@@ -1,0 +1,1 @@
+The patient is at least 18 years old and less than 60 years old 

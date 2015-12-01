@@ -1,0 +1,1 @@
+1	Patient is using a medication that significantly impacts glucose metabolism oral steroids except if stable for at least the last three months and expected to remain stable for the study duration|steroids[81,89]|||||oral[76,80]||three months[129,141]|||10072|10072|steroids

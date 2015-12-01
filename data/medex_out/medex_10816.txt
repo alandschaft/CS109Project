@@ -1,0 +1,1 @@
+1	Total cholesterol 240 mg/dL Current use of 2 or fewer lipid lowering agents with cholesterol below this cutpoint will be acceptable|lipid lowering agents[54,75]|||240mg / dL[18,27]|||||||969|969|lipid lowering agents

@@ -1,0 +1,2 @@
+1	Prior use of pregabalin or gabapentin will not be an exclusionary criterion however patients will have been withdrawn from these medications at least 14 days before surgery|pregabalin[13,23]|||||||||C0657912|187832|187832|pregabalin
+1	Prior use of pregabalin or gabapentin will not be an exclusionary criterion however patients will have been withdrawn from these medications at least 14 days before surgery|gabapentin[27,37]|||||||14 days[150,157]||C0060926|25480|25480|gabapentin

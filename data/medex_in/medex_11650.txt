@@ -1,0 +1,1 @@
+Patients male or female must be at least 18 but younger than 80 years of age 

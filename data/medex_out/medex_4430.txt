@@ -1,0 +1,1 @@
+1	If the patient is taking felbamate has been taking it for less than 1 year prior to screening|felbamate[25,34]|||||||||C0060135|24812|24812|felbamate

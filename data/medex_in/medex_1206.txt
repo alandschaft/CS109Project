@@ -1,0 +1,1 @@
+Has platelet count less than or equal to 100,000/mcL 

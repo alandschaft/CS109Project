@@ -1,0 +1,2 @@
+1	Patients who received anthelmintic drugs AHD during the year preceding presentation or who received steroids within 30 days of presentation|anthelmintic[22,34]||||||||||868|868|anthelmintic
+1	Patients who received anthelmintic drugs AHD during the year preceding presentation or who received steroids within 30 days of presentation|steroids[100,108]|||||||30 days[116,123]|||10072|10072|steroids

@@ -1,0 +1,3 @@
+1	intake of levetiracetam as an adjunctive antiepileptic oral treatment in addition to one or two antiepileptic drugs AED|antiepileptic[41,54]|||||oral[55,59]||||C0003299|932|932|antiepileptic
+1	intake of levetiracetam as an adjunctive antiepileptic oral treatment in addition to one or two antiepileptic drugs AED|levetiracetam[10,23]|||||||||C0377265|114477|114477|levetiracetam
+1	intake of levetiracetam as an adjunctive antiepileptic oral treatment in addition to one or two antiepileptic drugs AED|antiepileptic drugs[96,115]|||||||||C0003299|932|932|antiepileptic drugs

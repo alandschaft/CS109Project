@@ -1,0 +1,2 @@
+1	9 Subject has a history of sensitivity to sulfonamide drugs or to zonisamide or any of its excipients|sulfonamide[42,53]||||||||||10215|10215|sulfonamide
+1	9 Subject has a history of sensitivity to sulfonamide drugs or to zonisamide or any of its excipients|zonisamide[66,76]|||||||||C0078844|39998|39998|zonisamide

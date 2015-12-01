@@ -1,0 +1,3 @@
+1	1 Subjects will have been off psychotropic drugs including zolpidem for at least 3 weeks 8 weeks for fluoxetine prior to PET|fluoxetine[101,111]|||||||8 weeks[89,96]||C0016365|4493|4493|fluoxetine
+1	1 Subjects will have been off psychotropic drugs including zolpidem for at least 3 weeks 8 weeks for fluoxetine prior to PET|zolpidem[59,67]|||||||3 weeks[81,88]||C0078839|39993|39993|zolpidem
+1	1 Subjects will have been off psychotropic drugs including zolpidem for at least 3 weeks 8 weeks for fluoxetine prior to PET|psychotropic drugs[30,48]||||||||||8927|8927|psychotropic drugs

@@ -1,0 +1,1 @@
+1	1 Advanced/poorly differentiated thyroid cancers of follicular cell origin that have no uptake less than 1 on radioiodine scan or are unresponsive to radioiodine therapy Unresponsiveness to radioiodine therapy is defined as a patient s thyroglobulin not falling to less than 2ng/ml within 6 months|thyroglobulin[236,249]|||||||6 months[289,297]||C0040123|10565|10565|thyroglobulin

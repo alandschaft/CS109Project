@@ -1,0 +1,2 @@
+1	Participant has consumed grapefruit or grapefruit juice 7 days prior to enrollment and is unwilling to abstain from drinking grapefruit juice within 7 days of pharmacokinetic visits|grapefruit juice[39,55]|||||||7 days[56,62]||C0452456|613829|613829|grapefruit juice
+1	Participant has consumed grapefruit or grapefruit juice 7 days prior to enrollment and is unwilling to abstain from drinking grapefruit juice within 7 days of pharmacokinetic visits|grapefruit juice[125,141]|||||||7 days[149,155]||C0452456|613829|613829|grapefruit juice

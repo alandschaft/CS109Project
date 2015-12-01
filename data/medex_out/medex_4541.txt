@@ -1,0 +1,1 @@
+1	The subject is taking felbamate at visit 1 or has been taking it in the past|felbamate[22,31]|||||||||C0060135|24812|24812|felbamate

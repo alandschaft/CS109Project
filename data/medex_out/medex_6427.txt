@@ -1,0 +1,1 @@
+1	15 Patients who are receiving any investigational drugs at the time of enrollment are excluded|investigational drugs[34,55]|||||||||C1875327|691729|691729|investigational drugs

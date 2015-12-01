@@ -1,0 +1,1 @@
+1	6 Daily use of prescription analgesics over the previous month|analgesics[28,38]||||||Daily[2,7]|||C0002771|760|760|analgesics

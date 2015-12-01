@@ -1,0 +1,1 @@
+Patients must have a Karnofsky performance status of greater than or equal to 60 

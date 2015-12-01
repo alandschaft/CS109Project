@@ -1,0 +1,2 @@
+1	Subject has received treatment with Phenobarbital or Primidone within 28 days prior to Visit 1|Phenobarbital[36,49]|||||||||C0031412|8134|8134|phenobarbital
+1	Subject has received treatment with Phenobarbital or Primidone within 28 days prior to Visit 1|Primidone[53,62]|||||||28 days[70,77]||C0033148|8691|8691|primidone

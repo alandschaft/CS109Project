@@ -1,0 +1,1 @@
+1	Patients without NPSLE on warfarin at the entry phase of the study|warfarin[26,34]|||||||||C0043031|11289|11289|warfarin

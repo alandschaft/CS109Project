@@ -1,0 +1,1 @@
+1	Opiate medications for pain or sleep|Opiate[0,6]||||||||||114189|114189|opiates

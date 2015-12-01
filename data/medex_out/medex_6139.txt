@@ -1,0 +1,2 @@
+1	6 Subject has a known sensitivity to ingredients used in contact lens care products or over-the-counter lubricants and artificial tears|contact lens[57,69]||||||||||2809|2809|contact lens
+1	6 Subject has a known sensitivity to ingredients used in contact lens care products or over-the-counter lubricants and artificial tears|artificial tears[119,135]||||||||||1133|1133|artificial tears

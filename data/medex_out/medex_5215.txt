@@ -1,0 +1,1 @@
+1	Has had at least one seizure provoked by the brain tumor justifying introduction of antiepileptic drug AED treatment|antiepileptic[84,97]|||||||||C0003299|932|932|antiepileptic

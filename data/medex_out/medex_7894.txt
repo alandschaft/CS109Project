@@ -1,0 +1,3 @@
+1	The patient received blood sampling including serum sodium potassium calcium and glucose|calcium[69,76]|||||||||C0006675|1895|1895|calcium
+1	The patient received blood sampling including serum sodium potassium calcium and glucose|potassium[59,68]|||||||||C0032821|8588|8588|potassium
+1	The patient received blood sampling including serum sodium potassium calcium and glucose|sodium[52,58]|||||||||C0037473|9853|9853|sodium

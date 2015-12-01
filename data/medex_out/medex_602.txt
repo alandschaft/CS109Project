@@ -1,0 +1,1 @@
+1	Triglycerides less than 400 mg/dL|Triglycerides[0,13]|||400mg / dL[24,33]||||||C0041004|10808|10808|triglycerides

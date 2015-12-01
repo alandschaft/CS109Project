@@ -1,0 +1,2 @@
+1	Subject has received any dose of rotavirus vaccines prior to the first IPV vaccine|vaccine[75,82]||||||||||11094|11094|vaccine
+1	Subject has received any dose of rotavirus vaccines prior to the first IPV vaccine|rotavirus vaccines[33,51]|||||||||C0597418|154394|154394|rotavirus vaccines

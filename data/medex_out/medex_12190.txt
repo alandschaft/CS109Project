@@ -1,0 +1,3 @@
+1	Paclitaxel weekly and carboplatin AUC 2 weekly or AUC 6 every 3 weeks IV x 4 6 cycles and trastuzumab IV weekly or every 3 weeks|Paclitaxel[0,10]|||||||||C0144576|56946|56946|paclitaxel
+1	Paclitaxel weekly and carboplatin AUC 2 weekly or AUC 6 every 3 weeks IV x 4 6 cycles and trastuzumab IV weekly or every 3 weeks|carboplatin[22,33]|||||IV[70,72]|every 3 weeks[56,69]|||C0079083|40048|40048|carboplatin
+1	Paclitaxel weekly and carboplatin AUC 2 weekly or AUC 6 every 3 weeks IV x 4 6 cycles and trastuzumab IV weekly or every 3 weeks|trastuzumab[90,101]|||||IV[102,104]|every 3 weeks[115,128]|||C0728747|224905|224905|trastuzumab

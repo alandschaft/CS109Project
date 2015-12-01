@@ -1,0 +1,3 @@
+1	2 Unwilling to undergo effective birth control measures if use of anthelmintics or immunosuppressives other than corticosteroids is required|anthelmintics[66,79]|||||||||C0003158|868|868|anthelmintics
+1	2 Unwilling to undergo effective birth control measures if use of anthelmintics or immunosuppressives other than corticosteroids is required|corticosteroids[113,128]|||||||||C0001617|354|354|corticosteroids
+1	2 Unwilling to undergo effective birth control measures if use of anthelmintics or immunosuppressives other than corticosteroids is required|immunosuppressives[83,101]||||||||||||

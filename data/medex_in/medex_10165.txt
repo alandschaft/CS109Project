@@ -1,0 +1,1 @@
+BMI lower than the 10th percentile for age and gender or subject weighs less than 30kg 

@@ -1,0 +1,2 @@
+1	Patient has abnormal biological tests for toxicology alcohol cocaine and cannabis tests blood ionogram hyponatremia 130mM liver enzymes 5N inflammatory syndrome elevated C-reactive protein|cocaine[61,68]|||||||||C0009170|2653|2653|cocaine
+1	Patient has abnormal biological tests for toxicology alcohol cocaine and cannabis tests blood ionogram hyponatremia 130mM liver enzymes 5N inflammatory syndrome elevated C-reactive protein|cannabis[73,81]||||||||||196583|196583|cannabis

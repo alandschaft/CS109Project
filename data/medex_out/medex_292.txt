@@ -1,0 +1,1 @@
+1	Laboratory values wihin the following guidelines AST/SGOT less than or equal to 1.5 times the upper limit of normal bilirubin less than or equal to the upper limit of normal serum creatinine less than or equal to the upper limit of normal hemoglobin greater than or equal to 10 g/dl albumin NML|albumin[283,290]|||10g[275,279]||||||C1126732|330932|828529|albumin human

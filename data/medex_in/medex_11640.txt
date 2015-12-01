@@ -1,0 +1,1 @@
+Patients with at least 1 prescription of PPI or H2RA in the year prior to start date 

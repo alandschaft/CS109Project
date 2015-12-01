@@ -1,0 +1,1 @@
+1	during an 8-week baseline phase patient must have at least 8 partial seizures while maintaining therapeutic levels of antiepileptic drugs AEDs and have no more than one seizure-free interval of up to 3 weeks|antiepileptic drugs[118,137]|||||||3 weeks[200,207]||C0003299|932|932|antiepileptic drugs

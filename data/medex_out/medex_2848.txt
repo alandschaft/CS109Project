@@ -1,0 +1,2 @@
+1	Require corticosteroids received corticosteroids in the 4 weeks prior to study entry or received corticosteroids for 9 or more days within the 6 months prior to study entry|corticosteroids[8,23]|||||||||C0001617|354|354|corticosteroids
+1	Require corticosteroids received corticosteroids in the 4 weeks prior to study entry or received corticosteroids for 9 or more days within the 6 months prior to study entry|corticosteroids[33,48]|||||||4 weeks[56,63]||C0001617|354|354|corticosteroids

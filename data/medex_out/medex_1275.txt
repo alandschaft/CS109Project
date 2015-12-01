@@ -1,0 +1,1 @@
+1	on a steroid dosage that has been stable for at least 5 days|steroid[5,12]|||||||5 days[54,60]|||10072|10072|steroid

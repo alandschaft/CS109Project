@@ -1,0 +1,3 @@
+1	Female patients of childbearing potential must agree for the duration of the program and for a period of at least 1 month following last dose of perampanel to be abstinent or to commit to the consistent and correct use of a medically acceptable method of birth control e.g. a double-barrier method condom|perampanel[145,155]|||||||1 month[114,121]|||1356552|1356552|perampanel
+2	plus spermicide condom plus diaphragm with spermicide|spermicide[310,320]||||||||||9969|9969|spermicide
+2	plus spermicide condom plus diaphragm with spermicide|spermicide[348,358]||||||||||9969|9969|spermicide

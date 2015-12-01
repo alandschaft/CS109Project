@@ -1,0 +1,2 @@
+1	4 Predisposing condition potentially altering the absorption distribution or elimination of zonisamide or valproate|zonisamide[92,102]|||||||||C0078844|39998|39998|zonisamide
+1	4 Predisposing condition potentially altering the absorption distribution or elimination of zonisamide or valproate|valproate[106,115]|||||||||C0080356|40254|40254|valproate

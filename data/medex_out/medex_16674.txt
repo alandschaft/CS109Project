@@ -1,0 +1,1 @@
+1	Participant has undergone general anesthetic in the 4 weeks prior to screening or randomization|general anesthetic[26,44]|||||||4 weeks[52,59]|||4740|4740|general anesthetic

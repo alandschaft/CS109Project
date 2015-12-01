@@ -1,0 +1,8 @@
+1	No anticonvulsant mood stabilizers e.g.|anticonvulsant[3,17]||||||||||926|926|anticonvulsant
+2	Depakote Tegretol Lamictal No lithium No psychostimulants e.g.|psychostimulants[81,97]|||||||||C3653645|1430810|1430810|psychostimulants
+2	Depakote Tegretol Lamictal No lithium No psychostimulants e.g.|lithium[70,77]|||||||||C0023870|6448|6448|lithium
+2	Depakote Tegretol Lamictal No lithium No psychostimulants e.g.|Lamictal[58,66]|||||||||C0678180|196502|28439|lamotrigine
+2	Depakote Tegretol Lamictal No lithium No psychostimulants e.g.|Tegretol[49,57]||||||||||203029|2002|carbamazepine
+2	Depakote Tegretol Lamictal No lithium No psychostimulants e.g.|Depakote[40,48]|||||||||C0719751|216459|40254|valproate
+3	Ritalin Adderall|Adderall[111,119]|||||||||C0290795|84815|725|amfetamine
+3	Ritalin Adderall|Ritalin[103,110]|||||||||C0728759|224917|6901|methylphenidate

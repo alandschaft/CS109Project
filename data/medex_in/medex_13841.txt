@@ -1,0 +1,1 @@
+Patient must be able to provide reliable seizure counts using seizure diaries and to complete the evaluations specified in the study procedures flow chart 

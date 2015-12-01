@@ -1,0 +1,1 @@
+1	Subjects who are treated with lamotrigine tablets|lamotrigine[30,41]||tablets[42,49]|||||||C1246623|372565|28439|lamotrigine

@@ -1,0 +1,2 @@
+1	10 Known current state of immunosuppression i.e on high dose steroids chemotherapeutics etc|chemotherapeutics[70,87]|||||||||C3653781|1430636|1430636|chemotherapeutics
+1	10 Known current state of immunosuppression i.e on high dose steroids chemotherapeutics etc|steroids[61,69]||||||||||10072|10072|steroids

@@ -1,0 +1,2 @@
+1	Patient is receiving any investigational drug or using any experimental device in addition to Retigabine for treatment of epilepsy or any other medical condition|investigational drug[25,45]|||||||||C1875327|691729|691729|investigational drug
+1	Patient is receiving any investigational drug or using any experimental device in addition to Retigabine for treatment of epilepsy or any other medical condition|Retigabine[94,104]||||||||||1112990|1112990|retigabine

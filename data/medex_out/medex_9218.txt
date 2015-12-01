@@ -1,0 +1,1 @@
+1	Concomitant disease requiring prolonged use of corticosteroids 1 month|corticosteroids[47,62]|||||||1 month[63,70]||C0001617|354|354|corticosteroids

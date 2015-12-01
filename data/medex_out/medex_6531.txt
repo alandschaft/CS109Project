@@ -1,0 +1,1 @@
+1	Any change in antiepileptic drugs for 30 days or less prior to enrollment|antiepileptic drugs[14,33]|||||||30 days[38,45]||C0003299|932|932|antiepileptic drugs

@@ -1,0 +1,6 @@
+1	12 Currently already routinely taking prescription or nonprescription non-steroidal anti-inflammatory drugs or NSAIDs aspirin ibuprofen naproxen or others|steroidal anti - inflammatory drugs[74,107]||||||||||887|887|steroidal anti-inflammatory drugs
+1	12 Currently already routinely taking prescription or nonprescription non-steroidal anti-inflammatory drugs or NSAIDs aspirin ibuprofen naproxen or others|nonprescription[54,69]||||||||||||
+1	12 Currently already routinely taking prescription or nonprescription non-steroidal anti-inflammatory drugs or NSAIDs aspirin ibuprofen naproxen or others|naproxen[136,144]|||||||||C0027396|7258|7258|naproxen
+1	12 Currently already routinely taking prescription or nonprescription non-steroidal anti-inflammatory drugs or NSAIDs aspirin ibuprofen naproxen or others|ibuprofen[126,135]|||||||||C0020740|5640|5640|ibuprofen
+1	12 Currently already routinely taking prescription or nonprescription non-steroidal anti-inflammatory drugs or NSAIDs aspirin ibuprofen naproxen or others|aspirin[118,125]|||||||||C0004057|1191|1191|acetylsalicylic acid
+1	12 Currently already routinely taking prescription or nonprescription non-steroidal anti-inflammatory drugs or NSAIDs aspirin ibuprofen naproxen or others|NSAIDs[111,117]||||||||||||

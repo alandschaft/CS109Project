@@ -1,0 +1,2 @@
+1	Has taken an investigational drug or used an investigational device within the previous 4 weeks prior to Screening or plans to take another investigational drug anytime during the study|investigational drug[13,33]|||||||4 weeks[88,95]||C1875327|691729|691729|investigational drug
+1	Has taken an investigational drug or used an investigational device within the previous 4 weeks prior to Screening or plans to take another investigational drug anytime during the study|investigational drug[140,160]|||||||||C1875327|691729|691729|investigational drug

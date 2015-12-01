@@ -1,0 +1,1 @@
+1	Ferritin 30 ?g/L|Ferritin[0,8]|||30[9,11]|||||||4352|4352|ferritin

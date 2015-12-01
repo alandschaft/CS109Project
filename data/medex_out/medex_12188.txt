@@ -1,0 +1,2 @@
+1	Paclitaxel 80 mg/m2 weekly IV x at least 12 weeks with or without IV trastuzumab|Paclitaxel[0,10]|||80mg[11,16]||IV[27,29]||12 weeks[41,49]||C0979252|312199|56946|paclitaxel
+1	Paclitaxel 80 mg/m2 weekly IV x at least 12 weeks with or without IV trastuzumab|trastuzumab[69,80]|||||IV[66,68]||||C0728747|224905|224905|trastuzumab

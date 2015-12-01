@@ -1,0 +1,1 @@
+1	Requires treatment with aspirin|aspirin[24,31]|||||||||C0004057|1191|1191|acetylsalicylic acid

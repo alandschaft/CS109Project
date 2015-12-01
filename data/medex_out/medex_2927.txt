@@ -1,0 +1,1 @@
+1	Patients must have a primary medical oncologist in the community who is willing to collaborate with the Radiation Oncology Branch ROB staff in the clinical management of the patient specifically in the prescription of Temozolomide and toxicity monitoring in the adjuvant phase|Temozolomide[218,230]|||||||||C0076080|37776|37776|temozolomide

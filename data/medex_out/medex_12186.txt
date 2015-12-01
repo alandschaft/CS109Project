@@ -1,0 +1,2 @@
+1	Doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2 x 4 6 cycles IV every 2 3 weeks|Doxorubicin[0,11]|||60mg[12,17]||||||C0013089|3639|3639|doxorubicin
+1	Doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2 x 4 6 cycles IV every 2 3 weeks|cyclophosphamide[25,41]|||600mg[42,48]||IV[65,67]|x 4[52,55]|3 weeks[76,83]|||637543|3002|cyclophosphamide

@@ -1,0 +1,3 @@
+1	Current use of metronidazole or acetaminophen patients must discontinue use of these agents at least 7 days prior to the start of Busulfex administration|metronidazole[15,28]|||||||||C0025872|6922|6922|metronidazole
+1	Current use of metronidazole or acetaminophen patients must discontinue use of these agents at least 7 days prior to the start of Busulfex administration|Busulfex[130,138]|||||||7 days[101,107]||C1451652|284676|1828|busulfan
+1	Current use of metronidazole or acetaminophen patients must discontinue use of these agents at least 7 days prior to the start of Busulfex administration|acetaminophen[32,45]||||||||||993045|993045|acetaminophen

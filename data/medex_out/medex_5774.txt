@@ -1,0 +1,1 @@
+1	They are using any topical medication such as eye drops or ointment|eye drops[46,55]||ointment[59,67]|||topical[19,26]|||||346237|346237|eye drops

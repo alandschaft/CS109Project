@@ -1,0 +1,2 @@
+1	Meets DSM-IV criteria for dependence on any substance other than cocaine and alcohol except nicotine and cannabis determined by the SCID|cocaine[65,72]|||||IV[10,12]||||C0009170|2653|2653|cocaine
+1	Meets DSM-IV criteria for dependence on any substance other than cocaine and alcohol except nicotine and cannabis determined by the SCID|cannabis[105,113]||||||||||196583|196583|cannabis

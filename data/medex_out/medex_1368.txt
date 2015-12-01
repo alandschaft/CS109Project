@@ -1,0 +1,1 @@
+1	3 Subjects with substance abuse within 12 months except for nicotine or caffeine|caffeine[72,80]|||||||12 months[39,48]||C0006644|1886|1886|caffeine

@@ -1,0 +1,1 @@
+1	18 Subjects who in the opinion of the investigator should not be enrolled in the study because of the Precautions Warnings or Contraindications sections of the topiramate package insert|topiramate[160,170]||package[171,178]|||||||C0076829|38404|38404|topiramate

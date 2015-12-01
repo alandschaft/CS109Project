@@ -1,0 +1,1 @@
+1	1 Change of one or more antiepileptic medication in the past 6 months|antiepileptic[24,37]|||||||6 months[61,69]||C0003299|932|932|antiepileptic

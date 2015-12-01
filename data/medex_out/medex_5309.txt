@@ -1,0 +1,1 @@
+1	Not taking more than 1 background antiepileptic drug at study entry|antiepileptic[34,47]|||||||||C0003299|932|932|antiepileptic

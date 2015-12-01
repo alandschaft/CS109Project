@@ -1,0 +1,1 @@
+Subjects with white blood cell count less than 3000/mm3 or neutrophil count less than 1500/mm3 at screening visit if the data is available 

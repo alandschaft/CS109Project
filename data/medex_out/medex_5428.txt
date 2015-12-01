@@ -1,0 +1,1 @@
+1	9 The total number of days in the previous 3 months that the subject has taken prescription analgesics due to episodes of abdominal pain is greater than the total number of days the subject had episodes of abdominal pain|analgesics[92,102]|||||||3 months[43,51]||C0002771|760|760|analgesics

@@ -1,0 +1,1 @@
+1	Severe hypertensive disorder receiving magnesium sulfate prophylaxis for less than 8 hours at birth|magnesium sulfate[39,56]|||||||8 hours[83,90]||C0024480|6585|6585|magnesium sulfate

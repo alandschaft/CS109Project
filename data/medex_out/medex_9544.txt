@@ -1,0 +1,2 @@
+1	Regularly treatment with antihistamines metoclopramide or CNS-active compounds|metoclopramide[40,54]|||||||||C0025853|6915|6915|metoclopramide
+1	Regularly treatment with antihistamines metoclopramide or CNS-active compounds|antihistamines[25,39]|||||||||C0003360|967|967|antihistamines

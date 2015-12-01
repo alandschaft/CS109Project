@@ -1,0 +1,1 @@
+1	Exposure to any other investigational drug or device within 30 days prior to screening|investigational drug[22,42]|||||||30 days[60,67]||C1875327|691729|691729|investigational drug

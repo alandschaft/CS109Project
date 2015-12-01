@@ -1,0 +1,2 @@
+1	3 Having discontinued chronic benzodiazepine and barbiturate therapy within 30 days prior to the study start|benzodiazepine[30,44]||||||||||1402|1402|benzodiazepine
+1	3 Having discontinued chronic benzodiazepine and barbiturate therapy within 30 days prior to the study start|barbiturate[49,60]|||||||30 days[76,83]|||1326|1326|barbiturate

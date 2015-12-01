@@ -1,0 +1,2 @@
+1	Subject is using rifampin or other non-AED that strongly modulates lamotrigine levels|rifampin[17,25]|||||||||C0035608|9384|9384|rifampicin
+1	Subject is using rifampin or other non-AED that strongly modulates lamotrigine levels|lamotrigine[67,78]|||||||||C0064636|28439|28439|lamotrigine

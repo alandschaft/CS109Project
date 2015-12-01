@@ -1,0 +1,1 @@
+1	benzodiazepines required interval period weeks prior to baseline is 4|benzodiazepines[0,15]||||||||||1402|1402|benzodiazepines

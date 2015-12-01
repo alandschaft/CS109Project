@@ -1,0 +1,2 @@
+1	Female children who are using oral contraceptives for birth control or for any other indication e.g acne treatment|oral contraceptives[30,49]||||||||||2821|2821|oral contraceptives
+1	Female children who are using oral contraceptives for birth control or for any other indication e.g acne treatment|acne treatment[100,114]||||||||||214982|1418|benzoyl peroxide

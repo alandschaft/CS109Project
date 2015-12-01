@@ -1,0 +1,2 @@
+1	Use of benzodiazepines intermittent use as a hypnotic or an PRN AED is allowed|hypnotic[45,53]||||||||PRN[60,63]||5597|5597|hypnotic
+1	Use of benzodiazepines intermittent use as a hypnotic or an PRN AED is allowed|benzodiazepines[7,22]||||||||||1402|1402|benzodiazepines

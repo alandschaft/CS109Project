@@ -1,0 +1,2 @@
+1	5 Patients who are receiving warfarin and/or antiplatelet drugs|warfarin[29,37]|||||||||C0043031|11289|11289|warfarin
+1	5 Patients who are receiving warfarin and/or antiplatelet drugs|antiplatelet drugs[45,63]||||||||||42539|42539|antiplatelet drugs

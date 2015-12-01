@@ -1,0 +1,3 @@
+1	Patients must have a plan to begin treatment with ZD6474 vandetanib and/or temozolomide 21 to 35 days after surgical resection or 14 to 35 days after stereotactic biopsy|vandetanib[57,67]|||||||||C1701110|1098413|1098413|vandetanib
+1	Patients must have a plan to begin treatment with ZD6474 vandetanib and/or temozolomide 21 to 35 days after surgical resection or 14 to 35 days after stereotactic biopsy|ZD6474[50,56]||||||||||||
+1	Patients must have a plan to begin treatment with ZD6474 vandetanib and/or temozolomide 21 to 35 days after surgical resection or 14 to 35 days after stereotactic biopsy|temozolomide[75,87]|||||||21 to 35 days[88,101]||C0076080|37776|37776|temozolomide
