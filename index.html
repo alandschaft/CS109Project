@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>CS 109</title>
+    <title>CS109 Clinical Trials</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="components/css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +38,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">CS109 (team/project name)</a>
+                <a class="navbar-brand" href="index.html">CS109 Clinical Trials</a>
             </div>
            
 
@@ -64,13 +64,10 @@
                             <a href="#demo"><i class="fa fa-hand-o-up fa-fw"></i> Demo App</a>
                         </li>
                         <li>
-                            <a href="#cs109"><i class="fa fa-question fa-fw"></i> About CS109</a>
-                        </li>
-                        <li>
                             <a href="#team"><i class="fa fa-users fa-fw"></i> Team</a>
                         </li>
                         <li>
-                            <a href="#links"><i class="fa fa-external-link fa-fw"></i> Links</a>
+                            <a href="#references"><i class="fa fa-external-link fa-fw"></i> References</a>
                         </li>
                     </ul>
                 </div>
@@ -107,6 +104,8 @@
                     <p>Standard medical treatment does not always work perfectly well for each patient. These patients wish to be informed about innovative new treatments that are tested in clinical trials. Moreover, doctors may whish to inform their patients about clinical trials that are relevant to their health problem and advise them about the risks and opportunities related to these trials.</p>
                     <p>Descriptions of clinical trials are publicly available, for example in <a href="https://clinicaltrials.gov/" target=blank>clinicaltrials.gov</a>. However it is a hard task to query those descriptions and quickly find clinical trials that are relevant to a patient with a certain condition, as they contain unstructured data. Particularly inclusion and exclusion criteria are written in natural language as it is important for the publishers of clinical trials (research hospitals, pharmaceuticals) to describe them in their own words.</p>
                     <p>Our mission is helping patients and their doctors on one side and the research hospitals and pharmaceuticals on the other side to find clinical trials match. </p>
+                    <p>Particularly, we would like to build foundations for a search application for clinical trials that will allow the user to type a free text search term, for example “seizure” and then ask the user a minimal set of simple multiple choice questions. Each answer will narrow down the list of relevant clinical trials. For example, searching for “seizure” in <a href="https://clinicaltrials.gov/" target=blank>clinicaltrials.gov</a> returns a list of more than a thousand clinical trials. After answering a minimal set of questions, the user shall be left with less than 10 possibilities.</p>
+                    <p>Our main focus in this project is on Inclusion and Exclusion criteria for clinical trials because these are the most important parts, clinically, for the patients, their doctors and the facilitators of the clinical trials.</p>
                 </div>
             </div>
             
@@ -116,9 +115,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="page-header">Dataset</h2>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. </p>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p>The dataset consists of publicly available clinical trials data from <a href="https://clinicaltrials.gov/" target=blank>clinicaltrials.gov</a>. This site is a service of the U.S. National Institutes of Health that has a database of publicly and privately supported clinical studies.</p>
+                    <p>For the project we downloaded all clinical trials data that matched the search term "seizure" so we could work with a more manageable amount of data on a specific subject. This gave us 1,347 clinical trials to work with.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -127,9 +125,6 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="page-header">Analysis</h2>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. </p>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -138,9 +133,6 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="page-header">Conclusions</h2>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. </p>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -153,36 +145,52 @@
                 </div>
             </div>
             <!-- /.row -->
-             <a name="about"></a>
-            <div class="smspace"></div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="page-header">About CS109</h2>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. </p>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
-            </div>
-            <!-- /.row -->
              <a name="team"></a>
             <div class="smspace"></div>
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="page-header">Team</h2>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. </p>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <div class="row">
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail">
+                                 <img src="images/placeholder.jpg" alt="">
+                                 <div class="caption">
+                                    <h3>Assaf Landschaft</h3>
+                                    <p><a href="mailto:landschaft@g.harvard.edu">landschaft@g.harvard.edu</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail">
+                                 <img src="images/placeholder.jpg" alt="">
+                                 <div class="caption">
+                                    <h3>Zhejing Luo</h3>
+                                    <p><a href="mailto:loxgio@gmail.com">loxgio@gmail.com</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <div class="thumbnail">
+                                 <img src="images/placeholder.jpg" alt="">
+                                 <div class="caption">
+                                    <h3>Ricardo Contreras</h3>
+                                    <p><a href="mailto:ricardocontreras@g.harvard.edu">ricardocontreras@g.harvard.edu</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>          
                 </div>
             </div>
             <!-- /.row -->
-             <a name="links"></a>
+             <a name="references"></a>
             <div class="smspace"></div>
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="page-header">Links</h2>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. </p>
-                    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <h2 class="page-header">References</h2>
+                    <p><a href="http://www.sciencedirect.com/science/article/pii/S1532046413001408" target=blank>Unsupervised mining of frequent tags for clinical eligibility text indexing</a></p>
+                    <p><a href="http://www.j-biomed-inform.com/article/S1532-0464(13)00115-9/fulltext" target=blank>eTACTS: A method for dynamically filtering clinical trial search results</a></p>
+                    <div class="smspace"></div>
+                    <div class="smspace"></div>
                 </div>
             </div>
             <!-- /.row -->
