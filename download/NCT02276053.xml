@@ -5,7 +5,7 @@
  and an XML DTD at:
     https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <download_date>ClinicalTrials.gov processed this data on December 01, 2015</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT02276053</url>
   </required_header>
@@ -233,6 +233,16 @@ The seizure frequency at each time point is calculated as number of seizures per
   </location>
   <location>
     <facility>
+      <name>335</name>
+      <address>
+        <city>Paris Cedex 13</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>491</name>
       <address>
         <city>Bonn</city>
@@ -353,6 +363,16 @@ The seizure frequency at each time point is calculated as number of seizures per
   </location>
   <location>
     <facility>
+      <name>444</name>
+      <address>
+        <city>Cardiff</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
       <name>441</name>
       <address>
         <city>Edinburgh</city>
@@ -379,8 +399,8 @@ The seizure frequency at each time point is calculated as number of seizures per
     <country>Spain</country>
     <country>United Kingdom</country>
   </location_countries>
-  <verification_date>October 2015</verification_date>
-  <lastchanged_date>October 28, 2015</lastchanged_date>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 26, 2015</lastchanged_date>
   <firstreceived_date>October 23, 2014</firstreceived_date>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>

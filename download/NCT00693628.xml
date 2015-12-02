@@ -5,12 +5,12 @@
  and an XML DTD at:
     https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <download_date>ClinicalTrials.gov processed this data on December 01, 2015</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT00693628</url>
   </required_header>
   <id_info>
-    <org_study_id>ORTHJD 07</org_study_id>
+    <org_study_id>13310</org_study_id>
     <secondary_id>13310</secondary_id>
     <nct_id>NCT00693628</nct_id>
   </id_info>
@@ -49,10 +49,7 @@
       healing and long term residual limb volume.
     </textblock>
   </detailed_description>
-  <overall_status>Terminated</overall_status>
-  <why_stopped>
-    Termated due to lack of enrollment
-  </why_stopped>
+  <overall_status>Completed</overall_status>
   <start_date>March 2007</start_date>
   <completion_date type="Actual">January 2012</completion_date>
   <primary_completion_date type="Actual">January 2012</primary_completion_date>
@@ -65,7 +62,7 @@
     <safety_issue>No</safety_issue>
   </primary_outcome>
   <number_of_arms>2</number_of_arms>
-  <enrollment type="Actual">2</enrollment>
+  <enrollment type="Actual">4</enrollment>
   <condition>Transtibial Amputation</condition>
   <arm_group>
     <arm_group_label>Shrinker</arm_group_label>
@@ -122,8 +119,8 @@
   <location_countries>
     <country>United States</country>
   </location_countries>
-  <verification_date>December 2013</verification_date>
-  <lastchanged_date>December 10, 2013</lastchanged_date>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 30, 2015</lastchanged_date>
   <firstreceived_date>December 20, 2007</firstreceived_date>
   <responsible_party>
     <responsible_party_type>Sponsor</responsible_party_type>

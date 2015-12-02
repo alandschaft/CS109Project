@@ -5,7 +5,7 @@
  and an XML DTD at:
     https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
   <required_header>
-    <download_date>ClinicalTrials.gov processed this data on November 27, 2015</download_date>
+    <download_date>ClinicalTrials.gov processed this data on December 01, 2015</download_date>
     <link_text>Link to the current ClinicalTrials.gov record.</link_text>
     <url>https://clinicaltrials.gov/show/NCT01529034</url>
   </required_header>
@@ -180,10 +180,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <phone>866-372-0526</phone>
-    </contact>
+    <status>Terminated</status>
   </location>
   <location>
     <facility>
@@ -194,7 +191,10 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Terminated</status>
+    <status>Recruiting</status>
+    <contact>
+      <phone>866-372-0526</phone>
+    </contact>
   </location>
   <location>
     <facility>
@@ -400,10 +400,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <phone>866-372-0526</phone>
-    </contact>
+    <status>Terminated</status>
   </location>
   <location>
     <facility>
@@ -414,7 +411,10 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Terminated</status>
+    <status>Recruiting</status>
+    <contact>
+      <phone>866-372-0526</phone>
+    </contact>
   </location>
   <location>
     <facility>
@@ -447,10 +447,7 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <phone>866-372-0526</phone>
-    </contact>
+    <status>Terminated</status>
   </location>
   <location>
     <facility>
@@ -461,7 +458,10 @@
         <country>United States</country>
       </address>
     </facility>
-    <status>Terminated</status>
+    <status>Recruiting</status>
+    <contact>
+      <phone>866-372-0526</phone>
+    </contact>
   </location>
   <location>
     <facility>
@@ -1367,10 +1367,7 @@
         <country>Ukraine</country>
       </address>
     </facility>
-    <status>Recruiting</status>
-    <contact>
-      <phone>+1-866-372-0526</phone>
-    </contact>
+    <status>Terminated</status>
   </location>
   <location>
     <facility>
@@ -1380,7 +1377,10 @@
         <country>Ukraine</country>
       </address>
     </facility>
-    <status>Terminated</status>
+    <status>Recruiting</status>
+    <contact>
+      <phone>+1-866-372-0526</phone>
+    </contact>
   </location>
   <location>
     <facility>
