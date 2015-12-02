@@ -101,11 +101,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="page-header">Background</h2>
-                    <p>Standard medical treatment does not always work perfectly well for each patient. These patients wish to be informed about innovative new treatments that are tested in clinical trials. Moreover, doctors may whish to inform their patients about clinical trials that are relevant to their health problem and advise them about the risks and opportunities related to these trials.</p>
-                    <p>Descriptions of clinical trials are publicly available, for example in <a href="https://clinicaltrials.gov/" target=blank>clinicaltrials.gov</a>. However it is a hard task to query those descriptions and quickly find clinical trials that are relevant to a patient with a certain condition, as they contain unstructured data. Particularly inclusion and exclusion criteria are written in natural language as it is important for the publishers of clinical trials (research hospitals, pharmaceuticals) to describe them in their own words.</p>
-                    <p>Our mission is helping patients and their doctors on one side and the research hospitals and pharmaceuticals on the other side to find clinical trials match. </p>
-                    <p>Particularly, we would like to build foundations for a search application for clinical trials that will allow the user to type a free text search term, for example “seizure” and then ask the user a minimal set of simple multiple choice questions. Each answer will narrow down the list of relevant clinical trials. For example, searching for “seizure” in <a href="https://clinicaltrials.gov/" target=blank>clinicaltrials.gov</a> returns a list of more than a thousand clinical trials. After answering a minimal set of questions, the user shall be left with less than 10 possibilities.</p>
-                    <p>Our main focus in this project is on Inclusion and Exclusion criteria for clinical trials because these are the most important parts, clinically, for the patients, their doctors and the facilitators of the clinical trials.</p>
+                    <p>Standard medical treatment does not work perfectly well for some patients. In this circumstances the patient may wish to be informed about new innovative treatments that are currently being tested in clinical trials. Moreover, doctors may also wish to inform their patients about clinical trials that are relevant to their health problems and advise them about the risks and opportunities related to this trials. </p>
+                    <p>Descriptions of clinical trials are publicly available. But currently it is hard to search for clinical trials that are relevant to a patient with a certain condition. Most of the descriptions contain unstructured data that makes this a hard task. For example inclusion criteria which are the characteristics that a subject must have to be considered for the trial or exclusion criteria which are characteristics to avoid. These criteria is un structured and written in natural language so the publishers of clinical trials such as research hospitals and pharmaceutical companies can describe them in their own words. But natural language is not helpful to make tools to access relevant information.</p>
+                    <p>In this project we are going to focus on applying data science concepts and practices to this problem. And help patients, doctors find clinical trials published by research hospitals and pharmaceuticals that match their criteria. </p>
                 </div>
             </div>
             
@@ -115,8 +113,10 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="page-header">Dataset</h2>
-                    <p>The dataset consists of publicly available clinical trials data from <a href="https://clinicaltrials.gov/" target=blank>clinicaltrials.gov</a>. This site is a service of the U.S. National Institutes of Health that has a database of publicly and privately supported clinical studies.</p>
-                    <p>For the project we downloaded all clinical trials data that matched the search term "seizure" so we could work with a more manageable amount of data on a specific subject. This gave us 1,347 clinical trials to work with.</p>
+                    <p>The dataset consists of publicly available clinical trials data from <a href="https://clinicaltrials.gov/">clinicaltrials.gov</a>. This site is a service of the U.S. National Institutes of Health that has a database of publicly and privately supported clinical studies.</p>
+                    <p>For the project we downloaded all clinical trials data that matched the search term "seizure" so we could work with a more manageable amount of data on a specific subject. This gave around 1,347 clinical trials results to work with. </p>
+                    <p>To download the data we used the "results/download" endpoint from <a href="https://clinicaltrials.gov/">clinicaltrials.gov</a>. This endpoint allows us to specify the type, format and search term of the results to download. For our project we downloaded all the results for the search term "seizure" with a xml format.</p>
+                    <p>We choose to start with the search term "seizure" so we could work with a manageable amount of data on a specific topic. After the download we had around 1,347 descriptions of clinical trials in xml files. We processed the xml files to a dataframe which is a data science friendly tabular structure.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -125,6 +125,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="page-header">Analysis</h2>
+                    <h3>Inclusion and exclusion criteria</h3>
+                    <p>The first step in our analysis was to extract the inclusion and exclusion criteria. To do this we used two fields from our original dataframe. The unique identifier for the clinical trial, which is a unique alphanumerical identifier, and the eligibility criteria, wich is a natural language text block.</p>
+                    <p>We processed the eligibility criteria text to extract the criteria for each row and categorize if the criteria was for inclusion or exclusion. Then we created tokens by breaking up each sentence into a set of words to prepare the data for our next step natural language processing.</p>
                 </div>
             </div>
             <!-- /.row -->
