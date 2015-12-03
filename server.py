@@ -68,9 +68,10 @@ def on_select_term(session_id, term):
         'current_documents': session_data['current_documents'][:20]
     }
 
+init_search_server()
+
 @app.route('/')
 def hello():
-    init_search_server()
     return 'Test'
     
 @app.route('/sessions/new', methods=['GET'])
