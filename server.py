@@ -90,6 +90,4 @@ def next(session_id):
 def select(session_id, term):
     return jsonify(on_select_term(session_id, term)), 200
 
-if __name__ == '__main__':
-    init_search_server()
-    app.run(debug=True)
+init_search_server()
