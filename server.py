@@ -74,7 +74,7 @@ def hello():
     
 @app.route('/sessions/neww', methods=['GET'])
 def neww():
-   return 'Test'
+   return jsonify(test:'Test'), 201
     
 @app.route('/sessions/new', methods=['GET'])
 def new():
