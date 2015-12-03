@@ -72,6 +72,10 @@ def on_select_term(session_id, term):
 def hello():
     return 'Test'
     
+@app.route('/sessions/neww', methods=['GET'])
+def neww():
+   return 'Test'
+    
 @app.route('/sessions/new', methods=['GET'])
 def new():
     return jsonify(create_session()), 201
