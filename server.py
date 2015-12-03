@@ -72,7 +72,7 @@ init_search_server()
 
 @app.route('/')
 def hello():
-    return 'Test'
+    return 'Start'
     
 @app.route('/sessions/new', methods=['GET'])
 def new():
