@@ -1,3 +1,11 @@
+import uuid
+from random import shuffle
+
+from flask import Flask, jsonify
+import pandas as pd
+import os
+
+
 app = Flask(__name__)
 
 sessions = {}
@@ -60,7 +68,10 @@ def on_select_term(session_id, term):
         'current_documents': session_data['current_documents'][:20]
     }
 
-
+@app.route('/')
+def hello():
+    return 'Test'
+    
 @app.route('/sessions/new', methods=['GET'])
 def new():
     return jsonify(create_session()), 201
