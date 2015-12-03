@@ -72,7 +72,7 @@ init_search_server()
 
 @app.route('/')
 def hello():
-    return 'Start'
+    return 'CS 109 Clinical Trials Search Server'
     
 @app.route('/sessions/new', methods=['GET'])
 def new():
