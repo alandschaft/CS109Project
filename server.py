@@ -70,11 +70,8 @@ def on_select_term(session_id, term):
 
 @app.route('/')
 def hello():
+    init_search_server()
     return 'Test'
-    
-@app.route('/sessions/neww', methods=['GET'])
-def neww():
-   return jsonify(test:'Test'), 201
     
 @app.route('/sessions/new', methods=['GET'])
 def new():
@@ -90,4 +87,4 @@ def next(session_id):
 def select(session_id, term):
     return jsonify(on_select_term(session_id, term)), 200
 
-init_search_server()
+
