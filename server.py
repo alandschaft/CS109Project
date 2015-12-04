@@ -77,16 +77,16 @@ def hello():
     
 @app.route('/sessions/new', methods=['GET'])
 def new():
-    return jsonpify(create_session())
+    return jsonify(create_session())
 
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
 def next(session_id):
-    return jsonpify(on_next(session_id))
+    return jsonify(on_next(session_id))
 
 
 @app.route('/sessions/<session_id>/select/<term>', methods=['GET'])
 def select(session_id, term):
-    return jsonpify(on_select_term(session_id, term))
+    return jsonify(on_select_term(session_id, term))
 
 
