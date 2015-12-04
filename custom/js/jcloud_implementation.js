@@ -1,6 +1,6 @@
 // Global vars
-var session = ''
-var apiURL = 'https://cs109-clinical-trialst-search.herokuapp.com/sessions/new'
+var sessionId = ''
+var apiURL = 'https://cs109-clinical-trialst-search.herokuapp.com/sessions/'
 
 // Doc ready
 $( document ).ready(function() {    
@@ -17,34 +17,83 @@ $('#demoapp').jQCloud([],
     autoResize: true
 })
 
-// Word Object functions
+// Word Cloud functions
+function updateWordCloudWithWords(wordsText)
+{
+    var words = []
+    var dummyWeight = 1
+    wordsText.forEach(function(word) {
+        words.push(createWordObject(word, dummyWeight))  
+        dummyWeight++
+    })
+    updateWordCloud(words)
+}
+
+function updateWordCloud(words)
+{
+    $('#demoapp').jQCloud('update', words);
+}
+
+function selectedWord(word)
+{
+    updateWordCloud([])
+    console.log('word: ' + word)
+    searchSelectedWord(word)
+}
+
 function createWordObject(word, weight)
 {
     return {text: word, weight:weight , link: 'javascript:selectedWord("'+word+'");'}
 }
 
-function selectedWord(word)
-{
-    console.log('word: ' + word)
-}
 
 // Search API Functions
 function newSearchSession()
 {
-     console.log('newSearchSession')
-     apiCall()
-}
-
-// Network Calls functions
-function apiCall()
-{
     $.ajax({
-      url: apiURL,
-      dataType: 'json'
+      url: apiURL+'new',
+      dataType: 'jsonp'
     }).done(function(data)
         {
-            condole.log(data)
+            console.log(data)
+            if ('current_terms' in data)
+            {
+                updateWordCloudWithWords(data['current_terms'])
+            }
+            if ('session_id' in data)
+            {
+                sessionId = data['session_id']
+            }
+            if ('current_documents' in data)
+            {
+                documents = data['current_documents']
+                // TODO: Show documents
+            }
         }
     )
+}
 
+function searchSelectedWord(word)
+{
+    $.ajax({
+      url: apiURL+sessionId+'/select/'+word,
+      dataType: 'jsonp'
+    }).done(function(data)
+        {
+            console.log(data)
+            if ('current_terms' in data)
+            {
+                updateWordCloudWithWords(data['current_terms'])
+            }
+            if ('session_id' in data)
+            {
+                sessionId = data['session_id']
+            }
+            if ('current_documents' in data)
+            {
+                documents = data['current_documents']
+                // TODO: Show documents
+            }
+        }
+    )
 }
