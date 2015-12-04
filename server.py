@@ -1,7 +1,8 @@
 import uuid
 from random import shuffle
 
-from flask import Flask, jsonpify
+from flask import Flask, jsonify
+from flask.ext.jsonpify import jsonify
 import pandas as pd
 import os
 
