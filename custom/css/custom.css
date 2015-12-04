@@ -2,7 +2,12 @@
     height:20px;
 }
 
-#d3cloud { 
+#cloud { 
     cursor: pointer;
     cursor: hand; 
+}
+
+#demoapp {
+    width:100%;
+    height:400px;
 }
