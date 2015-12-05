@@ -20,6 +20,13 @@
     float:left;
     width:100%;
     height:100%;
-    background-color:#f6f6f6;
+    background-color:#f9f9f9;
     overflow:scroll;
+}
+
+#spinnerContainer{
+    width:100%;
+    height:100%;
+    text-align: center;
+    padding-top: 170px;
 }

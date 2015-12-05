@@ -39,6 +39,15 @@ function menuNext()
     searchNext()
 }
 
+function menuRestart()
+{
+    cleanMenu()
+    $('#menuCloud').addClass("active")
+    sessionId = ''
+    selectedTerms = []
+    newSearchSession()
+}
+
 function cleanMenu()
 {
     $('#menuCloud').removeClass("active")
@@ -76,8 +85,8 @@ function selectedWord(word)
 {
     selectedTerms.push(word)
     updateWordCloud([])
-    console.log('word: ' + word)
     searchSelectedWord(word)
+    updateNumberOfSelectedTerms()
 }
 
 function createWordObject(word, weight)
@@ -85,10 +94,21 @@ function createWordObject(word, weight)
     return {text: word, weight:weight , link: 'javascript:selectedWord("'+word+'");'}
 }
 
-// Documents functions
+// Display functions
 function updateNumberOfDocuments()
 {
-    $('#numberOfDocuments').text("1,300")
+    var divideby = 1
+    if (selectedTerms.length > 0) {
+        divideby = selectedTerms.length+1
+    }
+    var numberOfDocuments = Math.round(1300 / divideby)
+    $('#numberOfDocuments').text(numberOfDocuments)
+}
+
+function updateNumberOfSelectedTerms()
+{
+    var numberOfSelectedterms = selectedTerms.length
+    $('#numberOfSelectedTerms').text(numberOfSelectedterms)
 }
 
 function showRelevantDocuments()
@@ -111,6 +131,12 @@ function showSelectedWords()
     $('#democontent').html(htmlString)
 }
 
+function showLoader()
+{
+    var htmlString = '<div id="spinnerContainer"><div class="spinner-loader">Loading…</div></div>'
+    $('#democontent').html(htmlString)
+}
+
 // Search API Functions
 function newSearchSession()
 {
@@ -129,12 +155,12 @@ function searchNext()
 
 function callAPI(endpoint)
 {
+    showLoader()
     $.ajax({
       url: apiURL+endpoint,
       dataType: 'jsonp'
     }).done(function(data)
         {
-            console.log(data)
             if ('current_terms' in data)
             {
                 currentTerms = data['current_terms']
