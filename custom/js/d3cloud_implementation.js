@@ -13,7 +13,7 @@ var fill = d3.scale.category20();
 
       
 function draw(words) {
-    d3.select("#demoapp").append("svg")
+    d3.select("#democontent").append("svg")
         .attr("width", 300)
         .attr("height", 300)
       .append("g")

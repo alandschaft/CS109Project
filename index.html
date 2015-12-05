@@ -145,7 +145,20 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h2 class="page-header">Demo App</h2>
-                    <div id="demoapp"></div>
+                    <p>Please select a term from the word cloud that applies to the medical condition. If no word term click on the "next" button.
+                    <div id="demoapp">
+                        
+                            <ul class="nav nav-tabs" id="demomenu">
+                                <li id="menuCloud" role="presentation" class="active"><a href="javascript:menuCloud()">Word Cloud</a></li>
+                                <li id="menuDocuments" role="presentation"><a href="javascript:menuDocuments()">Relevant Documents &nbsp;<span class="badge" id="numberOfDocuments">0</span></a></li>
+                                <li id="menuWords" role="presentation"><a href="javascript:menuWords()">Selected Words</a></li>
+                                <li id="menuNext" role="presentation" class="pull-right"><a href="javascript:menuNext()">Next</a></li>
+                            </ul>
+                            
+                        <div id="democontent">
+                        </div>
+                    </div>
+                  
                 </div>
             </div>
             <!-- /.row -->
@@ -215,7 +228,7 @@
     
     <!-- Custom -->
     <script src="custom/js/custom.js"></script>
-    <script src="custom/js/jcloud_implementation.js"></script>
+    <script src="custom/js/demoapp.js"></script>
    
 </body>
 </html>
