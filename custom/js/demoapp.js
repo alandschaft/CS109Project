@@ -46,6 +46,8 @@ function menuRestart()
     sessionId = ''
     selectedTerms = []
     newSearchSession()
+    updateNumberOfDocuments()
+    updateNumberOfSelectedTerms()
 }
 
 function cleanMenu()
