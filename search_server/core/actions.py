@@ -39,7 +39,7 @@ def on_next(session_data):
         session_data['candidate_docs']
     )
 
-    session_data['ui_docs'] = get_docs(session_data['ui_docs'])
+    session_data['ui_docs'] = get_docs(session_data['candidate_docs'])
     return session_response(session_data)
 
 
@@ -49,7 +49,7 @@ def on_select_term(session_data, term):
     session_data['candidate_terms'].remove(term)
 
     session_data['candidate_docs'] = [
-        doc for doc in session_data['candidate_docs'] if term in doc
+        doc for doc in session_data['candidate_docs'] if term in doc['terms']
     ]
 
     session_data['ui_terms'] = get_terms(
@@ -57,5 +57,5 @@ def on_select_term(session_data, term):
         session_data['candidate_docs']
     )
 
-    session_data['ui_docs'] = get_docs(session_data['ui_docs'])
+    session_data['ui_docs'] = get_docs(session_data['candidate_docs'])
     return session_response(session_data)

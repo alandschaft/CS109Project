@@ -3,7 +3,8 @@ from operator import itemgetter
 from random import shuffle
 
 import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.metrics.pairwise import linear_kernel
 
 
 def init_data():
@@ -13,15 +14,21 @@ def init_data():
     terms = pd.read_pickle(os.path.join(path, '..', 'data', 'terms.pckl'))
     docs = pd.read_pickle(os.path.join(path, '..', 'data', 'trials.pckl'))
     data['candidate_terms_init'] = terms.term.values.tolist()
-    data['candidate_docs_init'] = [list(doc['terms']) for doc in docs[['terms']].to_dict('records')]
-    data['ui_docs_full'] = docs[['nct_id', 'title', 'url']].to_dict('records')
-    data['ui_docs_init'] = get_docs(data['ui_docs_full'])
+    # data['candidate_docs_init'] = [list(doc['terms']) for doc in docs[['terms']].to_dict('records')]
+    data['candidate_docs_init'] = init_ui_docs_full(docs)
+    data['ui_docs_full'] = init_ui_docs_full(docs)
+    data['ui_docs_init'] = init_ui_docs_full(docs)
     data['ui_terms_init'] = get_terms(data['candidate_terms_init'], data['candidate_docs_init'])
     return data
 
+def init_ui_docs_full(docs_df):
+    _docs = docs_df[['nct_id', 'title', 'url', 'terms']].to_dict('records')
+    for doc in _docs:
+        doc['terms'] = doc['terms'].tolist()
+    return _docs
 
 def get_freqs(terms, docs):
-    _docs = ('|'.join(doc) for doc in docs)
+    _docs = ('|'.join(doc['terms']) for doc in docs)
     cv = CountVectorizer(vocabulary=terms, analyzer=lambda doc: doc.split('|'))
     m = cv.transform(_docs)
     terms_freq = sorted(
@@ -39,7 +46,7 @@ def filter_terms(terms, excl_terms):
 
 def filter_docs(docs, curr_terms, m):
     _docs = [
-        doc for doc in docs if len(set(doc).intersection(set(curr_terms))) < m
+        doc for doc in docs if len(set(doc['terms']).intersection(set(curr_terms))) < m
     ]
     return _docs
 
@@ -63,5 +70,6 @@ def get_terms(terms, docs, n=40, k=10, m=5):
 
 
 def get_docs(docs, n=40):
-    shuffle(docs)
+    if len(docs) < n:
+        return docs
     return docs[:n]
