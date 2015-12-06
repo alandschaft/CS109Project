@@ -1,1 +1,1 @@
-Participant has a history of symptoms related to a drop in blood pressure due to postural changes e.g. dizziness light-headedness blurred vision palpitations weakness syncope 
+participant have a history of symptom relate to a drop in blood pressure due to postural change e.g. dizziness light-headedness blur vision palpitation weakness syncope 

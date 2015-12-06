@@ -1,1 +1,1 @@
-1	4 Subject must be on stable antiepileptic drug therapy for at least 2 months|antiepileptic[28,41]|||||||2 months[68,76]||C0003299|932|932|antiepileptic
+1	4 subject must be on stable antiepileptic drug therapy for at least 2 month|antiepileptic[28,41]|||||||2 month[68,75]||C0003299|932|932|antiepileptic

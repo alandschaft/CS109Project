@@ -1,2 +1,2 @@
-1	T1 N+ or T2 N+ or T3 N+ or T3 N0 and M0 tumour|T3[18,20]||||||||||1035812|1035812|t3
-1	T1 N+ or T2 N+ or T3 N+ or T3 N0 and M0 tumour|T3[27,29]||||||||||1035812|1035812|t3
+1	t1 n+ or t2 n+ or t3 n+ or t3 n0 and m0 tumour|t3[18,20]||||||||||1035812|1035812|t3
+1	t1 n+ or t2 n+ or t3 n+ or t3 n0 and m0 tumour|t3[27,29]||||||||||1035812|1035812|t3

@@ -1,1 +1,1 @@
-1	1 Prior use of Bevacizumab for the treatment of cancer|Bevacizumab[15,26]|||||||||C0796392|253337|253337|bevacizumab
+1	1 prior use of bevacizumab for the treatment of cancer|bevacizumab[15,26]|||||||||C0796392|253337|253337|bevacizumab

@@ -1,1 +1,1 @@
-1	Implants of levonorgestrel|levonorgestrel[12,26]|||||||||C0023566|6373|6373|levonorgestrel
+1	implant of levonorgestrel|levonorgestrel[11,25]|||||||||C0023566|6373|6373|levonorgestrel

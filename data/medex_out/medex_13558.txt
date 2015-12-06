@@ -1,2 +1,2 @@
-1	Patients who have received live attenuated vaccines within 1 week of start of Everolimus and during the study|Everolimus[78,88]|||||||1 week[59,65]||C0541315|141704|141704|everolimus
-1	Patients who have received live attenuated vaccines within 1 week of start of Everolimus and during the study|attenuated vaccines[32,51]|||||||||C0042210|11094|11094|attenuated vaccines
+1	patient who have receive live attenuate vaccine within 1 week of start of everolimus and during the study|everolimus[74,84]|||||||1 week[55,61]||C0541315|141704|141704|everolimus
+1	patient who have receive live attenuate vaccine within 1 week of start of everolimus and during the study|vaccine[40,47]||||||||||11094|11094|vaccine

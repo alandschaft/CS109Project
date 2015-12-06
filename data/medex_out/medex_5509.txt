@@ -1,2 +1,2 @@
-1	benzodiazepine use exceeding the equivalent of 10mg diazepam per day|diazepam[52,60]|||10mg[47,51]|||per day[61,68]|||C0985489|315796|3322|diazepam
-1	benzodiazepine use exceeding the equivalent of 10mg diazepam per day|benzodiazepine[0,14]||||||||||1402|1402|benzodiazepine
+1	benzodiazepine use exceed the equivalent of 10mg diazepam per day|diazepam[49,57]|||10mg[44,48]|||per day[58,65]|||C0985489|315796|3322|diazepam
+1	benzodiazepine use exceed the equivalent of 10mg diazepam per day|benzodiazepine[0,14]||||||||||1402|1402|benzodiazepine

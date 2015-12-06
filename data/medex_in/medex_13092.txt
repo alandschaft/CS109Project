@@ -1,1 +1,1 @@
-Subjects who have presented to hospital within 24 hours of symptom onset 
+subject who have present to hospital within 24 hour of symptom onset 

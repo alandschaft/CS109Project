@@ -1,1 +1,1 @@
-1	Treatment resistance to 4 different antidepressants from 3 different classes|antidepressants[36,51]|||||||||C0003289|927|927|antidepressants
+1	treatment resistance to 4 different antidepressant from 3 different class|antidepressant[36,50]||||||||||927|927|antidepressant

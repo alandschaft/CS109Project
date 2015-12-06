@@ -1,1 +1,1 @@
-1	No concurrent use of other standard chemotherapeutics or investigative agents|chemotherapeutics[36,53]|||||||||C3653781|1430636|1430636|chemotherapeutics
+1	no concurrent use of other standard chemotherapeutics or investigative agent|chemotherapeutics[36,53]|||||||||C3653781|1430636|1430636|chemotherapeutics

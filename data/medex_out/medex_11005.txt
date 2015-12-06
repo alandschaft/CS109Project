@@ -1,1 +1,1 @@
-1	5 Currently taking at least one antiepileptic medication|antiepileptic[32,45]|||||||||C0003299|932|932|antiepileptic
+1	5 currently take at least one antiepileptic medication|antiepileptic[30,43]|||||||||C0003299|932|932|antiepileptic

@@ -1,1 +1,1 @@
-Requiring 2 cycles chemotherapy to obtain CR 
+require 2 cycle chemotherapy to obtain cr 

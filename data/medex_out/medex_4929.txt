@@ -1,1 +1,1 @@
-1	Subject currently or regularly taking Clonazepam|Clonazepam[38,48]|||||||||C0009011|2598|2598|clonazepam
+1	subject currently or regularly take clonazepam|clonazepam[36,46]|||||||||C0009011|2598|2598|clonazepam

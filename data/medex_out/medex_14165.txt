@@ -1,2 +1,2 @@
-1	Treatment with Linezoline Lithium Milleperthuis Tramadol tryptans|Tramadol[48,56]|||||||||C0040610|10689|10689|tramadol
-1	Treatment with Linezoline Lithium Milleperthuis Tramadol tryptans|Lithium[26,33]|||||||||C0023870|6448|6448|lithium
+1	treatment with linezoline lithium milleperthuis tramadol tryptans|tramadol[48,56]|||||||||C0040610|10689|10689|tramadol
+1	treatment with linezoline lithium milleperthuis tramadol tryptans|lithium[26,33]|||||||||C0023870|6448|6448|lithium

@@ -1,1 +1,1 @@
-1	They have been prescribed lorazepam for home use for seizure activity|lorazepam[26,35]|||||||||C0024002|6470|6470|lorazepam
+1	they have be prescribe lorazepam for home use for seizure activity|lorazepam[23,32]|||||||||C0024002|6470|6470|lorazepam

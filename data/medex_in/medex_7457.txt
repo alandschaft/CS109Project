@@ -1,1 +1,1 @@
-Patients must have histologically or cytologically confirmed diagnosis of breast cancer 
+patient must have histologically or cytologically confirm diagnosis of breast cancer 

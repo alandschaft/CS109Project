@@ -1,1 +1,1 @@
-1	10 Use of ocular medications for any reason or systemic medications which might interfere with contact lens wear|contact lens[95,107]||||||||||2809|2809|contact lens
+1	10 use of ocular medication for any reason or systemic medication which might interfere with contact lens wear|contact lens[93,105]||||||||||2809|2809|contact lens

@@ -1,1 +1,1 @@
-1	A nursing mother taking anti-convulsant drugs|convulsant[29,39]||||||||||||
+1	a nursing mother take anti-convulsant drug|convulsant[27,37]||||||||||||

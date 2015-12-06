@@ -1,1 +1,1 @@
-1	Subject currently treated with minimum 2 and maximum 3 Anti-Epileptic Drugs AEDs including LEV Vagal Nerve Stimulation VNS is allowed and will be counted as a concomitant AED|LEV[91,94]|||||||||C3220305|1166072|5032|guaifenesin
+1	subject currently treat with minimum 2 and maximum 3 anti-epileptic drug aeds include lev vagal nerve stimulation vns be allow and will be count a a concomitant aed|lev[86,89]|||||||||C3220305|1166072|5032|guaifenesin

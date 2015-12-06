@@ -1,1 +1,1 @@
-All consecutive patients who are admitted to the emergency department with a clinical diagnosis of cerebrovascular event TIA stroke within 24 hours of symptom onset 
+all consecutive patient who be admit to the emergency department with a clinical diagnosis of cerebrovascular event tia stroke within 24 hour of symptom onset 

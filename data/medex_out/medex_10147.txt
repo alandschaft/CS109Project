@@ -1,2 +1,2 @@
-1	May be on stable dose of SSRI SNRI or atypical antipsychotic for at least 6 months|SSRI[25,29]||||||||||1026630|1026630|ssri
-1	May be on stable dose of SSRI SNRI or atypical antipsychotic for at least 6 months|atypical antipsychotic[38,60]|||||||6 months[74,82]|||389270|389270|atypical antipsychotic
+1	may be on stable dose of ssri snri or atypical antipsychotic for at least 6 month|ssri[25,29]||||||||||1026630|1026630|ssri
+1	may be on stable dose of ssri snri or atypical antipsychotic for at least 6 month|atypical antipsychotic[38,60]|||||||6 month[74,81]|||389270|389270|atypical antipsychotic

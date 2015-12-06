@@ -1,1 +1,1 @@
-1	Refusal of informed consent|Refusal[0,7]||||||||||||
+1	refusal of inform consent|refusal[0,7]||||||||||||

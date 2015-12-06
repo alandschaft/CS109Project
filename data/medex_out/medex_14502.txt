@@ -1,1 +1,1 @@
-1	4 The patient has received chronic treatment weeks for any indication with a benzodiazepine within at least 5 half-lives prior to screening Rescue therapy for prolonged seizures is allowed|benzodiazepine[77,91]||||||||||1402|1402|benzodiazepine
+1	4 the patient have receive chronic treatment week for any indication with a benzodiazepine within at least 5 half-lives prior to screening rescue therapy for prolong seizure be allow|benzodiazepine[76,90]||||||||||1402|1402|benzodiazepine

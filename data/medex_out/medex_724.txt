@@ -1,1 +1,1 @@
-1	Serum sodium levels 135 mEq/L|sodium[6,12]|||135mEq / L[20,29]||||||null|1547440|56443|sodium acet (obsolete)
+1	serum sodium level 135 meq/l|sodium[6,12]|||135meq / l[19,28]||||||null|1547440|56443|sodium acet (obsolete)

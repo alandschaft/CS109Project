@@ -1,1 +1,1 @@
-5 Seizure clusters where individual seizures can not be counted 
+5 seizure cluster where individual seizure can not be count 

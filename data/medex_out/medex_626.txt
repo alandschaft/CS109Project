@@ -1,1 +1,1 @@
-1	At least 2 weeks since prior vincristine|vincristine[29,40]|||||||2 weeks[9,16]||C0042679|11202|11202|vincristine
+1	at least 2 week since prior vincristine|vincristine[28,39]|||||||2 week[9,15]||C0042679|11202|11202|vincristine

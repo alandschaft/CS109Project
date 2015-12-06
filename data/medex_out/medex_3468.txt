@@ -1,1 +1,1 @@
-1	diagnosis of Axis I disorders including psychoactive substances disorders except nicotine|psychoactive substances[40,63]||||||||||196914|196914|psychoactive substances
+1	diagnosis of axis i disorder include psychoactive substance disorder except nicotine|psychoactive substance[37,59]||||||||||196914|196914|psychoactive substance

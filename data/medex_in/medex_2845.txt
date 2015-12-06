@@ -1,1 +1,1 @@
-DLCO 50 of predicted 
+dlco 50 of predicted 

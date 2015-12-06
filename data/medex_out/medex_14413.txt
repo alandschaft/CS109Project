@@ -1,1 +1,1 @@
-1	5 Patients with contraindications for acetazolamide treatment|acetazolamide[38,51]|||||||||C0000981|167|167|acetazolamide
+1	5 patient with contraindication for acetazolamide treatment|acetazolamide[36,49]|||||||||C0000981|167|167|acetazolamide

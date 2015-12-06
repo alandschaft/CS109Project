@@ -1,1 +1,1 @@
-1	2 Prehospital Glasgow Coma Score GCS score 12 at any time prior to randomization and administration of sedative and/or paralytic agents|sedative[103,111]||||||||||9634|9634|sedative
+1	2 prehospital glasgow coma score gc score 12 at any time prior to randomization and administration of sedative and/or paralytic agent|sedative[102,110]||||||||||9634|9634|sedative

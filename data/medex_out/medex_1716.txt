@@ -1,1 +1,1 @@
-1	Subjects on vigabatrin|vigabatrin[12,22]|||||||||C0048044|14851|14851|vigabatrin
+1	subject on vigabatrin|vigabatrin[11,21]|||||||||C0048044|14851|14851|vigabatrin

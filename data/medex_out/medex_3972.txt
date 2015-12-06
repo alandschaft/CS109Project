@@ -1,4 +1,4 @@
-1	Patients must have potassium 4.0 mmol/L and serum calcium ionized or adjusted for albumin or magnesium in the normal range supplementation is allowed|potassium[19,28]|||4.0mmol[29,37]||||||C1262867|385500|8588|potassium
-1	Patients must have potassium 4.0 mmol/L and serum calcium ionized or adjusted for albumin or magnesium in the normal range supplementation is allowed|calcium[50,57]|||||||||C0006675|1895|1895|calcium
-1	Patients must have potassium 4.0 mmol/L and serum calcium ionized or adjusted for albumin or magnesium in the normal range supplementation is allowed|albumin[82,89]|||||||||C0001924|433|433|albumin
-1	Patients must have potassium 4.0 mmol/L and serum calcium ionized or adjusted for albumin or magnesium in the normal range supplementation is allowed|magnesium[93,102]|||||||||C0024467|6574|6574|magnesium
+1	patient must have potassium 4.0 mmol/l and serum calcium ionize or adjust for albumin or magnesium in the normal range supplementation be allow|potassium[18,27]|||4.0mmol[28,36]||||||C1262867|385500|8588|potassium
+1	patient must have potassium 4.0 mmol/l and serum calcium ionize or adjust for albumin or magnesium in the normal range supplementation be allow|calcium[49,56]|||||||||C0006675|1895|1895|calcium
+1	patient must have potassium 4.0 mmol/l and serum calcium ionize or adjust for albumin or magnesium in the normal range supplementation be allow|albumin[78,85]|||||||||C0001924|433|433|albumin
+1	patient must have potassium 4.0 mmol/l and serum calcium ionize or adjust for albumin or magnesium in the normal range supplementation be allow|magnesium[89,98]|||||||||C0024467|6574|6574|magnesium

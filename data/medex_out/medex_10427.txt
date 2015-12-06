@@ -1,1 +1,1 @@
-1	Children taking a psychostimulant for ADD/ADHD and not on a stable dose for at least 2 weeks at time of study enrollment|psychostimulant[18,33]|||||||2 weeks[85,92]|||91147|91147|psychostimulant
+1	child taking a psychostimulant for add/adhd and not on a stable dose for at least 2 week at time of study enrollment|psychostimulant[15,30]|||||||2 week[82,88]|||91147|91147|psychostimulant

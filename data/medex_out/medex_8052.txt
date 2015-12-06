@@ -1,1 +1,1 @@
-1	Subject is currently taking gabapentin|gabapentin[28,38]|||||||||C0060926|25480|25480|gabapentin
+1	subject be currently take gabapentin|gabapentin[26,36]|||||||||C0060926|25480|25480|gabapentin

@@ -1,1 +1,1 @@
-1	11 Use of any CNS-active investigational drugs within 3 months of enrollment|investigational drugs[25,46]|||||||3 months[54,62]||C1875327|691729|691729|investigational drugs
+1	11 use of any cns-active investigational drug within 3 month of enrollment|investigational drug[25,45]|||||||3 month[53,60]||C1875327|691729|691729|investigational drug

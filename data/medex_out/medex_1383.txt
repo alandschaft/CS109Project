@@ -1,1 +1,1 @@
-1	26 Patients starting hormonal treatment e.g. estrogen in the last 3 months prior to visit 1|estrogen[45,53]|||||||3 months[66,74]|||4100|4100|estrogens
+1	26 patient start hormonal treatment e.g. estrogen in the last 3 month prior to visit 1|estrogen[41,49]|||||||3 month[62,69]|||4100|4100|estrogens

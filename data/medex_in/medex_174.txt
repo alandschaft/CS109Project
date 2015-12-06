@@ -1,1 +1,1 @@
-EEG with Lennox-Gastaut pattern 
+eeg with lennox-gastaut pattern 

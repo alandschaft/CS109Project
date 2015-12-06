@@ -1,1 +1,1 @@
-Total bilirubin should be less than 1.5 times ULN 
+total bilirubin should be less than 1.5 time uln 

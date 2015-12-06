@@ -1,1 +1,0 @@
-1	6 Allergic or sensitivity to sulfa containing medications|sulfa[29,34]||||||||||1145012|508|allantoin

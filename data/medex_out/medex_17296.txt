@@ -1,5 +1,5 @@
-1	Participant must be taking STP for the STP arm or VPA for the VPA arm and no more than 2 other antiepileptic drugs AEDs during the blinded period of the trial|STP[27,30]||||||||||3625|3625|stp
-1	Participant must be taking STP for the STP arm or VPA for the VPA arm and no more than 2 other antiepileptic drugs AEDs during the blinded period of the trial|STP[39,42]||||||||||3625|3625|stp
-1	Participant must be taking STP for the STP arm or VPA for the VPA arm and no more than 2 other antiepileptic drugs AEDs during the blinded period of the trial|VPA[50,53]||||||||||1099703|40254|valproate
-1	Participant must be taking STP for the STP arm or VPA for the VPA arm and no more than 2 other antiepileptic drugs AEDs during the blinded period of the trial|VPA[62,65]||||||||||1099703|40254|valproate
-1	Participant must be taking STP for the STP arm or VPA for the VPA arm and no more than 2 other antiepileptic drugs AEDs during the blinded period of the trial|antiepileptic drugs[95,114]|||||||||C0003299|932|932|antiepileptic drugs
+1	participant must be take stp for the stp arm or vpa for the vpa arm and no more than 2 other antiepileptic drug aeds during the blind period of the trial|stp[25,28]||||||||||3625|3625|stp
+1	participant must be take stp for the stp arm or vpa for the vpa arm and no more than 2 other antiepileptic drug aeds during the blind period of the trial|stp[37,40]||||||||||3625|3625|stp
+1	participant must be take stp for the stp arm or vpa for the vpa arm and no more than 2 other antiepileptic drug aeds during the blind period of the trial|vpa[48,51]||||||||||1099703|40254|valproate
+1	participant must be take stp for the stp arm or vpa for the vpa arm and no more than 2 other antiepileptic drug aeds during the blind period of the trial|vpa[60,63]||||||||||1099703|40254|valproate
+1	participant must be take stp for the stp arm or vpa for the vpa arm and no more than 2 other antiepileptic drug aeds during the blind period of the trial|antiepileptic[93,106]|||||||||C0003299|932|932|antiepileptic

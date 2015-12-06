@@ -1,1 +1,1 @@
-1	No other cancer except non-melanoma skin cancer or carcinoma in situ of the cervix unless patient is in complete remission and off all therapy for that disease for at least 3 years|melanoma[27,35]|||||||3 years[173,180]|||1023577|1023577|melanoma
+1	no other cancer except non-melanoma skin cancer or carcinoma in situ of the cervix unless patient be in complete remission and off all therapy for that disease for at least 3 year|melanoma[27,35]||||||||||1023577|1023577|melanoma

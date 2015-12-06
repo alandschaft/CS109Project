@@ -1,1 +1,1 @@
-1	Received at least one dose of IPV vaccine|vaccine[34,41]||||||||||11094|11094|vaccine
+1	received at least one dose of ipv vaccine|vaccine[34,41]||||||||||11094|11094|vaccine

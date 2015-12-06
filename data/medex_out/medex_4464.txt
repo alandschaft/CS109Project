@@ -1,1 +1,1 @@
-1	Presence of known contraindications to EPO administration-sustained systolic blood pressure 100 hemoglobin .18 g/dL known allergy to EPO or one of its components|EPO[39,42]|||.18g[107,112]|||||||239999|105694|epoetin alfa,recombinant
+1	presence of know contraindication to epo administration-sustained systolic blood pressure 100 hemoglobin .18 g/dl known allergy to epo or one of it component|epo[37,40]|||.18g[105,110]|||||||239999|105694|epoetin alfa,recombinant

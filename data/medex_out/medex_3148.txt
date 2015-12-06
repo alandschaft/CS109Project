@@ -1,2 +1,2 @@
-1	11 Administration of monoamine oxidase inhibitor MAOI antidepressants or antipsychotic a psycho-tropic within 14 days prior to entry|antidepressants[54,69]|||||||14 days[110,117]||C0003289|927|927|antidepressants
-1	11 Administration of monoamine oxidase inhibitor MAOI antidepressants or antipsychotic a psycho-tropic within 14 days prior to entry|monoamine oxidase inhibitor[21,48]||||||||||7032|7032|monoamine oxidase inhibitor
+1	11 administration of monoamine oxidase inhibitor maoi antidepressant or antipsychotic a psycho-tropic within 14 day prior to entry|antidepressant[54,68]|||||||14 day[109,115]|||927|927|antidepressant
+1	11 administration of monoamine oxidase inhibitor maoi antidepressant or antipsychotic a psycho-tropic within 14 day prior to entry|monoamine oxidase inhibitor[21,48]||||||||||7032|7032|monoamine oxidase inhibitor

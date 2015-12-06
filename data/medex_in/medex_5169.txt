@@ -1,1 +1,1 @@
-Patients on an involuntary admission status 
+patient on an involuntary admission status 

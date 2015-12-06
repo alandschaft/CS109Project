@@ -1,1 +1,1 @@
-Patients who take medication for acute treatment greater than 10 days per month over the past three months 
+patient who take medication for acute treatment greater than 10 day per month over the past three month 

@@ -1,1 +1,1 @@
-1	any child on diuretics|diuretics[13,22]|||||||||C0012798|3567|3567|diuretics
+1	any child on diuretic|diuretic[13,21]||||||||||3567|3567|diuretic

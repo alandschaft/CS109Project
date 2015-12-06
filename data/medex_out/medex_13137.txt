@@ -1,1 +1,1 @@
-1	20 Known sensitivity to Everolimus or other Rapamycin analogues or to its excipients|Everolimus[24,34]|||||||||C0541315|141704|141704|everolimus
+1	20 known sensitivity to everolimus or other rapamycin analogue or to it excipients|everolimus[24,34]|||||||||C0541315|141704|141704|everolimus

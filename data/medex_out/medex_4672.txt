@@ -1,1 +1,1 @@
-1	Allergy or intolerance to pyrrolidine derivatives and/or tablet excipients or to carbamazepine derivates and /or tablet excipients|carbamazepine[81,94]||tablet[57,63]|||||||C1245298|371257|2002|carbamazepine
+1	allergy or intolerance to pyrrolidine derivative and/or tablet excipients or to carbamazepine derivates and /or tablet excipients|carbamazepine[80,93]||tablet[56,62]|||||||C1245298|371257|2002|carbamazepine

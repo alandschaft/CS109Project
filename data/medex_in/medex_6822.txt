@@ -1,1 +1,1 @@
-Patient has a score 20 on the HAMD24 
+patient have a score 20 on the hamd24 

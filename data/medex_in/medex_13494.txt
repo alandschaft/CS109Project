@@ -1,1 +1,1 @@
-Delay between cardiac arrest and inclusion 300 min 
+delay between cardiac arrest and inclusion 300 min 

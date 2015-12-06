@@ -1,1 +1,1 @@
-1	Inability to tolerate levetiracetam likely poor compliance|levetiracetam[22,35]|||||||||C0377265|114477|114477|levetiracetam
+1	inability to tolerate levetiracetam likely poor compliance|levetiracetam[22,35]|||||||||C0377265|114477|114477|levetiracetam

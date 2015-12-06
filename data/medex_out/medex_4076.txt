@@ -1,2 +1,2 @@
-1	8 Concomitant use of felbamate or vigabatrin|felbamate[21,30]|||||||||C0060135|24812|24812|felbamate
-1	8 Concomitant use of felbamate or vigabatrin|vigabatrin[34,44]|||||||||C0048044|14851|14851|vigabatrin
+1	8 concomitant use of felbamate or vigabatrin|felbamate[21,30]|||||||||C0060135|24812|24812|felbamate
+1	8 concomitant use of felbamate or vigabatrin|vigabatrin[34,44]|||||||||C0048044|14851|14851|vigabatrin

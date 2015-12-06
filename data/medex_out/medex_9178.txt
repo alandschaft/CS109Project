@@ -1,1 +1,1 @@
-1	normal FSH in post-menopausal subjects control subjects|FSH[7,10]||||||||||227518|227518|follitropin (fsh)
+1	normal fsh in post-menopausal subject control subject|fsh[7,10]||||||||||227518|227518|follitropin (fsh)

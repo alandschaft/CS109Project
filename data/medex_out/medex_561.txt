@@ -1,1 +1,1 @@
-1	Has previously been treated with lamotrigine|lamotrigine[33,44]|||||||||C0064636|28439|28439|lamotrigine
+1	have previously be treat with lamotrigine|lamotrigine[30,41]|||||||||C0064636|28439|28439|lamotrigine

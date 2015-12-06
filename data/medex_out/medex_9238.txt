@@ -1,2 +1,2 @@
-1	currently taking felbamate or vigabatrin|felbamate[17,26]|||||||||C0060135|24812|24812|felbamate
-1	currently taking felbamate or vigabatrin|vigabatrin[30,40]|||||||||C0048044|14851|14851|vigabatrin
+1	currently take felbamate or vigabatrin|felbamate[15,24]|||||||||C0060135|24812|24812|felbamate
+1	currently take felbamate or vigabatrin|vigabatrin[28,38]|||||||||C0048044|14851|14851|vigabatrin

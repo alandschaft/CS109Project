@@ -1,1 +1,1 @@
-5 Subjects must weigh more than 110 pounds and have a body mass index greater than or equal to 20 
+5 subject must weigh more than 110 pound and have a body mass index great than or equal to 20 

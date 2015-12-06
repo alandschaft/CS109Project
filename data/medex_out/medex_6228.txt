@@ -1,1 +1,1 @@
-1	12 Slit lamp findings that would contraindicate contact lens wear including but not limited to|contact lens[48,60]||||||||||2809|2809|contact lens
+1	12 slit lamp finding that would contraindicate contact lens wear include but not limit to|contact lens[47,59]||||||||||2809|2809|contact lens

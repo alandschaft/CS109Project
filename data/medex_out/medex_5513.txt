@@ -1,1 +1,1 @@
-1	4 Subject is taking a stable regimen of one or two other Antiepileptic Drugs AEDs for at least two weeks prior to Visit 1 start of the Baseline Period|Antiepileptic Drugs[57,76]|||||||two weeks[95,104]||C0003299|932|932|antiepileptic drugs
+1	4 subject be take a stable regimen of one or two other antiepileptic drug aeds for at least two week prior to visit 1 start of the baseline period|antiepileptic[55,68]|||||||two week[92,100]||C0003299|932|932|antiepileptic

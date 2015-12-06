@@ -1,1 +1,1 @@
-1	ASA physical status I-III patients|ASA[0,3]|||||||||C1740879|667904|9525|salicylic acid
+1	asa physical status i-iii patient|asa[0,3]|||||||||C1740879|667904|9525|salicylic acid

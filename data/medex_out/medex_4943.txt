@@ -1,2 +1,2 @@
-1	8 Subjects whose anticonvulsant medication regimen includes phenobarbital|phenobarbital[60,73]|||||||||C0031412|8134|8134|phenobarbital
-1	8 Subjects whose anticonvulsant medication regimen includes phenobarbital|anticonvulsant[17,31]||||||||||926|926|anticonvulsant
+1	8 subject whose anticonvulsant medication regimen include phenobarbital|phenobarbital[58,71]|||||||||C0031412|8134|8134|phenobarbital
+1	8 subject whose anticonvulsant medication regimen include phenobarbital|anticonvulsant[16,30]||||||||||926|926|anticonvulsant

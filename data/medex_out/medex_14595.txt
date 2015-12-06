@@ -1,1 +1,1 @@
-1	ASA I-III|ASA[0,3]|||||||||C1740879|667904|9525|salicylic acid
+1	asa i-iii|asa[0,3]|||||||||C1740879|667904|9525|salicylic acid

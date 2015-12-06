@@ -1,1 +1,1 @@
-2 Patient has had at least 1 seizure in the past 365 days 
+2 patient have have at least 1 seizure in the past 365 day 

@@ -1,1 +1,1 @@
-1	Known hypersensitivity to carvedilol or any component of the formulation|carvedilol[26,36]|||||||||C0054836|20352|20352|carvedilol
+1	known hypersensitivity to carvedilol or any component of the formulation|carvedilol[26,36]|||||||||C0054836|20352|20352|carvedilol

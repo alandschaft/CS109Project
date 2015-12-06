@@ -1,1 +1,1 @@
-1	Serum calcium above the CTCAE grade 1 upper limit|calcium[6,13]|||||||||C0006675|1895|1895|calcium
+1	serum calcium above the ctcae grade 1 upper limit|calcium[6,13]|||||||||C0006675|1895|1895|calcium

@@ -1,1 +1,1 @@
-C. Patients only with paroxysmal attacks of hyperkinetic movements 
+c. patient only with paroxysmal attack of hyperkinetic movement 

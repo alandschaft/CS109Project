@@ -1,1 +1,1 @@
-Patients may be male or female 
+patient may be male or female 

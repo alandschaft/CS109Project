@@ -1,2 +1,2 @@
-1	History of measles mumps rubella varicella/zoster and hepatitis A diseases|rubella[25,32]||||||||||1022799|1022799|rubella
-1	History of measles mumps rubella varicella/zoster and hepatitis A diseases|mumps[19,24]||||||||||1027774|1027774|mumps
+1	history of measles mumps rubella varicella/zoster and hepatitis a disease|rubella[25,32]||||||||||1022799|1022799|rubella
+1	history of measles mumps rubella varicella/zoster and hepatitis a disease|mumps[19,24]||||||||||1027774|1027774|mumps

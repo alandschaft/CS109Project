@@ -1,2 +1,2 @@
-1	Targeted agents such as trastuzumab or lapatinib are allowed|trastuzumab[24,35]|||||||||C0728747|224905|224905|trastuzumab
-1	Targeted agents such as trastuzumab or lapatinib are allowed|lapatinib[39,48]|||||||||C1506770|480167|480167|lapatinib
+1	targeted agent such a trastuzumab or lapatinib be allow|trastuzumab[22,33]|||||||||C0728747|224905|224905|trastuzumab
+1	targeted agent such a trastuzumab or lapatinib be allow|lapatinib[37,46]|||||||||C1506770|480167|480167|lapatinib

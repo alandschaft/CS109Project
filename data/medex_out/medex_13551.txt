@@ -1,1 +1,1 @@
-1	Patients currently receiving anticancer therapies or who have received anticancer therapies within 4 weeks of the start of Everolimus including chemotherapy radiation therapy antibody based therapy etc|Everolimus[123,133]|||||||4 weeks[99,106]||C0541315|141704|141704|everolimus
+1	patient currently receive anticancer therapy or who have receive anticancer therapy within 4 week of the start of everolimus include chemotherapy radiation therapy antibody base therapy etc|everolimus[114,124]|||||||4 week[91,97]||C0541315|141704|141704|everolimus

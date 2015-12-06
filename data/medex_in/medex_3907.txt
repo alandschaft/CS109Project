@@ -1,1 +1,1 @@
-Patients with a BMI that is below 18.5 will be excluded 
+patient with a bmi that be below 18.5 will be exclude 

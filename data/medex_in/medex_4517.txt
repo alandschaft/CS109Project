@@ -1,1 +1,1 @@
-Patient should have confirmed epilepsy for a minimum of 2 years 
+patient should have confirm epilepsy for a minimum of 2 year 

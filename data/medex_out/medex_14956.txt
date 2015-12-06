@@ -1,2 +1,2 @@
-1	Subjects with known history of hypersensitivity to lorazepam or benzodiazepine|lorazepam[51,60]|||||||||C0024002|6470|6470|lorazepam
-1	Subjects with known history of hypersensitivity to lorazepam or benzodiazepine|benzodiazepine[64,78]||||||||||1402|1402|benzodiazepine
+1	subject with known history of hypersensitivity to lorazepam or benzodiazepine|lorazepam[50,59]|||||||||C0024002|6470|6470|lorazepam
+1	subject with known history of hypersensitivity to lorazepam or benzodiazepine|benzodiazepine[63,77]||||||||||1402|1402|benzodiazepine

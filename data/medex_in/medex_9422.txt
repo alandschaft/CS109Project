@@ -1,1 +1,1 @@
-Patients must be at least 18 years old 
+patient must be at least 18 year old 

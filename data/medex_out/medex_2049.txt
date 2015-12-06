@@ -1,1 +1,1 @@
-1	2 Subjects who have a current or recent within 6 months of the start of study medication DSM-IV-TR diagnosis of substance dependence or abuse with the exception of nicotine or caffeine dependence|caffeine[176,184]|||||IV[93,95]||6 months[47,55]||C0006644|1886|1886|caffeine
+1	2 subject who have a current or recent within 6 month of the start of study medication dsm-iv-tr diagnosis of substance dependence or abuse with the exception of nicotine or caffeine dependence|caffeine[174,182]|||||iv[91,93]||6 month[46,53]||C0006644|1886|1886|caffeine

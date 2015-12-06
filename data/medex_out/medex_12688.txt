@@ -1,2 +1,2 @@
-1	Current substance abuse e.g marijuana or crack excluding nicotine and caffeine|marijuana[28,37]|||||||||C0024808|6650|6650|marijuana
-1	Current substance abuse e.g marijuana or crack excluding nicotine and caffeine|caffeine[70,78]|||||||||C0006644|1886|1886|caffeine
+1	current substance abuse e.g marijuana or crack exclude nicotine and caffeine|marijuana[28,37]|||||||||C0024808|6650|6650|marijuana
+1	current substance abuse e.g marijuana or crack exclude nicotine and caffeine|caffeine[68,76]|||||||||C0006644|1886|1886|caffeine

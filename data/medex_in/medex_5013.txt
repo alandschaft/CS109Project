@@ -1,1 +1,1 @@
-2 Age greater than or equal to 2 years through less than or equal to 70 years 
+2 age greater than or equal to 2 year through less than or equal to 70 year 

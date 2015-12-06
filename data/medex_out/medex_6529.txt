@@ -1,2 +1,2 @@
-1	Chronic administration defined as more than 14 days of immunosuppressants or other immune-modifying drugs within six months prior to the first vaccine dose|immunosuppressants[55,73]|||||||14 days[44,51]||C0021081|5748|5748|immunosuppressants
-1	Chronic administration defined as more than 14 days of immunosuppressants or other immune-modifying drugs within six months prior to the first vaccine dose|vaccine[143,150]|||||||six months[113,123]|||11094|11094|vaccine
+1	chronic administration define a more than 14 day of immunosuppressant or other immune-modifying drug within six month prior to the first vaccine dose|immunosuppressant[52,69]|||||||14 day[42,48]|||5748|5748|immunosuppressant
+1	chronic administration define a more than 14 day of immunosuppressant or other immune-modifying drug within six month prior to the first vaccine dose|vaccine[137,144]|||||||six month[108,117]|||11094|11094|vaccine

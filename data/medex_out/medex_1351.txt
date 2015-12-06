@@ -1,2 +1,2 @@
-1	Patients who have had documented tumor progression while taking tamoxifen and/or any treatment with tamoxifen within 6 months of registration|tamoxifen[64,73]|||||||||C0039286|10324|10324|tamoxifen
-1	Patients who have had documented tumor progression while taking tamoxifen and/or any treatment with tamoxifen within 6 months of registration|tamoxifen[100,109]|||||||6 months[117,125]||C0039286|10324|10324|tamoxifen
+1	patient who have have document tumor progression while take tamoxifen and/or any treatment with tamoxifen within 6 month of registration|tamoxifen[60,69]|||||||||C0039286|10324|10324|tamoxifen
+1	patient who have have document tumor progression while take tamoxifen and/or any treatment with tamoxifen within 6 month of registration|tamoxifen[96,105]|||||||6 month[113,120]||C0039286|10324|10324|tamoxifen

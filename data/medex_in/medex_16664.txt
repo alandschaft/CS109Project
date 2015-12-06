@@ -1,1 +1,1 @@
-Insulin 35 pmol/L 
+insulin 35 pmol/l 

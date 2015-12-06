@@ -1,1 +1,1 @@
-Patients must be at least 12 years old 
+patient must be at least 12 year old 

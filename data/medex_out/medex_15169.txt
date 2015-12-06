@@ -1,1 +1,1 @@
-1	Subject is currently on beta blocker medication|beta blocker[24,36]||||||||||401870|401870|beta blocker
+1	subject be currently on beta blocker medication|beta blocker[24,36]||||||||||401870|401870|beta blocker

@@ -1,6 +1,5 @@
-1	Use of psychoactive drugs in ADHD within the previous month Methylphenidate Amphetamine Atomoxetine Modafinil and Antidepressants whatever the class|Modafinil[100,109]|||||||||C0066677|30125|30125|modafinil
-1	Use of psychoactive drugs in ADHD within the previous month Methylphenidate Amphetamine Atomoxetine Modafinil and Antidepressants whatever the class|Atomoxetine[88,99]|||||||||C0076823|38400|38400|atomoxetine
-1	Use of psychoactive drugs in ADHD within the previous month Methylphenidate Amphetamine Atomoxetine Modafinil and Antidepressants whatever the class|Amphetamine[76,87]|||||||||C0002658|725|725|amfetamine
-1	Use of psychoactive drugs in ADHD within the previous month Methylphenidate Amphetamine Atomoxetine Modafinil and Antidepressants whatever the class|Methylphenidate[60,75]|||||||||C0025810|6901|6901|methylphenidate
-1	Use of psychoactive drugs in ADHD within the previous month Methylphenidate Amphetamine Atomoxetine Modafinil and Antidepressants whatever the class|psychoactive drugs[7,25]||||||||||196914|196914|psychoactive drugs
-1	Use of psychoactive drugs in ADHD within the previous month Methylphenidate Amphetamine Atomoxetine Modafinil and Antidepressants whatever the class|Antidepressants[114,129]|||||||||C0003289|927|927|antidepressants
+1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|modafinil[99,108]|||||||||C0066677|30125|30125|modafinil
+1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|atomoxetine[87,98]|||||||||C0076823|38400|38400|atomoxetine
+1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|amphetamine[75,86]|||||||||C0002658|725|725|amfetamine
+1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|methylphenidate[59,74]|||||||||C0025810|6901|6901|methylphenidate
+1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|antidepressant[113,127]||||||||||927|927|antidepressant

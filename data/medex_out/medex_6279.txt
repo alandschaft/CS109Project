@@ -1,1 +1,1 @@
-1	Sensitivity to benzodiazepines|benzodiazepines[15,30]||||||||||1402|1402|benzodiazepines
+1	sensitivity to benzodiazepine|benzodiazepine[15,29]||||||||||1402|1402|benzodiazepine

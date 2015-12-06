@@ -1,5 +1,5 @@
-1	5 Patients taking tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|diazepam[77,85]|||||||||C0012010|3322|3322|diazepam
-1	5 Patients taking tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|clonazepam[66,76]|||||||||C0009011|2598|2598|clonazepam
-1	5 Patients taking tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|zidovudine[39,49]|||||||||C0043474|11413|11413|zidovudine
-1	5 Patients taking tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|warfarin[30,38]|||||||||C0043031|11289|11289|warfarin
-1	5 Patients taking tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|tolbutamide[18,29]|||||||||C0040374|10635|10635|tolbutamide
+1	5 patient take tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|diazepam[74,82]|||||||||C0012010|3322|3322|diazepam
+1	5 patient take tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|clonazepam[63,73]|||||||||C0009011|2598|2598|clonazepam
+1	5 patient take tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|zidovudine[36,46]|||||||||C0043474|11413|11413|zidovudine
+1	5 patient take tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|warfarin[27,35]|||||||||C0043031|11289|11289|warfarin
+1	5 patient take tolbutamide warfarin zidovudine benzodiazapines clonazepam diazepam|tolbutamide[15,26]|||||||||C0040374|10635|10635|tolbutamide

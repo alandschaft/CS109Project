@@ -1,1 +1,1 @@
-1	Subjects in groups A and B will be matched for seizure frequency Volunteers will be matched with the subjects in group A by age In this pilot study no attempt will be made to match patients according to anticonvulsant medications|anticonvulsant[203,217]||||||||||926|926|anticonvulsant
+1	subject in group a and b will be match for seizure frequency volunteer will be match with the subject in group a by age in this pilot study no attempt will be make to match patient accord to anticonvulsant medication|anticonvulsant[191,205]||||||||||926|926|anticonvulsant

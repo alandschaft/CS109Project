@@ -1,1 +1,1 @@
-1	10 Use of benzodiazepines during the Baseline Period or during randomised treatment|benzodiazepines[10,25]||||||||||1402|1402|benzodiazepines
+1	10 use of benzodiazepine during the baseline period or during randomise treatment|benzodiazepine[10,24]||||||||||1402|1402|benzodiazepine

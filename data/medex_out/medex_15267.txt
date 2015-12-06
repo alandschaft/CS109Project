@@ -1,1 +1,1 @@
-1	known contraindications to administration of amiodarone|amiodarone[45,55]|||||||||C0002598|703|703|amiodarone
+1	known contraindication to administration of amiodarone|amiodarone[44,54]|||||||||C0002598|703|703|amiodarone

@@ -1,2 +1,2 @@
-1	Subject is taking monoamine oxidase MAO inhibitors or narcotic analgesics|MAO inhibitors[36,50]||||||||||1431605|1431605|mao inhibitors
-1	Subject is taking monoamine oxidase MAO inhibitors or narcotic analgesics|narcotic analgesics[54,73]||||||||||7260|7260|narcotic analgesics
+1	subject be take monoamine oxidase mao inhibitor or narcotic analgesic|mao inhibitor[34,47]||||||||||7032|7032|mao inhibitor
+1	subject be take monoamine oxidase mao inhibitor or narcotic analgesic|narcotic analgesic[51,69]||||||||||7260|7260|narcotic analgesic

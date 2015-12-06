@@ -1,1 +1,1 @@
-1	8 Current treatment with a maximum of three approved antiepileptic drugs and no evidence of non-compliance with ongoing AED therapy|antiepileptic drugs[53,72]|||||||||C0003299|932|932|antiepileptic drugs
+1	8 current treatment with a maximum of three approve antiepileptic drug and no evidence of non-compliance with ongoing aed therapy|antiepileptic[52,65]|||||||||C0003299|932|932|antiepileptic

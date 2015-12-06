@@ -1,1 +1,1 @@
-1	patients taking antiarrhythmics and ?-blockers|antiarrhythmics[16,31]|||||||||C0003195|883|883|antiarrhythmics
+1	patient take antiarrhythmic and ?-blockers|antiarrhythmic[13,27]|||||||||C0003195|883|883|antiarrhythmic

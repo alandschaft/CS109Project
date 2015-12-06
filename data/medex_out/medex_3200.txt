@@ -1,4 +1,4 @@
-1	Alcohol more than 2 drinks per day or CAGE greater than 2 questions and/or current/regular use of drugs such as amphetamines cocaine heroin or marijuana|heroin[133,139]|||||||||C0011892|3304|3304|diacetylmorphine
-1	Alcohol more than 2 drinks per day or CAGE greater than 2 questions and/or current/regular use of drugs such as amphetamines cocaine heroin or marijuana|cocaine[125,132]|||||||||C0009170|2653|2653|cocaine
-1	Alcohol more than 2 drinks per day or CAGE greater than 2 questions and/or current/regular use of drugs such as amphetamines cocaine heroin or marijuana|amphetamines[112,124]||||||per day[27,34]|||C0002667|726|726|amphetamines
-1	Alcohol more than 2 drinks per day or CAGE greater than 2 questions and/or current/regular use of drugs such as amphetamines cocaine heroin or marijuana|marijuana[143,152]|||||||||C0024808|6650|6650|marijuana
+1	alcohol more than 2 drink per day or cage great than 2 question and/or current/regular use of drug such a amphetamine cocaine heroin or marijuana|heroin[126,132]|||||||||C0011892|3304|3304|diacetylmorphine
+1	alcohol more than 2 drink per day or cage great than 2 question and/or current/regular use of drug such a amphetamine cocaine heroin or marijuana|cocaine[118,125]|||||||||C0009170|2653|2653|cocaine
+1	alcohol more than 2 drink per day or cage great than 2 question and/or current/regular use of drug such a amphetamine cocaine heroin or marijuana|amphetamine[106,117]||||||per day[26,33]|||C0002658|725|725|amfetamine
+1	alcohol more than 2 drink per day or cage great than 2 question and/or current/regular use of drug such a amphetamine cocaine heroin or marijuana|marijuana[136,145]|||||||||C0024808|6650|6650|marijuana

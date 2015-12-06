@@ -1,1 +1,1 @@
-1	Clinically significant grade 3 or 4 corneal edema corneal vascularization corneal staining or any other abnormalities of the cornea which would contraindicate contact lens wear|contact lens[159,171]||||||||||2809|2809|contact lens
+1	clinically significant grade 3 or 4 corneal edema corneal vascularization corneal stain or any other abnormality of the cornea which would contraindicate contact lens wear|contact lens[154,166]||||||||||2809|2809|contact lens

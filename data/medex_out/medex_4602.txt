@@ -1,1 +1,1 @@
-1	The subject is requiring levetiracetam IV treatment in place of oral therapy for a short period of time|levetiracetam[25,38]|||||IV[39,41]||||C0377265|114477|114477|levetiracetam
+1	the subject be require levetiracetam iv treatment in place of oral therapy for a short period of time|levetiracetam[23,36]|||||iv[37,39]||||C0377265|114477|114477|levetiracetam

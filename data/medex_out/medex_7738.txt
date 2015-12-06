@@ -1,1 +1,1 @@
-1	Patients should not receive immunization with attenuated live vaccines within one week of informed consent or during study period|vaccines[62,70]|||||||one week[78,86]||C0042210|11094|11094|vaccines
+1	patient should not receive immunization with attenuated live vaccine within one week of inform consent or during study period|live vaccine[56,68]|||||||one week[76,84]|||235582|235582|poliomyelitis vaccine,live

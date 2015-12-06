@@ -1,1 +1,2 @@
-1	oblique axis -2.00 to -4.00 with -0.75 D cyl around 45 or 135 have worn Soft Contact Lenses 's within last 6 months|cyl[41,44]|||||||6 months[107,115]|||||
+1	oblique axis -2.00 to -4.00 with -0.75 d cyl around 45 or 135 have wear soft contact lens 's within last 6 month|cyl[41,44]|||||||0.75 d[34,40]|||||
+1	oblique axis -2.00 to -4.00 with -0.75 d cyl around 45 or 135 have wear soft contact lens 's within last 6 month|contact lens[77,89]|||||||6 month[105,112]|||2809|2809|contact lens

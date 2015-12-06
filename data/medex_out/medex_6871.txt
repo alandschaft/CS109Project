@@ -1,1 +1,1 @@
-1	9 Frequent need of rescue benzodiazepines more than once in a 28 day period|benzodiazepines[26,41]|||||||28 day[62,68]|||1402|1402|benzodiazepines
+1	9 frequent need of rescue benzodiazepine more than once in a 28 day period|benzodiazepine[26,40]|||||||28 day[61,67]|||1402|1402|benzodiazepine

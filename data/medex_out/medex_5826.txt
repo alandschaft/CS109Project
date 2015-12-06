@@ -1,2 +1,2 @@
-1	Contraindication for stereotactic surgery e.g bleeding diathesis anticoagulants treatment with valproate at the time of surgery risk of bleeding|valproate[95,104]|||||||||C0080356|40254|40254|valproate
-1	Contraindication for stereotactic surgery e.g bleeding diathesis anticoagulants treatment with valproate at the time of surgery risk of bleeding|anticoagulants[65,79]|||||||||C0003280|923|923|anticoagulants
+1	contraindication for stereotactic surgery e.g bleeding diathesis anticoagulant treatment with valproate at the time of surgery risk of bleed|valproate[94,103]|||||||||C0080356|40254|40254|valproate
+1	contraindication for stereotactic surgery e.g bleeding diathesis anticoagulant treatment with valproate at the time of surgery risk of bleed|anticoagulant[65,78]|||||||||C0003280|923|923|anticoagulant

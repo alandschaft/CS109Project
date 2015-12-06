@@ -1,5 +1,5 @@
-1	4 Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|topamax[97,104]||||||||||220343|38404|topiramate
-1	4 Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|lamictal[88,96]|||||||||C0678180|196502|28439|lamotrigine
-1	4 Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|tegretol[79,87]||||||||||203029|2002|carbamazepine
-1	4 Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|dilantin[70,78]||||||||||202740|8183|phenytoin
-1	4 Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|keppra[63,69]|||||||||C0876060|261547|114477|levetiracetam
+1	4 currently prescribe medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|topamax[96,103]||||||||||220343|38404|topiramate
+1	4 currently prescribe medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|lamictal[87,95]|||||||||C0678180|196502|28439|lamotrigine
+1	4 currently prescribe medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|tegretol[78,86]||||||||||203029|2002|carbamazepine
+1	4 currently prescribe medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|dilantin[69,77]||||||||||202740|8183|phenytoin
+1	4 currently prescribe medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|keppra[62,68]|||||||||C0876060|261547|114477|levetiracetam

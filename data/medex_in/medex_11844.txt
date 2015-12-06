@@ -1,1 +1,1 @@
-inpatients or outpatients 
+inpatient or outpatient 

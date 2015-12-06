@@ -1,1 +1,1 @@
-Patient has a Karnofsky performance status scale index 60 
+patient have a karnofsky performance status scale index 60 

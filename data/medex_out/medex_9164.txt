@@ -1,1 +1,1 @@
-1	Buspirone required interval period weeks prior to baseline is 2|Buspirone[0,9]|||||||||C0006462|1827|1827|buspirone
+1	buspirone require interval period week prior to baseline be 2|buspirone[0,9]|||||||||C0006462|1827|1827|buspirone

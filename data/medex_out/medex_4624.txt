@@ -1,2 +1,2 @@
-1	Previous use of gabapentin or pregabalin within 2 weeks prior to screening or likelihood of engaging in these treatments during the study period|gabapentin[16,26]|||||||||C0060926|25480|25480|gabapentin
-1	Previous use of gabapentin or pregabalin within 2 weeks prior to screening or likelihood of engaging in these treatments during the study period|pregabalin[30,40]|||||||2 weeks[48,55]||C0657912|187832|187832|pregabalin
+1	previous use of gabapentin or pregabalin within 2 week prior to screening or likelihood of engage in these treatment during the study period|gabapentin[16,26]|||||||||C0060926|25480|25480|gabapentin
+1	previous use of gabapentin or pregabalin within 2 week prior to screening or likelihood of engage in these treatment during the study period|pregabalin[30,40]|||||||2 week[48,54]||C0657912|187832|187832|pregabalin

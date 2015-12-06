@@ -1,1 +1,1 @@
-1	Have not been able to achieve adequate seizure control with antiepileptic drugs|antiepileptic drugs[60,79]|||||||||C0003299|932|932|antiepileptic drugs
+1	have not be able to achieve adequate seizure control with antiepileptic drug|antiepileptic[58,71]|||||||||C0003299|932|932|antiepileptic

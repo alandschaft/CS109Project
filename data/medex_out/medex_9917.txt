@@ -1,1 +1,1 @@
-1	Contraindications to the use of magnesium sulfate drug hypersensitivity oliguria with urine output below 25ml/h anuria absent urine output myasthenia gravis|magnesium sulfate[32,49]|||25ml / h[105,111]||||||C1128798|332541|6582|magnesium oxide
+1	contraindication to the use of magnesium sulfate drug hypersensitivity oliguria with urine output below 25ml/h anuria absent urine output myasthenia gravis|magnesium sulfate[31,48]|||25ml / h[104,110]||||||C1128798|332541|6582|magnesium oxide

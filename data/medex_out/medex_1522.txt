@@ -1,1 +1,1 @@
-1	Use of vitamins C 150 mg and/or E 75 IU per day|vitamins[7,15]|||150mg[18,24]|||per day[40,47]|||C0042890|11262|11262|vitamins
+1	use of vitamin c 150 mg and/or e 75 iu per day|vitamin c[7,16]|||150mg[17,23]|||per day[39,46]||||245467|1151|ascorbic acid (vit c)

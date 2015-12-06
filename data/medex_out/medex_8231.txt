@@ -1,1 +1,1 @@
-1	Currently using a liner with prosthesis|liner[18,23]|||||||||C0181663|732276|732276|liner
+1	currently use a liner with prosthesis|liner[16,21]|||||||||C0181663|732276|732276|liner

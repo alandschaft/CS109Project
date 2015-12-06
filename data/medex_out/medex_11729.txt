@@ -1,1 +1,1 @@
-1	14 Use of rescue AEDs e.g benzodiazepines during more than two weeks of the 2 months prior to enrollment|benzodiazepines[26,41]|||||||two weeks[59,68]|||1402|1402|benzodiazepines
+1	14 use of rescue aeds e.g benzodiazepine during more than two week of the 2 month prior to enrollment|benzodiazepine[26,40]|||||||two week[58,66]|||1402|1402|benzodiazepine

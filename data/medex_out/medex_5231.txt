@@ -1,1 +1,1 @@
-1	4 Patient 's refusal to assent for patients 7 yrs old and mentally competent to understand study procedures by the methods described or as required by the local IRB|refusal[13,20]|||||||7 yrs[44,49]|||||
+1	4 patient 's refusal to assent for patient 7 yr old and mentally competent to understand study procedure by the method describe or a require by the local irb|refusal[13,20]|||||||7 yr[43,47]|||||

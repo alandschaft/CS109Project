@@ -1,2 +1,2 @@
-1	All patients in the U.S. who are prescribed Sabril must participate in this patient registry in order to receive Sabril|Sabril[44,50]||||||||||152332|14851|vigabatrin
-1	All patients in the U.S. who are prescribed Sabril must participate in this patient registry in order to receive Sabril|Sabril[113,119]||||||||||152332|14851|vigabatrin
+1	all patient in the u.s. who be prescribe sabril must participate in this patient registry in order to receive sabril|sabril[41,47]||||||||||152332|14851|vigabatrin
+1	all patient in the u.s. who be prescribe sabril must participate in this patient registry in order to receive sabril|sabril[110,116]||||||||||152332|14851|vigabatrin

@@ -1,1 +1,1 @@
-heart failure NYHA 2 myocardial infarction within the last 6 months atrial fibrillation 
+heart failure nyha 2 myocardial infarction within the last 6 month atrial fibrillation 

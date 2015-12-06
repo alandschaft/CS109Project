@@ -1,1 +1,1 @@
-Patients less than 16 years of age transported to the Emergency Department with either seizure acute trauma respiratory distress or cardiac arrest 
+patient less than 16 year of age transport to the emergency department with either seizure acute trauma respiratory distress or cardiac arrest 

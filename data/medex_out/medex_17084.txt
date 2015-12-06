@@ -1,1 +1,1 @@
-1	Antidepressant treatment|Antidepressant[0,14]||||||||||927|927|antidepressant
+1	antidepressant treatment|antidepressant[0,14]||||||||||927|927|antidepressant

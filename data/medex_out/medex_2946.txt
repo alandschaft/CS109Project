@@ -1,1 +1,1 @@
-1	Non-premenopausal female patients using a medically acceptable contraceptive method as discussed with their doctor|contraceptive[63,76]||||||||||64078|64078|contraceptive
+1	non-premenopausal female patient use a medically acceptable contraceptive method a discuss with their doctor|contraceptive[60,73]||||||||||64078|64078|contraceptive

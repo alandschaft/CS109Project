@@ -1,1 +1,1 @@
-MRI and MRI/EEG Abnormality 
+mri and mri/eeg abnormality 

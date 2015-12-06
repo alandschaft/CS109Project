@@ -1,1 +1,1 @@
-1	Anticipated initiation change or discontinuation of a hormonal contraceptive within the next 6 months|contraceptive[63,76]|||||||6 months[93,101]|||64078|64078|contraceptive
+1	anticipated initiation change or discontinuation of a hormonal contraceptive within the next 6 month|contraceptive[63,76]|||||||6 month[93,100]|||64078|64078|contraceptive

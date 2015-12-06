@@ -1,1 +1,1 @@
-1	Newborns admitted to the UCSD Children 's Hospital or Sharp Mary Birch NICUs with seizures|Birch[65,70]||||||||||436716|436716|birch
+1	newborn admit to the ucsd child 's hospital or sharp mary birch nicu with seizure|birch[58,63]||||||||||436716|436716|birch

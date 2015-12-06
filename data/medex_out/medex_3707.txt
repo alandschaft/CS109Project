@@ -1,1 +1,1 @@
-1	Patients having a treatable cause of seizure currently receiving vigabatrin having a progressive neurological or systemic disorder|vigabatrin[65,75]|||||||||C0048044|14851|14851|vigabatrin
+1	patient have a treatable cause of seizure currently receive vigabatrin have a progressive neurological or systemic disorder|vigabatrin[60,70]|||||||||C0048044|14851|14851|vigabatrin

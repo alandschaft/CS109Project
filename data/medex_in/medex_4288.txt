@@ -1,1 +1,1 @@
-FEV_1 and forced vital capacity 40 predicted 
+fev_1 and force vital capacity 40 predict 

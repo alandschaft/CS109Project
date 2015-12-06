@@ -1,1 +1,1 @@
-Subjects with an IQ of less than 80 will be excluded from the study 
+subject with an iq of less than 80 will be exclude from the study 

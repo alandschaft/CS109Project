@@ -1,1 +1,1 @@
-1	Stable anticonvulsant drug regimen|anticonvulsant[7,21]||||||||||926|926|anticonvulsant
+1	stable anticonvulsant drug regimen|anticonvulsant[7,21]||||||||||926|926|anticonvulsant

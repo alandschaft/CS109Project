@@ -1,1 +1,1 @@
-1	use of opiate medications|opiate[7,13]||||||||||114189|114189|opiates
+1	use of opiate medication|opiate[7,13]||||||||||114189|114189|opiates

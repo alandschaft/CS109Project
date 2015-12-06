@@ -1,1 +1,1 @@
-1	Systemic corticosteroid use in the last 30 days|corticosteroid[9,23]|||||||30 days[40,47]|||354|354|corticosteroid
+1	systemic corticosteroid use in the last 30 day|corticosteroid[9,23]|||||||30 day[40,46]|||354|354|corticosteroid

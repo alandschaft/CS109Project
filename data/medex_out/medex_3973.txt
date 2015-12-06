@@ -1,1 +1,1 @@
-1	Patients alanine aminotransferase ALT and aspartate aminotransferase AST must be 2.5 X ULRR and their alkaline phosphatase ALP 2.5 x ULRR or 5x ULRR if judged by the investigator to be related to liver metastases|ALP[123,126]|||2.5[127,130]|||||||||
+1	patient alanine aminotransferase alt and aspartate aminotransferase ast must be 2.5 x ulrr and their alkaline phosphatase alp 2.5 x ulrr or 5x ulrr if judged by the investigator to be relate to liver metastases|alp[122,125]|||2.5[126,129]|||||||||

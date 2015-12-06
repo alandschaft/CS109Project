@@ -1,1 +1,1 @@
-1	6 Hormonal contraceptives for at least 3 months prior to Visit 1 and throughout study Protocol Number/v.1/06 Jun 2012 7|contraceptives[11,25]|||||||3 months[39,47]|||2815|2815|contraceptives
+1	6 hormonal contraceptive for at least 3 month prior to visit 1 and throughout study protocol number/v.1/06 jun 2012 7|contraceptive[11,24]|||||||3 month[38,45]|||64078|64078|contraceptive

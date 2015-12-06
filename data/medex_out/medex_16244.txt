@@ -1,1 +1,1 @@
-1	Unable to tolerate psychotropic washout and no psychotropic medication during the ECT trial other than lorazepam up to 3 mg/d PRN Treatment history and physician evaluation|lorazepam[103,112]|||3mg[119,123]|||||PRN[126,129]|C1132125|335170|6470|lorazepam
+1	unable to tolerate psychotropic washout and no psychotropic medication during the ect trial other than lorazepam up to 3 mg/d prn treatment history and physician evaluation|lorazepam[103,112]|||3mg[119,123]|||||prn[126,129]|C1132125|335170|6470|lorazepam

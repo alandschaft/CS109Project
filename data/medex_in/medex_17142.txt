@@ -1,1 +1,1 @@
-CPR duration 30 minutes 
+cpr duration 30 minute 

@@ -1,1 +1,1 @@
-1	16 Subject has received previous treatment with zonisamide|zonisamide[48,58]|||||||||C0078844|39998|39998|zonisamide
+1	16 subject have receive previous treatment with zonisamide|zonisamide[48,58]|||||||||C0078844|39998|39998|zonisamide

@@ -1,5 +1,5 @@
-1	Antidepressants including buproprion Atypical antipsychotics Hypnotics for sleep Anxiolytics limited to up to 3 mg equivalents/day lorazepam|lorazepam[131,140]|||3mg[110,114]||||||C1132125|335170|6470|lorazepam
-1	Antidepressants including buproprion Atypical antipsychotics Hypnotics for sleep Anxiolytics limited to up to 3 mg equivalents/day lorazepam|Anxiolytics[81,92]|||||||||C0040616|10694|10694|anxiolytics
-1	Antidepressants including buproprion Atypical antipsychotics Hypnotics for sleep Anxiolytics limited to up to 3 mg equivalents/day lorazepam|Hypnotics[61,70]||||||||||5597|5597|hypnotics
-1	Antidepressants including buproprion Atypical antipsychotics Hypnotics for sleep Anxiolytics limited to up to 3 mg equivalents/day lorazepam|antipsychotics[46,60]|||||||||C0040615|10693|10693|antipsychotic drug
-1	Antidepressants including buproprion Atypical antipsychotics Hypnotics for sleep Anxiolytics limited to up to 3 mg equivalents/day lorazepam|Antidepressants[0,15]|||||||||C0003289|927|927|antidepressants
+1	antidepressant include buproprion atypical antipsychotic hypnotic for sleep anxiolytic limit to up to 3 mg equivalents/day lorazepam|lorazepam[123,132]|||3mg[102,106]||||||C1132125|335170|6470|lorazepam
+1	antidepressant include buproprion atypical antipsychotic hypnotic for sleep anxiolytic limit to up to 3 mg equivalents/day lorazepam|anxiolytic[76,86]||||||||||10694|10694|anxiolytic
+1	antidepressant include buproprion atypical antipsychotic hypnotic for sleep anxiolytic limit to up to 3 mg equivalents/day lorazepam|hypnotic[57,65]||||||||||5597|5597|hypnotic
+1	antidepressant include buproprion atypical antipsychotic hypnotic for sleep anxiolytic limit to up to 3 mg equivalents/day lorazepam|atypical antipsychotic[34,56]||||||||||389270|389270|atypical antipsychotic
+1	antidepressant include buproprion atypical antipsychotic hypnotic for sleep anxiolytic limit to up to 3 mg equivalents/day lorazepam|antidepressant[0,14]||||||||||927|927|antidepressant

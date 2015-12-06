@@ -1,1 +1,1 @@
-Karnofsky-Index 60 ECOG 2 
+karnofsky-index 60 ecog 2 

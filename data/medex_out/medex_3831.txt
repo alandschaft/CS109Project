@@ -1,1 +1,1 @@
-1	7 History of allergy or serious adverse reaction to metronidazole or placebo formulation used in this study|metronidazole[52,65]|||||||||C0025872|6922|6922|metronidazole
+1	7 history of allergy or serious adverse reaction to metronidazole or placebo formulation use in this study|metronidazole[52,65]|||||||||C0025872|6922|6922|metronidazole

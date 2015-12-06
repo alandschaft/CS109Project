@@ -1,1 +1,1 @@
-1	Prior treatment with an enzyme inducing antiepileptic drug must have been discontinued at least 14 days prior to study entry for Group A patients|antiepileptic[40,53]|||||||14 days[96,103]||C0003299|932|932|antiepileptic
+1	prior treatment with an enzyme induce antiepileptic drug must have be discontinue at least 14 day prior to study entry for group a patient|antiepileptic[38,51]|||||||14 day[91,97]||C0003299|932|932|antiepileptic

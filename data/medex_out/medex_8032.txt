@@ -1,2 +1,2 @@
-1	4 Upward of doubled normal serum glutamic oxaloacetic transaminase SGOT or serum glutamic pyruvic transaminase SGPT level and/or tripled blood urea nitrogen BUN /Creatinine levels|nitrogen[148,156]|||||||||C0028158|7456|7456|nitrogen
-1	4 Upward of doubled normal serum glutamic oxaloacetic transaminase SGOT or serum glutamic pyruvic transaminase SGPT level and/or tripled blood urea nitrogen BUN /Creatinine levels|urea[143,147]|||||||||C0041942|11002|11002|urea
+1	4 upward of double normal serum glutamic oxaloacetic transaminase sgot or serum glutamic pyruvic transaminase sgpt level and/or triple blood urea nitrogen bun /creatinine level|nitrogen[146,154]|||||||||C0028158|7456|7456|nitrogen
+1	4 upward of double normal serum glutamic oxaloacetic transaminase sgot or serum glutamic pyruvic transaminase sgpt level and/or triple blood urea nitrogen bun /creatinine level|urea[141,145]|||||||||C0041942|11002|11002|urea

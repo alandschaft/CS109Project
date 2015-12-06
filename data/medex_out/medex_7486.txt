@@ -1,1 +1,2 @@
-1	Due to the teratogenic effects of VPA and FEC100 pregnant or lactating women are excluded from the study|VPA[34,37]||||||||||1099703|40254|valproate
+1	due to the teratogenic effect of vpa and fec100 pregnant or lactate woman be exclude from the study|vpa[33,36]||||||||||1099703|40254|valproate
+1	due to the teratogenic effect of vpa and fec100 pregnant or lactate woman be exclude from the study|lactate[60,67]|||||||||C0376261|114202|114202|lactate

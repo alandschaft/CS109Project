@@ -1,1 +1,1 @@
-1	medication influencing the CNS except for medication taken for antiepileptic treatment|antiepileptic[63,76]|||||||||C0003299|932|932|antiepileptic
+1	medication influence the cns except for medication take for antiepileptic treatment|antiepileptic[60,73]|||||||||C0003299|932|932|antiepileptic

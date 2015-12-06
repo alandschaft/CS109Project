@@ -1,1 +1,1 @@
-1	Subjects with epilepsy taking AED s known to exert direct effects on GABA or glutamate|glutamate[77,86]|||||||||C0220839|70602|70602|glutamate
+1	subject with epilepsy take aed s know to exert direct effect on gaba or glutamate|glutamate[72,81]|||||||||C0220839|70602|70602|glutamate

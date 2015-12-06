@@ -1,1 +1,1 @@
-Subjects less than 6 years or older than 16 years old 
+subject less than 6 year or old than 16 year old 

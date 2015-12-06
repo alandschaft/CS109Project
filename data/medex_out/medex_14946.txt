@@ -1,1 +1,1 @@
-1	Clinical confirmation of other epileptic encephalopathies associated with sodium channel mutations|sodium[74,80]|||||||||C0037473|9853|9853|sodium
+1	clinical confirmation of other epileptic encephalopathy associate with sodium channel mutation|sodium[71,77]|||||||||C0037473|9853|9853|sodium

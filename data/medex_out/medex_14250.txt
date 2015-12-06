@@ -1,1 +1,1 @@
-1	Is an adapted soft CL wearer|CL[19,21]||||||||||47104|47104|cl
+1	be an adapt soft cl wearer|cl[17,19]||||||||||47104|47104|cl

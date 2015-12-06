@@ -1,1 +1,1 @@
-1	5 Before study visit patient who takes stable dose of antiepileptic drug more than 4 weeks|antiepileptic[54,67]|||||||4 weeks[83,90]||C0003299|932|932|antiepileptic
+1	5 before study visit patient who take stable dose of antiepileptic drug more than 4 week|antiepileptic[53,66]|||||||4 week[82,88]||C0003299|932|932|antiepileptic

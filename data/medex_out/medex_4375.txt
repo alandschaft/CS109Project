@@ -1,2 +1,2 @@
-1	Patients on tricyclic antidepressants or antiepileptic medications 2 weeks prior to testing|tricyclic antidepressants[12,37]|||||||||C0003290|928|928|tricyclic antidepressants
-1	Patients on tricyclic antidepressants or antiepileptic medications 2 weeks prior to testing|antiepileptic[41,54]|||||||2 weeks[67,74]||C0003299|932|932|antiepileptic
+1	patient on tricyclic antidepressant or antiepileptic medication 2 week prior to testing|tricyclic antidepressant[11,35]||||||||||928|928|tricyclic antidepressant
+1	patient on tricyclic antidepressant or antiepileptic medication 2 week prior to testing|antiepileptic[39,52]|||||||2 week[64,70]||C0003299|932|932|antiepileptic

@@ -1,1 +1,1 @@
-1	Participation in unrelated research involving an investigational pharmacological agent 30 days before planned G-CSF dosing|G - CSF[110,115]|||||||30 days[87,94]|||40112|40112|g-csf
+1	participation in unrelated research involve an investigational pharmacological agent 30 day before plan g-csf dosing|g - csf[104,109]|||||||30 day[85,91]|||40112|40112|g-csf

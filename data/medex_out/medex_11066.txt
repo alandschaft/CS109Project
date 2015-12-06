@@ -1,1 +1,1 @@
-1	Any confirmed or suspected immunosuppressive or immunodeficient condition based on medical history and physical examination|immunosuppressive[27,44]||||||||||5748|5748|immunosuppressive
+1	any confirm or suspect immunosuppressive or immunodeficient condition base on medical history and physical examination|immunosuppressive[23,40]||||||||||5748|5748|immunosuppressive

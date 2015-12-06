@@ -1,1 +1,1 @@
-resting heart rate 55 bpm 
+rest heart rate 55 bpm 

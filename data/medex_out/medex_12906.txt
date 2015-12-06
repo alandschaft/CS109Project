@@ -1,1 +1,1 @@
-1	8 Has a contact lens prescription between +4.00 to -6.00D with astigmatism =-1.00|contact lens[8,20]||||||||||2809|2809|contact lens
+1	8 ha a contact lens prescription between +4.00 to -6.00d with astigmatism =-1.00|contact lens[7,19]||||||||||2809|2809|contact lens

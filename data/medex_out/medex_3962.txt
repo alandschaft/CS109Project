@@ -1,1 +1,1 @@
-1	Gadolinium MRI or contrast CT must be obtained within 14 days prior to registration|Gadolinium[0,10]|||||||14 days[54,61]||C0016911|1310171|1310171|gadolinium
+1	gadolinium mri or contrast ct must be obtain within 14 day prior to registration|gadolinium[0,10]|||||||14 day[52,58]||C0016911|1310171|1310171|gadolinium

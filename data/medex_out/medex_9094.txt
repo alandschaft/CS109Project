@@ -1,1 +1,1 @@
-2	surgery more than 6 months prior to receiving Sabril may be enrolled|Sabril[350,356]|||||||6 months[322,330]|||152332|14851|vigabatrin
+2	surgery more than 6 month prior to receive sabril may be enrol|sabril[343,349]|||||||6 month[318,325]|||152332|14851|vigabatrin

@@ -1,1 +1,1 @@
-1	1 Pregnancy or lactation or women of child-bearing potential who are unable or unwilling to take adequate contraceptive precautions including one of the following|contraceptive[106,119]||||||||||64078|64078|contraceptive
+1	1 pregnancy or lactation or woman of child-bearing potential who be unable or unwilling to take adequate contraceptive precaution include one of the following|contraceptive[105,118]||||||||||64078|64078|contraceptive

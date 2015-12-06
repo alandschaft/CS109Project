@@ -1,3 +1,3 @@
-1	Chronic treatment with corticosteroids or other immunosuppressive agents Topical or inhaled corticosteroids are allowed|corticosteroids[23,38]|||||||||C0001617|354|354|corticosteroids
-1	Chronic treatment with corticosteroids or other immunosuppressive agents Topical or inhaled corticosteroids are allowed|immunosuppressive agents[48,72]|||||Topical[73,80]|||||5748|5748|immunosuppressive agents
-1	Chronic treatment with corticosteroids or other immunosuppressive agents Topical or inhaled corticosteroids are allowed|corticosteroids[92,107]|||||inhaled[84,91]||||C0001617|354|354|corticosteroids
+1	chronic treatment with corticosteroid or other immunosuppressive agent topical or inhale corticosteroid be allow|corticosteroid[23,37]||||||||||354|354|corticosteroid
+1	chronic treatment with corticosteroid or other immunosuppressive agent topical or inhale corticosteroid be allow|immunosuppressive agent[47,70]|||||topical[71,78]|||||5748|5748|immunosuppressive agent
+1	chronic treatment with corticosteroid or other immunosuppressive agent topical or inhale corticosteroid be allow|corticosteroid[89,103]||||||||||354|354|corticosteroid

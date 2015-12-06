@@ -1,1 +1,1 @@
-1	Subject has a known sensitivity to ingredients used in contact lens care products|contact lens[55,67]||||||||||2809|2809|contact lens
+1	subject have a know sensitivity to ingredient use in contact lens care product|contact lens[53,65]||||||||||2809|2809|contact lens

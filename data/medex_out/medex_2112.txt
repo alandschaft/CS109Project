@@ -1,1 +1,1 @@
-1	Patients who are allergic to or have shown hypersensitivity to compounds similar to levetiracetam|levetiracetam[84,97]|||||||||C0377265|114477|114477|levetiracetam
+1	patient who be allergic to or have show hypersensitivity to compound similar to levetiracetam|levetiracetam[80,93]|||||||||C0377265|114477|114477|levetiracetam

@@ -1,1 +1,1 @@
-1	Patients who have a history of another primary malignancy with the exceptions of non-melanoma skin cancer and carcinoma in situ of the cervix uteri or breast from which the patient has been disease free for years|melanoma[85,93]||||||||||1023577|1023577|melanoma
+1	patient who have a history of another primary malignancy with the exception of non-melanoma skin cancer and carcinoma in situ of the cervix uterus or breast from which the patient have be disease free for year|melanoma[83,91]||||||||||1023577|1023577|melanoma

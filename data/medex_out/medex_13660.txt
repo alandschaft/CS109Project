@@ -1,1 +1,1 @@
-1	Males and females aged 18 90 years who are clopidogrel resistant as determined by whole blood aggregometry|clopidogrel[43,54]|||||||90 years[26,34]||C0070166|32968|32968|clopidogrel
+1	male and female age 18 90 year who be clopidogrel resistant a determined by whole blood aggregometry|clopidogrel[38,49]|||||||||C0070166|32968|32968|clopidogrel

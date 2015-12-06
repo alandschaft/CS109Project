@@ -1,2 +1,2 @@
-1	Receiving interferon other immunomodulators or other experimental medications|immunomodulators[27,43]||||||||||||
-1	Receiving interferon other immunomodulators or other experimental medications|interferon[10,20]|||||||||C0021747|5886|5886|interferon
+1	receive interferon other immunomodulators or other experimental medication|immunomodulators[25,41]||||||||||||
+1	receive interferon other immunomodulators or other experimental medication|interferon[8,18]|||||||||C0021747|5886|5886|interferon

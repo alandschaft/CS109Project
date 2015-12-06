@@ -1,1 +1,1 @@
-1	Subjects for whom the Investigator believes a reasonable benefit efficacy or tolerability from the long-term administration of LEV may be expected|LEV[127,130]|||||||||C3220305|1166072|5032|guaifenesin
+1	subject for whom the investigator believe a reasonable benefit efficacy or tolerability from the long-term administration of lev may be expect|lev[125,128]|||||||||C3220305|1166072|5032|guaifenesin

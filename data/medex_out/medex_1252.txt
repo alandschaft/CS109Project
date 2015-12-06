@@ -1,1 +1,1 @@
-1	NOTE Benzodiazepines used chronically will be considered to be concurrent AEDs|Benzodiazepines[5,20]||||||||||1402|1402|benzodiazepines
+1	note benzodiazepine use chronically will be consider to be concurrent aeds|benzodiazepine[5,19]||||||||||1402|1402|benzodiazepine

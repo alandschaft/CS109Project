@@ -1,1 +1,1 @@
-1	Has a cl spherical prescription between -1.00 and -6.00 inclusive|cl[6,8]||||||||||47104|47104|cl
+1	have a cl spherical prescription between -1.00 and -6.00 inclusive|cl[7,9]||||||||||47104|47104|cl

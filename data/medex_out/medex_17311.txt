@@ -1,2 +1,2 @@
-1	Participant is unwilling to abstain from recreational or medicinal cannabis or synthetic cannabinoid based medications including Sativex for the duration for the study|cannabis[67,75]||||||||||196583|196583|cannabis
-1	Participant is unwilling to abstain from recreational or medicinal cannabis or synthetic cannabinoid based medications including Sativex for the duration for the study|Sativex[129,136]||||||||||||
+1	participant be unwilling to abstain from recreational or medicinal cannabis or synthetic cannabinoid base medication include sativex for the duration for the study|cannabis[67,75]||||||||||196583|196583|cannabis
+1	participant be unwilling to abstain from recreational or medicinal cannabis or synthetic cannabinoid base medication include sativex for the duration for the study|sativex[125,132]||||||||||||

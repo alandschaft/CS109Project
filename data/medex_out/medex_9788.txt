@@ -1,1 +1,1 @@
-1	History of status epilepticus while taking antiepileptic drugs during the 03 months that preceding the screening visit V1|antiepileptic drugs[43,62]|||||||03 months[74,83]||C0003299|932|932|antiepileptic drugs
+1	history of status epilepticus while take antiepileptic drug during the 03 month that precede the screen visit v1|antiepileptic[41,54]|||||||03 month[71,79]||C0003299|932|932|antiepileptic

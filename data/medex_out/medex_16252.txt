@@ -1,5 +1,5 @@
-1	on medication e.g steroid multivitamins thiamine-containg vitamins diuretic drugs|diuretic[67,75]||||||||||3567|3567|diuretic
-1	on medication e.g steroid multivitamins thiamine-containg vitamins diuretic drugs|vitamins[58,66]|||||||||C0042890|11262|11262|vitamins
-1	on medication e.g steroid multivitamins thiamine-containg vitamins diuretic drugs|thiamine[40,48]|||||||||C0039840|10454|10454|thiamine (vit b1)
-1	on medication e.g steroid multivitamins thiamine-containg vitamins diuretic drugs|multivitamins[26,39]|||||||||C0301532|89905|89905|multiple vitamins
-1	on medication e.g steroid multivitamins thiamine-containg vitamins diuretic drugs|steroid[18,25]||||||||||10072|10072|steroid
+1	on medication e.g steroid multivitamin thiamine-containg vitamin diuretic drug|diuretic[65,73]||||||||||3567|3567|diuretic
+1	on medication e.g steroid multivitamin thiamine-containg vitamin diuretic drug|vitamin[57,64]||||||||||11262|11262|vitamin
+1	on medication e.g steroid multivitamin thiamine-containg vitamin diuretic drug|thiamine[39,47]|||||||||C0039840|10454|10454|thiamine (vit b1)
+1	on medication e.g steroid multivitamin thiamine-containg vitamin diuretic drug|multivitamin[26,38]||||||||||89905|89905|multiple vitamins
+1	on medication e.g steroid multivitamin thiamine-containg vitamin diuretic drug|steroid[18,25]||||||||||10072|10072|steroid

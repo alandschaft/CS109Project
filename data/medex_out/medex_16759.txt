@@ -1,6 +1,6 @@
-1	Subjects taking phenytoin must not be taking phenobarbital or primidone subjects taking phenobarbital must not be taking phenytoin or primidone|phenobarbital[45,58]|||||||||C0031412|8134|8134|phenobarbital
-1	Subjects taking phenytoin must not be taking phenobarbital or primidone subjects taking phenobarbital must not be taking phenytoin or primidone|phenytoin[16,25]|||||||||C0031507|8183|8183|phenytoin
-1	Subjects taking phenytoin must not be taking phenobarbital or primidone subjects taking phenobarbital must not be taking phenytoin or primidone|phenytoin[121,130]|||||||||C0031507|8183|8183|phenytoin
-1	Subjects taking phenytoin must not be taking phenobarbital or primidone subjects taking phenobarbital must not be taking phenytoin or primidone|phenobarbital[88,101]|||||||||C0031412|8134|8134|phenobarbital
-1	Subjects taking phenytoin must not be taking phenobarbital or primidone subjects taking phenobarbital must not be taking phenytoin or primidone|primidone[62,71]|||||||||C0033148|8691|8691|primidone
-1	Subjects taking phenytoin must not be taking phenobarbital or primidone subjects taking phenobarbital must not be taking phenytoin or primidone|primidone[134,143]|||||||||C0033148|8691|8691|primidone
+1	subject take phenytoin must not be take phenobarbital or primidone subject take phenobarbital must not be take phenytoin or primidone|phenobarbital[40,53]|||||||||C0031412|8134|8134|phenobarbital
+1	subject take phenytoin must not be take phenobarbital or primidone subject take phenobarbital must not be take phenytoin or primidone|phenytoin[13,22]|||||||||C0031507|8183|8183|phenytoin
+1	subject take phenytoin must not be take phenobarbital or primidone subject take phenobarbital must not be take phenytoin or primidone|phenytoin[111,120]|||||||||C0031507|8183|8183|phenytoin
+1	subject take phenytoin must not be take phenobarbital or primidone subject take phenobarbital must not be take phenytoin or primidone|phenobarbital[80,93]|||||||||C0031412|8134|8134|phenobarbital
+1	subject take phenytoin must not be take phenobarbital or primidone subject take phenobarbital must not be take phenytoin or primidone|primidone[57,66]|||||||||C0033148|8691|8691|primidone
+1	subject take phenytoin must not be take phenobarbital or primidone subject take phenobarbital must not be take phenytoin or primidone|primidone[124,133]|||||||||C0033148|8691|8691|primidone

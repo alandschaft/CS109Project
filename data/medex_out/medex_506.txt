@@ -1,1 +1,1 @@
-1	Currently being treated with an antiepileptic drug s AED|antiepileptic[32,45]|||||||||C0003299|932|932|antiepileptic
+1	currently be treat with an antiepileptic drug s aed|antiepileptic[27,40]|||||||||C0003299|932|932|antiepileptic

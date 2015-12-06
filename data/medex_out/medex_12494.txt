@@ -1,1 +1,1 @@
-1	use of experimental investigational drugs or devices|investigational drugs[20,41]|||||||||C1875327|691729|691729|investigational drugs
+1	use of experimental investigational drug or device|investigational drug[20,40]|||||||||C1875327|691729|691729|investigational drug

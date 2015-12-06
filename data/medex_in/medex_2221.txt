@@ -1,1 +1,1 @@
-Patient has a history lifetime of having received more than 5 different AEDs 
+patient have a history lifetime of have receive more than 5 different aeds 

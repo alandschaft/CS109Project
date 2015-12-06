@@ -1,1 +1,2 @@
-1	Subject has any known or suspected hypersensitivity to cannabinoids or any of the excipients of the investigational medicinal products|cannabinoids[55,67]||||||||||1975|1975|cannabinoids
+1	subject have any know or suspect hypersensitivity to cannabinoids or any of the excipients of the investigational medicinal product|cannabinoids[53,65]||||||||||1975|1975|cannabinoids
+1	subject have any know or suspect hypersensitivity to cannabinoids or any of the excipients of the investigational medicinal product|medicinal product[114,131]||||||||||107337|107337|medicinal product

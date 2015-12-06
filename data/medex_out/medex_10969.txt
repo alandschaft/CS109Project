@@ -1,3 +1,3 @@
-1	Patients requiring treatment with drugs known to affect the GABAergic system including vigabatrin barbiturates and benzodiazepines|barbiturates[98,110]||||||||||1326|1326|barbiturates
-1	Patients requiring treatment with drugs known to affect the GABAergic system including vigabatrin barbiturates and benzodiazepines|vigabatrin[87,97]|||||||||C0048044|14851|14851|vigabatrin
-1	Patients requiring treatment with drugs known to affect the GABAergic system including vigabatrin barbiturates and benzodiazepines|benzodiazepines[115,130]||||||||||1402|1402|benzodiazepines
+1	patient require treatment with drug know to affect the gabaergic system include vigabatrin barbiturate and benzodiazepine|barbiturate[91,102]||||||||||1326|1326|barbiturate
+1	patient require treatment with drug know to affect the gabaergic system include vigabatrin barbiturate and benzodiazepine|vigabatrin[80,90]|||||||||C0048044|14851|14851|vigabatrin
+1	patient require treatment with drug know to affect the gabaergic system include vigabatrin barbiturate and benzodiazepine|benzodiazepine[107,121]||||||||||1402|1402|benzodiazepine

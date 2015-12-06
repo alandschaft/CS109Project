@@ -1,1 +1,1 @@
-1	Clinically significant grade 3 or 4 tarsal abnormalities or bulbar injection which might interfere with contact lens wear|contact lens[104,116]||||||||||2809|2809|contact lens
+1	clinically significant grade 3 or 4 tarsal abnormality or bulbar injection which might interfere with contact lens wear|contact lens[102,114]||||||||||2809|2809|contact lens

@@ -1,1 +1,1 @@
-1	Patients must have recovered from the immediate post-operative period and be maintained on a stable corticosteroid regimen on increase for 5 days prior to the start of treatment|corticosteroid[100,114]|||||||5 days[139,145]|||354|354|corticosteroid
+1	patient must have recover from the immediate post-operative period and be maintain on a stable corticosteroid regimen on increase for 5 day prior to the start of treatment|corticosteroid[95,109]|||||||5 day[134,139]|||354|354|corticosteroid

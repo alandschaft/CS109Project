@@ -1,1 +1,1 @@
-1	HIV seropositive confirmed by NAT|NAT[30,33]|||||||||C0131956|53553|53553|nattokinase
+1	hiv seropositive confirm by nat|nat[28,31]|||||||||C0131956|53553|53553|nattokinase

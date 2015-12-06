@@ -1,1 +1,1 @@
-1	Electro-clinical evolution that does not require a change in medication regimen or changes in medication regimen that do not include clobazam|clobazam[133,141]|||||||||C0055891|21241|21241|clobazam
+1	electro-clinical evolution that do not require a change in medication regimen or change in medication regimen that do not include clobazam|clobazam[130,138]|||||||||C0055891|21241|21241|clobazam

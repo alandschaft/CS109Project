@@ -1,1 +1,1 @@
-Patients with a documented computed axial tomography CAT scan or magnetic resonance imaging MRI scan confirming the presence of a progressive neurological lesion within 12 months of the screening visit 
+patient with a document compute axial tomography cat scan or magnetic resonance image mri scan confirm the presence of a progressive neurological lesion within 12 month of the screening visit 

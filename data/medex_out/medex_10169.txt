@@ -1,1 +1,1 @@
-1	Injecting opioids in the past year|opioids[10,17]||||||||||1431633|1431633|opioids
+1	inject opioids in the past year|opioids[7,14]||||||||||1431633|1431633|opioids

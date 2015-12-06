@@ -1,1 +1,1 @@
-1	who are currently taking topiramate for any reason|topiramate[25,35]|||||||||C0076829|38404|38404|topiramate
+1	who be currently take topiramate for any reason|topiramate[22,32]|||||||||C0076829|38404|38404|topiramate

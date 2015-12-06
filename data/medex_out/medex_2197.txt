@@ -1,0 +1,1 @@
+1	not have take anti-seizure medication within the past 30 day|seizure medication[19,37]|||||||30 day[54,60]|||1021750|1021750|seizure medication

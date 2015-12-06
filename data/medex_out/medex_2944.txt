@@ -1,1 +1,1 @@
-1	Patients who should not take Topiramate for reasons listed in its approved Summary of Product Characteristics printed information about a medication that describes its actions side effects and intended patients|Topiramate[29,39]|||||||||C0076829|38404|38404|topiramate
+1	patient who should not take topiramate for reason list in it approve summary of product characteristic print information about a medication that describe it action side effect and intend patient|topiramate[28,38]|||||||||C0076829|38404|38404|topiramate

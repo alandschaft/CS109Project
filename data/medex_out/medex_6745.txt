@@ -1,1 +1,1 @@
-1	Patients who have a history of seizure worsening in response to narrow spectrum drugs including carbamazepine|carbamazepine[96,109]|||||||||C0006949|2002|2002|carbamazepine
+1	patient who have a history of seizure worsen in response to narrow spectrum drug include carbamazepine|carbamazepine[89,102]|||||||||C0006949|2002|2002|carbamazepine

@@ -1,1 +1,1 @@
-Patient is taking more than 3 concurrent AEDs 
+patient be take more than 3 concurrent aeds 

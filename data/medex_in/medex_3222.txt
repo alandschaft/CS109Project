@@ -1,1 +1,1 @@
-We will exclude patients if one of the following conditions applies 
+we will exclude patient if one of the following condition applies 

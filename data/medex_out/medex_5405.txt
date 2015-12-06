@@ -1,1 +1,1 @@
-1	Must be in good physical health on the same dose of all medications including Depakote and other AEDs for 2 week period prior to randomization|Depakote[78,86]|||||||2 week[106,112]||C0719751|216459|40254|valproate
+1	must be in good physical health on the same dose of all medication include depakote and other aeds for 2 week period prior to randomization|depakote[75,83]|||||||2 week[103,109]||C0719751|216459|40254|valproate

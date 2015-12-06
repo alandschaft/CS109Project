@@ -1,3 +1,3 @@
-1	1 Treatment with an mTOR inhibitor everolimus sirolimus during the past four weeks|sirolimus[46,55]|||||||four weeks[72,82]||C0072980|35302|35302|sirolimus
-1	1 Treatment with an mTOR inhibitor everolimus sirolimus during the past four weeks|everolimus[35,45]|||||||||C0541315|141704|141704|everolimus
-1	1 Treatment with an mTOR inhibitor everolimus sirolimus during the past four weeks|mTOR inhibitor[20,34]||||||||||496497|496497|mtor inhibitor
+1	1 treatment with an mtor inhibitor everolimus sirolimus during the past four week|sirolimus[46,55]|||||||four week[72,81]||C0072980|35302|35302|sirolimus
+1	1 treatment with an mtor inhibitor everolimus sirolimus during the past four week|everolimus[35,45]|||||||||C0541315|141704|141704|everolimus
+1	1 treatment with an mtor inhibitor everolimus sirolimus during the past four week|mtor inhibitor[20,34]||||||||||496497|496497|mtor inhibitor

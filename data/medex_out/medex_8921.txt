@@ -1,1 +1,1 @@
-1	Subject is taking Benzodiazepines for a nonepilepsy indication|Benzodiazepines[18,33]||||||||||1402|1402|benzodiazepines
+1	subject be take benzodiazepine for a nonepilepsy indication|benzodiazepine[16,30]||||||||||1402|1402|benzodiazepine

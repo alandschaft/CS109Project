@@ -1,1 +1,1 @@
-1	Subject has taken corticotropins in the six months prior to screening|corticotropins[18,32]|||||||six months[40,50]|||||
+1	subject have take corticotropin in the six month prior to screening|corticotropin[18,31]|||||||six month[39,48]||C0001655|376|376|corticotropin

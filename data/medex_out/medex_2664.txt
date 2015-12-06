@@ -1,1 +1,1 @@
-1	Receipt of a live vaccine within 4 weeks prior to treatment|live vaccine[13,25]|||||||4 weeks[33,40]|||235582|235582|poliomyelitis vaccine,live
+1	receipt of a live vaccine within 4 week prior to treatment|live vaccine[13,25]|||||||4 week[33,39]|||235582|235582|poliomyelitis vaccine,live

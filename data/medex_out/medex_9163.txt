@@ -1,1 +1,1 @@
-1	MAO Inhibitors anti depressant required interval period weeks prior to baseline is 4|MAO Inhibitors[0,14]||||||||||1431605|1431605|mao inhibitors
+1	mao inhibitor anti depressant require interval period week prior to baseline be 4|mao inhibitor[0,13]||||||||||7032|7032|mao inhibitor

@@ -1,1 +1,1 @@
-If the patient has a Vagal Nerve Stimulator VNS the settings have not been stable for at least 30 days prior to screening 
+if the patient have a vagal nerve stimulator vns the setting have not be stable for at least 30 day prior to screening 

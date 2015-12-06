@@ -1,1 +1,1 @@
-1	patients with respiratory or cardiac chronic illnesses or ASA other than I-II|ASA[58,61]|||||||||C1740879|667904|9525|salicylic acid
+1	patient with respiratory or cardiac chronic illness or asa other than i-ii|asa[55,58]|||||||||C1740879|667904|9525|salicylic acid

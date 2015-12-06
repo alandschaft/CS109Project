@@ -1,1 +1,1 @@
-1	Participant is currently using or has in the past used recreational or medicinal cannabis or synthetic cannabinoid-based medications including within the 3 months prior to trial entry|cannabis[81,89]|||||||3 months[154,162]|||196583|196583|cannabis
+1	participant be currently use or have in the past used recreational or medicinal cannabis or synthetic cannabinoid-based medication include within the 3 month prior to trial entry|cannabis[80,88]|||||||3 month[150,157]|||196583|196583|cannabis

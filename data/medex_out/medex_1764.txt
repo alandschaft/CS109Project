@@ -1,1 +1,1 @@
-1	Not receiving optimized antidepressant medication|antidepressant[24,38]||||||||||927|927|antidepressant
+1	not receive optimize antidepressant medication|antidepressant[21,35]||||||||||927|927|antidepressant

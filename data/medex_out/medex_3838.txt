@@ -1,1 +1,1 @@
-1	6 HIV vaccines|HIV vaccines[2,14]|||||||||C0042210|11094|11094|hiv vaccines
+1	6 hiv vaccine|hiv vaccine[2,13]||||||||||11094|11094|hiv vaccine

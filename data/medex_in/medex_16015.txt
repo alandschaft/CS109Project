@@ -1,1 +1,1 @@
-a single ABD event that does not resolve with stimulation or an increase in fractional oxygen delivery FiO2 
+a single abd event that do not resolve with stimulation or an increase in fractional oxygen delivery fio2 

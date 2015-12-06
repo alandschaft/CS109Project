@@ -1,1 +1,1 @@
-1	smoking or routine alcohol use more than 2 drinks per day or excessive caffeine intake 300mg per day|caffeine[71,79]|||300mg[87,92]|||per day[50,57]|||C1129008|332715|1886|caffeine
+1	smoking or routine alcohol use more than 2 drink per day or excessive caffeine intake 300mg per day|caffeine[70,78]|||300mg[86,91]|||per day[49,56]|||C1129008|332715|1886|caffeine

@@ -1,1 +1,0 @@
-1	Any patient receiving 6 units packed red blood cells within 12 hours of hospital admission|packed red blood cells[30,52]|||||||12 hours[60,68]|||834201|834201|packed red blood cells

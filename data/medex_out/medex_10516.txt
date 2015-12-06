@@ -1,3 +1,3 @@
-1	currently treated with oxcarbazepine benzodiazepines other than clobazam on a routine or chronic basis and/or VNS|clobazam[64,72]|||||||||C0055891|21241|21241|clobazam
-1	currently treated with oxcarbazepine benzodiazepines other than clobazam on a routine or chronic basis and/or VNS|benzodiazepines[37,52]||||||||||1402|1402|benzodiazepines
-1	currently treated with oxcarbazepine benzodiazepines other than clobazam on a routine or chronic basis and/or VNS|oxcarbazepine[23,36]|||||||||C0069751|32624|32624|oxcarbazepine
+1	currently treat with oxcarbazepine benzodiazepine other than clobazam on a routine or chronic basis and/or vns|clobazam[61,69]|||||||||C0055891|21241|21241|clobazam
+1	currently treat with oxcarbazepine benzodiazepine other than clobazam on a routine or chronic basis and/or vns|benzodiazepine[35,49]||||||||||1402|1402|benzodiazepine
+1	currently treat with oxcarbazepine benzodiazepine other than clobazam on a routine or chronic basis and/or vns|oxcarbazepine[21,34]|||||||||C0069751|32624|32624|oxcarbazepine

@@ -1,2 +1,1 @@
-1	Subjects should refrain from taking any OTC preparations herbal remedies and/or nutritional supplement taken within 7 days prior to study drug drug administration|remedies[64,72]||||||||||||
-1	Subjects should refrain from taking any OTC preparations herbal remedies and/or nutritional supplement taken within 7 days prior to study drug drug administration|nutritional supplement[80,102]|||||||7 days[116,122]|||71486|71486|dietary supplement
+1	subject should refrain from take any otc preparation herbal remedy and/or nutritional supplement take within 7 day prior to study drug drug administration|nutritional supplement[74,96]|||||||7 day[109,114]|||71486|71486|dietary supplement

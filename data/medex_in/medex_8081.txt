@@ -1,1 +1,1 @@
-Occurrence of any ST event during attempt to obtain adequate signal 
+occurrence of any st event during attempt to obtain adequate signal 

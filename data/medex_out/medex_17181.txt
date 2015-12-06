@@ -1,1 +1,1 @@
-1	History of anticoagulant medication use unless stopped prior to surgery as recommended by and in accordance with the American Society of Regional Anesthesia Guidelines|anticoagulant[11,24]|||||||||C0003280|923|923|anticoagulant
+1	history of anticoagulant medication use unless stop prior to surgery a recommend by and in accordance with the american society of regional anesthesia guideline|anticoagulant[11,24]|||||||||C0003280|923|923|anticoagulant

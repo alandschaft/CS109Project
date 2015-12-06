@@ -1,1 +1,1 @@
-1	7 Immune globulin|Immune globulin[2,17]||||||||||5720|5720|globulin,immune
+1	7 immune globulin|immune globulin[2,17]||||||||||5720|5720|globulin,immune

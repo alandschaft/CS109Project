@@ -1,1 +1,1 @@
-Subjects must not have enrolled on this trial previously 
+subject must not have enrol on this trial previously 

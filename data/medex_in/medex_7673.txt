@@ -1,1 +1,1 @@
-peripheral blood 4 10 x 106 CD34+ cells/kg BW recipient 
+peripheral blood 4 10 x 106 cd34+ cells/kg bw recipient 

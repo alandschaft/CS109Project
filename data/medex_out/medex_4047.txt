@@ -1,4 +1,4 @@
-1	Treatment with corticosteroids ACTH vigabatrin felbamate or any AED not approved by Regulatory Agencies 2 weeks prior to randomization|felbamate[47,56]|||||||2 weeks[104,111]||C0060135|24812|24812|felbamate
-1	Treatment with corticosteroids ACTH vigabatrin felbamate or any AED not approved by Regulatory Agencies 2 weeks prior to randomization|vigabatrin[36,46]|||||||||C0048044|14851|14851|vigabatrin
-1	Treatment with corticosteroids ACTH vigabatrin felbamate or any AED not approved by Regulatory Agencies 2 weeks prior to randomization|ACTH[31,35]||||||||||376|376|corticotropin
-1	Treatment with corticosteroids ACTH vigabatrin felbamate or any AED not approved by Regulatory Agencies 2 weeks prior to randomization|corticosteroids[15,30]|||||||||C0001617|354|354|corticosteroids
+1	treatment with corticosteroid acth vigabatrin felbamate or any aed not approve by regulatory agency 2 week prior to randomization|felbamate[46,55]|||||||2 week[100,106]||C0060135|24812|24812|felbamate
+1	treatment with corticosteroid acth vigabatrin felbamate or any aed not approve by regulatory agency 2 week prior to randomization|vigabatrin[35,45]|||||||||C0048044|14851|14851|vigabatrin
+1	treatment with corticosteroid acth vigabatrin felbamate or any aed not approve by regulatory agency 2 week prior to randomization|acth[30,34]||||||||||376|376|corticotropin
+1	treatment with corticosteroid acth vigabatrin felbamate or any aed not approve by regulatory agency 2 week prior to randomization|corticosteroid[15,29]||||||||||354|354|corticosteroid

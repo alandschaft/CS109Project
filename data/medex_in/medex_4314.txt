@@ -1,1 +1,1 @@
-1 Pulmonary diffusing capacity of lung for carbon monoxide DLCO 50 
+1 pulmonary diffusing capacity of lung for carbon monoxide dlco 50 

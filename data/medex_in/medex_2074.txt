@@ -1,1 +1,1 @@
-Subjects must have a lifetime prevalence of at least 2 prior cluster cycles 
+subject must have a lifetime prevalence of at least 2 prior cluster cycle 

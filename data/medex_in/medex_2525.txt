@@ -1,1 +1,1 @@
-Diffusing capacity of lung for carbon monoxide DLCO 30 
+diffuse capacity of lung for carbon monoxide dlco 30 

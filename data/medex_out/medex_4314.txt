@@ -1,1 +1,1 @@
-1	1 Pulmonary diffusing capacity of lung for carbon monoxide DLCO 50|carbon monoxide[43,58]|||||||||C0007018|2037|2037|carbon monoxide
+1	1 pulmonary diffusing capacity of lung for carbon monoxide dlco 50|carbon monoxide[43,58]|||||||||C0007018|2037|2037|carbon monoxide

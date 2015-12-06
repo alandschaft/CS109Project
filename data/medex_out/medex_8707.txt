@@ -1,1 +1,1 @@
-1	4 Patient is currently taking at least one antiepileptic medication|antiepileptic[43,56]|||||||||C0003299|932|932|antiepileptic
+1	4 patient be currently take at least one antiepileptic medication|antiepileptic[41,54]|||||||||C0003299|932|932|antiepileptic

@@ -1,1 +1,1 @@
-Subjects must not have active infection 
+subject must not have active infection 

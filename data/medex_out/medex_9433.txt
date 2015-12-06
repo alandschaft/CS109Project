@@ -1,1 +1,1 @@
-1	Patients dependent on alcohol or narcotic drugs as defined by DSM IV-TR within the past 2 years|narcotic drugs[33,47]|||||IV[66,68]||2 years[88,95]|||42811|42811|narcotic drugs
+1	patient dependent on alcohol or narcotic drug a define by dsm iv-tr within the past 2 year|narcotic drug[32,45]|||||iv[62,64]|||||42811|42811|narcotic drug

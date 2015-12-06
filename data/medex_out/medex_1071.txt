@@ -1,2 +1,2 @@
-1	3 Patients with a known ornithine transcarbamylase disorder history of unexplained coma or a family history of ornithine transcarbamylase disorder are excluded from this study|ornithine[24,33]|||||||||C0029277|7704|7704|ornithine
-1	3 Patients with a known ornithine transcarbamylase disorder history of unexplained coma or a family history of ornithine transcarbamylase disorder are excluded from this study|ornithine[111,120]|||||||||C0029277|7704|7704|ornithine
+1	3 patient with a know ornithine transcarbamylase disorder history of unexplained coma or a family history of ornithine transcarbamylase disorder be exclude from this study|ornithine[22,31]|||||||||C0029277|7704|7704|ornithine
+1	3 patient with a know ornithine transcarbamylase disorder history of unexplained coma or a family history of ornithine transcarbamylase disorder be exclude from this study|ornithine[109,118]|||||||||C0029277|7704|7704|ornithine

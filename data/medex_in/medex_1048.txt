@@ -1,1 +1,1 @@
-BMI less than 32 kg/m 2 
+bmi less than 32 kg/m 2 

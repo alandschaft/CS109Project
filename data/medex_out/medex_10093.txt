@@ -1,1 +1,1 @@
-1	Received one dose of standard anticonvulsive therapy phenobarbitone,20mg/kg for clinical or electrographic seizures|phenobarbitone[53,67]|||20mg[68,72]|||||||8134|8134|phenobarbital
+1	received one dose of standard anticonvulsive therapy phenobarbitone,20mg/kg for clinical or electrographic seizure|phenobarbitone[53,67]|||20mg[68,72]|||||||8134|8134|phenobarbital

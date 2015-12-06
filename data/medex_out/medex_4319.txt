@@ -1,2 +1,2 @@
-1	Capable of receiving Granulocyte Colony-Stimulating Factor G-CSF and undergo apheresis|G - CSF[59,64]||||||||||40112|40112|g-csf
-1	Capable of receiving Granulocyte Colony-Stimulating Factor G-CSF and undergo apheresis|Granulocyte Colony - Stimulating Factor[21,58]||||||||||40112|40112|granulocyte colony-stimulating factor
+1	capable of receive granulocyte colony-stimulating factor g-csf and undergo apheresis|g - csf[57,62]||||||||||40112|40112|g-csf
+1	capable of receive granulocyte colony-stimulating factor g-csf and undergo apheresis|granulocyte colony - stimulating factor[19,56]||||||||||40112|40112|granulocyte colony-stimulating factor

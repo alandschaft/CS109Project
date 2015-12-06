@@ -1,1 +1,1 @@
-1	Use of any investigational drug within 30 days|investigational drug[11,31]|||||||30 days[39,46]||C1875327|691729|691729|investigational drug
+1	use of any investigational drug within 30 day|investigational drug[11,31]|||||||30 day[39,45]||C1875327|691729|691729|investigational drug

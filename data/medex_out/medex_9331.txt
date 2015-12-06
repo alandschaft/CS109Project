@@ -1,1 +1,1 @@
-1	Ongoing treatment with VPA-interacting drugs|VPA[23,26]||||||||||1099703|40254|valproate
+1	ongoing treatment with vpa-interacting drug|vpa[23,26]||||||||||1099703|40254|valproate

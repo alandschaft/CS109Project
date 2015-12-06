@@ -1,1 +1,1 @@
-Video-EEG characteristics showing temporal lobe seizure onset left-sided or right-sided seizure onset in at least one recorded habitual seizure 
+video-eeg characteristic show temporal lobe seizure onset left-sided or right-sided seizure onset in at least one record habitual seizure 

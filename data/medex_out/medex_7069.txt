@@ -1,2 +1,2 @@
-1	currently on or with exposure to felbamate or oxcarbazepine more within one month of screening|felbamate[33,42]|||||||||C0060135|24812|24812|felbamate
-1	currently on or with exposure to felbamate or oxcarbazepine more within one month of screening|oxcarbazepine[46,59]|||||||one month[72,81]||C0069751|32624|32624|oxcarbazepine
+1	currently on or with exposure to felbamate or oxcarbazepine more within one month of screen|felbamate[33,42]|||||||||C0060135|24812|24812|felbamate
+1	currently on or with exposure to felbamate or oxcarbazepine more within one month of screen|oxcarbazepine[46,59]|||||||one month[72,81]||C0069751|32624|32624|oxcarbazepine

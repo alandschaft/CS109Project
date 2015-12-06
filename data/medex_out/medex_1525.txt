@@ -1,2 +1,2 @@
-1	Regular use of platelet active drugs or non-steroidal anti-inflammatory drugs NSAIDS|NSAIDS[78,84]||||||||||||
-1	Regular use of platelet active drugs or non-steroidal anti-inflammatory drugs NSAIDS|steroidal anti - inflammatory drugs[44,77]||||||||||887|887|steroidal anti-inflammatory drugs
+1	regular use of platelet active drug or non-steroidal anti-inflammatory drug nsaid|nsaid[76,81]||||||||||889|889|nsaid
+1	regular use of platelet active drug or non-steroidal anti-inflammatory drug nsaid|non - steroidal anti - inflammatory drug[39,75]||||||||||889|889|non-steroidal anti-inflammatory drug

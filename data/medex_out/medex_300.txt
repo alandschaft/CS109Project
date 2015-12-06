@@ -1,4 +1,4 @@
-1	No use of oral contraceptives phenytoin and potentially ginko may induce the clearance of oral contraceptive lead to potential oral contraceptive failure|phenytoin[30,39]|||||||||C0031507|8183|8183|phenytoin
-1	No use of oral contraceptives phenytoin and potentially ginko may induce the clearance of oral contraceptive lead to potential oral contraceptive failure|oral contraceptives[10,29]||||||||||2821|2821|oral contraceptives
-1	No use of oral contraceptives phenytoin and potentially ginko may induce the clearance of oral contraceptive lead to potential oral contraceptive failure|oral contraceptive[90,108]||||||||||2821|2821|oral contraceptive
-1	No use of oral contraceptives phenytoin and potentially ginko may induce the clearance of oral contraceptive lead to potential oral contraceptive failure|oral contraceptive[127,145]||||||||||2821|2821|oral contraceptive
+1	no use of oral contraceptive phenytoin and potentially ginko may induce the clearance of oral contraceptive lead to potential oral contraceptive failure|phenytoin[29,38]|||||||||C0031507|8183|8183|phenytoin
+1	no use of oral contraceptive phenytoin and potentially ginko may induce the clearance of oral contraceptive lead to potential oral contraceptive failure|oral contraceptive[10,28]||||||||||2821|2821|oral contraceptive
+1	no use of oral contraceptive phenytoin and potentially ginko may induce the clearance of oral contraceptive lead to potential oral contraceptive failure|oral contraceptive[89,107]||||||||||2821|2821|oral contraceptive
+1	no use of oral contraceptive phenytoin and potentially ginko may induce the clearance of oral contraceptive lead to potential oral contraceptive failure|oral contraceptive[126,144]||||||||||2821|2821|oral contraceptive

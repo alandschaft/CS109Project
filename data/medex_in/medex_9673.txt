@@ -1,1 +1,1 @@
-Weight 104 kg 
+weight 104 kg 

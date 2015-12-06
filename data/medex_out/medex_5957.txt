@@ -1,1 +1,1 @@
-1	Presence of basal skull fracture causing cerebro-spinal fluid CSF rhinorrhea|CSF[62,65]||||||||||40209|40209|csf
+1	presence of basal skull fracture cause cerebro-spinal fluid csf rhinorrhea|csf[60,63]||||||||||40209|40209|csf

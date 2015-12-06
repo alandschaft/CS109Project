@@ -1,1 +1,1 @@
-1	not taking hormonal contraceptives with more than one anovulatory cycle during the Baseline Period|contraceptives[20,34]||||||||||2815|2815|contraceptives
+1	not take hormonal contraceptive with more than one anovulatory cycle during the baseline period|contraceptive[18,31]||||||||||64078|64078|contraceptive

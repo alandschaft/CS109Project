@@ -1,2 +1,2 @@
-1	1 On Dilantin for seizure prophylaxis dose determined by primary caregiver with therapeutic Dilantin levels|Dilantin[5,13]||||||||||202740|8183|phenytoin
-1	1 On Dilantin for seizure prophylaxis dose determined by primary caregiver with therapeutic Dilantin levels|Dilantin[92,100]||||||||||202740|8183|phenytoin
+1	1 on dilantin for seizure prophylaxis dose determine by primary caregiver with therapeutic dilantin level|dilantin[5,13]||||||||||202740|8183|phenytoin
+1	1 on dilantin for seizure prophylaxis dose determine by primary caregiver with therapeutic dilantin level|dilantin[91,99]||||||||||202740|8183|phenytoin

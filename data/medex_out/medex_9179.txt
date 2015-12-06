@@ -1,1 +1,1 @@
-1	normal TSH free T4 prolactin control subjects|prolactin[19,28]||||||||||1426890|1426890|prolactin
+1	normal tsh free t4 prolactin control subject|prolactin[19,28]||||||||||1426890|1426890|prolactin

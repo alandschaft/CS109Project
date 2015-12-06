@@ -1,1 +1,1 @@
-1	7 Epileptic patient treated or not except patients treated with benzodiazepines who can be included in this protocol|benzodiazepines[64,79]||||||||||1402|1402|benzodiazepines
+1	7 epileptic patient treat or not except patient treat with benzodiazepine who can be include in this protocol|benzodiazepine[59,73]||||||||||1402|1402|benzodiazepine

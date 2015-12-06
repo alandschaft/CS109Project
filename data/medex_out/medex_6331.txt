@@ -1,1 +1,1 @@
-1	newborns given 40mg/kg of phenobarbital|phenobarbital[26,39]|||40mg[15,19]||||||C1133576|336345|8134|phenobarbital
+1	newborn give 40mg/kg of phenobarbital|phenobarbital[24,37]|||40mg[13,17]||||||C1133576|336345|8134|phenobarbital

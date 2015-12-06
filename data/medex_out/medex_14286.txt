@@ -1,1 +1,1 @@
-1	Patients who are intubated and on IV sedation such as Propofol or|Propofol[54,62]|||||IV[34,36]|||||1234315|8782|propofol
+1	patient who be intubate and on iv sedation such a propofol or|propofol[50,58]|||||iv[31,33]|||||1234315|8782|propofol

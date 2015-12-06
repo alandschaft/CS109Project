@@ -1,1 +1,1 @@
-1	4 Previous treatment with Levetiracetam|Levetiracetam[26,39]|||||||||C0377265|114477|114477|levetiracetam
+1	4 previous treatment with levetiracetam|levetiracetam[26,39]|||||||||C0377265|114477|114477|levetiracetam

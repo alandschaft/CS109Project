@@ -1,1 +1,1 @@
-1	Systemic conditions e.g. chronic kidney failure liver disease heart failure steroid-dependent immune diseases other than NCC that may interfere with the study|steroid[76,83]||||||||||10072|10072|steroid
+1	systemic condition e.g. chronic kidney failure liver disease heart failure steroid-dependent immune disease other than ncc that may interfere with the study|steroid[75,82]||||||||||10072|10072|steroid

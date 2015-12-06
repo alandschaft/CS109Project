@@ -1,1 +1,1 @@
-Patients must be able to report seizure frequency with either a paper or electronic diary 
+patient must be able to report seizure frequency with either a paper or electronic diary 

@@ -1,1 +1,1 @@
-1	Taking between one and three antiepileptic drugs|antiepileptic drugs[29,48]|||||||||C0003299|932|932|antiepileptic drugs
+1	take between one and three antiepileptic drug|antiepileptic[27,40]|||||||||C0003299|932|932|antiepileptic

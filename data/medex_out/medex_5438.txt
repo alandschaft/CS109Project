@@ -1,4 +1,4 @@
-1	Use of neuroleptics monoamine oxidase MAO inhibitors barbiturates or narcotic analgesics within 28 days prior to screening|barbiturates[53,65]||||||||||1326|1326|barbiturates
-1	Use of neuroleptics monoamine oxidase MAO inhibitors barbiturates or narcotic analgesics within 28 days prior to screening|MAO inhibitors[38,52]||||||||||1431605|1431605|mao inhibitors
-1	Use of neuroleptics monoamine oxidase MAO inhibitors barbiturates or narcotic analgesics within 28 days prior to screening|neuroleptics[7,19]||||||||||||
-1	Use of neuroleptics monoamine oxidase MAO inhibitors barbiturates or narcotic analgesics within 28 days prior to screening|narcotic analgesics[69,88]|||||||28 days[96,103]|||7260|7260|narcotic analgesics
+1	use of neuroleptic monoamine oxidase mao inhibitor barbiturates or narcotic analgesic within 28 day prior to screening|barbiturates[51,63]||||||||||1326|1326|barbiturates
+1	use of neuroleptic monoamine oxidase mao inhibitor barbiturates or narcotic analgesic within 28 day prior to screening|mao inhibitor[37,50]||||||||||7032|7032|mao inhibitor
+1	use of neuroleptic monoamine oxidase mao inhibitor barbiturates or narcotic analgesic within 28 day prior to screening|neuroleptic[7,18]||||||||||10693|10693|antipsychotic drug
+1	use of neuroleptic monoamine oxidase mao inhibitor barbiturates or narcotic analgesic within 28 day prior to screening|narcotic analgesic[67,85]|||||||28 day[93,99]|||7260|7260|narcotic analgesic

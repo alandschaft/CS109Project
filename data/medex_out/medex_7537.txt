@@ -1,1 +1,1 @@
-1	Neuro-muscular blockade|blockade[15,23]||||||||||1423936|5933|jodum
+1	neuro-muscular blockade|blockade[15,23]||||||||||1423936|5933|jodum

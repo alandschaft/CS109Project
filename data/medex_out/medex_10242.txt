@@ -1,2 +1,2 @@
-1	Diagnosed of pneumococcal meningitis due to clinical characteristics plus a positive CSF Gram stain and/or a detection of pneumococcal antigen or PCR|pneumococcal[13,25]|||||||||C0358314|106467|106467|pneumococcal vaccine
-1	Diagnosed of pneumococcal meningitis due to clinical characteristics plus a positive CSF Gram stain and/or a detection of pneumococcal antigen or PCR|pneumococcal[122,134]|||||||||C0358314|106467|106467|pneumococcal vaccine
+1	diagnose of pneumococcal meningitis due to clinical characteristic plus a positive csf gram stain and/or a detection of pneumococcal antigen or pcr|pneumococcal[12,24]|||||||||C0358314|106467|106467|pneumococcal vaccine
+1	diagnose of pneumococcal meningitis due to clinical characteristic plus a positive csf gram stain and/or a detection of pneumococcal antigen or pcr|pneumococcal[120,132]|||||||||C0358314|106467|106467|pneumococcal vaccine

@@ -1,1 +1,1 @@
-1	Hypersensitivity to fluoxetine or its excipients|fluoxetine[20,30]|||||||||C0016365|4493|4493|fluoxetine
+1	hypersensitivity to fluoxetine or it excipients|fluoxetine[20,30]|||||||||C0016365|4493|4493|fluoxetine

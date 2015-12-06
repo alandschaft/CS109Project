@@ -1,1 +1,1 @@
-16 Subject has clinically significant abnormal laboratory values at the Screening Visit 
+16 subject have clinically significant abnormal laboratory value at the screening visit 

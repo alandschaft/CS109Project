@@ -1,1 +1,1 @@
-Patients must be than or equal to 18 years old 
+patient must be than or equal to 18 year old 

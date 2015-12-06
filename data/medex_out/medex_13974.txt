@@ -1,1 +1,1 @@
-1	Meets criteria for Attention Deficit Hyperactivity Disorder and has not failed a trial of psychostimulants|psychostimulants[90,106]|||||||||C3653645|1430810|1430810|psychostimulants
+1	meet criteria for attention deficit hyperactivity disorder and have not fail a trial of psychostimulants|psychostimulants[88,104]|||||||||C3653645|1430810|1430810|psychostimulants

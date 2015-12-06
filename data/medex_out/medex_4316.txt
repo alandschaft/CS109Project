@@ -1,1 +1,1 @@
-1	3 Renal creatinine clearance measured or calculated equal or greater than 50 ml/min at any time pentostatin is administered|pentostatin[96,107]|||50ml[74,79]||||||C0030896|8011|8011|pentostatin
+1	3 renal creatinine clearance measure or calculate equal or great than 50 ml/min at any time pentostatin be administer|pentostatin[92,103]|||50ml[70,75]||||||C0030896|8011|8011|pentostatin

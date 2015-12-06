@@ -1,1 +1,1 @@
-1	Progesterone-only OC|Progesterone[0,12]|||||||||C0033308|8727|8727|progesterone
+1	progesterone-only oc|progesterone[0,12]|||||||||C0033308|8727|8727|progesterone

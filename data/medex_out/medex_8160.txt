@@ -1,1 +1,1 @@
-1	Have taken topiramate within the past 6 months|topiramate[11,21]|||||||6 months[38,46]||C0076829|38404|38404|topiramate
+1	have take topiramate within the past 6 month|topiramate[10,20]|||||||6 month[37,44]||C0076829|38404|38404|topiramate

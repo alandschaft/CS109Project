@@ -1,1 +1,1 @@
-Subjects must have between 0-10 seizures of any type per month 
+subject must have between 0-10 seizure of any type per month 

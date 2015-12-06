@@ -1,1 +1,1 @@
-1	Has a contact lens prescription outside the range of the available parameters of the study lenses|contact lens[6,18]||||||||||2809|2809|contact lens
+1	have a contact lens prescription outside the range of the available parameter of the study lenses|contact lens[7,19]||||||||||2809|2809|contact lens

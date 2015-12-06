@@ -1,2 +1,2 @@
-1	Subjects with epilepsy taking any medications other than antiepileptic drugs that may affect cerebral blood flow GABA or glutamate neurotransmission or metabolism|antiepileptic drugs[57,76]|||||||||C0003299|932|932|antiepileptic drugs
-1	Subjects with epilepsy taking any medications other than antiepileptic drugs that may affect cerebral blood flow GABA or glutamate neurotransmission or metabolism|glutamate[121,130]|||||||||C0220839|70602|70602|glutamate
+1	subject with epilepsy take any medication other than antiepileptic drug that may affect cerebral blood flow gaba or glutamate neurotransmission or metabolism|antiepileptic[53,66]|||||||||C0003299|932|932|antiepileptic
+1	subject with epilepsy take any medication other than antiepileptic drug that may affect cerebral blood flow gaba or glutamate neurotransmission or metabolism|glutamate[116,125]|||||||||C0220839|70602|70602|glutamate

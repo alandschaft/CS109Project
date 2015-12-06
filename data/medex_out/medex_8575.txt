@@ -1,1 +1,1 @@
-1	Amylase less than 1.5 times ULN|Amylase[0,7]|||||||||C0002712|743|743|diastase
+1	amylase less than 1.5 time uln|amylase[0,7]|||||||||C0002712|743|743|diastase

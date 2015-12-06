@@ -1,1 +1,1 @@
-1	Tried at least two anticonvulsants|anticonvulsants[19,34]|||||||||C0003286|926|926|anticonvulsants
+1	tried at least two anticonvulsant|anticonvulsant[19,33]||||||||||926|926|anticonvulsant

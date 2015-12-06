@@ -1,1 +1,1 @@
-1	More than 10 days since prior anticonvulsant drugs that induce hepatic metabolic enzymes Group A|anticonvulsant drugs[30,50]|||||||10 days[10,17]|||926|926|anticonvulsant drugs
+1	more than 10 day since prior anticonvulsant drug that induce hepatic metabolic enzyme group a|anticonvulsant[29,43]|||||||10 day[10,16]|||926|926|anticonvulsant

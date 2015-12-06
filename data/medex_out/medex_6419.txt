@@ -1,2 +1,2 @@
-1	4 Use nitroprusside or nitroglycerine with in the past 4 hours|nitroprusside[6,19]|||||||||C0028193|7476|7476|nitroprusside
-1	4 Use nitroprusside or nitroglycerine with in the past 4 hours|nitroglycerine[23,37]|||||||4 hours[55,62]|||237205|4917|glyceryl trinitrate
+1	4 use nitroprusside or nitroglycerine with in the past 4 hour|nitroprusside[6,19]|||||||||C0028193|7476|7476|nitroprusside
+1	4 use nitroprusside or nitroglycerine with in the past 4 hour|nitroglycerine[23,37]|||||||4 hour[55,61]|||237205|4917|glyceryl trinitrate

@@ -1,2 +1,2 @@
-1	The subject 's treating physician is planning to prescribe levetiracetam for focal or lamotrigine for generalized seizure prevention|levetiracetam[59,72]|||||||||C0377265|114477|114477|levetiracetam
-1	The subject 's treating physician is planning to prescribe levetiracetam for focal or lamotrigine for generalized seizure prevention|lamotrigine[86,97]|||||||||C0064636|28439|28439|lamotrigine
+1	the subject 's treating physician be plan to prescribe levetiracetam for focal or lamotrigine for generalized seizure prevention|levetiracetam[55,68]|||||||||C0377265|114477|114477|levetiracetam
+1	the subject 's treating physician be plan to prescribe levetiracetam for focal or lamotrigine for generalized seizure prevention|lamotrigine[82,93]|||||||||C0064636|28439|28439|lamotrigine

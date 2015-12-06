@@ -1,1 +1,1 @@
-Delirium based on the RASS and the CAM-ICU assessments at any day during ICU stay 
+delirium base on the ras and the cam-icu assessment at any day during icu stay 

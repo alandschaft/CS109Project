@@ -1,1 +1,1 @@
-1	Meets DSM Diagnostic and Statistical Manual -IV criteria for current diagnoses of cocaine and alcohol dependence determined by the SCID Structured Clinical Interview for the DSM -IV|cocaine[82,89]|||||IV[45,47]||||C0009170|2653|2653|cocaine
+1	meet dsm diagnostic and statistical manual -iv criterion for current diagnosis of cocaine and alcohol dependence determine by the scid structured clinical interview for the dsm -iv|cocaine[82,89]|||||iv[44,46]||||C0009170|2653|2653|cocaine

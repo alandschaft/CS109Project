@@ -1,1 +1,1 @@
-1	Subjects who abuse opioids as determined by investigator|opioids[19,26]||||||||||1431633|1431633|opioids
+1	subject who abuse opioids a determine by investigator|opioids[18,25]||||||||||1431633|1431633|opioids

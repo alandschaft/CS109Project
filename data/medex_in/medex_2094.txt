@@ -1,1 +1,1 @@
-Patient is male or female between the ages of 18 and 65 
+patient be male or female between the age of 18 and 65 

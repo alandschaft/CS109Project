@@ -1,1 +1,1 @@
-1	9 Concomitant use of barbiturates except for seizure control indication within 30 days prior to Baseline|barbiturates[21,33]|||||||30 days[79,86]|||1326|1326|barbiturates
+1	9 concomitant use of barbiturate except for seizure control indication within 30 day prior to baseline|barbiturate[21,32]|||||||30 day[78,84]|||1326|1326|barbiturate

@@ -1,1 +1,1 @@
-.BMI of 25 or over 
+.bmi of 25 or over 

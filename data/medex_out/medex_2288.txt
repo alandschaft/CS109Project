@@ -1,1 +1,1 @@
-1	8 Be currently participating in another clinical study in which the subject will be exposed to an investigational or a non-investigational drug or device|investigational drug[123,143]|||||||||C1875327|691729|691729|investigational drug
+1	8 be currently participate in another clinical study in which the subject will be expose to an investigational or a non-investigational drug or device|investigational drug[120,140]|||||||||C1875327|691729|691729|investigational drug

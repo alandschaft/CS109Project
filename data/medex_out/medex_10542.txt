@@ -1,1 +1,1 @@
-1	The patient is not sufficiently controlled on a current antiepileptic monotherapy and in the neurologist clinical judgment it is in the patient 's best interest to be prescribed with adjunctive ESL|antiepileptic[56,69]|||||||||C0003299|932|932|antiepileptic
+1	the patient be not sufficiently control on a current antiepileptic monotherapy and in the neurologist clinical judgment it be in the patient 's best interest to be prescribe with adjunctive esl|antiepileptic[53,66]|||||||||C0003299|932|932|antiepileptic

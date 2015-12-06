@@ -1,1 +1,1 @@
-1	Known allergy to levetiracetam or history of previous adverse reaction to levetiracetam|levetiracetam[74,87]|||||||||C0377265|114477|114477|levetiracetam
+1	known allergy to levetiracetam or history of previous adverse reaction to levetiracetam|levetiracetam[74,87]|||||||||C0377265|114477|114477|levetiracetam

@@ -1,1 +1,1 @@
-CD4 count must be 100/mm^3 
+cd4 count must be 100/mm^3 

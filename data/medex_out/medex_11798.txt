@@ -1,1 +1,1 @@
-1	Onset of new neurological signs of subarachnoid hemorrhage within 72 hours at the time of evaluation and initiation of treatment with 25 human albumin|albumin[143,150]|||||||72 hours[66,74]||C0001924|433|433|albumin
+1	onset of new neurological sign of subarachnoid hemorrhage within 72 hour at the time of evaluation and initiation of treatment with 25 human albumin|albumin[141,148]|||||||72 hour[65,72]||C0001924|433|433|albumin

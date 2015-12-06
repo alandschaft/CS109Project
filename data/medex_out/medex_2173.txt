@@ -1,3 +1,3 @@
-1	Patients currently taking felbamate vigabatrin or tricyclic antidepressants|vigabatrin[36,46]|||||||||C0048044|14851|14851|vigabatrin
-1	Patients currently taking felbamate vigabatrin or tricyclic antidepressants|felbamate[26,35]|||||||||C0060135|24812|24812|felbamate
-1	Patients currently taking felbamate vigabatrin or tricyclic antidepressants|tricyclic antidepressants[50,75]|||||||||C0003290|928|928|tricyclic antidepressants
+1	patient currently take felbamate vigabatrin or tricyclic antidepressant|vigabatrin[33,43]|||||||||C0048044|14851|14851|vigabatrin
+1	patient currently take felbamate vigabatrin or tricyclic antidepressant|felbamate[23,32]|||||||||C0060135|24812|24812|felbamate
+1	patient currently take felbamate vigabatrin or tricyclic antidepressant|tricyclic antidepressant[47,71]||||||||||928|928|tricyclic antidepressant

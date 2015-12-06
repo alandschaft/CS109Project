@@ -1,1 +1,1 @@
-1	2 Prior history of failure to control partial-onset seizures despite having been treated with two or more sequential regimens of single or combined antiepileptic drugs|antiepileptic drugs[148,167]|||||||||C0003299|932|932|antiepileptic drugs
+1	2 prior history of failure to control partial-onset seizure despite have be treat with two or more sequential regimen of single or combine antiepileptic drug|antiepileptic[139,152]|||||||||C0003299|932|932|antiepileptic

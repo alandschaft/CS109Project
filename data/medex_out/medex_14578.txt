@@ -1,1 +1,1 @@
-1	Subject is Japanese and currently enrolled in EP0009 NCT01832038 receiving oral Lacosamide LCM for the treatment of partial-onset seizures and has been enrolled for at least 8 weeks|Lacosamide[80,90]|||||oral[75,79]||8 weeks[174,181]||C3216851|1162529|623400|lacosamide
+1	subject be japanese and currently enrol in ep0009 nct01832038 receive oral lacosamide lcm for the treatment of partial-onset seizure and have be enrol for at least 8 week|lacosamide[75,85]|||||oral[70,74]||8 week[164,170]||C3216851|1162529|623400|lacosamide

@@ -1,2 +1,2 @@
-1	Patients who have had clear tumor progression while being treated with tamoxifen and/or patients treated with tamoxifen within the past year|tamoxifen[71,80]|||||||||C0039286|10324|10324|tamoxifen
-1	Patients who have had clear tumor progression while being treated with tamoxifen and/or patients treated with tamoxifen within the past year|tamoxifen[110,119]|||||||||C0039286|10324|10324|tamoxifen
+1	patient who have have clear tumor progression while be treat with tamoxifen and/or patient treat with tamoxifen within the past year|tamoxifen[66,75]|||||||||C0039286|10324|10324|tamoxifen
+1	patient who have have clear tumor progression while be treat with tamoxifen and/or patient treat with tamoxifen within the past year|tamoxifen[102,111]|||||||||C0039286|10324|10324|tamoxifen

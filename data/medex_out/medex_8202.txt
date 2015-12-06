@@ -1,4 +1,4 @@
-1	taking supplements containing either folic acid or vitamin B12 or knowingly consuming any vitamin-fortified food items|folic acid[37,47]|||||||||C0016410|4511|4511|folic acid
-1	taking supplements containing either folic acid or vitamin B12 or knowingly consuming any vitamin-fortified food items|vitamin B12[51,62]||||||||||1036368|1036368|vitamin b12
-1	taking supplements containing either folic acid or vitamin B12 or knowingly consuming any vitamin-fortified food items|fortified food[98,112]||||||||||637334|637334|fortified food
-1	taking supplements containing either folic acid or vitamin B12 or knowingly consuming any vitamin-fortified food items|vitamin[90,97]||||||||||11262|11262|vitamin
+1	take supplement contain either folic acid or vitamin b12 or knowingly consume any vitamin-fortified food item|folic acid[31,41]|||||||||C0016410|4511|4511|folic acid
+1	take supplement contain either folic acid or vitamin b12 or knowingly consume any vitamin-fortified food item|vitamin b12[45,56]||||||||||1036368|1036368|vitamin b12
+1	take supplement contain either folic acid or vitamin b12 or knowingly consume any vitamin-fortified food item|fortified food[90,104]||||||||||637334|637334|fortified food
+1	take supplement contain either folic acid or vitamin b12 or knowingly consume any vitamin-fortified food item|vitamin[82,89]||||||||||11262|11262|vitamin

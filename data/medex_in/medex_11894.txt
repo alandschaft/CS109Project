@@ -1,1 +1,1 @@
-QTc interval on the ECG performed at the screening visit above 500 ms 
+qtc interval on the ecg perform at the screening visit above 500 m 

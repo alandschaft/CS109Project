@@ -1,1 +1,1 @@
-1	Subjects were uncontrolled while treated by 1 to 2 permitted concomitant antiepileptic drugs AEDs Vagal nerve stimulation was allowed and was not counted as a concomitant AED|antiepileptic drugs[73,92]|||||||||C0003299|932|932|antiepileptic drugs
+1	subject be uncontrolled while treat by 1 to 2 permit concomitant antiepileptic drug aeds vagal nerve stimulation be allow and be not count a a concomitant aed|antiepileptic[65,78]|||||||||C0003299|932|932|antiepileptic

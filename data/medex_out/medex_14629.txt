@@ -1,1 +1,1 @@
-1	4 Failed response to previous trial of two anti-epileptic drugs In the case of infantile spasms this could include a trial of corticosteroids|corticosteroids[126,141]|||||||||C0001617|354|354|corticosteroids
+1	4 fail response to previous trial of two anti-epileptic drug in the case of infantile spasm this could include a trial of corticosteroid|corticosteroid[122,136]||||||||||354|354|corticosteroid

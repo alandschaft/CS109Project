@@ -1,1 +1,1 @@
-1	Is currently taking lamotrigine LTG or has previously had an adequate trial of LTG|lamotrigine[20,31]|||||||||C0064636|28439|28439|lamotrigine
+1	be currently take lamotrigine ltg or have previously have an adequate trial of ltg|lamotrigine[18,29]|||||||||C0064636|28439|28439|lamotrigine

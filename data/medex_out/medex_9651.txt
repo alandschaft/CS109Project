@@ -1,1 +1,1 @@
-1	Congenital infection with rubella syphilis varicella parvovirus or toxoplasmosis diagnosed by serology and ultrasound or amniotic fluid testing|rubella[26,33]||||||||||1022799|1022799|rubella
+1	congenital infection with rubella syphilis varicella parvovirus or toxoplasmosis diagnose by serology and ultrasound or amniotic fluid testing|rubella[26,33]||||||||||1022799|1022799|rubella

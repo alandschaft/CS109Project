@@ -1,1 +1,1 @@
-1	Prior therapy with a medication in the same class as Everolimus|Everolimus[53,63]|||||||||C0541315|141704|141704|everolimus
+1	prior therapy with a medication in the same class a everolimus|everolimus[52,62]|||||||||C0541315|141704|141704|everolimus

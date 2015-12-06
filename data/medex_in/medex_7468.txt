@@ -1,1 +1,1 @@
-ECOG performance status 0 or 1 Karnofsky 80 
+ecog performance status 0 or 1 karnofsky 80 

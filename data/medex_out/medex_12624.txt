@@ -1,5 +1,5 @@
-1	Sensibility known about benzodiazepines fosphenytoin phenytoin other hydantoins or barbiturate|hydantoins[69,79]||||||||||5469|5469|hydantoins
-1	Sensibility known about benzodiazepines fosphenytoin phenytoin other hydantoins or barbiturate|phenytoin[53,62]|||||||||C0031507|8183|8183|phenytoin
-1	Sensibility known about benzodiazepines fosphenytoin phenytoin other hydantoins or barbiturate|fosphenytoin[40,52]|||||||||C0244656|72236|72236|fosphenytoin
-1	Sensibility known about benzodiazepines fosphenytoin phenytoin other hydantoins or barbiturate|benzodiazepines[24,39]||||||||||1402|1402|benzodiazepines
-1	Sensibility known about benzodiazepines fosphenytoin phenytoin other hydantoins or barbiturate|barbiturate[83,94]||||||||||1326|1326|barbiturate
+1	sensibility know about benzodiazepine fosphenytoin phenytoin other hydantoin or barbiturate|hydantoin[67,76]||||||||||5468|5468|hydantoin
+1	sensibility know about benzodiazepine fosphenytoin phenytoin other hydantoin or barbiturate|phenytoin[51,60]|||||||||C0031507|8183|8183|phenytoin
+1	sensibility know about benzodiazepine fosphenytoin phenytoin other hydantoin or barbiturate|fosphenytoin[38,50]|||||||||C0244656|72236|72236|fosphenytoin
+1	sensibility know about benzodiazepine fosphenytoin phenytoin other hydantoin or barbiturate|benzodiazepine[23,37]||||||||||1402|1402|benzodiazepine
+1	sensibility know about benzodiazepine fosphenytoin phenytoin other hydantoin or barbiturate|barbiturate[80,91]||||||||||1326|1326|barbiturate

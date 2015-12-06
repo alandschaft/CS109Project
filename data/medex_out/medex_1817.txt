@@ -1,1 +1,1 @@
-1	Known allergy or intolerance to pethidine or tramadol|tramadol[45,53]|||||||||C0040610|10689|10689|tramadol
+1	known allergy or intolerance to pethidine or tramadol|tramadol[45,53]|||||||||C0040610|10689|10689|tramadol

@@ -1,1 +1,1 @@
-1	Must be able to undergo MRI of the brain with gadolinium|gadolinium[46,56]|||||||||C0016911|1310171|1310171|gadolinium
+1	must be able to undergo mri of the brain with gadolinium|gadolinium[46,56]|||||||||C0016911|1310171|1310171|gadolinium

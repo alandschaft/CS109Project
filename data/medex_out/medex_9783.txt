@@ -1,1 +1,1 @@
-1	Vagus nerve stimulation for 04 weeks prior to V1 or use of benzodiazepines for more than 07 consecutive days will be considered as concomitant epileptic drugs|benzodiazepines[59,74]|||||||04 weeks[28,36]|||1402|1402|benzodiazepines
+1	vagus nerve stimulation for 04 week prior to v1 or use of benzodiazepine for more than 07 consecutive day will be consider a concomitant epileptic drug|benzodiazepine[58,72]|||||||04 week[28,35]|||1402|1402|benzodiazepine

@@ -1,1 +1,1 @@
-Patients whose typical attack last at least 15 seconds 
+patient whose typical attack last at least 15 second 

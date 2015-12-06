@@ -1,1 +1,1 @@
-1	Able to tolerate psychotropic washout and no psychotropic medication other than lorazepam up to 3 mg/d PRN during the study|lorazepam[80,89]|||3mg[96,100]|||||PRN[103,106]|C1132125|335170|6470|lorazepam
+1	able to tolerate psychotropic washout and no psychotropic medication other than lorazepam up to 3 mg/d prn during the study|lorazepam[80,89]|||3mg[96,100]|||||prn[103,106]|C1132125|335170|6470|lorazepam

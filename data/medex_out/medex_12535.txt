@@ -1,5 +1,5 @@
-1	Wellbutrin bupropion Zyban Chantix varenicline nicotine replacement therapy or any other smoking cessation aid|varenicline[35,46]|||||||||C1569608|591622|591622|varenicline
-1	Wellbutrin bupropion Zyban Chantix varenicline nicotine replacement therapy or any other smoking cessation aid|Chantix[27,34]||||||||||636230|591622|varenicline
-1	Wellbutrin bupropion Zyban Chantix varenicline nicotine replacement therapy or any other smoking cessation aid|Zyban[21,26]|||||||||C0751626|227948|42347|bupropion
-1	Wellbutrin bupropion Zyban Chantix varenicline nicotine replacement therapy or any other smoking cessation aid|bupropion[11,20]|||||||||C0085208|42347|42347|bupropion
-1	Wellbutrin bupropion Zyban Chantix varenicline nicotine replacement therapy or any other smoking cessation aid|Wellbutrin[0,10]|||||||||C0085934|42568|42347|bupropion
+1	wellbutrin bupropion zyban chantix varenicline nicotine replacement therapy or any other smoking cessation aid|varenicline[35,46]|||||||||C1569608|591622|591622|varenicline
+1	wellbutrin bupropion zyban chantix varenicline nicotine replacement therapy or any other smoking cessation aid|chantix[27,34]||||||||||636230|591622|varenicline
+1	wellbutrin bupropion zyban chantix varenicline nicotine replacement therapy or any other smoking cessation aid|zyban[21,26]|||||||||C0751626|227948|42347|bupropion
+1	wellbutrin bupropion zyban chantix varenicline nicotine replacement therapy or any other smoking cessation aid|bupropion[11,20]|||||||||C0085208|42347|42347|bupropion
+1	wellbutrin bupropion zyban chantix varenicline nicotine replacement therapy or any other smoking cessation aid|wellbutrin[0,10]|||||||||C0085934|42568|42347|bupropion

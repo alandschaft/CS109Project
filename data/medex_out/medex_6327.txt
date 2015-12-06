@@ -1,1 +1,1 @@
-1	are receiving ECMO extracorporeal membrane oxygenation therapy because of alteration of bumetanide pharmacokinetics by ECMO|bumetanide[88,98]|||||||||C0006376|1808|1808|bumetanide
+1	be receive ecmo extracorporeal membrane oxygenation therapy because of alteration of bumetanide pharmacokinetics by ecmo|bumetanide[85,95]|||||||||C0006376|1808|1808|bumetanide

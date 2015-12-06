@@ -1,1 +1,1 @@
-1	Vigabatrin during the 26 weeks prior to the first dose of open-label medication in the extension study|Vigabatrin[0,10]|||||||26 weeks[22,30]||C0048044|14851|14851|vigabatrin
+1	vigabatrin during the 26 week prior to the first dose of open-label medication in the extension study|vigabatrin[0,10]|||||||26 week[22,29]||C0048044|14851|14851|vigabatrin

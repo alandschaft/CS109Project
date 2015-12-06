@@ -1,1 +1,1 @@
-1	Subjects with a history of discontinuation of Prempro in the past due to side effects|Prempro[46,53]|||||||||C0722753|219362|4099|conjugated estrogens
+1	subject with a history of discontinuation of prempro in the past due to side effect|prempro[45,52]|||||||||C0722753|219362|4099|conjugated estrogens

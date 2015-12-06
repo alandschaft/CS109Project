@@ -1,1 +1,1 @@
-A 12-lead electrocardiogram ECG w/o clinically significant abnormalities 
+a 12-lead electrocardiogram ecg w/o clinically significant abnormality 

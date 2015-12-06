@@ -1,2 +1,2 @@
-1	Subjects previously allocated to a trial treatment CBZ VPA and LEV used in this trial|VPA[55,58]||||||||||1099703|40254|valproate
-1	Subjects previously allocated to a trial treatment CBZ VPA and LEV used in this trial|LEV[63,66]|||||||||C3220305|1166072|5032|guaifenesin
+1	subject previously allocate to a trial treatment cbz vpa and lev use in this trial|vpa[53,56]||||||||||1099703|40254|valproate
+1	subject previously allocate to a trial treatment cbz vpa and lev use in this trial|lev[61,64]|||||||||C3220305|1166072|5032|guaifenesin

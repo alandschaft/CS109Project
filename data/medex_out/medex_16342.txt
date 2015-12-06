@@ -1,3 +1,3 @@
-1	Concurrent use of central nervous system depressants i.e opioids or benzodiazepines|opioids[57,64]||||||||||1431633|1431633|opioids
-1	Concurrent use of central nervous system depressants i.e opioids or benzodiazepines|central nervous system depressants[18,52]||||||||||2226|2226|central nervous system depressants
-1	Concurrent use of central nervous system depressants i.e opioids or benzodiazepines|benzodiazepines[68,83]||||||||||1402|1402|benzodiazepines
+1	concurrent use of central nervous system depressant i.e opioids or benzodiazepine|opioids[56,63]||||||||||1431633|1431633|opioids
+1	concurrent use of central nervous system depressant i.e opioids or benzodiazepine|central nervous system depressant[18,51]||||||||||2226|2226|central nervous system depressant
+1	concurrent use of central nervous system depressant i.e opioids or benzodiazepine|benzodiazepine[67,81]||||||||||1402|1402|benzodiazepine

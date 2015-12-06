@@ -1,1 +1,1 @@
-1	Participants must have been offered dietary lysine restriction as adjunct therapy as part of standard clinical care|lysine[44,50]|||||||||C0024337|6536|6536|lysine
+1	participant must have be offer dietary lysine restriction a adjunct therapy a part of standard clinical care|lysine[39,45]|||||||||C0024337|6536|6536|lysine

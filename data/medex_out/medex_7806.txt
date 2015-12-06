@@ -1,5 +1,5 @@
-1	Subjects taking 2 of the following sodium channel blocking AEDs phenytoin carbamazepine oxcarbazepine or lamotrigine|oxcarbazepine[88,101]|||||||||C0069751|32624|32624|oxcarbazepine
-1	Subjects taking 2 of the following sodium channel blocking AEDs phenytoin carbamazepine oxcarbazepine or lamotrigine|carbamazepine[74,87]|||||||||C0006949|2002|2002|carbamazepine
-1	Subjects taking 2 of the following sodium channel blocking AEDs phenytoin carbamazepine oxcarbazepine or lamotrigine|phenytoin[64,73]|||||||||C0031507|8183|8183|phenytoin
-1	Subjects taking 2 of the following sodium channel blocking AEDs phenytoin carbamazepine oxcarbazepine or lamotrigine|sodium[35,41]|||||||||C0037473|9853|9853|sodium
-1	Subjects taking 2 of the following sodium channel blocking AEDs phenytoin carbamazepine oxcarbazepine or lamotrigine|lamotrigine[105,116]|||||||||C0064636|28439|28439|lamotrigine
+1	subject take 2 of the following sodium channel block aeds phenytoin carbamazepine oxcarbazepine or lamotrigine|oxcarbazepine[82,95]|||||||||C0069751|32624|32624|oxcarbazepine
+1	subject take 2 of the following sodium channel block aeds phenytoin carbamazepine oxcarbazepine or lamotrigine|carbamazepine[68,81]|||||||||C0006949|2002|2002|carbamazepine
+1	subject take 2 of the following sodium channel block aeds phenytoin carbamazepine oxcarbazepine or lamotrigine|phenytoin[58,67]|||||||||C0031507|8183|8183|phenytoin
+1	subject take 2 of the following sodium channel block aeds phenytoin carbamazepine oxcarbazepine or lamotrigine|sodium[32,38]|||||||||C0037473|9853|9853|sodium
+1	subject take 2 of the following sodium channel block aeds phenytoin carbamazepine oxcarbazepine or lamotrigine|lamotrigine[99,110]|||||||||C0064636|28439|28439|lamotrigine

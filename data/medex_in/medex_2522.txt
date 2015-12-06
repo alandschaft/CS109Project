@@ -1,1 +1,1 @@
-Left Ventricular Ejection Fraction LVEF 35 
+left ventricular ejection fraction lvef 35 

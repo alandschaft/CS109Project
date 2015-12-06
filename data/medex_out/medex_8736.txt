@@ -1,2 +1,2 @@
-1	Prior corticosteroids for fetal lung maturity exclude if patient was given corticosteroids for fetal lung maturity before 34 weeks|corticosteroids[6,21]|||||||34 weeks[122,130]||C0001617|354|354|corticosteroids
-1	Prior corticosteroids for fetal lung maturity exclude if patient was given corticosteroids for fetal lung maturity before 34 weeks|corticosteroids[75,90]|||||||||C0001617|354|354|corticosteroids
+1	prior corticosteroids for fetal lung maturity exclude if patient be give corticosteroid for fetal lung maturity before 34 week|corticosteroid[73,87]|||||||34 week[119,126]|||354|354|corticosteroid
+1	prior corticosteroids for fetal lung maturity exclude if patient be give corticosteroid for fetal lung maturity before 34 week|corticosteroids[6,21]|||||||||C0001617|354|354|corticosteroids

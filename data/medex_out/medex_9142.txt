@@ -1,1 +1,1 @@
-1	2 Localization-related epilepsy diagnosed by standard clinical criteria that has not responded to treatment with up to two standard antiepileptic drugs either sequentially or in combination|antiepileptic drugs[132,151]|||||||||C0003299|932|932|antiepileptic drugs
+1	2 localization-related epilepsy diagnose by standard clinical criterion that have not respond to treatment with up to two standard antiepileptic drug either sequentially or in combination|antiepileptic[131,144]|||||||||C0003299|932|932|antiepileptic

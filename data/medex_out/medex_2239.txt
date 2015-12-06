@@ -1,1 +1,1 @@
-1	6 Patients with a significant drug sensitivity or significant allergic reaction to any drug including sulfonamides|sulfonamides[102,114]||||||||||10215|10215|sulfonamides
+1	6 patient with a significant drug sensitivity or significant allergic reaction to any drug include sulfonamide|sulfonamide[99,110]||||||||||10215|10215|sulfonamide

@@ -1,2 +1,2 @@
-1	Any psychoactive substance abuse except marijuana and nicotine within the last 30 days as evidenced by subject report collateral report or urine drug screen|marijuana[40,49]|||||||30 days[79,86]||C0024808|6650|6650|marijuana
-1	Any psychoactive substance abuse except marijuana and nicotine within the last 30 days as evidenced by subject report collateral report or urine drug screen|psychoactive substance[4,26]||||||||||196914|196914|psychoactive substance
+1	any psychoactive substance abuse except marijuana and nicotine within the last 30 day a evidence by subject report collateral report or urine drug screen|marijuana[40,49]|||||||30 day[79,85]||C0024808|6650|6650|marijuana
+1	any psychoactive substance abuse except marijuana and nicotine within the last 30 day a evidence by subject report collateral report or urine drug screen|psychoactive substance[4,26]||||||||||196914|196914|psychoactive substance

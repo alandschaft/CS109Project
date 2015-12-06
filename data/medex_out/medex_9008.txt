@@ -1,2 +1,2 @@
-1	Subject is currently treated with LEV or has taken LEV within 90 days prior to V1|LEV[34,37]|||||||||C3220305|1166072|5032|guaifenesin
-1	Subject is currently treated with LEV or has taken LEV within 90 days prior to V1|LEV[51,54]|||||||90 days[62,69]||C3220305|1166072|5032|guaifenesin
+1	subject be currently treat with lev or have take lev within 90 day prior to v1|lev[32,35]|||||||||C3220305|1166072|5032|guaifenesin
+1	subject be currently treat with lev or have take lev within 90 day prior to v1|lev[49,52]|||||||90 day[60,66]||C3220305|1166072|5032|guaifenesin

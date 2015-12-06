@@ -1,1 +1,1 @@
-Patients 16 years old must have a Karnofsky score 70 and patients 16 years old must have a Lansky score 70 
+patient 16 year old must have a karnofsky score 70 and patient 16 year old must have a lansky score 70 

@@ -1,1 +1,1 @@
-G6PD glucose-6-phosphate dehydrogenase deficiency 
+g6pd glucose-6-phosphate dehydrogenase deficiency 

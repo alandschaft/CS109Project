@@ -1,1 +1,1 @@
-1	Patient is male or is a female who either can not have children or who agrees to use appropriate contraceptive measures|contraceptive[97,110]||||||||||64078|64078|contraceptive
+1	patient be male or be a female who either can not have children or who agrees to use appropriate contraceptive measure|contraceptive[97,110]||||||||||64078|64078|contraceptive

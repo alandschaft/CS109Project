@@ -1,1 +1,1 @@
-HbA1c 40 mmol/L 
+hba1c 40 mmol/l 

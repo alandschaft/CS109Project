@@ -1,1 +1,1 @@
-1	12 Subject is on chronic anticoagulants or in the opinion of the investigator subject is an unsuitable candidate for cranial surgery for any other reason|anticoagulants[25,39]|||||||||C0003280|923|923|anticoagulants
+1	12 subject be on chronic anticoagulant or in the opinion of the investigator subject be an unsuitable candidate for cranial surgery for any other reason|anticoagulant[25,38]|||||||||C0003280|923|923|anticoagulant

@@ -1,1 +1,1 @@
-1	Have not used estrogen or other bone-altering medications see list in study description within the last year|estrogen[14,22]||||||||||4100|4100|estrogens
+1	have not use estrogen or other bone-altering medication see list in study description within the last year|estrogen[13,21]||||||||||4100|4100|estrogens

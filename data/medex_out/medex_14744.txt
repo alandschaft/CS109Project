@@ -1,1 +1,1 @@
-1	7 Using a prescription or over the counter medication for the purpose of treating sleep disturbance including sedating antihistamines within 14 days before dosing|sedating antihistamines[110,133]|||||||14 days[141,148]|||107777|107777|sedating antihistamines
+1	7 using a prescription or over the counter medication for the purpose of treat sleep disturbance include sedating antihistamine within 14 day before dose|sedating antihistamine[105,127]|||||||14 day[135,141]|||107777|107777|sedating antihistamine

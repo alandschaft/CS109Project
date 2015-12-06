@@ -1,1 +1,1 @@
-1	A diagnosis and history of epilepsy for which patients are on 0-2 concomitant antiepileptic drugs|antiepileptic drugs[78,97]|||||||||C0003299|932|932|antiepileptic drugs
+1	a diagnosis and history of epilepsy for which patient be on 0-2 concomitant antiepileptic drug|antiepileptic[76,89]|||||||||C0003299|932|932|antiepileptic

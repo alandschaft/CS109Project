@@ -1,1 +1,1 @@
-1	Subjects with epilepsy who have participated in previous brivaracetam trials which allow access to the present study|brivaracetam[57,69]||||||||||638343|638343|brivaracetam
+1	subject with epilepsy who have participate in previous brivaracetam trial which allow access to the present study|brivaracetam[55,67]||||||||||638343|638343|brivaracetam

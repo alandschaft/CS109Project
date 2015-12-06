@@ -1,1 +1,1 @@
-1	9 Subjects with a history of depression must be stable and may be taking one antidepressant medication|antidepressant[77,91]||||||||||927|927|antidepressant
+1	9 subject with a history of depression must be stable and may be take one antidepressant medication|antidepressant[74,88]||||||||||927|927|antidepressant

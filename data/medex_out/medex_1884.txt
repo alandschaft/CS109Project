@@ -1,1 +1,1 @@
-1	Female patients without childbearing potential or using a medically accepted non-hormonal contraceptive method are eligible|contraceptive[90,103]||||||||||64078|64078|contraceptive
+1	female patient without childbearing potential or use a medically accept non-hormonal contraceptive method be eligible|contraceptive[85,98]||||||||||64078|64078|contraceptive

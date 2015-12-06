@@ -1,1 +1,1 @@
-1	Do-not-resuscitate DNR state|DNR[19,22]||||||||||||
+1	do-not-resuscitate dnr state|dnr[19,22]||||||||||||

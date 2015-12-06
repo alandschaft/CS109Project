@@ -1,1 +1,1 @@
-Adult subjects over age 18 with biopsy proven GBM diagnosis 
+adult subject over age 18 with biopsy proven gbm diagnosis 

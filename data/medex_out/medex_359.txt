@@ -1,1 +1,1 @@
-1	Currently taking an antidepressant medication or seeing a therapist regularly|antidepressant[20,34]||||||||||927|927|antidepressant
+1	currently take an antidepressant medication or see a therapist regularly|antidepressant[18,32]||||||||||927|927|antidepressant

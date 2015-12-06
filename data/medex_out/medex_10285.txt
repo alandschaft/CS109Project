@@ -1,2 +1,2 @@
-1	Currently treated with felbamate or has been treated with vigabatrin within the past 6 months|felbamate[23,32]|||||||||C0060135|24812|24812|felbamate
-1	Currently treated with felbamate or has been treated with vigabatrin within the past 6 months|vigabatrin[58,68]|||||||6 months[85,93]||C0048044|14851|14851|vigabatrin
+1	currently treat with felbamate or have be treat with vigabatrin within the past 6 month|felbamate[21,30]|||||||||C0060135|24812|24812|felbamate
+1	currently treat with felbamate or have be treat with vigabatrin within the past 6 month|vigabatrin[53,63]|||||||6 month[80,87]||C0048044|14851|14851|vigabatrin

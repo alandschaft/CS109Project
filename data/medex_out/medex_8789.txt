@@ -1,1 +1,1 @@
-1	Is currently or has been abusing substance s or other medications in the 12 months prior to Baseline visit|substance s[33,44]|||||||12 months[73,82]|||20500|20500|substance s
+1	be currently or have be abuse substance s or other medication in the 12 month prior to baseline visit|substance s[30,41]|||||||12 month[69,77]|||20500|20500|substance s

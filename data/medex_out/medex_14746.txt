@@ -1,1 +1,1 @@
-1	9 Excessive caffeine use defined as more than 4 cups of coffee a day or its equivalent|caffeine[12,20]||||||a day[63,68]|||C0006644|1886|1886|caffeine
+1	9 excessive caffeine use define a more than 4 cup of coffee a day or it equivalent|caffeine[12,20]||||||a day[60,65]|||C0006644|1886|1886|caffeine

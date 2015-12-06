@@ -1,2 +1,2 @@
-1	Patients with known hypersensitivity to Levetiracetam Lamotrigine or another component of the trial drugs|Lamotrigine[54,65]|||||||||C0064636|28439|28439|lamotrigine
-1	Patients with known hypersensitivity to Levetiracetam Lamotrigine or another component of the trial drugs|Levetiracetam[40,53]|||||||||C0377265|114477|114477|levetiracetam
+1	patient with known hypersensitivity to levetiracetam lamotrigine or another component of the trial drug|lamotrigine[53,64]|||||||||C0064636|28439|28439|lamotrigine
+1	patient with known hypersensitivity to levetiracetam lamotrigine or another component of the trial drug|levetiracetam[39,52]|||||||||C0377265|114477|114477|levetiracetam

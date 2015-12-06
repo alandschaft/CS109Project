@@ -1,1 +1,1 @@
-1	Receiving any study drug or experimental device other than lacosamide|lacosamide[59,69]|||||||||C0893761|623400|623400|lacosamide
+1	receive any study drug or experimental device other than lacosamide|lacosamide[57,67]|||||||||C0893761|623400|623400|lacosamide

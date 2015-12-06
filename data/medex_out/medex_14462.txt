@@ -1,1 +1,1 @@
-1	At Visit 2 patient was not eligible for entry into the Eslicarbazepine acetate treatment phase if he/she fulfilled the following criteria|Eslicarbazepine acetate[55,78]||||||||||881251|881251|eslicarbazepine acetate
+1	at visit 2 patient be not eligible for entry into the eslicarbazepine acetate treatment phase if he/she fulfil the follow criterion|eslicarbazepine acetate[54,77]||||||||||881251|881251|eslicarbazepine acetate

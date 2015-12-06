@@ -1,2 +1,2 @@
-1	Systemic corticosteroids for other indications exclude if patient was given systemic corticosteroids for indication other than fetal lung maturity|corticosteroids[9,24]|||||||||C0001617|354|354|corticosteroids
-1	Systemic corticosteroids for other indications exclude if patient was given systemic corticosteroids for indication other than fetal lung maturity|corticosteroids[85,100]|||||||||C0001617|354|354|corticosteroids
+1	systemic corticosteroid for other indication exclude if patient be give systemic corticosteroid for indication other than fetal lung maturity|corticosteroid[9,23]||||||||||354|354|corticosteroid
+1	systemic corticosteroid for other indication exclude if patient be give systemic corticosteroid for indication other than fetal lung maturity|corticosteroid[81,95]||||||||||354|354|corticosteroid

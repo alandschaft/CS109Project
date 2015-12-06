@@ -1,1 +1,1 @@
-1	7 Subject is currently taking monoamine oxidase inhibitors MAOIs or any other excluded medications see protocol section 9.9.3|monoamine oxidase inhibitors[30,58]||||||||||992698|992698|monoamine oxidase inhibitors
+1	7 subject be currently take monoamine oxidase inhibitor maoi or any other excluded medication see protocol section 9.9.3|monoamine oxidase inhibitor[28,55]||||||||||7032|7032|monoamine oxidase inhibitor

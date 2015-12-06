@@ -1,1 +1,1 @@
-1	3 Patients who had never taken antiepileptic drugs|antiepileptic drugs[31,50]|||||||||C0003299|932|932|antiepileptic drugs
+1	3 patient who have never take antiepileptic drug|antiepileptic[30,43]|||||||||C0003299|932|932|antiepileptic

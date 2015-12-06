@@ -1,1 +1,1 @@
-1	2 Systemic corticosteroids|corticosteroids[11,26]|||||||||C0001617|354|354|corticosteroids
+1	2 systemic corticosteroid|corticosteroid[11,25]||||||||||354|354|corticosteroid

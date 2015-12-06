@@ -1,1 +1,1 @@
-1	Patients eligible for treatment with a bone anchored hearing aid|hearing aid[53,64]||||||||||5119|5119|hearing aid
+1	patient eligible for treatment with a bone anchor hearing aid|hearing aid[50,61]||||||||||5119|5119|hearing aid

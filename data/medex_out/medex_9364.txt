@@ -1,1 +1,1 @@
-1	4 Allergy to any ingredients in KBG cinnamon hoelen moutan bark peony root or peach kernel|cinnamon[36,44]|||||||||C2740768|285245|285245|cinnamon
+1	4 allergy to any ingredient in kbg cinnamon hoelen moutan bark peony root or peach kernel|cinnamon[35,43]|||||||||C2740768|285245|285245|cinnamon

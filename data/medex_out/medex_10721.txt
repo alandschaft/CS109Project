@@ -1,1 +1,1 @@
-1	Uncorrected coagulopathy at the time of bone marrow harvest defined as INR 1.6 PTT 36 sec PLT 100,000 Fibrinogen 100g/dL|Fibrinogen[102,112]|||||||||C0016006|4385|4385|fibrinogen
+1	uncorrected coagulopathy at the time of bone marrow harvest define a inr 1.6 ptt 36 sec plt 100,000 fibrinogen 100g/dl|fibrinogen[100,110]|||||||||C0016006|4385|4385|fibrinogen

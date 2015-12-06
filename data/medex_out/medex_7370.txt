@@ -1,1 +1,1 @@
-1	Prior history of seizures or seizure events following the stroke requiring the use of antiepileptic drugs|antiepileptic drugs[86,105]|||||||||C0003299|932|932|antiepileptic drugs
+1	prior history of seizure or seizure event follow the stroke require the use of antiepileptic drug|antiepileptic[79,92]|||||||||C0003299|932|932|antiepileptic

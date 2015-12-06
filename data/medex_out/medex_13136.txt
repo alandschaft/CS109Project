@@ -1,1 +1,1 @@
-1	19 Impairment of gastrointestinal function or gastrointestinal disease that may significantly alter the absorption of Everolimus e.g pancreatic insufficiency|Everolimus[118,128]|||||||||C0541315|141704|141704|everolimus
+1	19 impairment of gastrointestinal function or gastrointestinal disease that may significantly alter the absorption of everolimus e.g pancreatic insufficiency|everolimus[118,128]|||||||||C0541315|141704|141704|everolimus

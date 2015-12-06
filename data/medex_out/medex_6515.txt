@@ -1,1 +1,1 @@
-1	13 Patients with a history of poor compliance with past antiepileptic drug therapy as judged by the principal investigator are excluded|antiepileptic[56,69]|||||||||C0003299|932|932|antiepileptic
+1	13 patient with a history of poor compliance with past antiepileptic drug therapy a judged by the principal investigator be exclude|antiepileptic[55,68]|||||||||C0003299|932|932|antiepileptic

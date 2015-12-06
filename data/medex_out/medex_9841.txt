@@ -1,1 +1,1 @@
-1	4 Subjects taking felbamate with less than 18 months continuous exposure|felbamate[18,27]|||||||18 months[43,52]||C0060135|24812|24812|felbamate
+1	4 subject take felbamate with less than 18 month continuous exposure|felbamate[15,24]|||||||18 month[40,48]||C0060135|24812|24812|felbamate

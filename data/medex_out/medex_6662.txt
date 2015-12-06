@@ -1,1 +1,1 @@
-1	Subject has received any dose of Rotarix prior to the first IPV vaccine during the study period|Rotarix[33,40]|||||||||C1528012|493191|805573|rotavirus vaccine, live attenuated, g1p[8] human 89-12 strain
+1	subject have receive any dose of rotarix prior to the first ipv vaccine during the study period|rotarix[33,40]|||||||||C1528012|493191|805573|rotavirus vaccine, live attenuated, g1p[8] human 89-12 strain

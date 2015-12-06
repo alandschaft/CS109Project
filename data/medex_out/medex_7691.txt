@@ -1,2 +1,2 @@
-1	Known hypersensitivity to treosulfan and/or fludarabine|treosulfan[26,36]|||||||||C0076959|38508|38508|treosulfan
-1	Known hypersensitivity to treosulfan and/or fludarabine|fludarabine[44,55]|||||||||C0059985|24698|24698|fludarabine
+1	known hypersensitivity to treosulfan and/or fludarabine|treosulfan[26,36]|||||||||C0076959|38508|38508|treosulfan
+1	known hypersensitivity to treosulfan and/or fludarabine|fludarabine[44,55]|||||||||C0059985|24698|24698|fludarabine

@@ -1,1 +1,1 @@
-1	Physician refusal for other reasons exclude if patient 's physician refuses to allow the patient to participate in the study|refusal[10,17]||||||||||||
+1	physician refusal for other reason exclude if patient 's physician refuse to allow the patient to participate in the study|refusal[10,17]||||||||||||

@@ -1,1 +1,1 @@
-1	Known hypersensitivity to sulfonamides|sulfonamides[26,38]||||||||||10215|10215|sulfonamides
+1	known hypersensitivity to sulfonamide|sulfonamide[26,37]||||||||||10215|10215|sulfonamide

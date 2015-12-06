@@ -1,1 +1,1 @@
-1	8 Interleukins|Interleukins[2,14]||||||||||5896|5896|interleukins
+1	8 interleukin|interleukin[2,13]||||||||||5896|5896|interleukin

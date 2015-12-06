@@ -1,1 +1,1 @@
-PaO2/FiO2 ratio 300 
+pao2/fio2 ratio 300 

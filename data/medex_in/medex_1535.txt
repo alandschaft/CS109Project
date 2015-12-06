@@ -1,1 +1,1 @@
-Patients above the age of 18 
+patient above the age of 18 

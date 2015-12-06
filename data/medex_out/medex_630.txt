@@ -1,1 +1,1 @@
-1	At least 1 week since prior tamoxifen|tamoxifen[28,37]|||||||1 week[9,15]||C0039286|10324|10324|tamoxifen
+1	at least 1 week since prior tamoxifen|tamoxifen[28,37]|||||||1 week[9,15]||C0039286|10324|10324|tamoxifen

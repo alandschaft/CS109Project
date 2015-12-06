@@ -1,1 +1,1 @@
-1	17 Patients being treated with felbamate unless treatment has been continuous for 1 year|felbamate[31,40]|||||||||C0060135|24812|24812|felbamate
+1	17 patient be treat with felbamate unless treatment have be continuous for 1 year|felbamate[25,34]|||||||||C0060135|24812|24812|felbamate

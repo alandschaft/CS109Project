@@ -1,1 +1,1 @@
-1	Males commit to use of a medically acceptable contraceptive abstinence or use of a condom with spermicide throughout the study and for at least 30 days after discontinuation of study drug treatment|contraceptive[46,59]|||||||30 days[144,151]|||64078|64078|contraceptive
+1	male commit to use of a medically acceptable contraceptive abstinence or use of a condom with spermicide throughout the study and for at least 30 day after discontinuation of study drug treatment|contraceptive[45,58]|||||||30 day[143,149]|||64078|64078|contraceptive

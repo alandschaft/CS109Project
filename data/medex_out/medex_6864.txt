@@ -1,1 +1,1 @@
-1	2 Seizures secondary to illicit drug or alcohol use infection neoplasia demyelinating disease degenerative neurological disease or central nervous system disease deemed progressive metabolic illness or progressive degenerative disease|illicit drug[24,36]||||||||||3683|3683|illicit drug
+1	2 seizure secondary to illicit drug or alcohol use infection neoplasia demyelinate disease degenerative neurological disease or central nervous system disease deem progressive metabolic illness or progressive degenerative disease|illicit drug[23,35]||||||||||3683|3683|illicit drug

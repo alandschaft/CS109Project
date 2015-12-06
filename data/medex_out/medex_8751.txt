@@ -1,1 +1,1 @@
-1	Refusal to sign medical record release|Refusal[0,7]||||||||||||
+1	refusal to sign medical record release|refusal[0,7]||||||||||||

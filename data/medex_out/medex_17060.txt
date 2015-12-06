@@ -1,1 +1,1 @@
-1	Patients whose eventual antiepileptic drug treatments were not modified in the months preceding the neuropsychological and psychiatric evaluations|antiepileptic[24,37]|||||||||C0003299|932|932|antiepileptic
+1	patient whose eventual antiepileptic drug treatment be not modify in the month precede the neuropsychological and psychiatric evaluation|antiepileptic[23,36]|||||||||C0003299|932|932|antiepileptic

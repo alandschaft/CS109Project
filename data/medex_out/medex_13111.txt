@@ -1,3 +1,3 @@
-1	6 INR 1.5 or less anticoagulation permitted if target INR on stable dose of warfarin or LMW heparin for 2 weeks at time of randomisation|warfarin[76,84]|||||||||C0043031|11289|11289|warfarin
-1	6 INR 1.5 or less anticoagulation permitted if target INR on stable dose of warfarin or LMW heparin for 2 weeks at time of randomisation|anticoagulation[18,33]||||||||||1024413|1024413|anticoagulation
-1	6 INR 1.5 or less anticoagulation permitted if target INR on stable dose of warfarin or LMW heparin for 2 weeks at time of randomisation|LMW heparin[88,99]|||||||2 weeks[104,111]||C0019134|235473|235473|heparin,porcine
+1	6 inr 1.5 or less anticoagulation permit if target inr on stable dose of warfarin or lmw heparin for 2 week at time of randomisation|warfarin[73,81]|||||||||C0043031|11289|11289|warfarin
+1	6 inr 1.5 or less anticoagulation permit if target inr on stable dose of warfarin or lmw heparin for 2 week at time of randomisation|anticoagulation[18,33]||||||||||1024413|1024413|anticoagulation
+1	6 inr 1.5 or less anticoagulation permit if target inr on stable dose of warfarin or lmw heparin for 2 week at time of randomisation|lmw heparin[85,96]|||||||2 week[101,107]||C0019134|235473|235473|heparin,porcine

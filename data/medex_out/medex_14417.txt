@@ -1,2 +1,2 @@
-1	hypersensitivity to sulfonamides or other sulfonamide derivatives as cross-sensitivity may occur|sulfonamides[20,32]||||||||||10215|10215|sulfonamides
-1	hypersensitivity to sulfonamides or other sulfonamide derivatives as cross-sensitivity may occur|sulfonamide[42,53]||||||||||10215|10215|sulfonamide
+1	hypersensitivity to sulfonamide or other sulfonamide derivative a cross-sensitivity may occur|sulfonamide[20,31]||||||||||10215|10215|sulfonamide
+1	hypersensitivity to sulfonamide or other sulfonamide derivative a cross-sensitivity may occur|sulfonamide[41,52]||||||||||10215|10215|sulfonamide

@@ -1,1 +1,1 @@
-10 Patient or caregiver must be able to reliably record seizures and keep a daily diary and recall adverse events 
+10 patient or caregiver must be able to reliably record seizure and keep a daily diary and recall adverse event 

@@ -1,2 +1,2 @@
-1	Participant has had uncontrolled seizures while previously taking either topiramate or levetiracetam|topiramate[73,83]|||||||||C0076829|38404|38404|topiramate
-1	Participant has had uncontrolled seizures while previously taking either topiramate or levetiracetam|levetiracetam[87,100]|||||||||C0377265|114477|114477|levetiracetam
+1	participant have have uncontrolled seizure while previously take either topiramate or levetiracetam|topiramate[72,82]|||||||||C0076829|38404|38404|topiramate
+1	participant have have uncontrolled seizure while previously take either topiramate or levetiracetam|levetiracetam[86,99]|||||||||C0377265|114477|114477|levetiracetam

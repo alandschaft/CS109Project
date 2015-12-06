@@ -1,4 +1,4 @@
-1	2 Hormonal contraceptive treatment progesterone only agents use of any agents containing estrogen are an exclusion for the lamotrigine testing|lamotrigine[123,134]|||||||||C0064636|28439|28439|lamotrigine
-1	2 Hormonal contraceptive treatment progesterone only agents use of any agents containing estrogen are an exclusion for the lamotrigine testing|estrogen[89,97]||||||||||4100|4100|estrogens
-1	2 Hormonal contraceptive treatment progesterone only agents use of any agents containing estrogen are an exclusion for the lamotrigine testing|progesterone[35,47]|||||||||C0033308|8727|8727|progesterone
-1	2 Hormonal contraceptive treatment progesterone only agents use of any agents containing estrogen are an exclusion for the lamotrigine testing|contraceptive[11,24]||||||||||64078|64078|contraceptive
+1	2 hormonal contraceptive treatment progesterone only agents use of any agent contain estrogen be an exclusion for the lamotrigine testing|lamotrigine[118,129]|||||||||C0064636|28439|28439|lamotrigine
+1	2 hormonal contraceptive treatment progesterone only agents use of any agent contain estrogen be an exclusion for the lamotrigine testing|estrogen[85,93]||||||||||4100|4100|estrogens
+1	2 hormonal contraceptive treatment progesterone only agents use of any agent contain estrogen be an exclusion for the lamotrigine testing|progesterone[35,47]|||||||||C0033308|8727|8727|progesterone
+1	2 hormonal contraceptive treatment progesterone only agents use of any agent contain estrogen be an exclusion for the lamotrigine testing|contraceptive[11,24]||||||||||64078|64078|contraceptive

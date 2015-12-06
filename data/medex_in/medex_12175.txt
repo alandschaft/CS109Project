@@ -1,1 +1,1 @@
-5 Total cholesterol 300 mg/dL 
+5 total cholesterol 300 mg/dl 

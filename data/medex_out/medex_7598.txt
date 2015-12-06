@@ -1,2 +1,2 @@
-1	The subject 's treating physician does not believe a change in anticonvulsant regimen to be warranted The anticonvulsant drugs must remain unchanged during the 26 week trial|anticonvulsant drugs[106,126]|||||||26 week[160,167]|||926|926|anticonvulsant drugs
-1	The subject 's treating physician does not believe a change in anticonvulsant regimen to be warranted The anticonvulsant drugs must remain unchanged during the 26 week trial|anticonvulsant[63,77]||||||||||926|926|anticonvulsant
+1	the subject 's treating physician do not believe a change in anticonvulsant regimen to be warrant the anticonvulsant drug must remain unchanged during the 26 week trial|anticonvulsant[61,75]|||||||26 week[155,162]|||926|926|anticonvulsant
+1	the subject 's treating physician do not believe a change in anticonvulsant regimen to be warrant the anticonvulsant drug must remain unchanged during the 26 week trial|anticonvulsant[102,116]||||||||||926|926|anticonvulsant

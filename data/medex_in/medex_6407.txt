@@ -1,1 +1,1 @@
-3 SaO2 80 at time of enrollment 
+3 sao2 80 at time of enrollment 

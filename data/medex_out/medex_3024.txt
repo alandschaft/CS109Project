@@ -1,2 +1,2 @@
-1	Currently receiving zidovudine or enfuvirtide|zidovudine[20,30]|||||||||C0043474|11413|11413|zidovudine
-1	Currently receiving zidovudine or enfuvirtide|enfuvirtide[34,45]|||||||||C0537439|139896|139896|enfuvirtide
+1	currently receive zidovudine or enfuvirtide|zidovudine[18,28]|||||||||C0043474|11413|11413|zidovudine
+1	currently receive zidovudine or enfuvirtide|enfuvirtide[32,43]|||||||||C0537439|139896|139896|enfuvirtide

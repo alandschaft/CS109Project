@@ -1,1 +1,1 @@
-1	The dose of antiepileptic drugs must be stable in the last 4 weeks|antiepileptic drugs[12,31]|||||||4 weeks[59,66]||C0003299|932|932|antiepileptic drugs
+1	the dose of antiepileptic drug must be stable in the last 4 week|antiepileptic[12,25]|||||||4 week[58,64]||C0003299|932|932|antiepileptic

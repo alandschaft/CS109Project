@@ -1,4 +1,4 @@
-1	No immunosuppressive agents including steroids as antiemetics within 24 hours after the last dose of post-transplantation cyclophosphamide|cyclophosphamide[122,138]|||||||24 hours[69,77]||C0010583|3002|3002|cyclophosphamide
-1	No immunosuppressive agents including steroids as antiemetics within 24 hours after the last dose of post-transplantation cyclophosphamide|antiemetics[50,61]|||||||||C0003297|931|931|antiemetics
-1	No immunosuppressive agents including steroids as antiemetics within 24 hours after the last dose of post-transplantation cyclophosphamide|steroids[38,46]||||||||||10072|10072|steroids
-1	No immunosuppressive agents including steroids as antiemetics within 24 hours after the last dose of post-transplantation cyclophosphamide|immunosuppressive agents[3,27]||||||||||5748|5748|immunosuppressive agents
+1	no immunosuppressive agent include steroid a antiemetic within 24 hour after the last dose of post-transplantation cyclophosphamide|cyclophosphamide[115,131]|||||||24 hour[63,70]||C0010583|3002|3002|cyclophosphamide
+1	no immunosuppressive agent include steroid a antiemetic within 24 hour after the last dose of post-transplantation cyclophosphamide|antiemetic[45,55]||||||||||931|931|antiemetic
+1	no immunosuppressive agent include steroid a antiemetic within 24 hour after the last dose of post-transplantation cyclophosphamide|steroid[35,42]||||||||||10072|10072|steroid
+1	no immunosuppressive agent include steroid a antiemetic within 24 hour after the last dose of post-transplantation cyclophosphamide|immunosuppressive agent[3,26]||||||||||5748|5748|immunosuppressive agent

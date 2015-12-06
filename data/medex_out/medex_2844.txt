@@ -1,1 +1,1 @@
-1	Fertile patients must use an effective contraceptive method|contraceptive[39,52]||||||||||64078|64078|contraceptive
+1	fertile patient must use an effective contraceptive method|contraceptive[38,51]||||||||||64078|64078|contraceptive

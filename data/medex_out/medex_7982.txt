@@ -1,1 +1,1 @@
-1	Subject is currently taking felbamate|felbamate[28,37]|||||||||C0060135|24812|24812|felbamate
+1	subject be currently take felbamate|felbamate[26,35]|||||||||C0060135|24812|24812|felbamate

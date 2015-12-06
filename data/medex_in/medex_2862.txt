@@ -1,1 +1,1 @@
-Outpatients equal to or greater than 18 years of age with diagnosis of epilepsy with partial seizures having minimum of two partial seizures during a two month period before the baseline visit 
+outpatient equal to or great than 18 year of age with diagnosis of epilepsy with partial seizure have minimum of two partial seizure during a two month period before the baseline visit 

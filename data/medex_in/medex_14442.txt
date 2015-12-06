@@ -1,1 +1,1 @@
-ECG without clinically significant abnormalities 
+ecg without clinically significant abnormality 

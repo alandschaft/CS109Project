@@ -1,2 +1,2 @@
-2	entry Hormonal contraceptives Spermicide and barrier Intrauterine device Partner sterility|Spermicide[331,341]||Intrauterine device[354,373]||||||||9969|9969|spermicide
-2	entry Hormonal contraceptives Spermicide and barrier Intrauterine device Partner sterility|contraceptives[316,330]||||||||||2815|2815|contraceptives
+2	hormonal contraceptives spermicide and barrier intrauterine device partner sterility|spermicide[330,340]||intrauterine device[353,372]||||||||9969|9969|spermicide
+2	hormonal contraceptives spermicide and barrier intrauterine device partner sterility|contraceptives[315,329]||||||||||2815|2815|contraceptives

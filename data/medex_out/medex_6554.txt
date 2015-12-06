@@ -1,1 +1,1 @@
-1	9 Any other mucolytic therapy|mucolytic[12,21]||||||||||7077|7077|mucolytic
+1	9 any other mucolytic therapy|mucolytic[12,21]||||||||||7077|7077|mucolytic

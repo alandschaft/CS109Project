@@ -1,1 +1,1 @@
-Unavailable TTM within 2 hours after ROSC 
+unavailable ttm within 2 hour after rosc 

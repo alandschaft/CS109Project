@@ -1,1 +1,1 @@
-1	Participants taking CLB intermittently as rescue medication|CLB[20,23]||||||||||||
+1	participant take clb intermittently a rescue medication|clb[17,20]||||||||||||

@@ -1,1 +1,1 @@
-1	Able to tolerate cyclo-oxygenase-2 COX-2 inhibitors|COX - 2 inhibitors[35,51]||||||||||382306|382306|cox-2 inhibitors
+1	able to tolerate cyclo-oxygenase-2 cox-2 inhibitor|cox - 2 inhibitor[35,50]||||||||||382306|382306|cox-2 inhibitor

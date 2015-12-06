@@ -1,2 +1,2 @@
-1	Patients on Valproic acid and Felbamate|Valproic acid[12,25]|||||||||C0042291|11118|11118|valproic acid
-1	Patients on Valproic acid and Felbamate|Felbamate[30,39]|||||||||C0060135|24812|24812|felbamate
+1	patient on valproic acid and felbamate|valproic acid[11,24]|||||||||C0042291|11118|11118|valproic acid
+1	patient on valproic acid and felbamate|felbamate[29,38]|||||||||C0060135|24812|24812|felbamate

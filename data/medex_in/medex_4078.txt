@@ -1,1 +1,1 @@
-10 Clinically significant ECG abnormality 
+10 clinically significant ecg abnormality 

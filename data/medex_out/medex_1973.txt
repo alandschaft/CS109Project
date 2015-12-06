@@ -1,1 +1,1 @@
-1	6 Must be stable enough to allow for all anticonvulsant levels to remain constant for the duration of the study|anticonvulsant[41,55]||||||||||926|926|anticonvulsant
+1	6 must be stable enough to allow for all anticonvulsant level to remain constant for the duration of the study|anticonvulsant[41,55]||||||||||926|926|anticonvulsant

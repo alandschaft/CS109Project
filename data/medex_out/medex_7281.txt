@@ -1,1 +1,1 @@
-1	6 Current heavy alcohol or illicit drug use|illicit drug[27,39]||||||||||3683|3683|illicit drug
+1	6 current heavy alcohol or illicit drug use|illicit drug[27,39]||||||||||3683|3683|illicit drug

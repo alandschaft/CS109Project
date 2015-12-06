@@ -1,1 +1,1 @@
-1	Acute infections or genito-urinary injuries that would impact comfortable device use|impact[55,61]|||||||||C0726639|222931|222931|impact
+1	acute infection or genito-urinary injury that would impact comfortable device use|impact[52,58]|||||||||C0726639|222931|222931|impact

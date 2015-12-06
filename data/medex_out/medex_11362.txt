@@ -1,1 +1,1 @@
-1	Pregnancy as determined by urine hCG testing before randomization|hCG[33,36]|||||||||C1141639|340705|340705|chorionic gonadotropin, human
+1	pregnancy a determine by urine hcg testing before randomization|hcg[31,34]|||||||||C1141639|340705|340705|chorionic gonadotropin, human

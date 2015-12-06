@@ -1,2 +1,2 @@
-1	Intolerance to sirolimus or prior use of sirolimus for membranous nephropathy|sirolimus[15,24]|||||||||C0072980|35302|35302|sirolimus
-1	Intolerance to sirolimus or prior use of sirolimus for membranous nephropathy|sirolimus[41,50]|||||||||C0072980|35302|35302|sirolimus
+1	intolerance to sirolimus or prior use of sirolimus for membranous nephropathy|sirolimus[15,24]|||||||||C0072980|35302|35302|sirolimus
+1	intolerance to sirolimus or prior use of sirolimus for membranous nephropathy|sirolimus[41,50]|||||||||C0072980|35302|35302|sirolimus

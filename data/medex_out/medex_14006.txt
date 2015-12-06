@@ -1,4 +1,4 @@
-1	Subject is currently treated with Levetiracetam LEV or Phenytoin PHT or has been treated within the last 30 days before Visit 1 with LEV or PHT|LEV[48,51]|||||||||C3220305|1166072|5032|guaifenesin
-1	Subject is currently treated with Levetiracetam LEV or Phenytoin PHT or has been treated within the last 30 days before Visit 1 with LEV or PHT|Levetiracetam[34,47]|||||||||C0377265|114477|114477|levetiracetam
-1	Subject is currently treated with Levetiracetam LEV or Phenytoin PHT or has been treated within the last 30 days before Visit 1 with LEV or PHT|Phenytoin[55,64]|||||||||C0031507|8183|8183|phenytoin
-1	Subject is currently treated with Levetiracetam LEV or Phenytoin PHT or has been treated within the last 30 days before Visit 1 with LEV or PHT|LEV[133,136]|||||||30 days[105,112]||C3220305|1166072|5032|guaifenesin
+1	subject be currently treat with levetiracetam lev or phenytoin pht or have be treat within the last 30 day before visit 1 with lev or pht|lev[46,49]|||||||||C3220305|1166072|5032|guaifenesin
+1	subject be currently treat with levetiracetam lev or phenytoin pht or have be treat within the last 30 day before visit 1 with lev or pht|levetiracetam[32,45]|||||||||C0377265|114477|114477|levetiracetam
+1	subject be currently treat with levetiracetam lev or phenytoin pht or have be treat within the last 30 day before visit 1 with lev or pht|phenytoin[53,62]|||||||||C0031507|8183|8183|phenytoin
+1	subject be currently treat with levetiracetam lev or phenytoin pht or have be treat within the last 30 day before visit 1 with lev or pht|lev[127,130]|||||||30 day[100,106]||C3220305|1166072|5032|guaifenesin

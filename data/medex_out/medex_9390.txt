@@ -1,3 +1,2 @@
-1	any patient on additional sedative medications narcotics other central nervous system depressants|central nervous system depressants[63,97]||||||||||2226|2226|central nervous system depressants
-1	any patient on additional sedative medications narcotics other central nervous system depressants|narcotics[47,56]||||||||||||
-1	any patient on additional sedative medications narcotics other central nervous system depressants|sedative[26,34]||||||||||9634|9634|sedative
+1	any patient on additional sedative medication narcotic other central nervous system depressant|central nervous system depressant[61,94]||||||||||2226|2226|central nervous system depressant
+1	any patient on additional sedative medication narcotic other central nervous system depressant|sedative[26,34]||||||||||9634|9634|sedative

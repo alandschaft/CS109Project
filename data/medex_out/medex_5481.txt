@@ -1,1 +1,1 @@
-1	9 Subjects on antidepressants for pain control not required should be taking them for a minimum of one month prior to the baseline assessment|antidepressants[14,29]|||||||one month[99,108]||C0003289|927|927|antidepressants
+1	9 subject on antidepressant for pain control not require should be take them for a minimum of one month prior to the baseline assessment|antidepressant[13,27]|||||||one month[94,103]|||927|927|antidepressant

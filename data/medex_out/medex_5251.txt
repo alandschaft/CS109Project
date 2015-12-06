@@ -1,1 +1,1 @@
-1	A stable anticonvulsive regimen defined as unchanged dose and type of the antiepileptic medication in the last month before tDCS and before VNS implantation|antiepileptic[74,87]|||||||||C0003299|932|932|antiepileptic
+1	a stable anticonvulsive regimen define a unchanged dose and type of the antiepileptic medication in the last month before tdcs and before vns implantation|antiepileptic[72,85]|||||||||C0003299|932|932|antiepileptic

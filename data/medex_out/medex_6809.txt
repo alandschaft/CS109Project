@@ -1,1 +1,1 @@
-1	patient with a history of hypersensitivity to hydantoins|hydantoins[46,56]||||||||||5469|5469|hydantoins
+1	patient with a history of hypersensitivity to hydantoin|hydantoin[46,55]||||||||||5468|5468|hydantoin

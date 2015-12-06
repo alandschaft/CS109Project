@@ -1,1 +1,1 @@
-1	Bleeding diathesis or on oral anti-vitamin K medication|vitamin K[35,44]|||||oral[25,29]||||C1253206|757324|11258|vitamin k (obsolete)
+1	bleed diathesis or on oral anti-vitamin k medication|vitamin k[32,41]|||||oral[22,26]||||C1253206|757324|11258|vitamin k (obsolete)

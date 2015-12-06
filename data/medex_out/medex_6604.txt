@@ -1,1 +1,1 @@
-1	history of drug or alcohol abuse or dependence as per DSM-IV-TR in the last 6 months except nicotine and caffeine|caffeine[105,113]|||||IV[58,60]||6 months[76,84]||C0006644|1886|1886|caffeine
+1	history of drug or alcohol abuse or dependence a per dsm-iv-tr in the last 6 month except nicotine and caffeine|caffeine[103,111]|||||iv[57,59]||6 month[75,82]||C0006644|1886|1886|caffeine

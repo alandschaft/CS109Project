@@ -1,3 +1,2 @@
-1	Failure of at least 2 therapeutic anticonvulsants excluding Na Channel blockers indicative of intractable seizures|Channel blockers[63,79]||||||||||1426416|1426416|pelvetia canaliculata extract
-1	Failure of at least 2 therapeutic anticonvulsants excluding Na Channel blockers indicative of intractable seizures|Na[60,62]||||||||||56501|56501|na m-fluorphosphate
-1	Failure of at least 2 therapeutic anticonvulsants excluding Na Channel blockers indicative of intractable seizures|anticonvulsants[34,49]|||||||||C0003286|926|926|anticonvulsants
+1	failure of at least 2 therapeutic anticonvulsant exclude na channel blocker indicative of intractable seizure|na[57,59]||||||||||56501|56501|na m-fluorphosphate
+1	failure of at least 2 therapeutic anticonvulsant exclude na channel blocker indicative of intractable seizure|anticonvulsant[34,48]||||||||||926|926|anticonvulsant

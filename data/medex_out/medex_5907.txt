@@ -1,1 +1,1 @@
-1	Disseminated malignancy or other co-morbid illness limiting life expectancy to months independent of the TMA disorder|TMA[105,108]||||||||||89775|89775|tma
+1	disseminated malignancy or other co-morbid illness limit life expectancy to month independent of the tma disorder|tma[101,104]||||||||||89775|89775|tma

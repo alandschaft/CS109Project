@@ -1,1 +1,1 @@
-1	Subjects currently receiving lorazepam|lorazepam[29,38]|||||||||C0024002|6470|6470|lorazepam
+1	subject currently receive lorazepam|lorazepam[26,35]|||||||||C0024002|6470|6470|lorazepam

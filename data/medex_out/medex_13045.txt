@@ -1,1 +1,1 @@
-1	Drug-resistant focal epilepsy failure of adequate trials of two tolerated and appropriately chosen and used antiepileptic drug AED schedules whether as monotherapies or in combination to achieve sustained seizure freedom 16|antiepileptic[108,121]|||||||||C0003299|932|932|antiepileptic
+1	drug-resistant focal epilepsy failure of adequate trial of two tolerate and appropriately choose and use antiepileptic drug aed schedule whether a monotherapies or in combination to achieve sustain seizure freedom 16|antiepileptic[105,118]|||||||||C0003299|932|932|antiepileptic

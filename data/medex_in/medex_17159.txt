@@ -1,1 +1,1 @@
-Do-not-resuscitate DNR state 
+do-not-resuscitate dnr state 

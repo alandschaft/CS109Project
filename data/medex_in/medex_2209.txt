@@ -1,1 +1,1 @@
-Patients taking more than 2 anticonvulsant medications will be excluded 
+patient take more than 2 anticonvulsant medication will be exclude 

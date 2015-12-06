@@ -1,1 +1,1 @@
-1	Treatment with Anticoagulants|Anticoagulants[15,29]|||||||||C0003280|923|923|anticoagulants
+1	treatment with anticoagulant|anticoagulant[15,28]|||||||||C0003280|923|923|anticoagulant

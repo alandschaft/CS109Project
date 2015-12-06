@@ -1,1 +1,1 @@
-1	Subject is currently receiving LEV at the recommended therapeutic dose dose ranging from 1 g/day to 3 g/day|LEV[31,34]|||1g[89,92]||||||C3220305|1166072|5032|guaifenesin
+1	subject be currently receive lev at the recommend therapeutic dose dose range from 1 g/day to 3 g/day|lev[29,32]|||1g[83,86]||||||C3220305|1166072|5032|guaifenesin

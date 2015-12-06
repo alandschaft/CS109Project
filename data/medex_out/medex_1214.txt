@@ -1,1 +1,1 @@
-1	Refractory to antiepileptic drugs AEDs Patients will be considered refractory if they have failed at least three AEDs due to lack of efficacy|antiepileptic drugs[14,33]|||||||||C0003299|932|932|antiepileptic drugs
+1	refractory to antiepileptic drug aeds patient will be consider refractory if they have fail at least three aeds due to lack of efficacy|antiepileptic[14,27]|||||||||C0003299|932|932|antiepileptic

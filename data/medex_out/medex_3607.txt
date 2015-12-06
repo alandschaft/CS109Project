@@ -1,1 +1,1 @@
-1	Acute medical conditions and/or conditions that could interfere with the absorption metabolism or excretion of oxcarbazepine|oxcarbazepine[111,124]|||||||||C0069751|32624|32624|oxcarbazepine
+1	acute medical condition and/or condition that could interfere with the absorption metabolism or excretion of oxcarbazepine|oxcarbazepine[109,122]|||||||||C0069751|32624|32624|oxcarbazepine

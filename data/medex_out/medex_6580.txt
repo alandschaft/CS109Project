@@ -1,2 +1,2 @@
-1	Subjects presently on felbamate or vigabatrin|felbamate[22,31]|||||||||C0060135|24812|24812|felbamate
-1	Subjects presently on felbamate or vigabatrin|vigabatrin[35,45]|||||||||C0048044|14851|14851|vigabatrin
+1	subject presently on felbamate or vigabatrin|felbamate[21,30]|||||||||C0060135|24812|24812|felbamate
+1	subject presently on felbamate or vigabatrin|vigabatrin[34,44]|||||||||C0048044|14851|14851|vigabatrin

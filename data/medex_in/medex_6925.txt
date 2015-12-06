@@ -1,1 +1,1 @@
-Patient has a life expectancy of less than 6 months 
+patient have a life expectancy of less than 6 month 

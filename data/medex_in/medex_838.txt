@@ -1,1 +1,1 @@
-A Normal subjects younger than 8 years and older than 65 will be excluded 
+a normal subject young than 8 year and old than 65 will be exclude 

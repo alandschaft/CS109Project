@@ -1,1 +1,1 @@
-1	Has had previous exposure to ezogabine/retigabine|ezogabine / retigabine[29,49]|||||||||C0530684|1112990|1112990|retigabine
+1	have have previous exposure to ezogabine/retigabine|ezogabine / retigabine[31,51]|||||||||C0530684|1112990|1112990|retigabine

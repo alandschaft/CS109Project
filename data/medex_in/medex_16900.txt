@@ -1,1 +1,1 @@
-Patients age 18 years admitted to the ICU with an acute neurological insult which will be sedated/ventilated Glasgow Coma Scale GCS 8 
+patient age 18 year admit to the icu with an acute neurological insult which will be sedated/ventilated glasgow coma scale gc 8 

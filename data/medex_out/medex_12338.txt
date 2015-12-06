@@ -1,2 +1,2 @@
-1	Docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2 x 4 6 cycles IV every 3 weeks|Docetaxel[0,9]|||75mg[10,15]||||||C0246415|72962|72962|docetaxel
-1	Docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2 x 4 6 cycles IV every 3 weeks|cyclophosphamide[23,39]|||600mg[40,46]||IV[63,65]|x 4[50,53]||||637543|3002|cyclophosphamide
+1	docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2 x 4 6 cycle iv every 3 week|docetaxel[0,9]|||75mg[10,15]||||||C0246415|72962|72962|docetaxel
+1	docetaxel 75 mg/m2 and cyclophosphamide 600 mg/m2 x 4 6 cycle iv every 3 week|cyclophosphamide[23,39]|||600mg[40,46]||iv[62,64]|x 4[50,53]||||637543|3002|cyclophosphamide

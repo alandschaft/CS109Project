@@ -1,2 +1,2 @@
-1	11 Known hypersensitivity to other carboxamide derivatives e.g oxcarbazepine carbamazepine or to any of the excipients|carbamazepine[77,90]|||||||||C0006949|2002|2002|carbamazepine
-1	11 Known hypersensitivity to other carboxamide derivatives e.g oxcarbazepine carbamazepine or to any of the excipients|oxcarbazepine[63,76]|||||||||C0069751|32624|32624|oxcarbazepine
+1	11 known hypersensitivity to other carboxamide derivative e.g oxcarbazepine carbamazepine or to any of the excipients|carbamazepine[76,89]|||||||||C0006949|2002|2002|carbamazepine
+1	11 known hypersensitivity to other carboxamide derivative e.g oxcarbazepine carbamazepine or to any of the excipients|oxcarbazepine[62,75]|||||||||C0069751|32624|32624|oxcarbazepine

@@ -1,2 +1,2 @@
-1	4 Upward of doubled normal glutamic oxaloacetic transaminase GOT glutamic pyruvic transaminase GPT bilirubin blood urea nitrogen BUN creatinine levels|nitrogen[120,128]|||||||||C0028158|7456|7456|nitrogen
-1	4 Upward of doubled normal glutamic oxaloacetic transaminase GOT glutamic pyruvic transaminase GPT bilirubin blood urea nitrogen BUN creatinine levels|urea[115,119]|||||||||C0041942|11002|11002|urea
+1	4 upward of double normal glutamic oxaloacetic transaminase got glutamic pyruvic transaminase gpt bilirubin blood urea nitrogen bun creatinine level|nitrogen[119,127]|||||||||C0028158|7456|7456|nitrogen
+1	4 upward of double normal glutamic oxaloacetic transaminase got glutamic pyruvic transaminase gpt bilirubin blood urea nitrogen bun creatinine level|urea[114,118]|||||||||C0041942|11002|11002|urea

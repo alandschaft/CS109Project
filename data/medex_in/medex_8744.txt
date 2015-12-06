@@ -1,1 +1,1 @@
-Fetal reduction/loss 14 weeks exclude if the singleton pregnancy is due to reduction or fetal loss from a twin pregnancy at greater or equal to 14 weeks 
+fetal reduction/loss 14 week exclude if the singleton pregnancy be due to reduction or fetal loss from a twin pregnancy at great or equal to 14 week 

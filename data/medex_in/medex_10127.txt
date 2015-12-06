@@ -1,1 +1,1 @@
-Electrolyte abnormalities with values outside of the normal range 
+electrolyte abnormality with value outside of the normal range 

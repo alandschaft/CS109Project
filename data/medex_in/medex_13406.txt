@@ -1,1 +1,1 @@
-MRI has additional exclusion 
+mri have additional exclusion 

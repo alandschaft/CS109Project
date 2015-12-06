@@ -1,1 +1,1 @@
-Subjects with documented evidence of EEG and brain MRI or CT scan in medical records which were performed within 1 year prior to Visit 1 V1 
+subject with documented evidence of eeg and brain mri or ct scan in medical record which be perform within 1 year prior to visit 1 v1 

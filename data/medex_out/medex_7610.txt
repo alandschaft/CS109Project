@@ -1,1 +1,1 @@
-1	Those with renal tubular acidosis or infections of the urinary tract will not be eligible for participation as memantine is renally cleared and conditions that alkalinize the urine may reduce clearance of the drug|memantine[111,120]|||||||||C0025242|6719|6719|memantine
+1	those with renal tubular acidosis or infection of the urinary tract will not be eligible for participation a memantine be renally clear and condition that alkalinize the urine may reduce clearance of the drug|memantine[109,118]|||||||||C0025242|6719|6719|memantine

@@ -1,1 +1,1 @@
-C peptide 1,0 nmol/L 
+c peptide 1,0 nmol/l 

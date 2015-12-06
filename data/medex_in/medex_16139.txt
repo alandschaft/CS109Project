@@ -1,1 +1,1 @@
-Inability to perform either TMS or NCS studies due to insufficient MEP or CMAP amplitude 
+inability to perform either tm or nc study due to insufficient mep or cmap amplitude 

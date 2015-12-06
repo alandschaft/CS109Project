@@ -1,1 +1,1 @@
-1	4 Pregnant women A urine test will be conducted on all post-menarchal females of childbearing age and potential to verify they are not pregnant|urine test[19,29]|||||||||C1263430|386035|386035|urine test
+1	4 pregnant woman a urine test will be conduct on all post-menarchal female of childbearing age and potential to verify they be not pregnant|urine test[19,29]|||||||||C1263430|386035|386035|urine test

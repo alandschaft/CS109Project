@@ -1,1 +1,1 @@
-1	Patient refusal to participated in the trial|refusal[8,15]||||||||||||
+1	patient refusal to participate in the trial|refusal[8,15]||||||||||||

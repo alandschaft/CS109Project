@@ -1,1 +1,1 @@
-1	Current treatment with at least one and no more than two antiepileptics AEDs|antiepileptics[57,71]|||||||||C0003299|932|932|antiepileptics
+1	current treatment with at least one and no more than two antiepileptic aeds|antiepileptic[57,70]|||||||||C0003299|932|932|antiepileptic

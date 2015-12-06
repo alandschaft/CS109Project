@@ -1,1 +1,1 @@
-1	Felbamate unless treatment has been continuous for 2 years|Felbamate[0,9]|||||||2 years[51,58]||C0060135|24812|24812|felbamate
+1	felbamate unless treatment have be continuous for 2 year|felbamate[0,9]|||||||||C0060135|24812|24812|felbamate

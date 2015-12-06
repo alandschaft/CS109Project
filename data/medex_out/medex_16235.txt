@@ -1,1 +1,1 @@
-1	Diagnosis of major depressive disorder unipolar or bipolar SCID to derive RDC DSM-IV|RDC[74,77]|||||IV[82,84]|||||||
+1	diagnosis of major depressive disorder unipolar or bipolar scid to derive rdc dsm-iv|rdc[74,77]|||||iv[82,84]|||||||

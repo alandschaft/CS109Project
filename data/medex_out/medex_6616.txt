@@ -1,1 +1,1 @@
-1	Exposure to at least one antiepileptic drug at adequate dose|antiepileptic[25,38]|||||||||C0003299|932|932|antiepileptic
+1	exposure to at least one antiepileptic drug at adequate dose|antiepileptic[25,38]|||||||||C0003299|932|932|antiepileptic

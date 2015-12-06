@@ -1,1 +1,1 @@
-Subjects must be above the age of 18 
+subject must be above the age of 18 

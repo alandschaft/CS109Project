@@ -1,1 +1,1 @@
-1 Subjects must be between the ages of 18 and 80 inclusive 
+1 subject must be between the age of 18 and 80 inclusive 

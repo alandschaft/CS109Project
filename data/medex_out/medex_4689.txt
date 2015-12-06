@@ -1,1 +1,1 @@
-1	Infectious disease as a contraindication to an immunosuppressive therapy|immunosuppressive[47,64]||||||||||5748|5748|immunosuppressive
+1	infectious disease a a contraindication to an immunosuppressive therapy|immunosuppressive[46,63]||||||||||5748|5748|immunosuppressive

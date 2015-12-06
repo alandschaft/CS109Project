@@ -1,2 +1,3 @@
-1	9 Subjects have a known hypersensitivity to sulfonamides dibenzazepine derivatives or tricyclic antidepressants|sulfonamides[44,56]||||||||||10215|10215|sulfonamides
-1	9 Subjects have a known hypersensitivity to sulfonamides dibenzazepine derivatives or tricyclic antidepressants|tricyclic antidepressants[86,111]|||||||||C0003290|928|928|tricyclic antidepressants
+1	9 subject have a know hypersensitivity to sulfonamide dibenzazepine derivative or tricyclic antidepressant|dibenzazepine derivative[54,78]||||||||||91115|91115|dibenzazepine derivative
+1	9 subject have a know hypersensitivity to sulfonamide dibenzazepine derivative or tricyclic antidepressant|sulfonamide[42,53]||||||||||10215|10215|sulfonamide
+1	9 subject have a know hypersensitivity to sulfonamide dibenzazepine derivative or tricyclic antidepressant|tricyclic antidepressant[82,106]||||||||||928|928|tricyclic antidepressant

@@ -1,1 +1,1 @@
-bilateral and symmetric hearing loss dB with hearing thresholds between 0 and 25 dB at 0.25 kilohertz 0 and 35 dB at 0.5 kilohertz 0 and 50 dB at 1 kilohertz 25 and 70 dB at 2 kilohertz 25 and 80 dB at 3 kilohertz 30 and 80 dB at 4 kilohertz 
+bilateral and symmetric hearing loss db with hearing threshold between 0 and 25 db at 0.25 kilohertz 0 and 35 db at 0.5 kilohertz 0 and 50 db at 1 kilohertz 25 and 70 db at 2 kilohertz 25 and 80 db at 3 kilohertz 30 and 80 db at 4 kilohertz 

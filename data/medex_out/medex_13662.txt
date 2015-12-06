@@ -1,1 +1,1 @@
-1	Any history of allergy or intolerance to either Plavix or clopidogrel|clopidogrel[58,69]|||||||||C0070166|32968|32968|clopidogrel
+1	any history of allergy or intolerance to either plavix or clopidogrel|clopidogrel[58,69]|||||||||C0070166|32968|32968|clopidogrel

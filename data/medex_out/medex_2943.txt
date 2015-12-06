@@ -1,1 +1,1 @@
-1	Patients with a hypersensitivity to topiramate or to some of its components|topiramate[36,46]|||||||||C0076829|38404|38404|topiramate
+1	patient with a hypersensitivity to topiramate or to some of it component|topiramate[35,45]|||||||||C0076829|38404|38404|topiramate

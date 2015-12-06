@@ -1,1 +1,1 @@
-1 Prehospital GCS=3 with no reactive pupil 
+1 prehospital gcs=3 with no reactive pupil 

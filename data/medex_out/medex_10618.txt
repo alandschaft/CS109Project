@@ -1,2 +1,2 @@
-1	9 Taking rifampicin or drugs with anticholinergic effects|rifampicin[9,19]||||||||||9384|9384|rifampicin
-1	9 Taking rifampicin or drugs with anticholinergic effects|anticholinergic[34,49]||||||||||71624|71624|anticholinergic
+1	9 taking rifampicin or drug with anticholinergic effect|rifampicin[9,19]||||||||||9384|9384|rifampicin
+1	9 taking rifampicin or drug with anticholinergic effect|anticholinergic[33,48]||||||||||71624|71624|anticholinergic

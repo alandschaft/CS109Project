@@ -1,1 +1,1 @@
-1	Massive fluid overload unresponsive to diuretics and requiring ultrafiltration|diuretics[39,48]|||||||||C0012798|3567|3567|diuretics
+1	massive fluid overload unresponsive to diuretic and require ultrafiltration|diuretic[39,47]||||||||||3567|3567|diuretic

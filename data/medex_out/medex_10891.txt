@@ -1,1 +1,1 @@
-1	medically intractable epilepsy must have been on at least 2 prior antiepileptic medications without adequate control of epilepsy|antiepileptic[66,79]|||||||||C0003299|932|932|antiepileptic
+1	medically intractable epilepsy must have be on at least 2 prior antiepileptic medication without adequate control of epilepsy|antiepileptic[64,77]|||||||||C0003299|932|932|antiepileptic

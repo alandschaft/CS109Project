@@ -1,1 +1,1 @@
-1	Stages of cysticerci at which albendazole treatment is effective|albendazole[30,41]|||||||||C0001911|430|430|albendazole
+1	stage of cysticerci at which albendazole treatment be effective|albendazole[29,40]|||||||||C0001911|430|430|albendazole

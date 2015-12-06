@@ -1,1 +1,1 @@
-1	No use medication of any kind including prescription over-the-counter or herbal medicines|herbal medicines[73,89]||||||||||817354|817354|herbal medicines
+1	no use medication of any kind include prescription over-the-counter or herbal medicine|herbal medicine[71,86]||||||||||817354|817354|herbal medicine

@@ -1,2 +1,3 @@
-1	Must be on a stable anticonvulsant regimen of at least one and not exceeding three anticonvulsants and not be using any perimenstrual seizure medications of hormone preparations|anticonvulsant[20,34]||||||||||926|926|anticonvulsant
-1	Must be on a stable anticonvulsant regimen of at least one and not exceeding three anticonvulsants and not be using any perimenstrual seizure medications of hormone preparations|anticonvulsants[83,98]|||||||||C0003286|926|926|anticonvulsants
+1	must be on a stable anticonvulsant regimen of at least one and not exceed three anticonvulsant and not be use any perimenstrual seizure medication of hormone preparation|anticonvulsant[20,34]||||||||||926|926|anticonvulsant
+1	must be on a stable anticonvulsant regimen of at least one and not exceed three anticonvulsant and not be use any perimenstrual seizure medication of hormone preparation|anticonvulsant[80,94]||||||||||926|926|anticonvulsant
+1	must be on a stable anticonvulsant regimen of at least one and not exceed three anticonvulsant and not be use any perimenstrual seizure medication of hormone preparation|seizure medication[128,146]||||||||||1021750|1021750|seizure medication

@@ -1,1 +1,1 @@
-1	Currently taking 1 to 3 concomitant marketed antiepileptic drugs|antiepileptic drugs[45,64]|||||||||C0003299|932|932|antiepileptic drugs
+1	currently take 1 to 3 concomitant market antiepileptic drug|antiepileptic[41,54]|||||||||C0003299|932|932|antiepileptic

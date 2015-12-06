@@ -1,2 +1,2 @@
-1	Has taken an investigational drug or the medication Felbatol within the previous 30 days|investigational drug[13,33]|||||||||C1875327|691729|691729|investigational drug
-1	Has taken an investigational drug or the medication Felbatol within the previous 30 days|Felbatol[52,60]|||||||30 days[81,88]||C0728742|224900|24812|felbamate
+1	have take an investigational drug or the medication felbatol within the previous 30 day|investigational drug[13,33]|||||||||C1875327|691729|691729|investigational drug
+1	have take an investigational drug or the medication felbatol within the previous 30 day|felbatol[52,60]|||||||30 day[81,87]||C0728742|224900|24812|felbamate

@@ -1,1 +1,1 @@
-1	The subject must be an adapted soft contact lens wearer in both eyes|contact lens[36,48]||||||||||2809|2809|contact lens
+1	the subject must be an adapt soft contact lens wearer in both eye|contact lens[34,46]||||||||||2809|2809|contact lens

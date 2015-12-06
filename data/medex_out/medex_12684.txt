@@ -1,1 +1,1 @@
-1	Changes in the type of antidepressant during the course of ECT or 2 weeks post ECT|antidepressant[23,37]|||||||2 weeks[66,73]|||927|927|antidepressant
+1	change in the type of antidepressant during the course of ect or 2 week post ect|antidepressant[22,36]|||||||2 week[65,71]|||927|927|antidepressant

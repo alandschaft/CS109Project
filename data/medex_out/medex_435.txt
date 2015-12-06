@@ -1,4 +1,4 @@
-1	Intractability Two AEDs one of which was either Dilantin Tegretol Carbatrol or Trileptal used in appropriate doses have failed due to inefficacy not intolerance|Carbatrol[66,75]|||||||||C0719149|215879|2002|carbamazepine
-1	Intractability Two AEDs one of which was either Dilantin Tegretol Carbatrol or Trileptal used in appropriate doses have failed due to inefficacy not intolerance|Tegretol[57,65]||||||||||203029|2002|carbamazepine
-1	Intractability Two AEDs one of which was either Dilantin Tegretol Carbatrol or Trileptal used in appropriate doses have failed due to inefficacy not intolerance|Dilantin[48,56]||||||||||202740|8183|phenytoin
-1	Intractability Two AEDs one of which was either Dilantin Tegretol Carbatrol or Trileptal used in appropriate doses have failed due to inefficacy not intolerance|Trileptal[79,88]|||||||||C1452042|261680|32624|oxcarbazepine
+1	intractability two aeds one of which be either dilantin tegretol carbatrol or trileptal use in appropriate dos have fail due to inefficacy not intolerance|carbatrol[65,74]|||||||||C0719149|215879|2002|carbamazepine
+1	intractability two aeds one of which be either dilantin tegretol carbatrol or trileptal use in appropriate dos have fail due to inefficacy not intolerance|tegretol[56,64]||||||||||203029|2002|carbamazepine
+1	intractability two aeds one of which be either dilantin tegretol carbatrol or trileptal use in appropriate dos have fail due to inefficacy not intolerance|dilantin[47,55]||||||||||202740|8183|phenytoin
+1	intractability two aeds one of which be either dilantin tegretol carbatrol or trileptal use in appropriate dos have fail due to inefficacy not intolerance|trileptal[78,87]|||||||||C1452042|261680|32624|oxcarbazepine

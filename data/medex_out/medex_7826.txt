@@ -1,1 +1,1 @@
-1	Refusal to release medical records to confirm eligibility|Refusal[0,7]||||||||||||
+1	refusal to release medical record to confirm eligibility|refusal[0,7]||||||||||||

@@ -1,2 +1,1 @@
-1	Administration of polyclonal immunoglobulins and/or any blood products during the six months before entering the study or planned administration during the study period|immunoglobulins[29,44]|||||||||C0021027|5720|5720|globulin,immune
-1	Administration of polyclonal immunoglobulins and/or any blood products during the six months before entering the study or planned administration during the study period|blood products[56,70]|||||||six months[82,92]|||126145|126145|blood products
+1	administration of polyclonal immunoglobulin and/or any blood product during the six month before enter the study or plan administration during the study period|immunoglobulin[29,43]|||||||six month[80,89]|||5720|5720|globulin,immune

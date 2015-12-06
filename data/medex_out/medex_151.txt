@@ -1,2 +1,2 @@
-1	Not allergic to drugs with chemical structure similar to nimodipine or magnesium sulfate|nimodipine[57,67]|||||||||C0028094|7426|7426|nimodipine
-1	Not allergic to drugs with chemical structure similar to nimodipine or magnesium sulfate|magnesium sulfate[71,88]|||||||||C0024480|6585|6585|magnesium sulfate
+1	not allergic to drug with chemical structure similar to nimodipine or magnesium sulfate|nimodipine[56,66]|||||||||C0028094|7426|7426|nimodipine
+1	not allergic to drug with chemical structure similar to nimodipine or magnesium sulfate|magnesium sulfate[70,87]|||||||||C0024480|6585|6585|magnesium sulfate

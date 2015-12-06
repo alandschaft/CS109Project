@@ -1,1 +1,1 @@
-1	Any level of Plasmodium parasitaemia detected by asexual stages on a peripheral blood-slide or a positive rapid diagnostic test without any of the complications of severe malaria stated above|malaria[171,178]||||||||||1025176|1025176|malaria
+1	any level of plasmodium parasitaemia detect by asexual stage on a peripheral blood-slide or a positive rapid diagnostic test without any of the complication of severe malaria state above|malaria[167,174]||||||||||1025176|1025176|malaria

@@ -1,1 +1,1 @@
-1	Upremedicated ASA I-II American Society of Anesthesiologists 's physical status patients|ASA[14,17]|||||||||C1740879|667904|9525|salicylic acid
+1	upremedicated asa i-ii american society of anesthesiologist 's physical status patient|asa[14,17]|||||||||C1740879|667904|9525|salicylic acid

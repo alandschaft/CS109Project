@@ -1,1 +1,1 @@
-Male or female patient aged between 2 and 17 years 
+male or female patient age between 2 and 17 year 

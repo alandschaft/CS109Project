@@ -1,1 +1,1 @@
-1	Infants must not have received any doses of caffeine citrate prior to enrollment|caffeine citrate[44,60]|||||||||C0054436|20033|20033|caffeine citrated
+1	infant must not have receive any dos of caffeine citrate prior to enrollment|caffeine citrate[40,56]|||||||||C0054436|20033|20033|caffeine citrated

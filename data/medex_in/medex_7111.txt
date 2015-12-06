@@ -1,1 +1,1 @@
-Patients with epilepsy diagnosis based on ILAE 
+patient with epilepsy diagnosis base on ilae 

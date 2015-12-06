@@ -1,2 +1,2 @@
-1	Previous therapy with albendazole or praziquantel within 2 years of study entry Patients who have previously received single-dose albendazole for intestinal parasites are not excluded|albendazole[22,33]|||||||||C0001911|430|430|albendazole
-1	Previous therapy with albendazole or praziquantel within 2 years of study entry Patients who have previously received single-dose albendazole for intestinal parasites are not excluded|albendazole[130,141]|||||||2 years[57,64]||C0001911|430|430|albendazole
+1	previous therapy with albendazole or praziquantel within 2 year of study entry patient who have previously receive single-dose albendazole for intestinal parasite be not exclude|albendazole[22,33]|||||||||C0001911|430|430|albendazole
+1	previous therapy with albendazole or praziquantel within 2 year of study entry patient who have previously receive single-dose albendazole for intestinal parasite be not exclude|albendazole[127,138]|||||||||C0001911|430|430|albendazole

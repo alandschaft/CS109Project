@@ -1,1 +1,1 @@
-1	11 Patient who has medication history of zonisamide|zonisamide[41,51]|||||||||C0078844|39998|39998|zonisamide
+1	11 patient who have medication history of zonisamide|zonisamide[42,52]|||||||||C0078844|39998|39998|zonisamide

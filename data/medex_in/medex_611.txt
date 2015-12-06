@@ -1,1 +1,1 @@
-Cholesterol less than 350 mg/dL 
+cholesterol less than 350 mg/dl 

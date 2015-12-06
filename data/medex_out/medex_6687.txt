@@ -1,1 +1,1 @@
-1	1 Contraindications to MEG studies Dental braces permanent retainers metal dental caps/crowns/fillings|MEG[23,26]||Dental[35,41]||||||||||
+1	1 contraindication to meg study dental brace permanent retainer metal dental caps/crowns/fillings|meg[22,25]||dental[32,38]||||||||||

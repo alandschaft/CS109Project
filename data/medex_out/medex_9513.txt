@@ -1,1 +1,1 @@
-1	3 Monotherapy on levetiracetam less than or equal to 1500mg/day for at least two weeks|levetiracetam[17,30]|||1500mg[53,59]||||two weeks[77,86]||null|1605371|114477|levetiracetam
+1	3 monotherapy on levetiracetam le than or equal to 1500mg/day for at least two week|levetiracetam[17,30]|||1500mg[51,57]||||two week[75,83]||null|1605371|114477|levetiracetam

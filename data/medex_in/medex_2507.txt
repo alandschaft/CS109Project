@@ -1,1 +1,1 @@
-Karnofsky 50-100 
+karnofsky 50-100 

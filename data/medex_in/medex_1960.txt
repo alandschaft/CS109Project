@@ -1,1 +1,1 @@
-5 Length of hospital stay 48 hrs 
+5 length of hospital stay 48 hr 

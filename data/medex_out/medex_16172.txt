@@ -1,1 +1,1 @@
-1	7 Patients on chronic corticosteroid therapy|corticosteroid therapy[22,44]||||||||||354|354|corticosteroid therapy
+1	7 patient on chronic corticosteroid therapy|corticosteroid therapy[21,43]||||||||||354|354|corticosteroid therapy

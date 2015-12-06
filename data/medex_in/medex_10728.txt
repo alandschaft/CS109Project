@@ -1,1 +1,1 @@
-Any contraindication to MRI including being too large to fit into the MRI 
+any contraindication to mri include be too large to fit into the mri 

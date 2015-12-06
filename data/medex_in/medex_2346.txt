@@ -1,1 +1,1 @@
-Multiple seizure types allowed as long as POS is present 
+multiple seizure type allow a long a po be present 

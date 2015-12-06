@@ -1,1 +1,1 @@
-Patients meeting at least two of the following three criteria 
+patient meet at least two of the following three criterion 

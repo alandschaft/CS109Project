@@ -1,1 +1,1 @@
-1	Systemic corticosteroid prescribed in the Emergency Department|corticosteroid[9,23]||||||||||354|354|corticosteroid
+1	systemic corticosteroid prescribe in the emergency department|corticosteroid[9,23]||||||||||354|354|corticosteroid

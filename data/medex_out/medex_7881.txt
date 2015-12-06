@@ -1,2 +1,2 @@
-1	2 Prior HDAC DAC HSP90 inhibitors or valproic acid for the treatment of cancer|DAC[13,16]||||||||||||
-1	2 Prior HDAC DAC HSP90 inhibitors or valproic acid for the treatment of cancer|valproic acid[37,50]|||||||||C0042291|11118|11118|valproic acid
+1	2 prior hdac dac hsp90 inhibitor or valproic acid for the treatment of cancer|dac[13,16]||||||||||||
+1	2 prior hdac dac hsp90 inhibitor or valproic acid for the treatment of cancer|valproic acid[36,49]|||||||||C0042291|11118|11118|valproic acid

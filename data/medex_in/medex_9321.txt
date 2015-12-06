@@ -1,1 +1,1 @@
-Platelets 50.000/mm? 
+platelet 50.000/mm? 

@@ -1,1 +1,1 @@
-1	4 Patients are able to tolerate triheptanoin if they have been or are currently being treated with this medication|triheptanoin[32,44]||||||||||1313234|1313234|triheptanoin
+1	4 patient be able to tolerate triheptanoin if they have be or be currently be treat with this medication|triheptanoin[30,42]||||||||||1313234|1313234|triheptanoin

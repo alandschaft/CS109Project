@@ -1,1 +1,1 @@
-1	Severe/Cerebral Malaria|Malaria[16,23]||||||||||1025176|1025176|malaria
+1	severe/cerebral malaria|malaria[16,23]||||||||||1025176|1025176|malaria

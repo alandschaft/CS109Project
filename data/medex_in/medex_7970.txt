@@ -1,1 +1,1 @@
-10 Patient has an active peptic ulcer 
+10 patient have an active peptic ulcer 

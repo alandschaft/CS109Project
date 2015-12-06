@@ -1,3 +1,3 @@
-1	Co-enrolled on a Clinical Center CsA treatment protocol that prescribes CsA included but not limited to initial treatment cohort in both rabbit and horse ATG arm for the aplastic anemia patients|CsA[33,36]||||||||||||
-1	Co-enrolled on a Clinical Center CsA treatment protocol that prescribes CsA included but not limited to initial treatment cohort in both rabbit and horse ATG arm for the aplastic anemia patients|CsA[72,75]||||||||||||
-1	Co-enrolled on a Clinical Center CsA treatment protocol that prescribes CsA included but not limited to initial treatment cohort in both rabbit and horse ATG arm for the aplastic anemia patients|ATG[154,157]||||||||||1011|1011|globulin,anti-thymocyte
+1	co-enrolled on a clinical center csa treatment protocol that prescribes csa include but not limit to initial treatment cohort in both rabbit and horse atg arm for the aplastic anemia patient|csa[33,36]||||||||||||
+1	co-enrolled on a clinical center csa treatment protocol that prescribes csa include but not limit to initial treatment cohort in both rabbit and horse atg arm for the aplastic anemia patient|csa[72,75]||||||||||||
+1	co-enrolled on a clinical center csa treatment protocol that prescribes csa include but not limit to initial treatment cohort in both rabbit and horse atg arm for the aplastic anemia patient|atg[151,154]||||||||||1011|1011|globulin,anti-thymocyte

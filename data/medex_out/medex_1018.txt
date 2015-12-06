@@ -1,1 +1,1 @@
-1	Patients who are unable to cooperate adequately with MEG/EEG recordings|MEG[53,56]||||||||||||
+1	patient who be unable to cooperate adequately with meg/eeg recording|meg[51,54]||||||||||||

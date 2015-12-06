@@ -1,1 +1,1 @@
-1	2 Use of any investigational drugs within 30 days of baseline or at any time during the study|investigational drugs[13,34]|||||||30 days[42,49]||C1875327|691729|691729|investigational drugs
+1	2 use of any investigational drug within 30 day of baseline or at any time during the study|investigational drug[13,33]|||||||30 day[41,47]||C1875327|691729|691729|investigational drug

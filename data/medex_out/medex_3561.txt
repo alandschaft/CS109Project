@@ -1,1 +1,1 @@
-1	Hypersensitivity to scopolamine|scopolamine[20,31]|||||||||C0036442|9601|9601|scopolamine
+1	hypersensitivity to scopolamine|scopolamine[20,31]|||||||||C0036442|9601|9601|scopolamine

@@ -1,1 +1,1 @@
-1	using 1 but no more than 2 concomitant marketed antiepileptic drugs AEDs at the time of study entry|antiepileptic drugs[48,67]|||||||||C0003299|932|932|antiepileptic drugs
+1	use 1 but no more than 2 concomitant market antiepileptic drug aeds at the time of study entry|antiepileptic[44,57]|||||||||C0003299|932|932|antiepileptic

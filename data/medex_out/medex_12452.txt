@@ -1,1 +1,1 @@
-1	Patients who have documented antibiotic treatment before admission and in whom partially treated bacterial meningitis appears more likely than encephalitis|antibiotic[29,39]||||||||||896|896|antibiotic
+1	patient who have document antibiotic treatment before admission and in whom partially treat bacterial meningitis appear more likely than encephalitis|antibiotic[26,36]||||||||||896|896|antibiotic

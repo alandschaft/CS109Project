@@ -1,2 +1,2 @@
-1	Patient taking antiepileptic treatment benzodiazepine in addition to current treatment during the last 48h00|benzodiazepine[39,53]||||||||||1402|1402|benzodiazepine
-1	Patient taking antiepileptic treatment benzodiazepine in addition to current treatment during the last 48h00|antiepileptic[15,28]|||||||||C0003299|932|932|antiepileptic
+1	patient taking antiepileptic treatment benzodiazepine in addition to current treatment during the last 48h00|benzodiazepine[39,53]||||||||||1402|1402|benzodiazepine
+1	patient taking antiepileptic treatment benzodiazepine in addition to current treatment during the last 48h00|antiepileptic[15,28]|||||||||C0003299|932|932|antiepileptic

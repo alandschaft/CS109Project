@@ -1,1 +1,1 @@
-WBC value is 2000 and less Hb value is 9.0 and less platelet count is 100,000 and less in CBC 
+wbc value be 2000 and less hb value be 9.0 and less platelet count be 100,000 and less in cbc 

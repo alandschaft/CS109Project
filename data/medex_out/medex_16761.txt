@@ -1,2 +1,2 @@
-1	Subjects with clinical evidence of phenytoin or phenobarbital toxicity|phenytoin[35,44]|||||||||C0031507|8183|8183|phenytoin
-1	Subjects with clinical evidence of phenytoin or phenobarbital toxicity|phenobarbital[48,61]|||||||||C0031412|8134|8134|phenobarbital
+1	subject with clinical evidence of phenytoin or phenobarbital toxicity|phenytoin[34,43]|||||||||C0031507|8183|8183|phenytoin
+1	subject with clinical evidence of phenytoin or phenobarbital toxicity|phenobarbital[47,60]|||||||||C0031412|8134|8134|phenobarbital

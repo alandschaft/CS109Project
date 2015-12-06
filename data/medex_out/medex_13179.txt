@@ -1,2 +1,2 @@
-1	Exposure to any investigational drug or device 30 days prior to screening or plans to take another investigational drug at any time during the study|investigational drug[16,36]|||||||30 days[47,54]||C1875327|691729|691729|investigational drug
-1	Exposure to any investigational drug or device 30 days prior to screening or plans to take another investigational drug at any time during the study|investigational drug[99,119]|||||||||C1875327|691729|691729|investigational drug
+1	exposure to any investigational drug or device 30 day prior to screening or plan to take another investigational drug at any time during the study|investigational drug[16,36]|||||||30 day[47,53]||C1875327|691729|691729|investigational drug
+1	exposure to any investigational drug or device 30 day prior to screening or plan to take another investigational drug at any time during the study|investigational drug[97,117]|||||||||C1875327|691729|691729|investigational drug

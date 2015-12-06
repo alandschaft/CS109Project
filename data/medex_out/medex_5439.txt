@@ -1,1 +1,1 @@
-1	Received any rescue benzodiazepines more than once during the 28 days prior to screening|benzodiazepines[20,35]|||||||28 days[62,69]|||1402|1402|benzodiazepines
+1	received any rescue benzodiazepine more than once during the 28 day prior to screening|benzodiazepine[20,34]|||||||28 day[61,67]|||1402|1402|benzodiazepine

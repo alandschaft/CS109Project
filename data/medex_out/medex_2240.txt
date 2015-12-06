@@ -1,1 +1,1 @@
-1	7 Subjects considered by the Investigator to be an unsuitable candidate for receiving Zonegran or considered unlikely to comply with the protocol|Zonegran[86,94]|||||||||C0876224|261708|39998|zonisamide
+1	7 subject consider by the investigator to be an unsuitable candidate for receiving zonegran or consider unlikely to comply with the protocol|zonegran[83,91]|||||||||C0876224|261708|39998|zonisamide

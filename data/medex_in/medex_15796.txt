@@ -1,1 +1,1 @@
-2 Patient is expected to require MRI using a body coil for transmission of RF during the clinical study 
+2 patient be expect to require mri use a body coil for transmission of rf during the clinical study 

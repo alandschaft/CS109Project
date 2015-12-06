@@ -1,1 +1,1 @@
-3 Age greater than or equal to 18 years 
+3 age greater than or equal to 18 year 

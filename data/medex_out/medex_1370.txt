@@ -1,1 +1,1 @@
-1	13 Subjects with a history of DSM-IV drug or alcohol dependency or abuse except for nicotine or caffeine within the preceding 3 months|caffeine[96,104]|||||IV[34,36]||3 months[126,134]||C0006644|1886|1886|caffeine
+1	13 subject with a history of dsm-iv drug or alcohol dependency or abuse except for nicotine or caffeine within the preceding 3 month|caffeine[95,103]|||||iv[33,35]||3 month[125,132]||C0006644|1886|1886|caffeine

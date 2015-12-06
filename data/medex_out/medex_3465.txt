@@ -1,1 +1,1 @@
-1	current use of benzodiazepines|benzodiazepines[15,30]||||||||||1402|1402|benzodiazepines
+1	current use of benzodiazepine|benzodiazepine[15,29]||||||||||1402|1402|benzodiazepine

@@ -1,1 +1,1 @@
-1	Subjects should be refractory that is having documented failures on more than one antiepileptic drug AED|antiepileptic[82,95]|||||||||C0003299|932|932|antiepileptic
+1	subject should be refractory that be have document failure on more than one antiepileptic drug aed|antiepileptic[76,89]|||||||||C0003299|932|932|antiepileptic

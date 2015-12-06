@@ -1,2 +1,2 @@
-1	Subject has taken or used any investigational drug or device in the 30 days prior to screening with the exception of clobazam in a Lundbeck-sponsored study|investigational drug[30,50]|||||||||C1875327|691729|691729|investigational drug
-1	Subject has taken or used any investigational drug or device in the 30 days prior to screening with the exception of clobazam in a Lundbeck-sponsored study|clobazam[117,125]|||||||30 days[68,75]||C0055891|21241|21241|clobazam
+1	subject have take or use any investigational drug or device in the 30 day prior to screening with the exception of clobazam in a lundbeck-sponsored study|investigational drug[29,49]|||||||||C1875327|691729|691729|investigational drug
+1	subject have take or use any investigational drug or device in the 30 day prior to screening with the exception of clobazam in a lundbeck-sponsored study|clobazam[115,123]|||||||30 day[67,73]||C0055891|21241|21241|clobazam

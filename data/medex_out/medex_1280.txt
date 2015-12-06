@@ -1,1 +1,1 @@
-1	Is receiving chronic treatment with any medication that could influence seizure control NOTE Use of benzodiazepines is allowed|benzodiazepines[100,115]||||||||||1402|1402|benzodiazepines
+1	be receive chronic treatment with any medication that could influence seizure control note use of benzodiazepine be allow|benzodiazepine[98,112]||||||||||1402|1402|benzodiazepine

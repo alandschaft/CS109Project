@@ -1,1 +1,1 @@
-7 Gender Male or female 
+7 gender male or female 

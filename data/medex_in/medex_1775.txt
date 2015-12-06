@@ -1,1 +1,1 @@
-Male/female subject =4 or =65 years of age at Visit 1 
+male/female subject =4 or =65 year of age at visit 1 

@@ -1,2 +1,2 @@
-1	More than 3 days of sedative or benzodiazepine use for seizures in the 3 months months prior to screening|sedative[20,28]|||||||3 days[10,16]|||9634|9634|sedative
-1	More than 3 days of sedative or benzodiazepine use for seizures in the 3 months months prior to screening|benzodiazepine[32,46]|||||||3 months[71,79]|||1402|1402|benzodiazepine
+1	more than 3 day of sedative or benzodiazepine use for seizure in the 3 month month prior to screening|sedative[19,27]|||||||3 day[10,15]|||9634|9634|sedative
+1	more than 3 day of sedative or benzodiazepine use for seizure in the 3 month month prior to screening|benzodiazepine[31,45]|||||||3 month[69,76]|||1402|1402|benzodiazepine

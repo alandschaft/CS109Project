@@ -1,1 +1,1 @@
-1	Subject is currently using or has in the past used recreational or medicinal cannabis or cannabinoid based medications within the three months prior to screening and is unwilling to abstain for the duration for the study|cannabis[77,85]|||||||three months[130,142]|||196583|196583|cannabis
+1	subject be currently use or have in the past used recreational or medicinal cannabis or cannabinoid base medication within the three month prior to screening and be unwilling to abstain for the duration for the study|cannabis[76,84]|||||||three month[127,138]|||196583|196583|cannabis

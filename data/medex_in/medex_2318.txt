@@ -1,1 +1,1 @@
-Weigh =25 kilograms 
+weigh =25 kilogram 

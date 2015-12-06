@@ -1,1 +1,1 @@
-Patients not in remission at day 28 of first induction 
+patient not in remission at day 28 of first induction 

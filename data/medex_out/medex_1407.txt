@@ -1,1 +1,1 @@
-1	Concurrent 1 or 2 antiepileptic drugs|antiepileptic drugs[18,37]|||||||||C0003299|932|932|antiepileptic drugs
+1	concurrent 1 or 2 antiepileptic drug|antiepileptic[18,31]|||||||||C0003299|932|932|antiepileptic

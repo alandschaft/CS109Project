@@ -1,1 +1,1 @@
-1	Diffusing capacity of lung for carbon monoxide DLCO 30|carbon monoxide[31,46]|||||||||C0007018|2037|2037|carbon monoxide
+1	diffuse capacity of lung for carbon monoxide dlco 30|carbon monoxide[29,44]|||||||||C0007018|2037|2037|carbon monoxide

@@ -1,1 +1,1 @@
-Platelets greater than or equal to 120 000 /mm3 
+platelet great than or equal to 120 000 /mm3 
