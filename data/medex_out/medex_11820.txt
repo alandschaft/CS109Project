@@ -1,1 +1,1 @@
-1	Upremedicated ASA I-II American Society of Anesthesiologists 's physical status patients|ASA[14,17]|||||||||C1740879|667904|9525|salicylic acid
+1	history of confirm or suspect liver failure increase prothrombin time elevate liver enzyme hypoalbuminemia and hyperbilirrubinemia with or without peripheral edema and encephalopathy|prothrombin[53,64]||||||||||8872|8872|factor ii (prothrombin)

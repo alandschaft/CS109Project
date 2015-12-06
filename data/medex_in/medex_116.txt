@@ -1,1 +1,1 @@
-Patients younger than 18 or older than 60 years old will be excluded from the study 
+patient young than 18 or old than 60 year old will be exclude from the study 

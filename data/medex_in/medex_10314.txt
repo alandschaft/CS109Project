@@ -1,1 +1,1 @@
-Children with a diagnosis of a chronic neurological disorder 
+clcr 140-age time ideal body weight in kg time 0.85 if female divide by 72 time serum cr in mg/dl 

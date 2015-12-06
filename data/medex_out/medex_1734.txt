@@ -1,1 +1,1 @@
-1	Not receiving optimized antidepressant medication|antidepressant[24,38]||||||||||927|927|antidepressant
+1	pregnant or lactate woman|lactate[12,19]|||||||||C0376261|114202|114202|lactate

@@ -1,0 +1,4 @@
+1	patient know to be intolerant of propofol etomidate or succinylcholine or for whom these anesthetic medication be not appropriate|etomidate[42,51]|||||||||C0015131|4177|4177|etomidate
+1	patient know to be intolerant of propofol etomidate or succinylcholine or for whom these anesthetic medication be not appropriate|propofol[33,41]|||||||||C0033487|8782|8782|propofol
+1	patient know to be intolerant of propofol etomidate or succinylcholine or for whom these anesthetic medication be not appropriate|succinylcholine[55,70]|||||||||C0038627|10154|10154|succinylcholine
+1	patient know to be intolerant of propofol etomidate or succinylcholine or for whom these anesthetic medication be not appropriate|anesthetic[89,99]||||||||||817|817|anesthetic

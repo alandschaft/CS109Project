@@ -1,2 +1,0 @@
-1	Treatment with non-selective Monoamine Oxidase Inhibitor MAOI iproniazide|iproniazide[62,73]|||||||||C3652593|1431471|1431471|iproniazide
-1	Treatment with non-selective Monoamine Oxidase Inhibitor MAOI iproniazide|Monoamine Oxidase Inhibitor[29,56]||||||||||7032|7032|monoamine oxidase inhibitor

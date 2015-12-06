@@ -1,1 +1,1 @@
-2. those who do not have EEG evidence of spike activity 
+karnofsky-index 60 ecog 2 

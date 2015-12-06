@@ -1,3 +1,0 @@
-1	9 Presence of major active psychiatric disease Patients taking a stable dose of selective serotonin reuptake inhibitor antidepressant except fluvoxamine will be allowed|fluvoxamine[141,152]|||||||||C0085228|42355|42355|fluvoxamine
-1	9 Presence of major active psychiatric disease Patients taking a stable dose of selective serotonin reuptake inhibitor antidepressant except fluvoxamine will be allowed|antidepressant[119,133]||||||||||927|927|antidepressant
-1	9 Presence of major active psychiatric disease Patients taking a stable dose of selective serotonin reuptake inhibitor antidepressant except fluvoxamine will be allowed|serotonin reuptake inhibitor[90,118]||||||||||1026630|1026630|serotonin reuptake inhibitor

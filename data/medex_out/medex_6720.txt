@@ -1,0 +1,2 @@
+1	history of measles mumps rubella and/or varicella/zoster disease|rubella[25,32]||||||||||1022799|1022799|rubella
+1	history of measles mumps rubella and/or varicella/zoster disease|mumps[19,24]||||||||||1027774|1027774|mumps

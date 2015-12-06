@@ -1,2 +1,0 @@
-1	12 Concomitant use of felbamate or use of felbamate within 2 months prior to Visit 1 of the E2090-E044-312 study|felbamate[22,31]|||||||||C0060135|24812|24812|felbamate
-1	12 Concomitant use of felbamate or use of felbamate within 2 months prior to Visit 1 of the E2090-E044-312 study|felbamate[42,51]|||||||2 months[59,67]||C0060135|24812|24812|felbamate

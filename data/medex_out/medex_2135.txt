@@ -1,0 +1,1 @@
+1	administration of any investigational drug within 30 day prior to screening|investigational drug[22,42]|||||||30 day[50,56]||C1875327|691729|691729|investigational drug

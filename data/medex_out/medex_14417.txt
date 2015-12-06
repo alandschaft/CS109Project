@@ -1,1 +1,2 @@
-1	ASA I-III|ASA[0,3]|||||||||C1740879|667904|9525|salicylic acid
+1	hypersensitivity to sulfonamide or other sulfonamide derivative a cross-sensitivity may occur|sulfonamide[20,31]||||||||||10215|10215|sulfonamide
+1	hypersensitivity to sulfonamide or other sulfonamide derivative a cross-sensitivity may occur|sulfonamide[41,52]||||||||||10215|10215|sulfonamide

@@ -1,0 +1,2 @@
+1	treatment naive patient or with risperidone treatment for 2 month that have not receive any depot neuroleptic during the last year|neuroleptic[98,109]|||||||2 month[58,65]|||10693|10693|antipsychotic drug
+1	treatment naive patient or with risperidone treatment for 2 month that have not receive any depot neuroleptic during the last year|risperidone[32,43]|||||||||C0073393|35636|35636|risperidone

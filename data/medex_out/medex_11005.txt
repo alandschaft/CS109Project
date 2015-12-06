@@ -1,3 +1,1 @@
-2	newer antiepileptic drug either alone or in combination In case of infantile spasms epileptic spasms with the onset before 2 years of age with or without electroencephalographic evidence of hypsarrhythmia or its variants persisting for more than 3 weeks at least 7 cluster per week despite treatment with|antiepileptic[307,320]||||||per week[574,582]|2 years[424,431]||C0003299|932|932|antiepileptic
-3	at least 2 appropriate AEDs and any one of the following corticosteroids or vigabatrin will be considered as eligible for inclusion|corticosteroids[663,678]|||||||||C0001617|354|354|corticosteroids
-3	at least 2 appropriate AEDs and any one of the following corticosteroids or vigabatrin will be considered as eligible for inclusion|vigabatrin[682,692]|||||||||C0048044|14851|14851|vigabatrin
+1	5 currently take at least one antiepileptic medication|antiepileptic[30,43]|||||||||C0003299|932|932|antiepileptic

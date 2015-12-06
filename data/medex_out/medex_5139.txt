@@ -1,3 +1,0 @@
-1	Any treatment condition or injury that contraindicates treatment with LEV levetiracetam or phenytoin PHT|levetiracetam[74,87]|||||||||C0377265|114477|114477|levetiracetam
-1	Any treatment condition or injury that contraindicates treatment with LEV levetiracetam or phenytoin PHT|LEV[70,73]|||||||||C3220305|1166072|5032|guaifenesin
-1	Any treatment condition or injury that contraindicates treatment with LEV levetiracetam or phenytoin PHT|phenytoin[91,100]|||||||||C0031507|8183|8183|phenytoin

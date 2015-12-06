@@ -1,0 +1,1 @@
+1	refractory epilepsy characterize by 3 or more seizure by month and the right use of 2 or more antiepileptic drug during the last 12 month|antiepileptic[94,107]|||||||12 month[129,137]||C0003299|932|932|antiepileptic

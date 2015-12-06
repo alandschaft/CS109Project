@@ -1,1 +1,1 @@
-1	Subject has taken or is currently taking vigabatrin|vigabatrin[41,51]|||||||||C0048044|14851|14851|vigabatrin
+1	15 female who be pregnant or lactate|lactate[29,36]|||||||||C0376261|114202|114202|lactate

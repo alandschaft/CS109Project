@@ -1,1 +1,1 @@
-1	Any illness requiring chronic drug therapy other than antiepileptic drugs|antiepileptic drugs[54,73]|||||||||C0003299|932|932|antiepileptic drugs
+1	patient receive antiepileptic drug therapy will continue on their medication|antiepileptic[16,29]|||||||||C0003299|932|932|antiepileptic

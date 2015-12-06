@@ -1,3 +1,0 @@
-1	have not taken anti-epilepsy drugs other than ethosuximide lamotrigine or valproate|lamotrigine[59,70]|||||||||C0064636|28439|28439|lamotrigine
-1	have not taken anti-epilepsy drugs other than ethosuximide lamotrigine or valproate|ethosuximide[46,58]|||||||||C0015043|4135|4135|ethosuximide
-1	have not taken anti-epilepsy drugs other than ethosuximide lamotrigine or valproate|valproate[74,83]|||||||||C0080356|40254|40254|valproate

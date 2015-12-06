@@ -1,1 +1,0 @@
-1	Subjects with a history of using an experimental drug or device in the past 30 days|experimental drug[36,53]|||||||30 days[76,83]|||91034|91034|experimental drug

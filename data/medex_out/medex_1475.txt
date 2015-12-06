@@ -1,1 +1,3 @@
-1	Patients requiring treatment of drugs known to affect the GABAergic system including vigabatrin|vigabatrin[85,95]|||||||||C0048044|14851|14851|vigabatrin
+1	use of any antimalarial other than chloroquine or quinine in the past 4 week|chloroquine[35,46]|||||||||C0008269|2393|2393|chloroquine
+1	use of any antimalarial other than chloroquine or quinine in the past 4 week|antimalarial[11,23]||||||||||975|975|antimalarial
+1	use of any antimalarial other than chloroquine or quinine in the past 4 week|quinine[50,57]|||||||4 week[70,76]||C0034417|9071|9071|quinine

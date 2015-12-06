@@ -1,0 +1,1 @@
+1	5 antiepileptic therapy include at least 1-2 concomitant aeds and be on a stable dose s of the same aeds for the 3 month prior to enrollment|antiepileptic[2,15]|||||||3 month[113,120]||C0003299|932|932|antiepileptic

@@ -1,1 +1,1 @@
-1	Subject is currently using or has in the past used recreational or medicinal cannabis or synthetic cannabinoid based medications including within the three months prior to study entry and is unwilling to abstain for the duration for the study|cannabis[77,85]|||||||three months[150,162]|||196583|196583|cannabis
+1	8 specifically know intolerance or hypersensitivity to contact lens|contact lens[55,67]||||||||||2809|2809|contact lens

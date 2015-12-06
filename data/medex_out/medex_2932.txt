@@ -1,1 +1,0 @@
-1	Serum albumin greater than 0.75 x normal|albumin[6,13]|||||||||C0001924|433|433|albumin

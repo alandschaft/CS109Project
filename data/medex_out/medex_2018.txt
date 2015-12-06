@@ -1,1 +1,1 @@
-1	2 Subjects who have a current or recent within 6 months of the start of study medication DSM-IV-TR diagnosis of substance dependence or abuse with the exception of nicotine or caffeine dependence|caffeine[176,184]|||||IV[93,95]||6 months[47,55]||C0006644|1886|1886|caffeine
+1	currently meet dsm-iv criterion for any other psychoactive substance dependency disorder except nicotine dependence|psychoactive substance[46,68]|||||iv[19,21]|||||196914|196914|psychoactive substance

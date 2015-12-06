@@ -1,4 +1,0 @@
-1	Treatment that can decrease seizure threshold antidepressants neuroleptics mefloquine buproprione tramadol|tramadol[98,106]|||||||||C0040610|10689|10689|tramadol
-1	Treatment that can decrease seizure threshold antidepressants neuroleptics mefloquine buproprione tramadol|mefloquine[75,85]|||||||||C0025153|6694|6694|mefloquine
-1	Treatment that can decrease seizure threshold antidepressants neuroleptics mefloquine buproprione tramadol|neuroleptics[62,74]||||||||||||
-1	Treatment that can decrease seizure threshold antidepressants neuroleptics mefloquine buproprione tramadol|antidepressants[46,61]|||||||||C0003289|927|927|antidepressants

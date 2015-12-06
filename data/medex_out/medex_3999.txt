@@ -1,0 +1,4 @@
+1	subject with confirm diagnosis of human immunodeficiency virus hiv infection be exclude at the investigator 's discretion if he/she feel that 1 a potential drug interaction between zd6474 vandetanib and any of the patient 's anti-hiv medication could influence the efficacy of the anti-hiv medication|vandetanib[188,198]|||||||||C1701110|1098413|1098413|vandetanib
+1	subject with confirm diagnosis of human immunodeficiency virus hiv infection be exclude at the investigator 's discretion if he/she feel that 1 a potential drug interaction between zd6474 vandetanib and any of the patient 's anti-hiv medication could influence the efficacy of the anti-hiv medication|zd6474[181,187]||||||||||||
+2	or 2 it may place the patient at risk due to the pharmacologic activity of zd6474 vandetanib|vandetanib[383,393]|||||||||C1701110|1098413|1098413|vandetanib
+2	or 2 it may place the patient at risk due to the pharmacologic activity of zd6474 vandetanib|zd6474[376,382]||||||||||||

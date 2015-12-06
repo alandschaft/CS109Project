@@ -1,1 +1,1 @@
-age above or equal to 20 year-old adults 
+patient must be up to 21 year of age 

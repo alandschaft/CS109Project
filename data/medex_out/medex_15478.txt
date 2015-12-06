@@ -1,3 +1,0 @@
-1	Subject has consumed grapefruit or grapefruit juice three days prior to randomization and/or unwilling to abstain in the three days prior to Visits B2 and B7|grapefruit juice[35,51]|||||||three days[52,62]||C0452456|613829|613829|grapefruit juice
-1	Subject has consumed grapefruit or grapefruit juice three days prior to randomization and/or unwilling to abstain in the three days prior to Visits B2 and B7|B2[148,150]|||||||three days[121,131]|||576726|576726|b2
-1	Subject has consumed grapefruit or grapefruit juice three days prior to randomization and/or unwilling to abstain in the three days prior to Visits B2 and B7|B7[155,157]||||||||||619351|619351|b7

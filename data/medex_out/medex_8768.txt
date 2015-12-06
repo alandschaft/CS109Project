@@ -1,3 +1,1 @@
-2	and were concomitantly using of anticonvulsants antidepressants antipsychotics or antihistamine|antipsychotics[369,383]|||||||||C0040615|10693|10693|antipsychotic drug
-2	and were concomitantly using of anticonvulsants antidepressants antipsychotics or antihistamine|antidepressants[353,368]|||||||||C0003289|927|927|antidepressants
-2	and were concomitantly using of anticonvulsants antidepressants antipsychotics or antihistamine|anticonvulsants[337,352]|||||||||C0003286|926|926|anticonvulsants
+1	infant treat by phenobarbital monotherapy diagnose neonatal seizure|phenobarbital[16,29]|||||||||C0031412|8134|8134|phenobarbital

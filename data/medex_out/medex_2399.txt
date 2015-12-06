@@ -1,1 +1,2 @@
-1	have a significant recent history within 2 years of medical diseases respiratory heart gastrointestinal blood diseases rheumatic fever or cancer|rheumatic fever[119,134]|||||||2 years[41,48]|||1023414|1023414|rheumatic fever
+1	no history of antiepileptic drug use or take a single antiepileptic drug for no long than 6 week|antiepileptic[14,27]|||||||||C0003299|932|932|antiepileptic
+1	no history of antiepileptic drug use or take a single antiepileptic drug for no long than 6 week|antiepileptic[54,67]|||||||6 week[90,96]||C0003299|932|932|antiepileptic

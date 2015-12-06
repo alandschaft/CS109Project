@@ -1,1 +1,1 @@
-1	7 Using a prescription or over the counter medication for the purpose of treating sleep disturbance including sedating antihistamines within 14 days before dosing|sedating antihistamines[110,133]|||||||14 days[141,148]|||107777|107777|sedating antihistamines
+1	5 the patient be currently take long-term systemic steroid 2 week|steroid[51,58]|||||||2 week[59,65]|||10072|10072|steroid

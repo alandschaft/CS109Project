@@ -1,2 +1,1 @@
-1	Children aged between 1 and 14 years who had clinically diagnosed encephalitis on the basis of history of fever that lasted less than 14 days altered consciousness with or without a history of new onset seizures with CSF finding of white cell count less than 1000 cells/mm3 with no organisms on Gram|CSF[217,220]|||||||14 years[28,36]|||40209|40209|csf
-2	stain and a CSF plasma glucose ratio 40 admitted in Kanti Children 's Hospital and BP Koirala Institute of Health Sciences Nepal|CSF[312,315]||||||||||40209|40209|csf
+1	single-sided sensorineural deafness ssd bone conduction threshold with a pure tone average of 500 1000 2000 and 3000 hz 30 db hearing level hl in the best ear|ssd[36,39]||||||||||219770|9793|silver sulfadiazine

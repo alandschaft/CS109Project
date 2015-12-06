@@ -1,0 +1,1 @@
+1	receive iv phenytoin within 24 hour|phenytoin[11,20]|||||iv[8,10]||24 hour[28,35]||C0031507|8183|8183|phenytoin

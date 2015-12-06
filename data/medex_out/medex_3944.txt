@@ -1,2 +1,0 @@
-1	Subjects must not be receiving Coumadin subjects may take low molecular weight heparin|low molecular weight heparin[58,86]||||||||||5227|5227|low mol wt heparin (obsolete)
-1	Subjects must not be receiving Coumadin subjects may take low molecular weight heparin|Coumadin[31,39]|||||||||C0699129|202421|11289|warfarin

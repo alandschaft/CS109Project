@@ -1,1 +1,0 @@
-1	8 Uncontrolled hyperlipidemia Fasting serum cholesterol 300 mg/dL OR 7.75 mmol/L AND Fasting triglycerides 2.5 x ULN|triglycerides[93,106]|||300mg / dL[56,65]||||||C0041004|10808|10808|triglycerides

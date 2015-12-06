@@ -1,1 +1,0 @@
-1	7 Change in the dose of any Antiepileptic Drug within 30 days prior to enrollment|Antiepileptic[28,41]|||||||30 days[54,61]||C0003299|932|932|antiepileptic

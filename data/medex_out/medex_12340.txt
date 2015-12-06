@@ -1,0 +1,1 @@
+1	paclitaxel 175 mg/m2 iv every 2 week x 4 6 cycle without an anthracycline|paclitaxel[0,10]|||175mg[11,17]||iv[21,23]|every 2 week[24,36]|||C0979252|312199|56946|paclitaxel

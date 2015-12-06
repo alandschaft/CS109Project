@@ -1,0 +1,1 @@
+1	on or equal to 2 anti-seizure medication range 0-2 aeds|seizure medication[22,40]||||||||||1021750|1021750|seizure medication

@@ -1,0 +1,1 @@
+1	gadolinium mri or contrast ct must be obtain within 14 day prior to registration|gadolinium[0,10]|||||||14 day[52,58]||C0016911|1310171|1310171|gadolinium

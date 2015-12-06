@@ -1,2 +1,0 @@
-1	Is planning to begin treatment with an investigational drug other than retigabine and/or an experimental device for the treatment of epilepsy or any other medical condition|retigabine[71,81]||||||||||1112990|1112990|retigabine
-1	Is planning to begin treatment with an investigational drug other than retigabine and/or an experimental device for the treatment of epilepsy or any other medical condition|investigational drug[39,59]|||||||||C1875327|691729|691729|investigational drug

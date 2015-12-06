@@ -1,0 +1,2 @@
+1	prior use of felbamate or vigabatrin be not allow|felbamate[13,22]|||||||||C0060135|24812|24812|felbamate
+1	prior use of felbamate or vigabatrin be not allow|vigabatrin[26,36]|||||||||C0048044|14851|14851|vigabatrin

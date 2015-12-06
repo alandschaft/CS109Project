@@ -1,1 +1,0 @@
-1	Patient has a history of an adverse reaction to phenytoin|phenytoin[48,57]|||||||||C0031507|8183|8183|phenytoin

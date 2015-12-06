@@ -1,1 +1,1 @@
-1	Severe medical neurological and psychiatric disorders or laboratory values which may have an impact on the safety of the subject|impact[93,99]|||||||||C0726639|222931|222931|impact
+1	patient on felbamate unless treatment have be continuous for 18 month|felbamate[11,20]|||||||18 month[61,69]||C0060135|24812|24812|felbamate

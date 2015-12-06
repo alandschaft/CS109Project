@@ -1,0 +1,1 @@
+2	in the last 6 hour and treatment with an antiepileptic drug aed be require accord to the physician 's clinical judgment|antiepileptic[342,355]|||||||6 hour[313,319]||C0003299|932|932|antiepileptic

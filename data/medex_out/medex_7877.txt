@@ -1,2 +1,2 @@
-1	Subject has a stable dose regimen of 1 to 3 marketed antiepileptic drug s AEDs with or without additional concurrent stable Vagus Nerve Stimulation VNS The VNS must have been in place for at least 6 months prior to study entry with constant settings for at least 28 days prior to the screening visit and|antiepileptic[53,66]|||||||6 months[197,205]||C0003299|932|932|antiepileptic
-2	during the Baseline Phase Benzodiazepines will be counted as an AED|Benzodiazepines[330,345]||||||||||1402|1402|benzodiazepines
+1	9 previous exposure to gemcitabine and taxotere will only be allow if there be no residual toxicity from previous treatment toxicity must be grade a 0 or 1 prior to study|gemcitabine[23,34]|||||||||C0045093|12574|12574|gemcitabine
+1	9 previous exposure to gemcitabine and taxotere will only be allow if there be no residual toxicity from previous treatment toxicity must be grade a 0 or 1 prior to study|taxotere[39,47]|||||||||C0699967|202982|72962|docetaxel

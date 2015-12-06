@@ -1,1 +1,1 @@
-1	Treatment with Warfarin for 30 days or less prior to enrollment|Warfarin[15,23]|||||||30 days[28,35]||C0043031|11289|11289|warfarin
+1	previous vaccination against hepatitis a or receipt of a fourth dose of pneumococcal conjugate vaccine|pneumococcal conjugate vaccine[72,102]||||||||||389157|389157|pneumococcal conjugate vaccine

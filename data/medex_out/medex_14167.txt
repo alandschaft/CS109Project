@@ -1,0 +1,1 @@
+1	treatment with anticoagulant|anticoagulant[15,28]|||||||||C0003280|923|923|anticoagulant

@@ -1,1 +1,2 @@
-1	where the responsible clinician is substantially uncertain as to the appropriateness of antifibrinolytic agents in the patient|antifibrinolytic agents[88,111]||||||||||934|934|antifibrinolytic agents
+1	severe allergic reaction follow the administration of previous dose s of dtp or mmr vaccine|dtp[73,76]||||||||||3519|3519|diphtheria-poliomyelitis-tetanus
+1	severe allergic reaction follow the administration of previous dose s of dtp or mmr vaccine|mmr vaccine[80,91]||||||||||29406|29406|measles,mumps&rubella vac live

@@ -1,2 +1,0 @@
-1	Subjects who are allergic to or have shown hypersensitivity topiramate or agents similar to topiramate|topiramate[60,70]|||||||||C0076829|38404|38404|topiramate
-1	Subjects who are allergic to or have shown hypersensitivity topiramate or agents similar to topiramate|topiramate[92,102]|||||||||C0076829|38404|38404|topiramate

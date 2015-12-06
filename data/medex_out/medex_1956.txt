@@ -1,1 +1,0 @@
-1	Failed at least 2 anticonvulsants|anticonvulsants[18,33]|||||||||C0003286|926|926|anticonvulsants

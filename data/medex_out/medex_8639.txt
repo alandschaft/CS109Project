@@ -1,2 +1,0 @@
-1	Maternal contraindication to betamethasone exclude if the patient has a known contraindication to betamethasone|betamethasone[29,42]|||||||||C0005308|1514|1514|betamethasone
-1	Maternal contraindication to betamethasone exclude if the patient has a known contraindication to betamethasone|betamethasone[98,111]|||||||||C0005308|1514|1514|betamethasone

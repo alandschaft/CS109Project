@@ -1,0 +1,2 @@
+1	use of neuroleptic medication or sedate dos of antianxiety or antidepressant drug|neuroleptic[7,18]||||||||||10693|10693|antipsychotic drug
+1	use of neuroleptic medication or sedate dos of antianxiety or antidepressant drug|antidepressant drug[62,81]||||||||||927|927|antidepressant drug

@@ -1,1 +1,1 @@
-1	At Visit 2 patient was not eligible for entry into the Eslicarbazepine acetate treatment phase if he/she fulfilled the following criteria|Eslicarbazepine acetate[55,78]||||||||||881251|881251|eslicarbazepine acetate
+1	previous exposure to clobazam prior to presentation|clobazam[21,29]|||||||||C0055891|21241|21241|clobazam

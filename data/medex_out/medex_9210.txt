@@ -1,2 +1,0 @@
-1	Patients having received Valproic Acid VPA within 3 months|VPA[39,42]|||||||3 months[50,58]|||1099703|40254|valproate
-1	Patients having received Valproic Acid VPA within 3 months|Valproic Acid[25,38]|||||||||C0042291|11118|11118|valproic acid

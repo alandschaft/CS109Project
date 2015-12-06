@@ -1,3 +1,0 @@
-1	Psychiatric medications including antidepressants antipsychotics or any other medications that are known to affect smoking cessation e.g clonidine|antipsychotics[50,64]|||||||||C0040615|10693|10693|antipsychotic drug
-1	Psychiatric medications including antidepressants antipsychotics or any other medications that are known to affect smoking cessation e.g clonidine|antidepressants[34,49]|||||||||C0003289|927|927|antidepressants
-1	Psychiatric medications including antidepressants antipsychotics or any other medications that are known to affect smoking cessation e.g clonidine|clonidine[137,146]|||||||||C0009014|2599|2599|clonidine

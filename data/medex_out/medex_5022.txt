@@ -1,3 +1,1 @@
-1	Use of neuroleptic drugs or sedative doses of antianxiety or antidepressant drugs|neuroleptic drugs[7,24]||||||||||10693|10693|antipsychotic drug
-1	Use of neuroleptic drugs or sedative doses of antianxiety or antidepressant drugs|sedative[28,36]||||||||||9634|9634|sedative
-1	Use of neuroleptic drugs or sedative doses of antianxiety or antidepressant drugs|antidepressant drugs[61,81]||||||||||927|927|antidepressant drugs
+1	6 patient with history of seizure disorder and/or those already receive valproic acid will be exclude|valproic acid[72,85]|||||||||C0042291|11118|11118|valproic acid

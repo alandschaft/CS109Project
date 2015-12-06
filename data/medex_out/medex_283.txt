@@ -1,2 +1,0 @@
-2	hospital visits requiring IV fluids patients and their parents will be asked to advise the treating medical staff on the need to avoid the use of dextrose-containing solutions to minimize risks of iatrogenic seizures|IV fluids[325,334]||||||||||390001|390001|iv fluids
-2	hospital visits requiring IV fluids patients and their parents will be asked to advise the treating medical staff on the need to avoid the use of dextrose-containing solutions to minimize risks of iatrogenic seizures|dextrose[445,453]|||||||||C0887285|4850|4850|glucose

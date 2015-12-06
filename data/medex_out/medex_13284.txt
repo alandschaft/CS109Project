@@ -1,1 +1,0 @@
-1	Patients entered on the registry will be those requiring a modification in their current anti-epileptic medication This includes but is not limited to patients who are commenced on rufinamide as adjuvant therapy|rufinamide[181,191]|||||||||C0213404|69036|69036|rufinamide

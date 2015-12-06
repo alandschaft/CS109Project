@@ -1,0 +1,1 @@
+1	patient who would have be classify a asa 3 status prior to their acute neurological event|asa[37,40]|||3[41,42]||||||C1740879|667904|9525|salicylic acid

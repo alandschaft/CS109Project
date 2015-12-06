@@ -1,1 +1,1 @@
-1	9 Subjects who have a history of illicit drug or alcohol abuse within the last year|illicit drug[33,45]||||||||||3683|3683|illicit drug
+1	diffuse capacity of lung for carbon monoxide dlco 30|carbon monoxide[29,44]|||||||||C0007018|2037|2037|carbon monoxide

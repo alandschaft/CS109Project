@@ -1,0 +1,2 @@
+1	aed dos include stp or vpa must be stable for 4 week prior to screening and regimen must remain stable throughout the duration of the blind period of the trial|stp[16,19]||||||||||3625|3625|stp
+1	aed dos include stp or vpa must be stable for 4 week prior to screening and regimen must remain stable throughout the duration of the blind period of the trial|vpa[23,26]|||||||4 week[46,52]|||1099703|40254|valproate

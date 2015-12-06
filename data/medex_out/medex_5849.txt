@@ -1,0 +1,1 @@
+1	they be use any topical medication such a eye drop or ointment|eye drop[42,50]||ointment[54,62]|||topical[16,23]||||C0015399|4230|4230|eye drop

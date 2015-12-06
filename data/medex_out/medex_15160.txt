@@ -1,1 +1,1 @@
-1	Clinically significant history of allergic reactions or significant sensitivities to cannabinoids or to any of the other ingredients in the study drug|cannabinoids[85,97]||||||||||1975|1975|cannabinoids
+1	subject have a history of know illicit drug abuse|illicit drug[31,43]||||||||||3683|3683|illicit drug

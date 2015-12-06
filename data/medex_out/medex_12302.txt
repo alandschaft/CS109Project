@@ -1,0 +1,1 @@
+1	condition that may have an impact on the outcome of the investigation a judged by the investigator|impact[27,33]|||||||||C0726639|222931|222931|impact

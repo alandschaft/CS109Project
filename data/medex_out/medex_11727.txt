@@ -1,0 +1,1 @@
+1	12 pregnant or lactate within 56 day of enrollment|lactate[15,22]|||||||56 day[30,36]||C0376261|114202|114202|lactate

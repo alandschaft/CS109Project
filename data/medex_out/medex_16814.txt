@@ -1,2 +1,2 @@
-1	Participant is unwilling to abstain from recreational or medicinal cannabis or synthetic cannabinoid based medications including Sativex for the duration for the trial|cannabis[67,75]||||||||||196583|196583|cannabis
-1	Participant is unwilling to abstain from recreational or medicinal cannabis or synthetic cannabinoid based medications including Sativex for the duration for the trial|Sativex[129,136]||||||||||||
+1	10 known current state of immunosuppression i.e on high dose steroid chemotherapeutics etc|chemotherapeutics[69,86]|||||||||C3653781|1430636|1430636|chemotherapeutics
+1	10 known current state of immunosuppression i.e on high dose steroid chemotherapeutics etc|steroid[61,68]||||||||||10072|10072|steroid

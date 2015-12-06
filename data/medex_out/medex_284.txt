@@ -1,2 +1,0 @@
-1	Anticonvulsant medications in general do not negatively interact with the ketogenic diet but concomitant use of drugs such as Topiramate sometimes associated with nephrolithiasis will be avoided as possible|Topiramate[126,136]|||||||||C0076829|38404|38404|topiramate
-1	Anticonvulsant medications in general do not negatively interact with the ketogenic diet but concomitant use of drugs such as Topiramate sometimes associated with nephrolithiasis will be avoided as possible|Anticonvulsant[0,14]||||||||||926|926|anticonvulsant

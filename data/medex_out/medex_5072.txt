@@ -1,5 +1,0 @@
-1	Patients taking medications that are known substrates of CYP2B6 and CYP2C19 including but not limited to phenytoin Phenobarbital omeprazole fluvoxamine and efavirenz|fluvoxamine[140,151]|||||||||C0085228|42355|42355|fluvoxamine
-1	Patients taking medications that are known substrates of CYP2B6 and CYP2C19 including but not limited to phenytoin Phenobarbital omeprazole fluvoxamine and efavirenz|omeprazole[129,139]|||||||||C0028978|7646|7646|omeprazole
-1	Patients taking medications that are known substrates of CYP2B6 and CYP2C19 including but not limited to phenytoin Phenobarbital omeprazole fluvoxamine and efavirenz|Phenobarbital[115,128]|||||||||C0031412|8134|8134|phenobarbital
-1	Patients taking medications that are known substrates of CYP2B6 and CYP2C19 including but not limited to phenytoin Phenobarbital omeprazole fluvoxamine and efavirenz|phenytoin[105,114]|||||||||C0031507|8183|8183|phenytoin
-1	Patients taking medications that are known substrates of CYP2B6 and CYP2C19 including but not limited to phenytoin Phenobarbital omeprazole fluvoxamine and efavirenz|efavirenz[156,165]|||||||||C0674428|195085|195085|efavirenz

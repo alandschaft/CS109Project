@@ -1,3 +1,0 @@
-1	Negative human chorionic gonadotropin hCG urine test|urine test[42,52]|||||||||C1263430|386035|386035|urine test
-1	Negative human chorionic gonadotropin hCG urine test|hCG[38,41]|||||||||C1141639|340705|340705|chorionic gonadotropin, human
-1	Negative human chorionic gonadotropin hCG urine test|human chorionic gonadotropin[9,37]|||||||||C1141639|340705|340705|chorionic gonadotropin, human

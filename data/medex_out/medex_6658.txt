@@ -1,1 +1,1 @@
-1	Patients receiving more than 1 background AED for their epilepsy Patients receiving carbamazepine for their condition|carbamazepine[84,97]|||||||||C0006949|2002|2002|carbamazepine
+1	frequency-matched to the rotarix cohort by gender age at first vaccination week and calendar quarter of vaccination|rotarix[25,32]|||||||||C1528012|493191|805573|rotavirus vaccine, live attenuated, g1p[8] human 89-12 strain

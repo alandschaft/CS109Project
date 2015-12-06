@@ -1,1 +1,1 @@
-12 Patient has had a unilateral or bilateral cervical vagotomy 
+5 screening ekg with a qtc less than 450 msec confirm by central laboratory prior to enrollment to the study 

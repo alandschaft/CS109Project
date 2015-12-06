@@ -1,0 +1,4 @@
+1	patient take anticonvulsant medication such a tegretol depakote klonopin etc|klonopin[64,72]|||||||||C0699315|202585|2598|clonazepam
+1	patient take anticonvulsant medication such a tegretol depakote klonopin etc|depakote[55,63]|||||||||C0719751|216459|40254|valproate
+1	patient take anticonvulsant medication such a tegretol depakote klonopin etc|tegretol[46,54]||||||||||203029|2002|carbamazepine
+1	patient take anticonvulsant medication such a tegretol depakote klonopin etc|anticonvulsant[13,27]||||||||||926|926|anticonvulsant

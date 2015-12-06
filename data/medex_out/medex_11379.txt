@@ -1,3 +1,0 @@
-1	20 Patients receiving chronic systemic treatment with corticosteroids or another immunosuppressive agent at study entry Topical or inhaled corticosteroids are allowed|corticosteroids[54,69]|||||||||C0001617|354|354|corticosteroids
-1	20 Patients receiving chronic systemic treatment with corticosteroids or another immunosuppressive agent at study entry Topical or inhaled corticosteroids are allowed|immunosuppressive agent[81,104]|||||Topical[120,127]|||||5748|5748|immunosuppressive agent
-1	20 Patients receiving chronic systemic treatment with corticosteroids or another immunosuppressive agent at study entry Topical or inhaled corticosteroids are allowed|corticosteroids[139,154]|||||inhaled[131,138]||||C0001617|354|354|corticosteroids

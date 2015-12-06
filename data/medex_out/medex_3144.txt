@@ -1,2 +1,1 @@
-1	Use of hormonal contraceptives or estrogen replacement therapy|contraceptives[16,30]||||||||||2815|2815|contraceptives
-1	Use of hormonal contraceptives or estrogen replacement therapy|estrogen[34,42]||||||||||4100|4100|estrogens
+1	7 glucose-6-phosphate dehydrogenase g-6-pd deficiency or history of hemolytic anemia or acute intermittent porphyria|glucose - 6 - phosphate[2,21]|||||||||C0061418|1541246|1541246|glucose-6-phosphate

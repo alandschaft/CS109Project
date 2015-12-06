@@ -1,1 +1,1 @@
-1	4 Subjects should be on stable doses of antiepileptic medications for at least 3 months prior to treatment|antiepileptic[40,53]|||||||3 months[79,87]||C0003299|932|932|antiepileptic
+1	1 sildenafil use within the past 24 hour|sildenafil[2,12]|||||||24 hour[33,40]||C0529793|136411|136411|sildenafil

@@ -1,1 +1,0 @@
-1	Participation in another experimental drug trial within 4 weeks before day -6|experimental drug[25,42]|||||||4 weeks[56,63]|||91034|91034|experimental drug

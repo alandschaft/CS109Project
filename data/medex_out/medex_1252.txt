@@ -1,2 +1,1 @@
-1	Has taken an investigational drug within the previous 30 days or plans to take an investigational drug anytime during the study|investigational drug[13,33]|||||||30 days[54,61]||C1875327|691729|691729|investigational drug
-1	Has taken an investigational drug within the previous 30 days or plans to take an investigational drug anytime during the study|investigational drug[82,102]|||||||||C1875327|691729|691729|investigational drug
+1	note benzodiazepine use chronically will be consider to be concurrent aeds|benzodiazepine[5,19]||||||||||1402|1402|benzodiazepine

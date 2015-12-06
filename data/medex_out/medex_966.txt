@@ -1,1 +1,0 @@
-1	Concurrent corticosteroids allowed provided there has been no dose increase within the past 5 days|corticosteroids[11,26]|||||||5 days[92,98]||C0001617|354|354|corticosteroids

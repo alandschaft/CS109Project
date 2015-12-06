@@ -1,4 +1,0 @@
-1	Is taking an enzyme-inducing AED EIAED e.g carbamazepine phenytoin phenobarbital primidone or is taking more than 1 background AED|primidone[81,90]|||||||||C0033148|8691|8691|primidone
-1	Is taking an enzyme-inducing AED EIAED e.g carbamazepine phenytoin phenobarbital primidone or is taking more than 1 background AED|phenobarbital[67,80]|||||||||C0031412|8134|8134|phenobarbital
-1	Is taking an enzyme-inducing AED EIAED e.g carbamazepine phenytoin phenobarbital primidone or is taking more than 1 background AED|phenytoin[57,66]|||||||||C0031507|8183|8183|phenytoin
-1	Is taking an enzyme-inducing AED EIAED e.g carbamazepine phenytoin phenobarbital primidone or is taking more than 1 background AED|carbamazepine[43,56]|||||||||C0006949|2002|2002|carbamazepine

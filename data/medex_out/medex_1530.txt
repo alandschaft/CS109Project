@@ -1,1 +1,1 @@
-1	Have received double-blind study medication and wish to receive open-label pregabalin|pregabalin[75,85]|||||||||C0657912|187832|187832|pregabalin
+1	illicit drug or alcohol abuse during current pregnancy|illicit drug[0,12]||||||||||3683|3683|illicit drug

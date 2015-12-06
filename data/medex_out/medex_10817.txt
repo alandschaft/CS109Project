@@ -1,1 +1,0 @@
-1	Diabetic subjects Treatment with a GLP-1 agonist or DPP4 inhibitor within the past 6 months|agonist[41,48]|||||||6 months[83,91]|||132988|132988|agonist

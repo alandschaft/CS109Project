@@ -1,4 +1,1 @@
-1	Subject is currently taking Levetiracetam LEV as an adjunctive antiepileptic oral treatment with 1 to 3 other Antiepileptic Drugs AEDs|Antiepileptic Drugs[110,129]|||||oral[77,81]||||C0003299|932|932|antiepileptic drugs
-1	Subject is currently taking Levetiracetam LEV as an adjunctive antiepileptic oral treatment with 1 to 3 other Antiepileptic Drugs AEDs|antiepileptic[63,76]|||||||||C0003299|932|932|antiepileptic
-1	Subject is currently taking Levetiracetam LEV as an adjunctive antiepileptic oral treatment with 1 to 3 other Antiepileptic Drugs AEDs|LEV[42,45]|||||||||C3220305|1166072|5032|guaifenesin
-1	Subject is currently taking Levetiracetam LEV as an adjunctive antiepileptic oral treatment with 1 to 3 other Antiepileptic Drugs AEDs|Levetiracetam[28,41]|||||||||C0377265|114477|114477|levetiracetam
+1	subject with stable regimen minimum of 01 month from one to three antiepileptic drug|antiepileptic[66,79]|||||||01 month[39,47]||C0003299|932|932|antiepileptic

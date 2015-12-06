@@ -1,0 +1,1 @@
+1	patient who have receive chemotherapy for the treatment of their high grade glioma or who be currently receive other investigational chemotherapeutic agent|chemotherapeutic agent[133,155]||||||||||225337|225337|chemotherapeutic agent

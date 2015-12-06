@@ -1,1 +1,0 @@
-1	7 If individuals are currently being treated with everolimus they must have been taking it for less than or equal to 6 months|everolimus[50,60]|||||||6 months[117,125]||C0541315|141704|141704|everolimus

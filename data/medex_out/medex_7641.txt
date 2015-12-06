@@ -1,3 +1,0 @@
-1	Patients receiving chronic systemic treatment with corticosteroids or another immunosuppressive agent Topical or inhaled corticosteroids are allowed|corticosteroids[51,66]|||||||||C0001617|354|354|corticosteroids
-1	Patients receiving chronic systemic treatment with corticosteroids or another immunosuppressive agent Topical or inhaled corticosteroids are allowed|immunosuppressive agent[78,101]|||||Topical[102,109]|||||5748|5748|immunosuppressive agent
-1	Patients receiving chronic systemic treatment with corticosteroids or another immunosuppressive agent Topical or inhaled corticosteroids are allowed|corticosteroids[121,136]|||||inhaled[113,120]||||C0001617|354|354|corticosteroids

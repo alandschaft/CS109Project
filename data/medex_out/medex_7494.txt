@@ -1,3 +1,0 @@
-1	Concomitant regular use of acetaminophen aspirin or ibuprofen|aspirin[41,48]|||||||||C0004057|1191|1191|acetylsalicylic acid
-1	Concomitant regular use of acetaminophen aspirin or ibuprofen|acetaminophen[27,40]||||||||||993045|993045|acetaminophen
-1	Concomitant regular use of acetaminophen aspirin or ibuprofen|ibuprofen[52,61]|||||||||C0020740|5640|5640|ibuprofen

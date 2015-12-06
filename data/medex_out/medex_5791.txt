@@ -1,0 +1,3 @@
+1	13 use of acetazolamide triamterene vitamin c 2g/day regular antacid or other medicine associate with nephrolithiasis less than one month prior to randomisation or during the study|vitamin c[36,45]|||||||one month[128,137]||C0003968|1151|1151|ascorbic acid (vit c)
+1	13 use of acetazolamide triamterene vitamin c 2g/day regular antacid or other medicine associate with nephrolithiasis less than one month prior to randomisation or during the study|triamterene[24,35]|||||||||C0040869|10763|10763|triamterene
+1	13 use of acetazolamide triamterene vitamin c 2g/day regular antacid or other medicine associate with nephrolithiasis less than one month prior to randomisation or during the study|acetazolamide[10,23]|||||||||C0000981|167|167|acetazolamide

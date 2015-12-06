@@ -1,2 +1,0 @@
-1	Subjects with a history of lack of response hypersensitivity or poor tolerability to gabapentin or pregabalin|gabapentin[85,95]|||||||||C0060926|25480|25480|gabapentin
-1	Subjects with a history of lack of response hypersensitivity or poor tolerability to gabapentin or pregabalin|pregabalin[99,109]|||||||||C0657912|187832|187832|pregabalin

@@ -1,2 +1,0 @@
-1	Patients who are diagnosed and treated with antiepileptic treatment levetiracetam|levetiracetam[68,81]|||||||||C0377265|114477|114477|levetiracetam
-1	Patients who are diagnosed and treated with antiepileptic treatment levetiracetam|antiepileptic[44,57]|||||||||C0003299|932|932|antiepileptic

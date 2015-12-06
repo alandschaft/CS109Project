@@ -1,2 +1,0 @@
-1	3 Patient 's contraindication to EBP Known or past reaction to natural ACTH or Cosyntropin|ACTH[71,75]||||||||||376|376|corticotropin
-1	3 Patient 's contraindication to EBP Known or past reaction to natural ACTH or Cosyntropin|Cosyntropin[79,90]|||||||||C0010192|2890|2890|cosyntropin

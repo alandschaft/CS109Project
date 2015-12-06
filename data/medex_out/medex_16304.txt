@@ -1,2 +1,0 @@
-1	Undertaking any form of medical treatment which may interfere with study variables e.g chemotherapy liposuction taking metformin statins/other lipid-lowering medications|statins[129,136]||||||||||108229|108229|statins
-1	Undertaking any form of medical treatment which may interfere with study variables e.g chemotherapy liposuction taking metformin statins/other lipid-lowering medications|metformin[119,128]|||||||||C0025598|6809|6809|metformin

@@ -1,0 +1,2 @@
+1	use of a general anesthetic in the current anesthetic|anesthetic[43,53]||||||||||817|817|anesthetic
+1	use of a general anesthetic in the current anesthetic|general anesthetic[9,27]||||||||||4740|4740|general anesthetic

@@ -1,2 +1,0 @@
-1	Diagnosis of severe medical or psychiatric conditions contra-indicated for diacetylmorphine or hydromorphone treatment|diacetylmorphine[75,91]||||||||||3304|3304|diacetylmorphine
-1	Diagnosis of severe medical or psychiatric conditions contra-indicated for diacetylmorphine or hydromorphone treatment|hydromorphone[95,108]|||||||||C0012306|3423|3423|hydromorphone

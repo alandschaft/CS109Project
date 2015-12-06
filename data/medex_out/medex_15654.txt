@@ -1,4 +1,0 @@
-1	daily or weekly use of acid blockers antacids anti-diarrhea stimulants appetite suppressants or anti nausea medication or other drugs that modulate GI function|appetite suppressants[71,92]|||||||||C0003620|1050|1050|appetite suppressants
-1	daily or weekly use of acid blockers antacids anti-diarrhea stimulants appetite suppressants or anti nausea medication or other drugs that modulate GI function|stimulants[60,70]||||||||||||
-1	daily or weekly use of acid blockers antacids anti-diarrhea stimulants appetite suppressants or anti nausea medication or other drugs that modulate GI function|anti - diarrhea[46,59]||||||||||215315|6468|loperamide
-1	daily or weekly use of acid blockers antacids anti-diarrhea stimulants appetite suppressants or anti nausea medication or other drugs that modulate GI function|antacids[37,45]||||||daily[0,5]|||C0003138|863|863|antacid

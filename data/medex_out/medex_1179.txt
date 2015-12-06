@@ -1,0 +1,2 @@
+1	2 patient have clinically significant laboratory abnormality that would preclude administration of lithium and divalproex|lithium[99,106]|||||||||C0023870|6448|6448|lithium
+1	2 patient have clinically significant laboratory abnormality that would preclude administration of lithium and divalproex|divalproex[111,121]|||||||||C0042291|11118|11118|valproic acid

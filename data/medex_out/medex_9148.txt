@@ -1,3 +1,0 @@
-1	9 INR Anticoagulation is allowed if target INR 1.5 on a stable dose of warfarin or on a stable dose of LMW heparin for 2 weeks at time of randomization|warfarin[71,79]|||||||||C0043031|11289|11289|warfarin
-1	9 INR Anticoagulation is allowed if target INR 1.5 on a stable dose of warfarin or on a stable dose of LMW heparin for 2 weeks at time of randomization|Anticoagulation[6,21]||||||||||1024413|1024413|anticoagulation
-1	9 INR Anticoagulation is allowed if target INR 1.5 on a stable dose of warfarin or on a stable dose of LMW heparin for 2 weeks at time of randomization|LMW heparin[103,114]|||||||2 weeks[119,126]||C0019134|235473|235473|heparin,porcine

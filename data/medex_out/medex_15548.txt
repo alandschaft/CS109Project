@@ -1,1 +1,0 @@
-1	1 Present or recent within 12 weeks corticosteroid usage|corticosteroid[36,50]|||||||12 weeks[27,35]|||354|354|corticosteroid

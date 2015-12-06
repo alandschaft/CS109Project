@@ -1,1 +1,1 @@
-1	Usage of anticoagulants|anticoagulants[9,23]|||||||||C0003280|923|923|anticoagulants
+1	contraindication to contact lens wear|contact lens[20,32]||||||||||2809|2809|contact lens

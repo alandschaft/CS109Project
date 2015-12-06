@@ -1,2 +1,0 @@
-1	Able to ingest calcium and vitamin D supplements|calcium[15,22]|||||||||C0006675|1895|1895|calcium
-1	Able to ingest calcium and vitamin D supplements|vitamin D[27,36]|||||||||C0042866|11253|11253|vitamin d

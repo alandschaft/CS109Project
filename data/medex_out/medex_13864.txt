@@ -1,4 +1,0 @@
-1	5 Subjects who have recieved optimal medical management for migraines including anticonvulsants Depakote Lamictal klonopin|klonopin[114,122]|||||||||C0699315|202585|2598|clonazepam
-1	5 Subjects who have recieved optimal medical management for migraines including anticonvulsants Depakote Lamictal klonopin|Lamictal[105,113]|||||||||C0678180|196502|28439|lamotrigine
-1	5 Subjects who have recieved optimal medical management for migraines including anticonvulsants Depakote Lamictal klonopin|Depakote[96,104]|||||||||C0719751|216459|40254|valproate
-1	5 Subjects who have recieved optimal medical management for migraines including anticonvulsants Depakote Lamictal klonopin|anticonvulsants[80,95]|||||||||C0003286|926|926|anticonvulsants

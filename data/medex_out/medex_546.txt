@@ -1,2 +1,1 @@
-1	Women currently taking Phenobarbital or another barbiturate|Phenobarbital[23,36]|||||||||C0031412|8134|8134|phenobarbital
-1	Women currently taking Phenobarbital or another barbiturate|barbiturate[48,59]||||||||||1326|1326|barbiturate
+1	use of illicit drug alcoholism or binge drink a per medical history inventory|illicit drug[7,19]||||||||||3683|3683|illicit drug

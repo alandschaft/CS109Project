@@ -1,0 +1,4 @@
+1	use of hormonal contraception selective estrogen receptor modulators progestins estrogen steroid or ovulation induction in the last 3 month|steroid[89,96]|||||||3 month[132,139]|||10072|10072|steroid
+1	use of hormonal contraception selective estrogen receptor modulators progestins estrogen steroid or ovulation induction in the last 3 month|estrogen[80,88]||||||||||4100|4100|estrogens
+1	use of hormonal contraception selective estrogen receptor modulators progestins estrogen steroid or ovulation induction in the last 3 month|progestins[69,79]|||||||||C0033306|8725|8725|progestins
+1	use of hormonal contraception selective estrogen receptor modulators progestins estrogen steroid or ovulation induction in the last 3 month|selective estrogen receptor modulators[30,68]||||||||||993164|993164|selective estrogen receptor modulators

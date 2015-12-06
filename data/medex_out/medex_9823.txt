@@ -1,2 +1,0 @@
-1	Individuals receiving warfarin or dabigatran|warfarin[22,30]|||||||||C0043031|11289|11289|warfarin
-1	Individuals receiving warfarin or dabigatran|dabigatran[34,44]|||||||||C2348066|814696|814696|dabigatran

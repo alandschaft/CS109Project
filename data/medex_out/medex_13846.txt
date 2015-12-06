@@ -1,0 +1,2 @@
+1	presence of one or more breakthrough seizure 6 hour after initiation of the continuous iv aed/third-line agent e.g. pentobarbital midazolam propofol|pentobarbital[116,129]|||||iv[87,89]||6 hour[45,51]||C0030883|8004|8004|pentobarbital
+1	presence of one or more breakthrough seizure 6 hour after initiation of the continuous iv aed/third-line agent e.g. pentobarbital midazolam propofol|midazolam[130,139]|||||||||C0026056|6960|6960|midazolam

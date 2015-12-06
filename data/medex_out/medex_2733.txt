@@ -1,1 +1,1 @@
-1	7 Subjects susceptible to lactate infusions|lactate[26,33]|||||||||C0376261|114202|114202|lactate
+1	who be currently take topiramate for any reason|topiramate[22,32]|||||||||C0076829|38404|38404|topiramate

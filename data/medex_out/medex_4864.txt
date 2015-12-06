@@ -1,1 +1,1 @@
-1	Subject currently or regularly taking Clonazepam|Clonazepam[38,48]|||||||||C0009011|2598|2598|clonazepam
+1	contraindication for the administration of atropine like|atropine[43,51]|||||||||C0004259|1223|1223|atropine

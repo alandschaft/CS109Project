@@ -1,1 +1,0 @@
-1	Clinical or electrographic seizures of any etiology requiring treatment with an antiepileptic medication as per the judgment of the clinician caring for the patient|antiepileptic[80,93]|||||||||C0003299|932|932|antiepileptic

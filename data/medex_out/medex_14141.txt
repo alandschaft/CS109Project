@@ -1,0 +1,1 @@
+1	patient be limit to low-moderate-strength topical corticosteroid in axillary groin and scalp region|corticosteroid[50,64]|||||topical[42,49]|||||354|354|corticosteroid

@@ -1,2 +1,0 @@
-1	treatment with other antiepileptic drugs other than levetiracetam in the last seven days before surgery|levetiracetam[52,65]|||||||seven days[78,88]||C0377265|114477|114477|levetiracetam
-1	treatment with other antiepileptic drugs other than levetiracetam in the last seven days before surgery|antiepileptic drugs[21,40]|||||||||C0003299|932|932|antiepileptic drugs

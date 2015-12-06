@@ -1,1 +1,0 @@
-1	Patients are excluded from the study if they are younger than 10 years had GCS score of less than 13 or instable vital signs came to the ED more than 24 hours after head trauma were pregnant were taking warfarin or had bleeding disorder had an obvious penetrating skull injury or had contraindications|warfarin[203,211]|||||||10 years[62,70]||C0043031|11289|11289|warfarin

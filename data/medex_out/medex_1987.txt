@@ -1,1 +1,1 @@
-1	Currently meets DSM-IV criteria for any other psychoactive substance dependency disorder except nicotine dependence|psychoactive substance[46,68]|||||IV[20,22]|||||196914|196914|psychoactive substance
+1	failed at least 2 anticonvulsant|anticonvulsant[18,32]||||||||||926|926|anticonvulsant

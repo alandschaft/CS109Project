@@ -1,3 +1,0 @@
-1	had to stop taking an anti-epilepsy drug ethosuximide lamotrigine or valproate because it was not effective in treating childhood absence epilepsy|lamotrigine[54,65]|||||||||C0064636|28439|28439|lamotrigine
-1	had to stop taking an anti-epilepsy drug ethosuximide lamotrigine or valproate because it was not effective in treating childhood absence epilepsy|ethosuximide[41,53]|||||||||C0015043|4135|4135|ethosuximide
-1	had to stop taking an anti-epilepsy drug ethosuximide lamotrigine or valproate because it was not effective in treating childhood absence epilepsy|valproate[69,78]|||||||||C0080356|40254|40254|valproate

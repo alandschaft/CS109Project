@@ -1,2 +1,0 @@
-1	Participants who have taken antipsychotics or antidepressant medications unless only for migraine prophylaxis during the previous 3 months|antipsychotics[28,42]|||||||||C0040615|10693|10693|antipsychotic drug
-1	Participants who have taken antipsychotics or antidepressant medications unless only for migraine prophylaxis during the previous 3 months|antidepressant[46,60]|||||||3 months[130,138]|||927|927|antidepressant

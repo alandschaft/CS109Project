@@ -1,1 +1,0 @@
-1	Participation in other drug clinical trial within the last 2 months or having received an investigational medicinal product IMP within 5 half-lives of that IMP whichever is longer|medicinal product[106,123]|||||||2 months[59,67]|||107337|107337|medicinal product

@@ -1,2 +1,1 @@
-1	Has taken an investigational drug or the medication Felbatol within the previous 30 days|investigational drug[13,33]|||||||||C1875327|691729|691729|investigational drug
-1	Has taken an investigational drug or the medication Felbatol within the previous 30 days|Felbatol[52,60]|||||||30 days[81,88]||C0728742|224900|24812|felbamate
+1	have be on the medication valproate for at least 3 month and be currently on a stable daily dose|valproate[26,35]||||||daily[86,91]|3 month[49,56]||C0080356|40254|40254|valproate

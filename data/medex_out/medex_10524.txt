@@ -1,3 +1,0 @@
-1	9 Colorectal cancer patients with known KRAS mutation for the arm combining bevacizumab temsirolimus and cetuximab|temsirolimus[88,100]|||||||||C1707080|657797|657797|temsirolimus
-1	9 Colorectal cancer patients with known KRAS mutation for the arm combining bevacizumab temsirolimus and cetuximab|bevacizumab[76,87]|||||||||C0796392|253337|253337|bevacizumab
-1	9 Colorectal cancer patients with known KRAS mutation for the arm combining bevacizumab temsirolimus and cetuximab|cetuximab[105,114]|||||||||C0995188|318341|318341|cetuximab

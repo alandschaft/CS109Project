@@ -1,4 +1,0 @@
-1	28 Subjects taking acetazolamide any carbonic anhydrase inhibitors e.g topiramate and any drugs with anticholinergic activity|topiramate[71,81]|||||||||C0076829|38404|38404|topiramate
-1	28 Subjects taking acetazolamide any carbonic anhydrase inhibitors e.g topiramate and any drugs with anticholinergic activity|carbonic anhydrase inhibitors[37,66]||||||||||992616|992616|carbonic anhydrase inhibitors
-1	28 Subjects taking acetazolamide any carbonic anhydrase inhibitors e.g topiramate and any drugs with anticholinergic activity|acetazolamide[19,32]|||||||||C0000981|167|167|acetazolamide
-1	28 Subjects taking acetazolamide any carbonic anhydrase inhibitors e.g topiramate and any drugs with anticholinergic activity|anticholinergic[101,116]||||||||||71624|71624|anticholinergic

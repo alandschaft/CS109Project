@@ -1,2 +1,3 @@
-1	5 TB isolate resistant to at least isoniazid and rifampicin|isoniazid[35,44]|||||||||C0022209|6038|6038|isoniazid
-1	5 TB isolate resistant to at least isoniazid and rifampicin|rifampicin[49,59]||||||||||9384|9384|rifampicin
+1	9 presence of major active psychiatric disease patient take a stable dose of selective serotonin reuptake inhibitor antidepressant except fluvoxamine will be allow|fluvoxamine[138,149]|||||||||C0085228|42355|42355|fluvoxamine
+1	9 presence of major active psychiatric disease patient take a stable dose of selective serotonin reuptake inhibitor antidepressant except fluvoxamine will be allow|antidepressant[116,130]||||||||||927|927|antidepressant
+1	9 presence of major active psychiatric disease patient take a stable dose of selective serotonin reuptake inhibitor antidepressant except fluvoxamine will be allow|serotonin reuptake inhibitor[87,115]||||||||||1026630|1026630|serotonin reuptake inhibitor

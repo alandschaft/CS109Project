@@ -1,4 +1,0 @@
-1	6 No medications for AHZ pain other than nonsteroidal anti-inflammatory drugs NSAIDs acetaminophen and opioids maintained at a stable dose throughout the study|acetaminophen[85,98]||||||||||993045|993045|acetaminophen
-1	6 No medications for AHZ pain other than nonsteroidal anti-inflammatory drugs NSAIDs acetaminophen and opioids maintained at a stable dose throughout the study|NSAIDs[78,84]||||||||||||
-1	6 No medications for AHZ pain other than nonsteroidal anti-inflammatory drugs NSAIDs acetaminophen and opioids maintained at a stable dose throughout the study|nonsteroidal anti - inflammatory drugs[41,77]||||||||||889|889|nonsteroidal anti-inflammatory drugs
-1	6 No medications for AHZ pain other than nonsteroidal anti-inflammatory drugs NSAIDs acetaminophen and opioids maintained at a stable dose throughout the study|opioids[103,110]||||||||||1431633|1431633|opioids

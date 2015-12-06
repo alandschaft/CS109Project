@@ -1,0 +1,7 @@
+1	are currently receive treatment with cns-active compound exception single antidepressant hypnotic and standard aeds vigabatrin felbatol felbamate neurontin gabapentin|hypnotic[89,97]||||||||||5597|5597|hypnotic
+1	are currently receive treatment with cns-active compound exception single antidepressant hypnotic and standard aeds vigabatrin felbatol felbamate neurontin gabapentin|antidepressant[74,88]||||||||||927|927|antidepressant
+1	are currently receive treatment with cns-active compound exception single antidepressant hypnotic and standard aeds vigabatrin felbatol felbamate neurontin gabapentin|gabapentin[156,166]|||||||||C0060926|25480|25480|gabapentin
+1	are currently receive treatment with cns-active compound exception single antidepressant hypnotic and standard aeds vigabatrin felbatol felbamate neurontin gabapentin|neurontin[146,155]|||||||||C0678176|196498|25480|gabapentin
+1	are currently receive treatment with cns-active compound exception single antidepressant hypnotic and standard aeds vigabatrin felbatol felbamate neurontin gabapentin|felbamate[136,145]|||||||||C0060135|24812|24812|felbamate
+1	are currently receive treatment with cns-active compound exception single antidepressant hypnotic and standard aeds vigabatrin felbatol felbamate neurontin gabapentin|felbatol[127,135]|||||||||C0728742|224900|24812|felbamate
+1	are currently receive treatment with cns-active compound exception single antidepressant hypnotic and standard aeds vigabatrin felbatol felbamate neurontin gabapentin|vigabatrin[116,126]|||||||||C0048044|14851|14851|vigabatrin

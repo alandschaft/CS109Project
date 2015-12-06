@@ -1,1 +1,2 @@
-1	hypersensitivity to acetazolamide or any component of the product|acetazolamide[20,33]|||||||||C0000981|167|167|acetazolamide
+1	subject have be treat for epilepsy with a stable dose of 1 market aed the use of benzodiazepine be permit as rescue therapy for epilepsy benzodiazepine may have be use a need but not more frequently than once per week|benzodiazepine[81,95]||||||once per week[204,217]||||1402|1402|benzodiazepine
+1	subject have be treat for epilepsy with a stable dose of 1 market aed the use of benzodiazepine be permit as rescue therapy for epilepsy benzodiazepine may have be use a need but not more frequently than once per week|benzodiazepine[137,151]||||||||||1402|1402|benzodiazepine

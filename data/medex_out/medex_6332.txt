@@ -1,1 +1,4 @@
-1	7 Use of nitrates within the past 24 hours|nitrates[9,17]|||||||24 hours[34,42]|||7439|7439|nitrates
+1	load dos of aeds other than phenobarbital those who receive levetiracetam be still eligible since levetiracetam do not affect bumetanide pharmacokinetics|bumetanide[126,136]|||||||||C0006376|1808|1808|bumetanide
+1	load dos of aeds other than phenobarbital those who receive levetiracetam be still eligible since levetiracetam do not affect bumetanide pharmacokinetics|levetiracetam[60,73]|||||||||C0377265|114477|114477|levetiracetam
+1	load dos of aeds other than phenobarbital those who receive levetiracetam be still eligible since levetiracetam do not affect bumetanide pharmacokinetics|levetiracetam[98,111]|||||||||C0377265|114477|114477|levetiracetam
+1	load dos of aeds other than phenobarbital those who receive levetiracetam be still eligible since levetiracetam do not affect bumetanide pharmacokinetics|phenobarbital[28,41]|||||||||C0031412|8134|8134|phenobarbital

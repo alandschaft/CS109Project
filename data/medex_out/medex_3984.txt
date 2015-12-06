@@ -1,4 +1,0 @@
-1	Are able to continue treatment with no more than 2 concomitant AEDs ACTH corticosteroids felbamate and vigabatrin are not allowed concomitantly|felbamate[89,98]|||||||||C0060135|24812|24812|felbamate
-1	Are able to continue treatment with no more than 2 concomitant AEDs ACTH corticosteroids felbamate and vigabatrin are not allowed concomitantly|corticosteroids[73,88]|||||||||C0001617|354|354|corticosteroids
-1	Are able to continue treatment with no more than 2 concomitant AEDs ACTH corticosteroids felbamate and vigabatrin are not allowed concomitantly|ACTH[68,72]||||||||||376|376|corticotropin
-1	Are able to continue treatment with no more than 2 concomitant AEDs ACTH corticosteroids felbamate and vigabatrin are not allowed concomitantly|vigabatrin[103,113]|||||||||C0048044|14851|14851|vigabatrin

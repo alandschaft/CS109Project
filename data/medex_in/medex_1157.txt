@@ -1,1 +1,1 @@
-5 Patient is pregnant or breastfeeding 
+platelet great than or equal to 120 000 /mm3 

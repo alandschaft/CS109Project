@@ -1,1 +1,0 @@
-1	Patients with a history within the previous six months of mental or emotional disorders requiring shock treatment or major sedation monoamine oxidase MAO inhibitors or medications which affect the central nervous system|MAO inhibitors[150,164]|||||||six months[44,54]|||1431605|1431605|mao inhibitors

@@ -1,3 +1,0 @@
-1	Already received albendazole or praziquantel or steroid therapy|albendazole[17,28]|||||||||C0001911|430|430|albendazole
-1	Already received albendazole or praziquantel or steroid therapy|praziquantel[32,44]|||||||||C0032911|8628|8628|praziquantel
-1	Already received albendazole or praziquantel or steroid therapy|steroid[48,55]||||||||||10072|10072|steroid

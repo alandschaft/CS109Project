@@ -1,4 +1,0 @@
-1	Other sodium valproate Contraindications Hypersensitivity to sodium valproate or derivatives hepatic porphyria mefloquine or hypericum taking|sodium valproate[6,22]|||||||||C0037567|9919|9919|valproate sodium
-1	Other sodium valproate Contraindications Hypersensitivity to sodium valproate or derivatives hepatic porphyria mefloquine or hypericum taking|sodium valproate[61,77]|||||||||C0037567|9919|9919|valproate sodium
-1	Other sodium valproate Contraindications Hypersensitivity to sodium valproate or derivatives hepatic porphyria mefloquine or hypericum taking|mefloquine[111,121]|||||||||C0025153|6694|6694|mefloquine
-1	Other sodium valproate Contraindications Hypersensitivity to sodium valproate or derivatives hepatic porphyria mefloquine or hypericum taking|hypericum[125,134]||||||||||1309228|1309228|hypericum extract

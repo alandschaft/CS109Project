@@ -1,0 +1,3 @@
+1	1 patient who be on medication for cardiac condition like beta blocker anti arrhythmic agent calcium channel blocker|calcium channel blocker[93,116]|||||||||C2757014|986242|986242|calcium channel blocker
+1	1 patient who be on medication for cardiac condition like beta blocker anti arrhythmic agent calcium channel blocker|arrhythmic agent[76,92]||||||||||104981|104981|arrhythmic agent
+1	1 patient who be on medication for cardiac condition like beta blocker anti arrhythmic agent calcium channel blocker|beta blocker[58,70]||||||||||401870|401870|beta blocker

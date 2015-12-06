@@ -1,1 +1,0 @@
-1	2 Postmenopausal women aged greater than or equal to 53 years to 70 years and 5 years since last menses For women without a uterus subjects must have a clinical history of menopause for at least 5 years and an FSH greater than 30 U/L|FSH[210,213]|||||||53 years[53,61]|||227518|227518|follitropin (fsh)

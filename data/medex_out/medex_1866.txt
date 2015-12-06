@@ -1,1 +1,1 @@
-1	Patients on vigabatrin|vigabatrin[12,22]|||||||||C0048044|14851|14851|vigabatrin
+1	history of hypersensitivity to topiramate|topiramate[31,41]|||||||||C0076829|38404|38404|topiramate

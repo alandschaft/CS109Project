@@ -1,3 +1,0 @@
-1	Docetaxel 75 mg/m2 and carboplatin AUC 6 IV every 3 weeks x 4 6 cycles and trastuzumab IV weekly or every 3 weeks|Docetaxel[0,9]|||75mg[10,15]||||||C0246415|72962|72962|docetaxel
-1	Docetaxel 75 mg/m2 and carboplatin AUC 6 IV every 3 weeks x 4 6 cycles and trastuzumab IV weekly or every 3 weeks|carboplatin[23,34]|||||IV[41,43]|every 3 weeks[44,57]|||C0079083|40048|40048|carboplatin
-1	Docetaxel 75 mg/m2 and carboplatin AUC 6 IV every 3 weeks x 4 6 cycles and trastuzumab IV weekly or every 3 weeks|trastuzumab[75,86]|||||IV[87,89]|every 3 weeks[100,113]|||C0728747|224905|224905|trastuzumab

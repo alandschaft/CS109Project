@@ -1,2 +1,3 @@
-1	Anyone who falls under the precautions warnings or contraindications outlined in the local topiramate and/or local levetiracetam package insert|topiramate[91,101]|||||||||C0076829|38404|38404|topiramate
-1	Anyone who falls under the precautions warnings or contraindications outlined in the local topiramate and/or local levetiracetam package insert|levetiracetam[115,128]||package[129,136]|||||||C0377265|114477|114477|levetiracetam
+1	previous treatment with 3 week of corticosteroid or tacrolimus or 1,2 g/kg ivig or 5 pex/pai within the last three month|corticosteroid[34,48]|||||||3 week[24,30]|||354|354|corticosteroid
+1	previous treatment with 3 week of corticosteroid or tacrolimus or 1,2 g/kg ivig or 5 pex/pai within the last three month|tacrolimus[52,62]|||||||||C0085149|42316|42316|tacrolimus
+1	previous treatment with 3 week of corticosteroid or tacrolimus or 1,2 g/kg ivig or 5 pex/pai within the last three month|ivig[75,79]|||1 , 2g[66,71]||||three month[109,120]|||42386|42386|ivig

@@ -1,0 +1,2 @@
+1	patient with contraindication to levetiracetam and carbamazepine use|levetiracetam[33,46]|||||||||C0377265|114477|114477|levetiracetam
+1	patient with contraindication to levetiracetam and carbamazepine use|carbamazepine[51,64]|||||||||C0006949|2002|2002|carbamazepine

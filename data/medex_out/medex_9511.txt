@@ -1,2 +1,0 @@
-1	Subject only taking Levetiracetam in combination with Carbamazepine as adjunctive treatment for Epilepsy|Carbamazepine[54,67]|||||||||C0006949|2002|2002|carbamazepine
-1	Subject only taking Levetiracetam in combination with Carbamazepine as adjunctive treatment for Epilepsy|Levetiracetam[20,33]|||||||||C0377265|114477|114477|levetiracetam

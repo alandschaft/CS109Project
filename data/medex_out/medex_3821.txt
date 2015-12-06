@@ -1,1 +1,0 @@
-1	Patients taking antidepressant medication|antidepressant[16,30]||||||||||927|927|antidepressant

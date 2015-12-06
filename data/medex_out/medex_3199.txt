@@ -1,0 +1,2 @@
+1	use of hormonal contraceptive or estrogen replacement therapy|contraceptive[16,29]||||||||||64078|64078|contraceptive
+1	use of hormonal contraceptive or estrogen replacement therapy|estrogen[33,41]||||||||||4100|4100|estrogens

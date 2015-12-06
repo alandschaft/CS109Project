@@ -1,0 +1,2 @@
+1	10 taking carbonic anhydrase inhibitor or topiramate|carbonic anhydrase inhibitor[10,38]||||||||||2048|2048|carbonic anhydrase inhibitor
+1	10 taking carbonic anhydrase inhibitor or topiramate|topiramate[42,52]|||||||||C0076829|38404|38404|topiramate

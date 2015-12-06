@@ -1,2 +1,0 @@
-1	Must weigh at least 7 lbs if currently receiving enzyme inducing antiepileptic drugs EIADs OR weigh at least 15 lbs if currently receiving non-enzyme inducing antiepileptic drugs non-EIADs|antiepileptic drugs[65,84]|||||||||C0003299|932|932|antiepileptic drugs
-1	Must weigh at least 7 lbs if currently receiving enzyme inducing antiepileptic drugs EIADs OR weigh at least 15 lbs if currently receiving non-enzyme inducing antiepileptic drugs non-EIADs|antiepileptic drugs[159,178]|||||||||C0003299|932|932|antiepileptic drugs

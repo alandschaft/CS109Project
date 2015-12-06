@@ -1,2 +1,0 @@
-1	7 Subjects have been previously treated with carbamazepine or zonisamide|carbamazepine[45,58]|||||||||C0006949|2002|2002|carbamazepine
-1	7 Subjects have been previously treated with carbamazepine or zonisamide|zonisamide[62,72]|||||||||C0078844|39998|39998|zonisamide

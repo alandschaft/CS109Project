@@ -1,2 +1,0 @@
-1	Known exposure to measles mumps rubella and/or varicella within 30 days prior to study start|rubella[32,39]|||||||30 days[64,71]|||1022799|1022799|rubella
-1	Known exposure to measles mumps rubella and/or varicella within 30 days prior to study start|mumps[26,31]||||||||||1027774|1027774|mumps

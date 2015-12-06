@@ -1,2 +1,1 @@
-1	Subjects who are not suitable to be treated with pregabalin or gabapentin according to the respective local labeling|pregabalin[49,59]|||||||||C0657912|187832|187832|pregabalin
-1	Subjects who are not suitable to be treated with pregabalin or gabapentin according to the respective local labeling|gabapentin[63,73]|||||||||C0060926|25480|25480|gabapentin
+1	if take benzodiazepine for therapeutic purpose must be on a stable regular dose|benzodiazepine[8,22]||||||||||1402|1402|benzodiazepine

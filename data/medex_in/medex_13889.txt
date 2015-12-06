@@ -1,1 +1,1 @@
-any type of seizures observed till baseline visit 
+continuous eeg with at least eight electrode start within 24 hour after cardiac arrest 

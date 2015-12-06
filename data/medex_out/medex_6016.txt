@@ -1,2 +1,0 @@
-1	Contraindication to phenytoin valproate or levetiracetam e.g history of allergy to one of these agents|valproate[30,39]|||||||||C0080356|40254|40254|valproate
-1	Contraindication to phenytoin valproate or levetiracetam e.g history of allergy to one of these agents|phenytoin[20,29]|||||||||C0031507|8183|8183|phenytoin

@@ -1,0 +1,2 @@
+1	the seizure be not well-controlled by antiepileptic drug the patient can not tolerant the side effect of antiepileptic drug or the patient be not satisfy with the curative effect|antiepileptic[38,51]|||||||||C0003299|932|932|antiepileptic
+1	the seizure be not well-controlled by antiepileptic drug the patient can not tolerant the side effect of antiepileptic drug or the patient be not satisfy with the curative effect|antiepileptic[105,118]|||||||||C0003299|932|932|antiepileptic

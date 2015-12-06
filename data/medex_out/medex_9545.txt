@@ -1,1 +1,0 @@
-1	Treatment with an experimental drug during the past 30 days|experimental drug[18,35]|||||||30 days[52,59]|||91034|91034|experimental drug

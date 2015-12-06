@@ -1,4 +1,0 @@
-1	Participants currently prescribed SSRI 's neuroleptics tricyclics stimulants or any medication likely to affect caloric intake Recent use with six months of weight loss medications|stimulants[66,76]|||||||six months[143,153]|||||
-1	Participants currently prescribed SSRI 's neuroleptics tricyclics stimulants or any medication likely to affect caloric intake Recent use with six months of weight loss medications|tricyclics[55,65]||||||||||||
-1	Participants currently prescribed SSRI 's neuroleptics tricyclics stimulants or any medication likely to affect caloric intake Recent use with six months of weight loss medications|neuroleptics[42,54]||||||||||||
-1	Participants currently prescribed SSRI 's neuroleptics tricyclics stimulants or any medication likely to affect caloric intake Recent use with six months of weight loss medications|SSRI[34,38]||||||||||1026630|1026630|ssri

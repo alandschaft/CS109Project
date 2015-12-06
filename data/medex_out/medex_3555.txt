@@ -1,2 +1,0 @@
-1	Low sodium serum levels 128 mmol/L Sodium serum levels 126 and 128 mmol/L can be accepted for inclusion if these levels have been stable for at least 3 months|Sodium[35,41]|||128mmol[24,32]||||3 months[150,158]||C0306868|750147|9863|sodium chloride
-1	Low sodium serum levels 128 mmol/L Sodium serum levels 126 and 128 mmol/L can be accepted for inclusion if these levels have been stable for at least 3 months|sodium[4,10]|||||||||C0037473|9853|9853|sodium

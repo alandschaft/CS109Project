@@ -1,0 +1,4 @@
+1	patient give magnesium sulfate labetalol or short acting beta blocker or calcium channel blocker less than 12 hour prior to enrollment in the study|labetalol[31,40]|||||||||C0022860|6185|6185|labetalol
+1	patient give magnesium sulfate labetalol or short acting beta blocker or calcium channel blocker less than 12 hour prior to enrollment in the study|magnesium sulfate[13,30]|||||||||C0024480|6585|6585|magnesium sulfate
+1	patient give magnesium sulfate labetalol or short acting beta blocker or calcium channel blocker less than 12 hour prior to enrollment in the study|beta blocker[57,69]||||||||||401870|401870|beta blocker
+1	patient give magnesium sulfate labetalol or short acting beta blocker or calcium channel blocker less than 12 hour prior to enrollment in the study|calcium channel blocker[73,96]|||||||12 hour[107,114]||C2757014|986242|986242|calcium channel blocker

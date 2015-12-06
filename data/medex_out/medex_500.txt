@@ -1,1 +1,1 @@
-1	Currently being treated with an antiepileptic drug s AED|antiepileptic[32,45]|||||||||C0003299|932|932|antiepileptic
+1	current use of the medication felbamate|felbamate[30,39]|||||||||C0060135|24812|24812|felbamate

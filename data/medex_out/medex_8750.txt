@@ -1,1 +1,1 @@
-1	Prior or concomitant vigabatrin use|vigabatrin[21,31]|||||||||C0048044|14851|14851|vigabatrin
+1	physician refusal for other reason exclude if patient 's physician refuse to allow the patient to participate in the study|refusal[10,17]||||||||||||

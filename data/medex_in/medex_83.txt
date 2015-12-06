@@ -1,1 +1,1 @@
-Patients must have a primary physician 
+patient must have a primary physician 

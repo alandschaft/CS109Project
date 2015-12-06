@@ -1,1 +1,2 @@
-1	Participants who are using proper contraceptive method s or have a negative pregnancy test result|contraceptive[34,47]||||||||||64078|64078|contraceptive
+1	6 inborn error of metabolism valproic acid be contraindicate in patient with known urea cycle disorder|urea[83,87]|||||||||C0041942|11002|11002|urea
+1	6 inborn error of metabolism valproic acid be contraindicate in patient with known urea cycle disorder|valproic acid[29,42]|||||||||C0042291|11118|11118|valproic acid

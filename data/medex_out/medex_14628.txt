@@ -1,1 +1,0 @@
-1	Subject must be taking one or more antiepileptic drugs at a dose which has been stable for at least four weeks|antiepileptic drugs[35,54]|||||||four weeks[100,110]||C0003299|932|932|antiepileptic drugs

@@ -1,4 +1,0 @@
-1	Patients taking anticonvulsant medications such as Tegretol Depakote Klonopin etc|Klonopin[69,77]|||||||||C0699315|202585|2598|clonazepam
-1	Patients taking anticonvulsant medications such as Tegretol Depakote Klonopin etc|Depakote[60,68]|||||||||C0719751|216459|40254|valproate
-1	Patients taking anticonvulsant medications such as Tegretol Depakote Klonopin etc|Tegretol[51,59]||||||||||203029|2002|carbamazepine
-1	Patients taking anticonvulsant medications such as Tegretol Depakote Klonopin etc|anticonvulsant[16,30]||||||||||926|926|anticonvulsant

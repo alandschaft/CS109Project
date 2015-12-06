@@ -1,2 +1,0 @@
-1	Participant was treated prenatally for PDE with pyridoxine i.e mother was on pyridoxine|pyridoxine[48,58]|||||||||C0034272|684879|684879|pyridoxine (vit b6)
-1	Participant was treated prenatally for PDE with pyridoxine i.e mother was on pyridoxine|pyridoxine[77,87]|||||||||C0034272|684879|684879|pyridoxine (vit b6)

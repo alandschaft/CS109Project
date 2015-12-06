@@ -1,2 +1,0 @@
-1	are taking a benzodiazepine at a dose greater than lorazepam 2mg or equivalent|lorazepam[51,60]|||2mg[61,64]||||||C0987273|316170|6470|lorazepam
-1	are taking a benzodiazepine at a dose greater than lorazepam 2mg or equivalent|benzodiazepine[13,27]||||||||||1402|1402|benzodiazepine

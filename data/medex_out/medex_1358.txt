@@ -1,1 +1,0 @@
-1	28 Patients will be excluded who have previously failed greater than or equal to 3 lifetime adequate antidepressant trials by ATHF criteria Sackeim 2001|antidepressant[101,115]||||||||||927|927|antidepressant

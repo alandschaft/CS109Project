@@ -1,1 +1,0 @@
-1	14 Relevant clinical laboratory abnormalities as determined by the investigator e.g plasma sodium 130 mmol/L alanine or aspartate aminotransferases 2.0 times above the upper limit of the range or white blood cell count 3,000 cells/mm3|sodium[91,97]|||130mmol[98,106]||||||C1165417|349790|221125|sodium phosphate,m-basic m-hyd

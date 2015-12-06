@@ -1,2 +1,0 @@
-1	Preterm infants from 24 to 30 weeks completed PMA admitted to the neonatal intensive care unit NICU at St.|PMA[46,49]||||||||||15190|15190|pma
-2	Louis Children 's Hospital The estimated post menstrual age will be provided by the obstetrical records and compared with a Dubowitz exam at admission The provided PMA will be used unless the Dubowitz exam has a discrepancy of greater or equal to 2 weeks where then the Dubowitz age will be used|PMA[271,274]|||||||2 weeks[354,361]|||15190|15190|pma

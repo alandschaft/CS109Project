@@ -1,0 +1,2 @@
+1	3 any clinically meaningful slit lamp finding contraindicate contact lens wear e.g greater than or equal to grade 3 finding of edema corneal neovascularization corneal stain conjunctival injection blepharitis/meibomian gland dysfunction on the fda classification scale or any other ocular abnormality|contact lens[61,73]||||||||||2809|2809|contact lens
+2	that in the opinion of the investigator may contraindicate contact lens wear|contact lens[360,372]||||||||||2809|2809|contact lens

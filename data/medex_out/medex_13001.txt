@@ -1,1 +1,1 @@
-1	History of allergic reactions attributed to compounds of similar chemical or biologic composition to busulfan other agents used in this study|busulfan[101,109]|||||||||C0006463|1828|1828|busulfan
+1	one or more antiepileptic medication be take as a pre-admission medication|antiepileptic[12,25]|||||||||C0003299|932|932|antiepileptic

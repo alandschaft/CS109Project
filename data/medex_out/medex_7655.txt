@@ -1,4 +1,0 @@
-1	Patients who have received prior treatment with an mTOR inhibitor sirolimus temsirolimus everolimus|everolimus[89,99]|||||||||C0541315|141704|141704|everolimus
-1	Patients who have received prior treatment with an mTOR inhibitor sirolimus temsirolimus everolimus|temsirolimus[76,88]|||||||||C1707080|657797|657797|temsirolimus
-1	Patients who have received prior treatment with an mTOR inhibitor sirolimus temsirolimus everolimus|sirolimus[66,75]|||||||||C0072980|35302|35302|sirolimus
-1	Patients who have received prior treatment with an mTOR inhibitor sirolimus temsirolimus everolimus|mTOR inhibitor[51,65]||||||||||496497|496497|mtor inhibitor

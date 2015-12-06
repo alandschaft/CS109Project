@@ -1,2 +1,2 @@
-1	Patients must not have hypersensitivity or intolerance to dextromethorphan topiramate or the active placebo|topiramate[75,85]|||||||||C0076829|38404|38404|topiramate
-1	Patients must not have hypersensitivity or intolerance to dextromethorphan topiramate or the active placebo|dextromethorphan[58,74]|||||||||C0011816|3289|3289|dextromethorphan
+1	patient must not have hypersensitivity or intolerance to dextromethorphan topiramate or the active placebo|topiramate[74,84]|||||||||C0076829|38404|38404|topiramate
+1	patient must not have hypersensitivity or intolerance to dextromethorphan topiramate or the active placebo|dextromethorphan[57,73]|||||||||C0011816|3289|3289|dextromethorphan

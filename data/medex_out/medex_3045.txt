@@ -1,3 +1,0 @@
-1	If taking antidepressants neuroleptics or lithium doses have been stable for more than 4 weeks|neuroleptics[26,38]||||||||||||
-1	If taking antidepressants neuroleptics or lithium doses have been stable for more than 4 weeks|antidepressants[10,25]|||||||||C0003289|927|927|antidepressants
-1	If taking antidepressants neuroleptics or lithium doses have been stable for more than 4 weeks|lithium[42,49]|||||||4 weeks[87,94]||C0023870|6448|6448|lithium

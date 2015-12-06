@@ -1,0 +1,1 @@
+1	9 patient take anti-seizure medication|seizure medication[20,38]||||||||||1021750|1021750|seizure medication

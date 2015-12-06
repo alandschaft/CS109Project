@@ -1,1 +1,1 @@
-1	2 vardenafil use within the past 24 hours|vardenafil[2,12]|||||||24 hours[33,41]||C0971579|306674|306674|vardenafil
+1	be receive ecmo extracorporeal membrane oxygenation therapy because of alteration of bumetanide pharmacokinetics by ecmo|bumetanide[85,95]|||||||||C0006376|1808|1808|bumetanide

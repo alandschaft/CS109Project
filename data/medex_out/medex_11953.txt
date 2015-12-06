@@ -1,1 +1,0 @@
-1	Anti convulsant therapy less than 3 hours|convulsant[5,15]|||||||3 hours[34,41]|||||

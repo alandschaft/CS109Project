@@ -1,2 +1,0 @@
-1	6 Use of diuretics or other sodium-lowering medications|diuretics[9,18]|||||||||C0012798|3567|3567|diuretics
-1	6 Use of diuretics or other sodium-lowering medications|sodium[28,34]|||||||||C0037473|9853|9853|sodium

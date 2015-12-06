@@ -1,3 +1,2 @@
-1	Participants who are receiving topiramate carbamazepine or valproic acid monotherapy for more than one year|carbamazepine[42,55]|||||||||C0006949|2002|2002|carbamazepine
-1	Participants who are receiving topiramate carbamazepine or valproic acid monotherapy for more than one year|topiramate[31,41]|||||||||C0076829|38404|38404|topiramate
-1	Participants who are receiving topiramate carbamazepine or valproic acid monotherapy for more than one year|valproic acid[59,72]|||||||||C0042291|11118|11118|valproic acid
+1	5 use of other antiepileptic or medication with known interaction with valproic acid see protocol for full list|antiepileptic[15,28]|||||||||C0003299|932|932|antiepileptic
+1	5 use of other antiepileptic or medication with known interaction with valproic acid see protocol for full list|valproic acid[71,84]|||||||||C0042291|11118|11118|valproic acid

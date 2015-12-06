@@ -1,3 +1,1 @@
-1	Participant has any known or suspected hypersensitivity to cannabinoids or any of the excipients of the Investigational Medicinal Product IMP e.g. sesame oil|cannabinoids[59,71]||||||||||1975|1975|cannabinoids
-1	Participant has any known or suspected hypersensitivity to cannabinoids or any of the excipients of the Investigational Medicinal Product IMP e.g. sesame oil|sesame oil[147,157]|||||||||C0036845|1309247|1309247|sesame oil
-1	Participant has any known or suspected hypersensitivity to cannabinoids or any of the excipients of the Investigational Medicinal Product IMP e.g. sesame oil|Medicinal Product[120,137]||||||||||107337|107337|medicinal product
+1	any corneal distortion result from previous hard or rigid gas permeable contact lens wear|contact lens[72,84]||||||||||2809|2809|contact lens

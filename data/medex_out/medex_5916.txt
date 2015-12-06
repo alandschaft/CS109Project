@@ -1,2 +1,0 @@
-1	Administration of immunoglobulins and/or any blood products during the six months before entering the study or planned administration during the study period|immunoglobulins[18,33]|||||||||C0021027|5720|5720|globulin,immune
-1	Administration of immunoglobulins and/or any blood products during the six months before entering the study or planned administration during the study period|blood products[45,59]|||||||six months[71,81]|||126145|126145|blood products

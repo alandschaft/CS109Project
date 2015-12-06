@@ -1,1 +1,2 @@
-1	3 Have signed an informed consent form documented by the investigator in the Case Report Form CRF|CRF[94,97]||||||||||214461|214461|corticorelin
+1	8 concomitant use of medication contraindicate with divalproex sodium include topiramate lamotragine and drug that inhibit cytochrome p450 enzyme|topiramate[78,88]|||||||||C0076829|38404|38404|topiramate
+1	8 concomitant use of medication contraindicate with divalproex sodium include topiramate lamotragine and drug that inhibit cytochrome p450 enzyme|divalproex sodium[52,69]|||||||||C0886883|266856|266856|divalproex sodium

@@ -1,0 +1,1 @@
+1	no concurrent iv aeds other than benzodiazepine|benzodiazepine[33,47]|||||iv[14,16]|||||1402|1402|benzodiazepine

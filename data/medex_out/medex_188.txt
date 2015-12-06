@@ -1,1 +1,0 @@
-1	Failed standard therapy i.e. refractory to corticotropin at least 40 IU/day for 14 days as follows persistent infantile spasms OR recurrent spasms after discontinuation or taper OR complications requiring dose modification|corticotropin[43,56]|||40IU[66,71]||||14 days[80,87]||C0985137|315719|376|corticotropin

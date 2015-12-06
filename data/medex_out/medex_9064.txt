@@ -1,2 +1,0 @@
-1	male subjects with normal serum testosterone and FSH control subjects|testosterone[32,44]|||||||||C0039601|10379|10379|testosterone
-1	male subjects with normal serum testosterone and FSH control subjects|FSH[49,52]||||||||||227518|227518|follitropin (fsh)

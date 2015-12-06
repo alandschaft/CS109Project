@@ -1,8 +1,0 @@
-1	Hypersensibility to Cefazolin or Clindamycin Lidocaine Ketorolac Morphine Remifentanyl Propofol Tramadol|Cefazolin[20,29]|||||||||C0007546|2180|2180|cefazolin
-1	Hypersensibility to Cefazolin or Clindamycin Lidocaine Ketorolac Morphine Remifentanyl Propofol Tramadol|Tramadol[96,104]|||||||||C0040610|10689|10689|tramadol
-1	Hypersensibility to Cefazolin or Clindamycin Lidocaine Ketorolac Morphine Remifentanyl Propofol Tramadol|Propofol[87,95]|||||||||C0033487|8782|8782|propofol
-1	Hypersensibility to Cefazolin or Clindamycin Lidocaine Ketorolac Morphine Remifentanyl Propofol Tramadol|Remifentanyl[74,86]||||||||||73032|73032|remifentanil
-1	Hypersensibility to Cefazolin or Clindamycin Lidocaine Ketorolac Morphine Remifentanyl Propofol Tramadol|Morphine[65,73]|||||||||C0026549|7052|7052|morphine
-1	Hypersensibility to Cefazolin or Clindamycin Lidocaine Ketorolac Morphine Remifentanyl Propofol Tramadol|Ketorolac[55,64]|||||||||C0073631|35827|35827|ketorolac
-1	Hypersensibility to Cefazolin or Clindamycin Lidocaine Ketorolac Morphine Remifentanyl Propofol Tramadol|Lidocaine[45,54]|||||||||C0023660|6387|6387|lidocaine (obsolete)
-1	Hypersensibility to Cefazolin or Clindamycin Lidocaine Ketorolac Morphine Remifentanyl Propofol Tramadol|Clindamycin[33,44]|||||||||C0008947|2582|2582|clindamycin

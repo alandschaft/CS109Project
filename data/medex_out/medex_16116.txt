@@ -1,1 +1,0 @@
-1	Subject is on a stable concurrently or sequentially dosage regimen of 1 to 3 AEDs The dosage regimen of concomitant AED therapy must be kept constant for a period of weeks prior to Visit 1 A stable daily dosage regimen of a concomitant benzodiazepine BZD will be considered as a concomitant AED|benzodiazepine[236,250]||||||daily[198,203]||||1402|1402|benzodiazepine

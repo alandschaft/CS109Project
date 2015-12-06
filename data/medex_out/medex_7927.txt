@@ -1,1 +1,0 @@
-1	3 Patients who have not taken antiepileptic drugs AEDs in recent 3 months|antiepileptic drugs[30,49]|||||||3 months[65,73]||C0003299|932|932|antiepileptic drugs

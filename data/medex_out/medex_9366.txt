@@ -1,3 +1,0 @@
-1	Monoamine oxidase MAO inhibitors tricyclic-antidepressants and narcotic analgesics|antidepressants[43,58]|||||||||C0003289|927|927|antidepressants
-1	Monoamine oxidase MAO inhibitors tricyclic-antidepressants and narcotic analgesics|MAO inhibitors[18,32]||||||||||1431605|1431605|mao inhibitors
-1	Monoamine oxidase MAO inhibitors tricyclic-antidepressants and narcotic analgesics|narcotic analgesics[63,82]||||||||||7260|7260|narcotic analgesics

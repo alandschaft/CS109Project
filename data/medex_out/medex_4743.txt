@@ -1,1 +1,0 @@
-1	26 Subjects who have participated in a clinical trial involving administration of an investigational compound including zonisamide within three months of the Screening Visit|zonisamide[120,130]|||||||three months[138,150]||C0078844|39998|39998|zonisamide

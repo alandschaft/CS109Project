@@ -1,0 +1,1 @@
+1	patient receive concurrent chemotherapeutics or investigational agent|chemotherapeutics[27,44]|||||||||C3653781|1430636|1430636|chemotherapeutics

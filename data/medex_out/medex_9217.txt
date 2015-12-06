@@ -1,0 +1,2 @@
+1	10 subject currently take carbonic anhydrase inhibitor acetazolamide|acetazolamide[55,68]|||||||||C0000981|167|167|acetazolamide
+1	10 subject currently take carbonic anhydrase inhibitor acetazolamide|carbonic anhydrase inhibitor[26,54]||||||||||2048|2048|carbonic anhydrase inhibitor

@@ -1,1 +1,1 @@
-1	Female subjects without childbearing potential Female subjects with child bearing potential are eligible if they use a medically accepted contraceptive method for the duration of the study|contraceptive[138,151]||||||||||64078|64078|contraceptive
+1	be a patient for whom the treatment of levetiracetam would be of potential benefit such that the patient/parent s /legal guardian and the investigator agree to continue treatment|levetiracetam[39,52]|||||||||C0377265|114477|114477|levetiracetam

@@ -1,2 +1,0 @@
-1	A patient on a stable dose of 1 or 2 anti-epileptic drugs for the last 4 weeks potassium bromide and sodium bromide for the last 12 weeks prior to and during the combined baseline period|potassium bromide[79,96]|||||||4 weeks[71,78]||C0071754|34299|34299|potassium bromide
-1	A patient on a stable dose of 1 or 2 anti-epileptic drugs for the last 4 weeks potassium bromide and sodium bromide for the last 12 weeks prior to and during the combined baseline period|sodium bromide[101,115]|||||||12 weeks[129,137]||C0891551|1311138|1311138|sodium bromide

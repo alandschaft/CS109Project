@@ -1,2 +1,0 @@
-1	Plans to use a chemotherapy regimen other than those specified in the inclusion criteria Specifically patients receiving a regimen including both an anthracycline and a taxane are not eligible for this trial AC/T EC/T TAC etc|TAC[218,221]|||||||||C2962221|1085980|10759|triamcinolone
-1	Plans to use a chemotherapy regimen other than those specified in the inclusion criteria Specifically patients receiving a regimen including both an anthracycline and a taxane are not eligible for this trial AC/T EC/T TAC etc|taxane[169,175]||||||||||608599|608599|taxane

@@ -1,2 +1,0 @@
-1	Concomitant treatment of felbamate or previous felbamate therapy within last 6 months|felbamate[25,34]|||||||||C0060135|24812|24812|felbamate
-1	Concomitant treatment of felbamate or previous felbamate therapy within last 6 months|felbamate[47,56]|||||||6 months[77,85]||C0060135|24812|24812|felbamate

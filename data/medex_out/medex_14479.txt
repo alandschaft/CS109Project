@@ -1,0 +1,2 @@
+1	concurrent drug therapy with monoamine oxidase inhibitor or calcium channel blocker|monoamine oxidase inhibitor[29,56]||||||||||7032|7032|monoamine oxidase inhibitor
+1	concurrent drug therapy with monoamine oxidase inhibitor or calcium channel blocker|calcium channel blocker[60,83]|||||||||C2757014|986242|986242|calcium channel blocker

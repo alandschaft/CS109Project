@@ -1,0 +1,1 @@
+1	4 hematocrit 29 anc 1,500 cells/l platelet 100,000 cells/l|anc 1[16,21]||||||||||12062|12062|alfacalcidol

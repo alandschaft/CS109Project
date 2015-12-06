@@ -1,0 +1,5 @@
+1	no concurrent prophylactic growth factor e.g. filgrastim g-csf or sargramostim gm-csf|g - csf[57,62]||||||||||40112|40112|g-csf
+1	no concurrent prophylactic growth factor e.g. filgrastim g-csf or sargramostim gm-csf|filgrastim[46,56]|||||||||C0210630|68442|68442|filgrastim
+1	no concurrent prophylactic growth factor e.g. filgrastim g-csf or sargramostim gm-csf|prophylactic[14,26]||||||||||||
+1	no concurrent prophylactic growth factor e.g. filgrastim g-csf or sargramostim gm-csf|gm - csf[79,85]||||||||||40113|40113|gm-csf
+1	no concurrent prophylactic growth factor e.g. filgrastim g-csf or sargramostim gm-csf|sargramostim[66,78]|||||||||C0216231|69634|69634|sargramostim

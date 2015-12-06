@@ -1,1 +1,2 @@
-1	Have not been able to achieve adequate seizure control with antiepileptic drugs|antiepileptic drugs[60,79]|||||||||C0003299|932|932|antiepileptic drugs
+1	8 subject whose anticonvulsant medication regimen include phenobarbital|phenobarbital[58,71]|||||||||C0031412|8134|8134|phenobarbital
+1	8 subject whose anticonvulsant medication regimen include phenobarbital|anticonvulsant[16,30]||||||||||926|926|anticonvulsant

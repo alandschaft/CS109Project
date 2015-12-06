@@ -1,1 +1,2 @@
-1	Use of dietary supplements or herbal preparations are not permitted if subject has been using them consistently for less than 6 months prior to screening or does not plan on remaining on stable doses for the duration of the double blind phase Use of St.|herbal preparations[30,49]|||||||6 months[126,134]|||288001|288001|herbal preparations
+1	7 currently taking the blood thin drug warfarin coumadin|coumadin[48,56]|||||||||C0699129|202421|11289|warfarin
+1	7 currently taking the blood thin drug warfarin coumadin|warfarin[39,47]|||||||||C0043031|11289|11289|warfarin

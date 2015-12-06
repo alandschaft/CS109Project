@@ -1,3 +1,0 @@
-1	Has no history of antimalarial intake in the previous 4 weeks with the exception of chloroquine or quinine|chloroquine[84,95]|||||||4 weeks[54,61]||C0008269|2393|2393|chloroquine
-1	Has no history of antimalarial intake in the previous 4 weeks with the exception of chloroquine or quinine|antimalarial[18,30]||||||||||975|975|antimalarial
-1	Has no history of antimalarial intake in the previous 4 weeks with the exception of chloroquine or quinine|quinine[99,106]|||||||||C0034417|9071|9071|quinine

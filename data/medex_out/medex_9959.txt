@@ -1,1 +1,2 @@
-1	8 Perioperative anticonvulsants should be tapered as indicated in the protocol|anticonvulsants[16,31]|||||||||C0003286|926|926|anticonvulsants
+1	removal of t2/fluid-attenuated inversion recovery flair abnormality think to be primarily tumor with a residual 2 cm maximal tumor diameter/t2 flair abnormality on mri to be do within 84 day post-operatively|flair[50,55]|||||||84 day[184,190]|||||
+1	removal of t2/fluid-attenuated inversion recovery flair abnormality think to be primarily tumor with a residual 2 cm maximal tumor diameter/t2 flair abnormality on mri to be do within 84 day post-operatively|flair[143,148]||||||||||||

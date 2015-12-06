@@ -1,3 +1,0 @@
-1	5 Hormonal contraceptives in addition to a barrier method condom diaphragm with spermicide for at least 14 days prior to the first dose throughout the study and for four days following the last dose|contraceptives[11,25]||||||||||2815|2815|contraceptives
-1	5 Hormonal contraceptives in addition to a barrier method condom diaphragm with spermicide for at least 14 days prior to the first dose throughout the study and for four days following the last dose|spermicide[80,90]||||||||||9969|9969|spermicide
-1	5 Hormonal contraceptives in addition to a barrier method condom diaphragm with spermicide for at least 14 days prior to the first dose throughout the study and for four days following the last dose|spermicide[11,25]|||||||14 days[104,111]|||9969|9969|spermicide

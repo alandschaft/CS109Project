@@ -1,2 +1,0 @@
-1	Subjects taking regular warfarin or aspirin|warfarin[24,32]|||||||||C0043031|11289|11289|warfarin
-1	Subjects taking regular warfarin or aspirin|aspirin[36,43]|||||||||C0004057|1191|1191|acetylsalicylic acid

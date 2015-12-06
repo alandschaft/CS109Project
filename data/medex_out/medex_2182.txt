@@ -1,0 +1,4 @@
+1	not take topiramate primidone zonisamide or phenobarbital in the past|zonisamide[30,40]|||||||||C0078844|39998|39998|zonisamide
+1	not take topiramate primidone zonisamide or phenobarbital in the past|primidone[20,29]|||||||||C0033148|8691|8691|primidone
+1	not take topiramate primidone zonisamide or phenobarbital in the past|topiramate[9,19]|||||||||C0076829|38404|38404|topiramate
+1	not take topiramate primidone zonisamide or phenobarbital in the past|phenobarbital[44,57]|||||||||C0031412|8134|8134|phenobarbital

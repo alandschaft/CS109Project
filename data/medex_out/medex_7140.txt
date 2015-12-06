@@ -1,1 +1,0 @@
-1	The subject has used benzodiazepines oral intra-muscular or suppository as escape medication within the past 6 months|benzodiazepines[21,36]||suppository[60,71]|||oral[37,41]||6 months[109,117]|||1402|1402|benzodiazepines

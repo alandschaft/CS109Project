@@ -1,2 +1,0 @@
-1	Platelet counts lower than 80,000/?L in subjects treated with Valproic Acid VPA|VPA[76,79]||||||||||1099703|40254|valproate
-1	Platelet counts lower than 80,000/?L in subjects treated with Valproic Acid VPA|Valproic Acid[62,75]|||||||||C0042291|11118|11118|valproic acid

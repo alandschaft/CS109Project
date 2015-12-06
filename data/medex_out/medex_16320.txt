@@ -1,2 +1,0 @@
-1	Valproate is an AED that partially inhibits the TCA cycle via alpha-ketoglutarate dehydrogenase and should not be administered to subjects taking UX007|alpha - ketoglutarate[62,81]||||||||||17510|17510|alpha-ketoglutarate
-1	Valproate is an AED that partially inhibits the TCA cycle via alpha-ketoglutarate dehydrogenase and should not be administered to subjects taking UX007|Valproate[0,9]|||||||||C0080356|40254|40254|valproate

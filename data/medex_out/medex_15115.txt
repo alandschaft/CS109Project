@@ -1,0 +1,2 @@
+1	taken a nsaid or steroid in prior 12 hour|nsaid[8,13]||||||||||889|889|nsaid
+1	taken a nsaid or steroid in prior 12 hour|steroid[17,24]|||||||12 hour[34,41]|||10072|10072|steroid

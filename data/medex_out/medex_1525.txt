@@ -1,0 +1,2 @@
+1	regular use of platelet active drug or non-steroidal anti-inflammatory drug nsaid|nsaid[76,81]||||||||||889|889|nsaid
+1	regular use of platelet active drug or non-steroidal anti-inflammatory drug nsaid|non - steroidal anti - inflammatory drug[39,75]||||||||||889|889|non-steroidal anti-inflammatory drug

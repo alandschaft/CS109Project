@@ -1,2 +1,1 @@
-1	Women who are unwilling to use an alternative to oral contraceptives for contraception double barrier contraceptives intrauterine device or abstinence and establish that they are currently not pregnant by submitting to a pregnancy test|contraceptives[102,116]||intrauterine device[117,136]||||||||2815|2815|contraceptives
-1	Women who are unwilling to use an alternative to oral contraceptives for contraception double barrier contraceptives intrauterine device or abstinence and establish that they are currently not pregnant by submitting to a pregnancy test|oral contraceptives[49,68]||||||||||2821|2821|oral contraceptives
+1	any illness require chronic drug therapy other than antiepileptic drug|antiepileptic[52,65]|||||||||C0003299|932|932|antiepileptic

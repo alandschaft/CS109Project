@@ -1,2 +1,2 @@
-1	Either not receiving steroids for disease symptoms or are on stable dose of steroids for at least 5 days|steroids[21,29]||||||||||10072|10072|steroids
-1	Either not receiving steroids for disease symptoms or are on stable dose of steroids for at least 5 days|steroids[76,84]|||||||5 days[98,104]|||10072|10072|steroids
+1	concurrent use of gabapentin or pregabalin for other indication seizure disorder chronic pain|gabapentin[18,28]|||||||||C0060926|25480|25480|gabapentin
+1	concurrent use of gabapentin or pregabalin for other indication seizure disorder chronic pain|pregabalin[32,42]|||||||||C0657912|187832|187832|pregabalin

@@ -1,3 +1,0 @@
-1	Treatment with antipsychotics antidepressants or anxiolytics|antidepressants[30,45]|||||||||C0003289|927|927|antidepressants
-1	Treatment with antipsychotics antidepressants or anxiolytics|antipsychotics[15,29]|||||||||C0040615|10693|10693|antipsychotic drug
-1	Treatment with antipsychotics antidepressants or anxiolytics|anxiolytics[49,60]|||||||||C0040616|10694|10694|anxiolytics

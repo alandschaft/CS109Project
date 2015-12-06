@@ -1,0 +1,2 @@
+1	24 hour after treatment commencement with either parenteral artemisinin or quinine|artemisinin[60,71]|||||||24 hour[0,7]|||18344|18344|artemisinin
+1	24 hour after treatment commencement with either parenteral artemisinin or quinine|quinine[75,82]|||||||||C0034417|9071|9071|quinine

@@ -1,1 +1,1 @@
-Subjects with a confirmed diagnosis of epilepsy suffering from partial onset seizures whether or not secondarily generalized 
+presence of eeg feature consistent with idiopathic generalize epilepsy on an eeg record during the baseline period or no more than one year before visit 1 

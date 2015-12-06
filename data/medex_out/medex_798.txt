@@ -1,2 +1,1 @@
-1	Use of benzodiazepines intermittent use as a hypnotic or an PRN AED is allowed|hypnotic[45,53]||||||||PRN[60,63]||5597|5597|hypnotic
-1	Use of benzodiazepines intermittent use as a hypnotic or an PRN AED is allowed|benzodiazepines[7,22]||||||||||1402|1402|benzodiazepines
+1	female patient of child-bearing potential must not be pregnant serum hcg negative or lactate and must be use a medically acceptable form of birth control such a abstinence an adequate barrier method or hormonal contraceptive or female patient who be post-menopausal or have have surgical sterilization|contraceptive[211,224]||||||||||64078|64078|contraceptive

@@ -1,2 +1,0 @@
-1	Hypersensitivity to albendazole antiepileptic drugs or contrast|antiepileptic drugs[32,51]|||||||||C0003299|932|932|antiepileptic drugs
-1	Hypersensitivity to albendazole antiepileptic drugs or contrast|albendazole[20,31]|||||||||C0001911|430|430|albendazole

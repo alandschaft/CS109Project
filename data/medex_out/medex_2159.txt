@@ -1,3 +1,1 @@
-1	patients currently taking felbamate vigabatrin or tricyclic antidepressants|vigabatrin[36,46]|||||||||C0048044|14851|14851|vigabatrin
-1	patients currently taking felbamate vigabatrin or tricyclic antidepressants|felbamate[26,35]|||||||||C0060135|24812|24812|felbamate
-1	patients currently taking felbamate vigabatrin or tricyclic antidepressants|tricyclic antidepressants[50,75]|||||||||C0003290|928|928|tricyclic antidepressants
+1	5 history of metabolic disorder include urea cycle disorder|urea[40,44]|||||||||C0041942|11002|11002|urea

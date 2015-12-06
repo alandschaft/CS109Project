@@ -1,2 +1,6 @@
-1	Concurrent use of Gabapentin or Pregabalin for other indications seizure disorder chronic pain|Gabapentin[18,28]|||||||||C0060926|25480|25480|gabapentin
-1	Concurrent use of Gabapentin or Pregabalin for other indications seizure disorder chronic pain|Pregabalin[32,42]|||||||||C0657912|187832|187832|pregabalin
+1	current use of an antipsychotic antiepileptic except benzodiazepine or antiarrhythmic medication include quinidine or a quinidine-containing drug such a nuedexta|benzodiazepine[53,67]||||||||||1402|1402|benzodiazepine
+1	current use of an antipsychotic antiepileptic except benzodiazepine or antiarrhythmic medication include quinidine or a quinidine-containing drug such a nuedexta|antiepileptic[32,45]|||||||||C0003299|932|932|antiepileptic
+1	current use of an antipsychotic antiepileptic except benzodiazepine or antiarrhythmic medication include quinidine or a quinidine-containing drug such a nuedexta|quinidine[105,114]|||||||||C0034414|9068|9068|quinidine
+1	current use of an antipsychotic antiepileptic except benzodiazepine or antiarrhythmic medication include quinidine or a quinidine-containing drug such a nuedexta|antiarrhythmic[71,85]|||||||||C0003195|883|883|antiarrhythmic
+1	current use of an antipsychotic antiepileptic except benzodiazepine or antiarrhythmic medication include quinidine or a quinidine-containing drug such a nuedexta|nuedexta[153,161]|||||||||C2954623|1040055|3289|dextromethorphan
+1	current use of an antipsychotic antiepileptic except benzodiazepine or antiarrhythmic medication include quinidine or a quinidine-containing drug such a nuedexta|quinidine[120,129]|||||||||C0034414|9068|9068|quinidine

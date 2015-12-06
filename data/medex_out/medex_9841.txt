@@ -1,1 +1,1 @@
-1	Must be able to undergo MRI of the brain with gadolinium|gadolinium[46,56]|||||||||C0016911|1310171|1310171|gadolinium
+1	4 subject take felbamate with less than 18 month continuous exposure|felbamate[15,24]|||||||18 month[40,48]||C0060135|24812|24812|felbamate

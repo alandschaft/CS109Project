@@ -1,1 +1,1 @@
-Patients from ages 18 to 80 with chronic pruritus secondary to liver disease 
+d. subject with mental disorder will be exclude 

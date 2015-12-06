@@ -1,2 +1,1 @@
-1	Normal renal function and normal Vitamin D and calcium levels|Vitamin D[33,42]|||||||||C0042866|11253|11253|vitamin d
-1	Normal renal function and normal Vitamin D and calcium levels|calcium[47,54]|||||||||C0006675|1895|1895|calcium
+1	patient with non-sle related cardiovascular or cns disease such a congenital hypercoagulability syndromes hypertensive encephalopathy cns infection metabolic disturbance hepatic failure uncontrolled diabetes or patient who be medicate with neuroleptic drug|neuroleptic drug[240,256]||||||||||10693|10693|antipsychotic drug

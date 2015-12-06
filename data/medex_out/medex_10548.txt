@@ -1,0 +1,1 @@
+1	patient treat with an experimental drug within four week prior to the introduction of esl|experimental drug[22,39]|||||||four week[47,56]|||91034|91034|experimental drug

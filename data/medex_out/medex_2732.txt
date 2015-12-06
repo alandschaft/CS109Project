@@ -1,0 +1,1 @@
+1	patient who have previously take topiramate for the treatment of epilepsy|topiramate[33,43]|||||||||C0076829|38404|38404|topiramate

@@ -1,0 +1,5 @@
+1	addition to lamotrigine and/or vagus nerve stimulation and/or intermittent benzodiazepine use e.g lorazepam diazepam clonazepam subject be take more than two concomitant aeds|lamotrigine[12,23]|||||||||C0064636|28439|28439|lamotrigine
+1	addition to lamotrigine and/or vagus nerve stimulation and/or intermittent benzodiazepine use e.g lorazepam diazepam clonazepam subject be take more than two concomitant aeds|clonazepam[117,127]|||||||||C0009011|2598|2598|clonazepam
+1	addition to lamotrigine and/or vagus nerve stimulation and/or intermittent benzodiazepine use e.g lorazepam diazepam clonazepam subject be take more than two concomitant aeds|diazepam[108,116]|||||||||C0012010|3322|3322|diazepam
+1	addition to lamotrigine and/or vagus nerve stimulation and/or intermittent benzodiazepine use e.g lorazepam diazepam clonazepam subject be take more than two concomitant aeds|lorazepam[98,107]|||||||||C0024002|6470|6470|lorazepam
+1	addition to lamotrigine and/or vagus nerve stimulation and/or intermittent benzodiazepine use e.g lorazepam diazepam clonazepam subject be take more than two concomitant aeds|benzodiazepine[75,89]||||||||||1402|1402|benzodiazepine

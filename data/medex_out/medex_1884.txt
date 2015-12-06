@@ -1,1 +1,1 @@
-1	Female subjects without childbearing potential are eligible Female subjects with childbearing potential are eligible if they use a medically accepted contraceptive method|contraceptive[150,163]||||||||||64078|64078|contraceptive
+1	female patient without childbearing potential or use a medically accept non-hormonal contraceptive method be eligible|contraceptive[85,98]||||||||||64078|64078|contraceptive

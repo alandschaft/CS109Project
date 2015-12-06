@@ -1,1 +1,0 @@
-1	Children with severe disease received any documented antibiotic treatment in the past 48 hours diagnosed asthmatic on maintenance therapy complicating acute non-pulmonary or chronic illness known drug allergy hospitalization in the past 2 weeks measles or history of measles within the last month known|antibiotic[53,63]|||||||48 hours[86,94]|||896|896|antibiotic

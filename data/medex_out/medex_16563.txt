@@ -1,1 +1,1 @@
-1	Current use of felbamate with less than 18 months of continuous exposure|felbamate[15,24]|||||||18 months[40,49]||C0060135|24812|24812|felbamate
+1	2 woman in 33-34 week gestation that per protocol be not entitle for treatment with magnesium sulphate for neuroprotection|magnesium sulphate[84,102]||||||||||6585|6585|magnesium sulfate

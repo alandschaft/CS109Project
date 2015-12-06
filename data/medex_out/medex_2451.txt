@@ -1,2 +1,0 @@
-1	Patients who have been treated with Levetiracetam or Lamotrigine before|Levetiracetam[36,49]|||||||||C0377265|114477|114477|levetiracetam
-1	Patients who have been treated with Levetiracetam or Lamotrigine before|Lamotrigine[53,64]|||||||||C0064636|28439|28439|lamotrigine

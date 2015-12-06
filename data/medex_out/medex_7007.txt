@@ -1,0 +1,1 @@
+1	currently take adequate monotherapy define a a single antiepileptic drug aed for at least 28 day prior to screening and have no history of aed polytherapy prior use of rescue medication short-term intermittent use be acceptable|antiepileptic[54,67]|||||||28 day[90,96]||C0003299|932|932|antiepileptic

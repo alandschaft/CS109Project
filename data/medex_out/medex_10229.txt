@@ -1,2 +1,1 @@
-1	Subjects treated with vigabatrin fewer than 2 years prior to the Screening Visit or who have a prior history of treatment with vigabatrin without a documented stable examination by an ophthalmologist as defined in the protocol|vigabatrin[22,32]|||||||2 years[44,51]||C0048044|14851|14851|vigabatrin
-1	Subjects treated with vigabatrin fewer than 2 years prior to the Screening Visit or who have a prior history of treatment with vigabatrin without a documented stable examination by an ophthalmologist as defined in the protocol|vigabatrin[127,137]|||||||||C0048044|14851|14851|vigabatrin
+1	chronic antibiotic use for indication not list above|antibiotic[8,18]||||||||||896|896|antibiotic

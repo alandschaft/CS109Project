@@ -1,0 +1,2 @@
+1	subject take regular warfarin or aspirin|warfarin[21,29]|||||||||C0043031|11289|11289|warfarin
+1	subject take regular warfarin or aspirin|aspirin[33,40]|||||||||C0004057|1191|1191|acetylsalicylic acid

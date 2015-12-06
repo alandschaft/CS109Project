@@ -1,1 +1,2 @@
-1	Able to maintain sobriety for 4 days with or without detox medications|detox[53,58]|||||||4 days[30,36]||C2954233|1047355|1047355|detox
+1	subject that have take hormone major tranquilizer or antidepressant in the three month prior to entry|major tranquilizer[31,49]||||||||||10692|10692|major tranquilizer
+1	subject that have take hormone major tranquilizer or antidepressant in the three month prior to entry|antidepressant[53,67]|||||||three month[75,86]|||927|927|antidepressant

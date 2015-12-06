@@ -1,1 +1,1 @@
-pregnancy 
+presence of an eeg reading compatible with the clinical diagnosis of focal epilepsy within the last 5 year 

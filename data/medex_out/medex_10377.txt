@@ -1,0 +1,1 @@
+1	subject have be treat for epilepsy with any antiepileptic drug aed within the 6 month prior to visit 1 however acute and sub-acute seizure treatment be accept for a maximum use of 2 week if the treatment be stop for the week prior to visit 1|antiepileptic[44,57]|||||||6 month[78,85]||C0003299|932|932|antiepileptic

@@ -1,2 +1,0 @@
-1	Active acute or chronic infection requiring antimicrobial therapy or serious viral infection e.g HIV hepatitis herpes zoster Patients with a reactive PPD must have completed a 6 to 12 month course of isoniazid as recommended by an infectious disease consultant Patients with a non-reactive PPD and non|isoniazid[200,209]|||||||||C0022209|6038|6038|isoniazid
-2	-reactive anergy panel must complete a 6 to 12 month course of isoniazid if recommended by an infectious disease consultant|isoniazid[364,373]|||||||||C0022209|6038|6038|isoniazid

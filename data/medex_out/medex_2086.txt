@@ -1,0 +1,1 @@
+1	subject who have use the following medications/ treatment from four week prior to baseline visit corticosteroid and nerve block|corticosteroid[97,111]|||||||four week[63,72]|||354|354|corticosteroid

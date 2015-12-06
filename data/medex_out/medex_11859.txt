@@ -1,1 +1,0 @@
-1	Triglycerides greater than or equal to 500|Triglycerides[0,13]|||||||||C0041004|10808|10808|triglycerides

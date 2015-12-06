@@ -1,0 +1,2 @@
+1	8 need for concurrent psychotropic drug with the exception of aeds or zolpidem for sleep|psychotropic drug[22,39]||||||||||3683|3683|psychotropic drug
+1	8 need for concurrent psychotropic drug with the exception of aeds or zolpidem for sleep|zolpidem[70,78]|||||||||C0078839|39993|39993|zolpidem

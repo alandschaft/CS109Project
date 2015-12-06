@@ -1,1 +1,0 @@
-1	Presence of psychotic disorders and/or unstable recurrent affective disorders evident by use of antipsychotics presence or recent history within 6 months of major depressive episode|antipsychotics[96,110]|||||||6 months[145,153]||C0040615|10693|10693|antipsychotic drug

@@ -1,1 +1,0 @@
-1	Have been on an antiepileptic medication AED for at least 3 months|antiepileptic[16,29]|||||||3 months[58,66]||C0003299|932|932|antiepileptic

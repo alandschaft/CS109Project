@@ -1,1 +1,1 @@
-1	Patient is not currently and has not in the 4 weeks preceding screening received prophylactic treatment for the indication of migraine|prophylactic[81,93]|||||||4 weeks[44,51]|||||
+1	16 female subject who be pregnant or lactate|lactate[37,44]|||||||||C0376261|114202|114202|lactate

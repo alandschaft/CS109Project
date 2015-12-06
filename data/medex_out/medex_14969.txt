@@ -1,1 +1,0 @@
-1	Subject has a respiratory condition such as asthma treated with systemic or inhaled corticosteroids in the previous 6 months or cystic fibrosis|corticosteroids[84,99]|||||inhaled[76,83]||6 months[116,124]||C0001617|354|354|corticosteroids

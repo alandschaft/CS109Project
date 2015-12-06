@@ -1,0 +1,1 @@
+1	participation in another clinical trial with an investigational drug or device within 12 week of the selection visit v1 or at any time during this trial|investigational drug[48,68]|||||||12 week[86,93]||C1875327|691729|691729|investigational drug

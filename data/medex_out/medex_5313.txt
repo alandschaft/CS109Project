@@ -1,0 +1,1 @@
+1	take a minimum of one and a maximum of two antiepileptic drug at a stable dose for a period of 4 week prior to the selection visit and during the duration of the trial|antiepileptic[43,56]|||||||4 week[95,101]||C0003299|932|932|antiepileptic

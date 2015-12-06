@@ -1,1 +1,0 @@
-1	No change in antiepileptic dose for at least 30 days before study enrollment|antiepileptic[13,26]|||||||30 days[45,52]||C0003299|932|932|antiepileptic

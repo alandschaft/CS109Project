@@ -1,3 +1,0 @@
-1	On any other anticonvulsive medication other than phenobarbitone or bolus of midazolam pentobarbitone for intubation|phenobarbitone[50,64]||||||||||8134|8134|phenobarbital
-1	On any other anticonvulsive medication other than phenobarbitone or bolus of midazolam pentobarbitone for intubation|pentobarbitone[87,101]|||||||||C0030883|8004|8004|pentobarbital
-1	On any other anticonvulsive medication other than phenobarbitone or bolus of midazolam pentobarbitone for intubation|midazolam[77,86]|||||||||C0026056|6960|6960|midazolam

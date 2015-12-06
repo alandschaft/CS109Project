@@ -1,1 +1,1 @@
-1	At least 1 week since prior noncytotoxic agents except radiosensitizers|radiosensitizers[55,71]|||||||1 week[9,15]|||||
+1	at least 2 week since prior vincristine|vincristine[28,39]|||||||2 week[9,15]||C0042679|11202|11202|vincristine

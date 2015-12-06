@@ -1,2 +1,0 @@
-1	4 Known hypersensitivity to glatiramer or mannitol|glatiramer[28,38]|||||||||C0717787|214582|214582|glatiramer
-1	4 Known hypersensitivity to glatiramer or mannitol|mannitol[42,50]|||||||||C0024730|6628|6628|mannitol

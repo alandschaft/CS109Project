@@ -1,0 +1,1 @@
+1	5 continues on corticosteroid in previous 3 month prior to randomisation|corticosteroid[15,29]|||||||3 month[42,49]|||354|354|corticosteroid

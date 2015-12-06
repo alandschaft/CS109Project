@@ -1,0 +1,2 @@
+1	3 hypersensitivity to zonisamide or valproate or their respective excipients|zonisamide[22,32]|||||||||C0078844|39998|39998|zonisamide
+1	3 hypersensitivity to zonisamide or valproate or their respective excipients|valproate[36,45]|||||||||C0080356|40254|40254|valproate

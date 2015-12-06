@@ -1,1 +1,0 @@
-1	No intravenous antimicrobials within 2 weeks|antimicrobials[15,29]|||||intravenous[3,14]||2 weeks[37,44]||C1136254|337867|337867|antimicrobials

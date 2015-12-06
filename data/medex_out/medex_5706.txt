@@ -1,2 +1,0 @@
-1	2 Use of an AED other than carbamazepine less than 6 weeks prior to randomisation and other than carbamazepine zonisamide or sodium valproate during the study|carbamazepine[27,40]|||||||6 weeks[51,58]||C0006949|2002|2002|carbamazepine
-1	2 Use of an AED other than carbamazepine less than 6 weeks prior to randomisation and other than carbamazepine zonisamide or sodium valproate during the study|carbamazepine[97,110]|||||||||C0006949|2002|2002|carbamazepine

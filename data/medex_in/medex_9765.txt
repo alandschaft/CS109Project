@@ -1,1 +1,1 @@
-Aged 45 years 
+a record of at least one medical visit with a diagnosis of epilepsy icd-9-cm 345.xx or at least two diagnosis of non-febrile convulsion icd-9-cm 780.30 or 780.39 occur more than 30 day apart 

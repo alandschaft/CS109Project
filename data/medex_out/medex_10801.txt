@@ -1,0 +1,2 @@
+1	be take a benzodiazepine at a dose greater than lorazepam 2mg or equivalent|lorazepam[48,57]|||2mg[58,61]||||||C0987273|316170|6470|lorazepam
+1	be take a benzodiazepine at a dose greater than lorazepam 2mg or equivalent|benzodiazepine[10,24]||||||||||1402|1402|benzodiazepine

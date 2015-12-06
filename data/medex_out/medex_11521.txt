@@ -1,0 +1,1 @@
+1	19 prior treatment with any investigational drug within the preceding 4 week prior to study entry|investigational drug[28,48]|||||||4 week[70,76]||C1875327|691729|691729|investigational drug

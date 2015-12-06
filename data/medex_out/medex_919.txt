@@ -1,3 +1,0 @@
-1	Has taken lamotrigine felbamate or pemoline within past 3 months prior to screening|felbamate[22,31]|||||||||C0060135|24812|24812|felbamate
-1	Has taken lamotrigine felbamate or pemoline within past 3 months prior to screening|lamotrigine[10,21]|||||||||C0064636|28439|28439|lamotrigine
-1	Has taken lamotrigine felbamate or pemoline within past 3 months prior to screening|pemoline[35,43]|||||||3 months[56,64]||C0030800|7966|7966|pemoline

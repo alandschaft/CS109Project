@@ -1,2 +1,0 @@
-1	1 Patients who are on medication for cardiac conditions like beta blockers anti arrhythmic agents calcium channel blockers|calcium channel blockers[98,122]|||||||||C0006684|1899|1899|calcium channel blockers
-1	1 Patients who are on medication for cardiac conditions like beta blockers anti arrhythmic agents calcium channel blockers|beta blockers[61,74]||||||||||401870|401870|beta blockers

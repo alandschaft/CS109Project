@@ -1,1 +1,3 @@
-1	Subjects who received HuCNS-SC cells under Protocol CL-N01-PMD|CL -[52,55]|||||SC[28,30]||||C0106269|47104|47104|cl-
+1	planned use of immune globulin ganciclovir or valganciclovir|ganciclovir[31,42]|||||||||C0017066|4678|4678|ganciclovir
+1	planned use of immune globulin ganciclovir or valganciclovir|immune globulin[15,30]||||||||||5720|5720|globulin,immune
+1	planned use of immune globulin ganciclovir or valganciclovir|valganciclovir[46,60]|||||||||C0909381|275891|275891|valganciclovir

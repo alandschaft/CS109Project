@@ -1,4 +1,0 @@
-1	6 Patients must have been off chemotherapy for 2 weeks prior to entering this study and recovered from the toxic effects of that therapy unless there is evidence of rapidly progressive disease Use of hydroxyurea for patients with rapidly proliferative disease is allowed for the first two weeks on therapy|hydroxyurea[200,211]|||||||two weeks[285,294]||C0020402|5552|5552|hydroxycarbamide
-2	Imatinib mesylate Gleevec and anagrelide must also be stopped 2 weeks prior to entering this study|Gleevec[324,331]||||||||||282386|282388|imatinib
-2	Imatinib mesylate Gleevec and anagrelide must also be stopped 2 weeks prior to entering this study|Imatinib mesylate[306,323]|||||||||C0939537|284924|284924|imatinib mesylate
-2	Imatinib mesylate Gleevec and anagrelide must also be stopped 2 weeks prior to entering this study|anagrelide[336,346]|||||||2 weeks[368,375]||C0051809|596724|596724|anagrelide

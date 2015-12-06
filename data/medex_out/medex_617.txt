@@ -1,1 +1,1 @@
-1	At least 6 weeks since prior nitrosoureas|nitrosoureas[29,41]|||||||6 weeks[9,16]|||1431622|1431622|nitrosoureas
+1	no prior allergic reaction to compound of similar chemical or biological composition to sirolimus|sirolimus[88,97]|||||||||C0072980|35302|35302|sirolimus

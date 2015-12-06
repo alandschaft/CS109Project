@@ -1,1 +1,1 @@
-1	ASA physical status classification IV|ASA[0,3]|||||IV[35,37]||||C1740879|667904|9525|salicylic acid
+1	4 any systemic illness or unstable medical condition that might pose additional risk include renal or liver disease past history of renal calculus hyperuricemia hypercalcemia mitochondrial disease know disorder of fatty acid metabolism porphyria other unstable metabolic or endocrine disturbance and active|fatty acid[214,224]|||||||||C0015684|4297|4297|fatty acid

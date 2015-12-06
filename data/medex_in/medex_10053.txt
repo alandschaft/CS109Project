@@ -1,1 +1,1 @@
-At least 1 ESz lasting at least 10 seconds with or without clinical correlates occurring within the last 6 hours of cEEG monitoring 
+8 qtc 450 millisecond msec or 480msec for subject with bundle branch block value base on either single ecg value or triplicate ecg average qtc value obtain over a brief recording period 

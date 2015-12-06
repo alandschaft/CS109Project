@@ -1,1 +1,1 @@
-Patients presenting epileptic status at onset 
+the subject suffers from epilepsy except status epilepticus 

@@ -1,1 +1,0 @@
-1	Patient has received albumin prior to treatment assignment during the present admission|albumin[21,28]|||||||||C0001924|433|433|albumin

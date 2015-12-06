@@ -1,1 +1,1 @@
-1	Subjects with epilepsy who have participated in previous brivaracetam trials which allow access to the present study|brivaracetam[57,69]||||||||||638343|638343|brivaracetam
+1	can not be receive any concomitant medication that could alter the effectiveness of the pregabalin response or affect seizure frequency|pregabalin[88,98]|||||||||C0657912|187832|187832|pregabalin

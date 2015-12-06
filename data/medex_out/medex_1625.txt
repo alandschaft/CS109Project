@@ -1,0 +1,1 @@
+1	have take any investigational drug within 12 week prior to the screen phase|investigational drug[14,34]|||||||12 week[42,49]||C1875327|691729|691729|investigational drug

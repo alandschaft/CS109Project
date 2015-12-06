@@ -1,7 +1,0 @@
-1	Therapy with medications valproate carbamazepine primidone phenytoin rifampin phenobarbital that alter the metabolism of lamotrigine|lamotrigine[121,132]|||||||||C0064636|28439|28439|lamotrigine
-1	Therapy with medications valproate carbamazepine primidone phenytoin rifampin phenobarbital that alter the metabolism of lamotrigine|phenobarbital[78,91]|||||||||C0031412|8134|8134|phenobarbital
-1	Therapy with medications valproate carbamazepine primidone phenytoin rifampin phenobarbital that alter the metabolism of lamotrigine|rifampin[69,77]|||||||||C0035608|9384|9384|rifampicin
-1	Therapy with medications valproate carbamazepine primidone phenytoin rifampin phenobarbital that alter the metabolism of lamotrigine|phenytoin[59,68]|||||||||C0031507|8183|8183|phenytoin
-1	Therapy with medications valproate carbamazepine primidone phenytoin rifampin phenobarbital that alter the metabolism of lamotrigine|primidone[49,58]|||||||||C0033148|8691|8691|primidone
-1	Therapy with medications valproate carbamazepine primidone phenytoin rifampin phenobarbital that alter the metabolism of lamotrigine|carbamazepine[35,48]|||||||||C0006949|2002|2002|carbamazepine
-1	Therapy with medications valproate carbamazepine primidone phenytoin rifampin phenobarbital that alter the metabolism of lamotrigine|valproate[25,34]|||||||||C0080356|40254|40254|valproate

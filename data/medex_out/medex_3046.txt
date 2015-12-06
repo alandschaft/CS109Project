@@ -1,1 +1,0 @@
-1	Currently on an antiepileptic drug AED regimen with stable doses for more than 4 weeks prior to study entry|antiepileptic[16,29]|||||||4 weeks[79,86]||C0003299|932|932|antiepileptic

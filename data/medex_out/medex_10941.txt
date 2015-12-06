@@ -1,2 +1,0 @@
-1	Known exposure to measles mumps and/or rubella 30 days prior to vaccination with the MMR study vaccine|mumps[26,31]||||||||||1027774|1027774|mumps
-1	Known exposure to measles mumps and/or rubella 30 days prior to vaccination with the MMR study vaccine|rubella[39,46]|||||||30 days[47,54]|||1022799|1022799|rubella

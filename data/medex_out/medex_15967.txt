@@ -1,3 +1,1 @@
-1	2 Known hypersensitivity to an mTOR inhibitor everolimus sirolimus|sirolimus[57,66]|||||||||C0072980|35302|35302|sirolimus
-1	2 Known hypersensitivity to an mTOR inhibitor everolimus sirolimus|everolimus[46,56]|||||||||C0541315|141704|141704|everolimus
-1	2 Known hypersensitivity to an mTOR inhibitor everolimus sirolimus|mTOR inhibitor[31,45]||||||||||496497|496497|mtor inhibitor
+1	already use coconut oil specifically for catamenial epilepsy within the month prior to enrollment okay if patient only use for cook throughout the month|coconut oil[12,23]|||||||||C0056060|1309239|1309239|coconut oil

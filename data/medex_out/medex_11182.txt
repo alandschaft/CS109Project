@@ -1,2 +1,1 @@
-1	Opioid overdose responding to Narcan|Narcan[30,36]|||||||||C0684237|197117|7242|naloxone
-1	Opioid overdose responding to Narcan|Opioid[0,6]||||||||||71507|71507|opioid
+1	have not require dose adjustment of concurrent aeds addition of new aeds discontinuation of exist aeds change to vns setting or acute use of benzodiazepine for the treatment of seizure during the baseline phase|benzodiazepine[141,155]||||||||||1402|1402|benzodiazepine

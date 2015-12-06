@@ -1,0 +1,1 @@
+1	tried at least two anticonvulsant|anticonvulsant[19,33]||||||||||926|926|anticonvulsant

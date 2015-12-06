@@ -1,1 +1,0 @@
-1	1. past history of seizure due to any cause except a single febrile seizure in childhood Patients with a history of seizures should not have had a seizure within 12 months of Screening and must have had no anticonvulsants for 12 months prior to Screening|anticonvulsants[206,221]|||||||12 months[162,171]||C0003286|926|926|anticonvulsants

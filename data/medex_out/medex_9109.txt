@@ -1,0 +1,1 @@
+1	cortisol or other medication that influence energy metabolism or epileptic drug metabolism last month|cortisol[0,8]||||||||||5492|5492|hydrocortisone

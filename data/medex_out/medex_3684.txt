@@ -1,0 +1,2 @@
+1	11 use of oral or intravenous corticosteroid or estrogen replacement therapy for more than 3 week within the last 6 month|corticosteroid[30,44]|||||oral[10,14]|||||354|354|corticosteroid
+1	11 use of oral or intravenous corticosteroid or estrogen replacement therapy for more than 3 week within the last 6 month|estrogen[48,56]|||||||3 week[91,97]|||4100|4100|estrogens

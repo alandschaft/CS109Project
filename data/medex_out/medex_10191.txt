@@ -1,3 +1,0 @@
-1	Subject taking 1 or more of the following medications on a regular basis within 28 days prior to Visit 1 neuroleptics monoamine oxidase MAO inhibitors and narcotic analgesics|MAO inhibitors[136,150]||||||||||1431605|1431605|mao inhibitors
-1	Subject taking 1 or more of the following medications on a regular basis within 28 days prior to Visit 1 neuroleptics monoamine oxidase MAO inhibitors and narcotic analgesics|neuroleptics[105,117]|||||||28 days[80,87]|||||
-1	Subject taking 1 or more of the following medications on a regular basis within 28 days prior to Visit 1 neuroleptics monoamine oxidase MAO inhibitors and narcotic analgesics|narcotic analgesics[155,174]||||||||||7260|7260|narcotic analgesics

@@ -1,1 +1,0 @@
-1	15 Patients with a prior history of organ transplant 16 Patients receiving more than 3 antiepileptic drugs at any time in the baseline phase or at randomization or who change the dose of the AEDs during 4 weeks before screening or during the baseline period|antiepileptic drugs[87,106]|||||||4 weeks[203,210]||C0003299|932|932|antiepileptic drugs

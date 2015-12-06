@@ -1,1 +1,1 @@
-1	10 Concurrent participation in another clinical trial of an investigational medicinal product|medicinal product[76,93]||||||||||107337|107337|medicinal product
+1	at visit 2 patient be not eligible for entry into the eslicarbazepine acetate treatment phase if he/she fulfil the follow criterion|eslicarbazepine acetate[54,77]||||||||||881251|881251|eslicarbazepine acetate

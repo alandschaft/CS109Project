@@ -1,1 +1,0 @@
-1	Physician diagnosis of any chronic medical condition requiring treatment with oral corticosteroids confirmed by chart review and/or patients assessment by the PI or co-I.s|corticosteroids[83,98]|||||oral[78,82]||||C0001617|354|354|corticosteroids

@@ -1,1 +1,1 @@
-1	Receiving any study drug or experimental device other than lacosamide|lacosamide[59,69]|||||||||C0893761|623400|623400|lacosamide
+1	17 exposure to any other investigational drug within 30 day prior to randomization in 1042-0600 study|investigational drug[25,45]|||||||30 day[53,59]||C1875327|691729|691729|investigational drug

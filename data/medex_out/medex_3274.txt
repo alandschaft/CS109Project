@@ -1,1 +1,2 @@
-1	1 Absolute Neutrophil Count ANC 1,500|ANC 1[28,33]||||||||||12062|12062|alfacalcidol
+1	3 subject who have demonstrate a hypersensitivity to pregabalin or gabapentin or who have be previously treat with either|pregabalin[53,63]|||||||||C0657912|187832|187832|pregabalin
+1	3 subject who have demonstrate a hypersensitivity to pregabalin or gabapentin or who have be previously treat with either|gabapentin[67,77]|||||||||C0060926|25480|25480|gabapentin

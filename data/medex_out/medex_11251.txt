@@ -1,3 +1,0 @@
-1	Must have on current treatment with furosemide hydrochlorothiazide monoamine oxidase inhibitors|monoamine oxidase inhibitors[67,95]||||||||||992698|992698|monoamine oxidase inhibitors
-1	Must have on current treatment with furosemide hydrochlorothiazide monoamine oxidase inhibitors|hydrochlorothiazide[47,66]|||||||||C0020261|5487|5487|hydrochlorothiazide
-1	Must have on current treatment with furosemide hydrochlorothiazide monoamine oxidase inhibitors|furosemide[36,46]|||||||||C0016860|4603|4603|furosemide

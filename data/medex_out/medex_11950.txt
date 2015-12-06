@@ -1,1 +1,0 @@
-1	7 Treatment with anti-inflammatory or corticosteroids drugs within a month before stroke|corticosteroids[38,53]|||||||||C0001617|354|354|corticosteroids

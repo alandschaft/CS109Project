@@ -1,0 +1,3 @@
+1	anticonvulsant group diagnosis of seizure disorder take carbamazepine or phenytoin for a minimum of 2 week|carbamazepine[56,69]|||||||||C0006949|2002|2002|carbamazepine
+1	anticonvulsant group diagnosis of seizure disorder take carbamazepine or phenytoin for a minimum of 2 week|anticonvulsant[0,14]||||||||||926|926|anticonvulsant
+1	anticonvulsant group diagnosis of seizure disorder take carbamazepine or phenytoin for a minimum of 2 week|phenytoin[73,82]|||||||2 week[100,106]||C0031507|8183|8183|phenytoin

@@ -1,2 +1,0 @@
-1	Use of steroids or immunoglobulins during the 4 weeks prior to treatment|steroids[7,15]||||||||||10072|10072|steroids
-1	Use of steroids or immunoglobulins during the 4 weeks prior to treatment|immunoglobulins[19,34]|||||||4 weeks[46,53]||C0021027|5720|5720|globulin,immune

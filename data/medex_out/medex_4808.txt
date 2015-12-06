@@ -1,0 +1,1 @@
+1	26 subject who have participate in a clinical trial involve administration of an investigational compound include zonisamide within three month of the screening visit|zonisamide[114,124]|||||||three month[132,143]||C0078844|39998|39998|zonisamide

@@ -1,2 +1,1 @@
-1	11 Use of oral or intravenous corticosteroids or estrogen replacement therapy for more than 3 weeks within the last 6 months|corticosteroids[30,45]|||||oral[10,14]||||C0001617|354|354|corticosteroids
-1	11 Use of oral or intravenous corticosteroids or estrogen replacement therapy for more than 3 weeks within the last 6 months|estrogen[49,57]|||||||3 weeks[92,99]|||4100|4100|estrogens
+1	massive fluid overload unresponsive to diuretic and require ultrafiltration|diuretic[39,47]||||||||||3567|3567|diuretic

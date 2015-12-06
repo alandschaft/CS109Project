@@ -1,1 +1,1 @@
-1	hormonal contraceptives that block menses within 6 months of the selection visit with no washout period permitted|contraceptives[9,23]|||||||6 months[49,57]|||2815|2815|contraceptives
+1	at least 4 seizure per week in the last month despite adequate antiepileptic regimen|antiepileptic[63,76]||||||per week[19,27]|||C0003299|932|932|antiepileptic

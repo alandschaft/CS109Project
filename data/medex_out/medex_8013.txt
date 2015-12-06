@@ -1,1 +1,1 @@
-1	10 Frequent need of rescue benzodiazepines one or more times a month|benzodiazepines[27,42]||||||||||1402|1402|benzodiazepines
+1	exclusion patient with cardiovascular problem that could be adversely affect by verapamil|verapamil[80,89]|||||||||C0042523|11170|11170|verapamil

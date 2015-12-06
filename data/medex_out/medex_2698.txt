@@ -1,1 +1,1 @@
-1	Patients must not have prior radiation therapy chemotherapy including Gliadel wafer immunotherapy or therapy with a biologic agent or hormonal therapy Glucocorticoid therapy is allowed|Gliadel wafer[70,83]|||||||||null|212994|2105|camustine
+1	5 subject be take chronic anticoagulant|anticoagulant[26,39]|||||||||C0003280|923|923|anticoagulant

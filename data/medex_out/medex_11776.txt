@@ -1,0 +1,3 @@
+1	history of hypersensitivity follow previous administration of measles mumps rubella and/or varicella-virus containing vaccine|rubella[76,83]||||||||||1022799|1022799|rubella
+1	history of hypersensitivity follow previous administration of measles mumps rubella and/or varicella-virus containing vaccine|mumps[70,75]||||||||||1027774|1027774|mumps
+1	history of hypersensitivity follow previous administration of measles mumps rubella and/or varicella-virus containing vaccine|vaccine[118,125]||||||||||11094|11094|vaccine

@@ -1,0 +1,2 @@
+1	subject have a history of an allergic reaction or significant sensitivity to benzodiazepine or to any of the other ingredient in clobazam tablet|benzodiazepine[77,91]||||||||||1402|1402|benzodiazepine
+1	subject have a history of an allergic reaction or significant sensitivity to benzodiazepine or to any of the other ingredient in clobazam tablet|clobazam[129,137]||tablet[138,144]|||||||C1245601|371560|21241|clobazam

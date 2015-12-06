@@ -1,1 +1,1 @@
-1	Subjects for whom the Investigator believes a reasonable benefit from the long-term administration of brivaracetam may be expected|brivaracetam[102,114]||||||||||638343|638343|brivaracetam
+1	patient on vigabatrin|vigabatrin[11,21]|||||||||C0048044|14851|14851|vigabatrin

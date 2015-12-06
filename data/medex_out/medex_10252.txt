@@ -1,2 +1,0 @@
-1	Currently taking Clonazepam or other Benzodiazepines|Clonazepam[17,27]|||||||||C0009011|2598|2598|clonazepam
-1	Currently taking Clonazepam or other Benzodiazepines|Benzodiazepines[37,52]||||||||||1402|1402|benzodiazepines

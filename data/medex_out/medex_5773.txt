@@ -1,1 +1,1 @@
-1	They have a systemic disorder which would normally contra-indicate contact lens wear|contact lens[67,79]||||||||||2809|2809|contact lens
+1	contraceptive patch|contraceptive[0,13]||patch[14,19]||||||||64078|64078|contraceptive

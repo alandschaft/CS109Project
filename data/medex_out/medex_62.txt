@@ -1,2 +1,2 @@
-1	Must not be taking neuroleptic or antidepressant medications|neuroleptic[19,30]||||||||||10693|10693|antipsychotic drug
-1	Must not be taking neuroleptic or antidepressant medications|antidepressant[34,48]||||||||||927|927|antidepressant
+1	must not be take neuroleptic or antidepressant medication|neuroleptic[17,28]||||||||||10693|10693|antipsychotic drug
+1	must not be take neuroleptic or antidepressant medication|antidepressant[32,46]||||||||||927|927|antidepressant

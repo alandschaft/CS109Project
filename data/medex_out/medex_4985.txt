@@ -1,1 +1,1 @@
-1	Patient has a history of diabetes and is taking oral sulfonylurea agents|sulfonylurea[53,65]|||||oral[48,52]|||||10219|10219|sulfonylurea
+1	13 patient 's who be currently use illicit drug|illicit drug[35,47]||||||||||3683|3683|illicit drug

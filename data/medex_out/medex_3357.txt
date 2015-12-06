@@ -1,3 +1,0 @@
-1	5 Presence of major active psychiatric disease Patients taking a stable dose of selective serotonin reuptake inhibitor SSRI antidepressant will be allowed|antidepressant[124,138]||||||||||927|927|antidepressant
-1	5 Presence of major active psychiatric disease Patients taking a stable dose of selective serotonin reuptake inhibitor SSRI antidepressant will be allowed|SSRI[119,123]||||||||||1026630|1026630|ssri
-1	5 Presence of major active psychiatric disease Patients taking a stable dose of selective serotonin reuptake inhibitor SSRI antidepressant will be allowed|serotonin reuptake inhibitor[90,118]||||||||||1026630|1026630|serotonin reuptake inhibitor

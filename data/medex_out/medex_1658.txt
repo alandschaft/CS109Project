@@ -1,3 +1,0 @@
-1	Subject taking vigabatrin or tiagabine subject on felbamate with less than 18 months exposure and subject under vagal nerve stimulation or ketogenic diet|vigabatrin[15,25]|||||||||C0048044|14851|14851|vigabatrin
-1	Subject taking vigabatrin or tiagabine subject on felbamate with less than 18 months exposure and subject under vagal nerve stimulation or ketogenic diet|felbamate[50,59]|||||||18 months[75,84]||C0060135|24812|24812|felbamate
-1	Subject taking vigabatrin or tiagabine subject on felbamate with less than 18 months exposure and subject under vagal nerve stimulation or ketogenic diet|tiagabine[29,38]|||||||||C0068897|31914|31914|tiagabine

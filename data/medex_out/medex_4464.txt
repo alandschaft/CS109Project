@@ -1,1 +1,1 @@
-1	Patient has taken an investigational drug within a period of 3 months prior to inclusion|investigational drug[21,41]|||||||3 months[61,69]||C1875327|691729|691729|investigational drug
+1	presence of know contraindication to epo administration-sustained systolic blood pressure 100 hemoglobin .18 g/dl known allergy to epo or one of it component|epo[37,40]|||.18g[105,110]|||||||239999|105694|epoetin alfa,recombinant

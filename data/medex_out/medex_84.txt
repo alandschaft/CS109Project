@@ -1,1 +1,1 @@
-1	Subjects must not have received an experimental drug or used and experimental device within 30 days|experimental drug[35,52]|||||||30 days[92,99]|||91034|91034|experimental drug
+1	subject must not have receive an experimental drug or use and experimental device within 30 day|experimental drug[33,50]|||||||30 day[89,95]|||91034|91034|experimental drug

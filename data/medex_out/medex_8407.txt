@@ -1,0 +1,1 @@
+1	the patient be receive the regimen of valproate sodium give a daily oral administration|valproate sodium[38,54]|||||oral[68,72]|daily[62,67]||||11118|11118|valproic acid

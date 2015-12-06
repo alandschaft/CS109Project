@@ -1,2 +1,0 @@
-1	No history of antiepileptic drug use or taking a single antiepileptic drug for no longer than 6 weeks|antiepileptic[14,27]|||||||||C0003299|932|932|antiepileptic
-1	No history of antiepileptic drug use or taking a single antiepileptic drug for no longer than 6 weeks|antiepileptic[56,69]|||||||6 weeks[94,101]||C0003299|932|932|antiepileptic

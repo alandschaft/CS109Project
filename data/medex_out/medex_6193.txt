@@ -1,1 +1,0 @@
-1	Medical alert tag marked with RAMPART declined|Medical alert[0,13]|||||||||C2342891|794808|794808|medical alert

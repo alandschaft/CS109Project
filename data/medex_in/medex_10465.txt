@@ -1,1 +1,1 @@
-Ability to keep a seizure diary 
+incomplete and/or unreliable patient seizure diary base on the physician 's judgment 
