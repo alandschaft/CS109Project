@@ -8,6 +8,6 @@ wheel==0.24.0
 numpy==1.10.1
 pandas==0.17.1
 flask-jsonpify
-operator==10.3
-random==9.6
+operator==10.3.0
+random==9.6.0
 sklearn==0.15.2
