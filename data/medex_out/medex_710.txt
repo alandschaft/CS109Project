@@ -1,1 +1,2 @@
-1	Serum sodium levels 135 mEq/L|sodium[6,12]|||135mEq / L[20,29]||||||null|1547440|56443|sodium acet (obsolete)
+1	Routine use of NSAIDS defined as NSAID use more than two doses a week|NSAID[33,38]||||||||||889|889|nsaid
+1	Routine use of NSAIDS defined as NSAID use more than two doses a week|NSAIDS[15,21]||||||||||||

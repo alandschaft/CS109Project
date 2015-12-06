@@ -1,1 +1,3 @@
-1	Patient refusal to continue participation in the study|refusal[8,15]||||||||||||
+1	Administration of immunoglobulins and/or any blood products within the three months preceding the first dose of study vaccine s or planned administration during the study period|immunoglobulins[18,33]|||||||||C0021027|5720|5720|globulin,immune
+1	Administration of immunoglobulins and/or any blood products within the three months preceding the first dose of study vaccine s or planned administration during the study period|vaccine[118,125]|||||||three months[71,83]|||11094|11094|vaccine
+1	Administration of immunoglobulins and/or any blood products within the three months preceding the first dose of study vaccine s or planned administration during the study period|blood products[45,59]||||||||||126145|126145|blood products

@@ -1,2 +1,0 @@
-1	Use of Felbamate or Vigabatrin within last 6 months|Felbamate[7,16]|||||||||C0060135|24812|24812|felbamate
-1	Use of Felbamate or Vigabatrin within last 6 months|Vigabatrin[20,30]|||||||6 months[43,51]||C0048044|14851|14851|vigabatrin

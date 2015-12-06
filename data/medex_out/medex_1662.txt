@@ -1,1 +1,1 @@
-1	Subjects for whom the investigator believes a reasonable benefit from the long term administration of brivaracetam may be expected|brivaracetam[102,114]||||||||||638343|638343|brivaracetam
+1	Have completed Study N151 or any other applicable pediatric trials of Levetiracetam|Levetiracetam[70,83]|||||||||C0377265|114477|114477|levetiracetam

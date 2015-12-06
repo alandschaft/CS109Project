@@ -1,2 +1,1 @@
-1	3 Subjects who have demonstrated a hypersensitivity to pregabalin or gabapentin or who have been previously treated with either|pregabalin[55,65]|||||||||C0657912|187832|187832|pregabalin
-1	3 Subjects who have demonstrated a hypersensitivity to pregabalin or gabapentin or who have been previously treated with either|gabapentin[69,79]|||||||||C0060926|25480|25480|gabapentin
+1	6 One antidepressant on a stable dose regimen for at least 1 month will be allowed|antidepressant[6,20]|||||||1 month[59,66]|||927|927|antidepressant

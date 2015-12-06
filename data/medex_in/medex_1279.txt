@@ -1,1 +1,1 @@
-Patients must be greater than or equal to 18 years old and with a life expectancy greater than 8 weeks 
+Has taken an investigational drug within the previous 30 days or plans to take an investigational drug anytime during the study 

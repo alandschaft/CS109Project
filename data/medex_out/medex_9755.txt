@@ -1,1 +1,1 @@
-1	The fundamental eligibility criterion is the responsible clinician 's 'uncertainty as to whether or not to use tranexamic acid in a particular patient with traumatic brain injury|tranexamic acid[111,126]|||||||||C0040613|10691|10691|tranexamic acid
+1	Currently on a stable regimen of AEDs no changes in type of AEDs since Visit 1 and for 7 days before Visit 2 with or without intermittent use of benzodiazepines at a constant dose|benzodiazepines[145,160]|||||||7 days[87,93]|||1402|1402|benzodiazepines

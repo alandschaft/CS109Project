@@ -1,3 +1,2 @@
-1	The concurrent use of sulfamethoxazole salicylates or naproxen is not allowed|salicylates[39,50]||||||||||9523|9523|salicylates
-1	The concurrent use of sulfamethoxazole salicylates or naproxen is not allowed|sulfamethoxazole[22,38]|||||||||C0038689|10180|10180|sulfamethoxazole
-1	The concurrent use of sulfamethoxazole salicylates or naproxen is not allowed|naproxen[54,62]|||||||||C0027396|7258|7258|naproxen
+1	Patients who have not received previous treatment with antiepileptic medications or patients who did not respond to previous treatment with antiepileptic medications defined as a lack of effectiveness of the medication s or the inability to take the medication s due to adverse effects|antiepileptic[55,68]|||||||||C0003299|932|932|antiepileptic
+1	Patients who have not received previous treatment with antiepileptic medications or patients who did not respond to previous treatment with antiepileptic medications defined as a lack of effectiveness of the medication s or the inability to take the medication s due to adverse effects|antiepileptic[140,153]|||||||||C0003299|932|932|antiepileptic

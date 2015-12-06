@@ -1,2 +1,1 @@
-1	Concurrent treatment with Cimetidine or Theophylline|Cimetidine[26,36]|||||||||C0008783|2541|2541|cimetidine
-1	Concurrent treatment with Cimetidine or Theophylline|Theophylline[40,52]|||||||||C0039771|10438|10438|theophylline
+1	Patients alanine aminotransferase ALT and aspartate aminotransferase AST must be 2.5 X ULRR and their alkaline phosphatase ALP 2.5 x ULRR or 5x ULRR if judged by the investigator to be related to liver metastases|ALP[123,126]|||2.5[127,130]|||||||||

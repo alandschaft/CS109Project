@@ -1,1 +1,1 @@
-1	contraindication for the administration of atropine like|atropine[43,51]|||||||||C0004259|1223|1223|atropine
+1	17 Subject has received previous treatment with zonisamide|zonisamide[48,58]|||||||||C0078844|39998|39998|zonisamide

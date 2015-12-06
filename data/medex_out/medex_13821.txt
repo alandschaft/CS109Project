@@ -1,1 +1,1 @@
-1	Medical history of adverse reaction to ferumoxytol|ferumoxytol[39,50]|||||||||C0060274|473387|473387|ferumoxytol
+1	Treatment with Bleomycin or Anthracyclin in history|Bleomycin[15,24]|||||||||C0005740|1622|1622|bleomycin

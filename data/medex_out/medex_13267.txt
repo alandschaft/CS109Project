@@ -1,1 +1,1 @@
-1	6 Emergency Medicine System EMS transport to a participating trauma center|EMS[28,31]||||||||||||
+1	Subject has a known cardiac sodium channelopathy such as Brugada syndrome|sodium[28,34]|||||||||C0037473|9853|9853|sodium

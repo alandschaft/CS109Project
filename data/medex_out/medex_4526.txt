@@ -1,2 +1,1 @@
-1	History of allergic or untoward reaction to any benzodiazepine or any psychotropic agent|benzodiazepine[48,62]||||||||||1402|1402|benzodiazepine
-1	History of allergic or untoward reaction to any benzodiazepine or any psychotropic agent|psychotropic agent[70,88]||||||||||8927|8927|psychotropic agent
+1	Patient has taken an investigational drug within a period of 3 months prior to inclusion|investigational drug[21,41]|||||||3 months[61,69]||C1875327|691729|691729|investigational drug

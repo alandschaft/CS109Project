@@ -1,1 +1,1 @@
-1	Participant is currently using or has in the past used recreational or medicinal cannabis or synthetic cannabinoid-based medications including within the 3 months prior to trial entry|cannabis[81,89]|||||||3 months[154,162]|||196583|196583|cannabis
+1	Any Systemic disease autoimmune disease or use of medication which might interfere with contact lens wear|contact lens[88,100]||||||||||2809|2809|contact lens

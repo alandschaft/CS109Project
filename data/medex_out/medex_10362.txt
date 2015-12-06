@@ -1,3 +1,1 @@
-1	current treatment with 1 to 2 AEDs except oxcarbazepine benzodiazepines other than clobazam and vagus nerve stimulation VNS|clobazam[83,91]|||||||||C0055891|21241|21241|clobazam
-1	current treatment with 1 to 2 AEDs except oxcarbazepine benzodiazepines other than clobazam and vagus nerve stimulation VNS|benzodiazepines[56,71]||||||||||1402|1402|benzodiazepines
-1	current treatment with 1 to 2 AEDs except oxcarbazepine benzodiazepines other than clobazam and vagus nerve stimulation VNS|oxcarbazepine[42,55]|||||||||C0069751|32624|32624|oxcarbazepine
+1	Using prohibited medications or treated with any systemic immunosuppressant|immunosuppressant[58,75]||||||||||5748|5748|immunosuppressant

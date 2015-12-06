@@ -1,1 +1,2 @@
-1	21 Treatment with a reversible monoamine oxidase inhibitor MAOI within 2 weeks prior to Visit 2|monoamine oxidase inhibitor[31,58]|||||||2 weeks[71,78]|||7032|7032|monoamine oxidase inhibitor
+1	Patients who have had documented tumor progression while taking tamoxifen and/or any treatment with tamoxifen within 6 months of registration|tamoxifen[64,73]|||||||||C0039286|10324|10324|tamoxifen
+1	Patients who have had documented tumor progression while taking tamoxifen and/or any treatment with tamoxifen within 6 months of registration|tamoxifen[100,109]|||||||6 months[117,125]||C0039286|10324|10324|tamoxifen

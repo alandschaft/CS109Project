@@ -1,1 +1,1 @@
-1	2 Planned receipt of the live attenuated nasally administered influenza vaccine this year|influenza vaccine[62,79]||||||||||5806|5806|influenza
+1	4 The patient has received chronic treatment weeks for any indication with a benzodiazepine within at least 5 half-lives prior to screening Rescue therapy for prolonged seizures is allowed|benzodiazepine[77,91]||||||||||1402|1402|benzodiazepine

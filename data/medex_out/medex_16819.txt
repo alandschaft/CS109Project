@@ -1,2 +1,1 @@
-1	Participant must be taking CLB and no more than 2 other antiepileptic drugs AEDs during the course of the trial|CLB[27,30]||||||||||||
-1	Participant must be taking CLB and no more than 2 other antiepileptic drugs AEDs during the course of the trial|antiepileptic drugs[56,75]|||||||||C0003299|932|932|antiepileptic drugs
+1	The subject must be an adapted soft contact lens wearer in both eyes|contact lens[36,48]||||||||||2809|2809|contact lens

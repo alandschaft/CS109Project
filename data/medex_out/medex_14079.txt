@@ -1,1 +1,1 @@
-1	Patient contact lens refraction should fit within the available parameters of the study lenses|contact lens[8,20]||||||||||2809|2809|contact lens
+1	Age ranged from 1 to 18 year old patients diagnosed with intractable epilepsy which shows frequency with more than 1 per week 4 per month even though at least more than 2 antiepileptic drug treatment|antiepileptic[171,184]||||||per week[117,125]|||C0003299|932|932|antiepileptic

@@ -1,1 +1,1 @@
-1	Localization-related epilepsy diagnosed by standard clinical criteria that has not responded to treatment with two standard antiepileptic drugs either sequentially or in combination|antiepileptic drugs[124,143]|||||||||C0003299|932|932|antiepileptic drugs
+1	Injecting opioids in the past year|opioids[10,17]||||||||||1431633|1431633|opioids

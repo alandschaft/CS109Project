@@ -1,5 +1,2 @@
-1	Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|topamax[95,102]||||||||||220343|38404|topiramate
-1	Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|lamictal[86,94]|||||||||C0678180|196502|28439|lamotrigine
-1	Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|tegretol[77,85]||||||||||203029|2002|carbamazepine
-1	Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|dilantin[68,76]||||||||||202740|8183|phenytoin
-1	Currently prescribed medication with anti-epileptic activity keppra dilantin tegretol lamictal topamax etc|keppra[61,67]|||||||||C0876060|261547|114477|levetiracetam
+3	should be confirmed by oestradiol and follicle stimulating hormone levels consistent with menopause according to local laboratory ranges Women who have not been confirmed as postmenopausal should be advised to use contraception|oestradiol[630,640]|||||||||C0014912|4083|4083|estradiol
+3	should be confirmed by oestradiol and follicle stimulating hormone levels consistent with menopause according to local laboratory ranges Women who have not been confirmed as postmenopausal should be advised to use contraception|follicle stimulating hormone[645,673]|||||||||C0733758|227518|227518|follitropin (fsh)

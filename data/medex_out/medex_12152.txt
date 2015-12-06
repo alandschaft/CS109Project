@@ -1,1 +1,1 @@
-1	Condition that may have an impact on the outcome of the investigation as judged by the investigator|impact[27,33]|||||||||C0726639|222931|222931|impact
+1	Diagnosis of pyridoxine-dependent epilepsy based on clinical symptoms and elevated levels of plasma or urine AASA Confirmation by at least one known disease causing mutation in the ALDH7A1 gene to be obtained within one month of enrollment|pyridoxine[13,23]|||||||one month[216,225]||C0034272|684879|684879|pyridoxine (vit b6)

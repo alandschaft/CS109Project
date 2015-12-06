@@ -1,1 +1,3 @@
-1	The fundamental eligibility criterion is the responsible clinician 's 'uncertainty as to whether or not to use an antifibrinolytic agent in a particular patient with upper or lower gastrointestinal bleeding|antifibrinolytic agent[114,136]||||||||||934|934|antifibrinolytic agent
+1	Hyperpyrexia within 48 hours of administration of previous doses of DTP or MMR vaccines|DTP[68,71]|||||||48 hours[20,28]|||3519|3519|diphtheria-poliomyelitis-tetanus
+1	Hyperpyrexia within 48 hours of administration of previous doses of DTP or MMR vaccines|vaccines[79,87]|||||||||C0042210|11094|11094|vaccines
+1	Hyperpyrexia within 48 hours of administration of previous doses of DTP or MMR vaccines|MMR[75,78]||||||||||29406|29406|measles,mumps&rubella vac live

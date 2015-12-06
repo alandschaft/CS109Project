@@ -1,1 +1,1 @@
-1	3 tadalafil use within the past 72 hours|tadalafil[2,11]|||||||72 hours[32,40]||C1176316|358263|358263|tadalafil
+1	have contraindications to bumetanide as determined by treating physician|bumetanide[26,36]|||||||||C0006376|1808|1808|bumetanide

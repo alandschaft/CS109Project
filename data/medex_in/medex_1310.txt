@@ -1,1 +1,1 @@
-Patients must have a Karnofsky performance status of greater than or equal to 60 
+Patients must not have any significant medical illnesses that in the investigator's opinion can not be adequately controlled with appropriate therapy or would compromise the patients ability to tolerate this therapy 

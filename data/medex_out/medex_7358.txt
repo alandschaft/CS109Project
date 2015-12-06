@@ -1,2 +1,0 @@
-1	6 Inborn errors of metabolism valproic acid is contraindicated in patients with known urea cycle disorders|urea[86,90]|||||||||C0041942|11002|11002|urea
-1	6 Inborn errors of metabolism valproic acid is contraindicated in patients with known urea cycle disorders|valproic acid[30,43]|||||||||C0042291|11118|11118|valproic acid

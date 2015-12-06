@@ -1,1 +1,0 @@
-1	Clinical diagnosis of epilepsy on a stable antiepileptic drug AED regimen for at least 2 weeks and requires intermittent medical intervention to control episodes of acute repetitive seizures ARS|antiepileptic[43,56]|||||||2 weeks[87,94]||C0003299|932|932|antiepileptic

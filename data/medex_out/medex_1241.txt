@@ -1,3 +1,0 @@
-1	Oral contraceptive either combined with at least 50mcg estrogen for women on enzyme-induced AEDs or progestogen only|estrogen[55,63]||||||||||4100|4100|estrogens
-1	Oral contraceptive either combined with at least 50mcg estrogen for women on enzyme-induced AEDs or progestogen only|Oral contraceptive[0,18]||||||||||2821|2821|oral contraceptive
-1	Oral contraceptive either combined with at least 50mcg estrogen for women on enzyme-induced AEDs or progestogen only|progestogen[100,111]||||||||||8725|8725|progestogen

@@ -1,2 +1,1 @@
-1	Have had history within past six months of a psychiatric or mood disorder requiring electroconvulsive therapy major tranquilizers or monoamine oxidase inhibitors|major tranquilizers[110,129]|||||||six months[29,39]|||218186|218186|major tranquilizers
-1	Have had history within past six months of a psychiatric or mood disorder requiring electroconvulsive therapy major tranquilizers or monoamine oxidase inhibitors|monoamine oxidase inhibitors[133,161]||||||||||992698|992698|monoamine oxidase inhibitors
+1	Treatment with PPAR gamma agonists currently or within the past 6 months|agonists[26,34]|||||||6 months[64,72]|||||

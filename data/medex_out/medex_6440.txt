@@ -1,2 +1,1 @@
-1	Planned administration/ administration of a vaccine not foreseen by the study protocol from 30 days prior to vaccination until 42 days after vaccination except for influenza vaccine and Hib vaccine|influenza vaccine[164,181]|||||||30 days[92,99]|||5806|5806|influenza
-1	Planned administration/ administration of a vaccine not foreseen by the study protocol from 30 days prior to vaccination until 42 days after vaccination except for influenza vaccine and Hib vaccine|Hib vaccine[186,197]||||||||||50937|50937|haemophilus b
+1	7 Patients using rescue benzodiazepines at least twice in a 4-week duration within 8 weeks if 1 or 2 doses over 24-hour period considered one-time rescue|benzodiazepines[24,39]|||||||8 weeks[83,90]|||1402|1402|benzodiazepines

@@ -1,2 +1,0 @@
-1	7 Currently taking the blood thinning drug warfarin Coumadin|Coumadin[52,60]|||||||||C0699129|202421|11289|warfarin
-1	7 Currently taking the blood thinning drug warfarin Coumadin|warfarin[43,51]|||||||||C0043031|11289|11289|warfarin

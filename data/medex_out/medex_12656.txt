@@ -1,2 +1,0 @@
-2	FDA regulations at 21 CFR 361.1 Radioactive Drugs Considered Generally Safe and Effective i.e annual cumulative radiation dose limit 5 rems to gonads blood-forming organs lens of eye whole body 15 rems to other organs|Radioactive Drugs[335,352]||lens[474,478]|361.1[329,334]||||||C0013880|3803|3803|radioactive drugs
-2	FDA regulations at 21 CFR 361.1 Radioactive Drugs Considered Generally Safe and Effective i.e annual cumulative radiation dose limit 5 rems to gonads blood-forming organs lens of eye whole body 15 rems to other organs|CFR[325,328]||||||||||||

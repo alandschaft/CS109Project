@@ -1,1 +1,1 @@
-1	6 Use of fibrinolytic agent with in the past 14 days|fibrinolytic agent[9,27]|||||||14 days[45,52]|||4390|4390|fibrinolytic agent
+1	newborns given 40mg/kg of phenobarbital|phenobarbital[26,39]|||40mg[15,19]||||||C1133576|336345|8134|phenobarbital

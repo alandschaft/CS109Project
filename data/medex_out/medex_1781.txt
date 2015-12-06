@@ -1,1 +1,1 @@
-1	Subject has taken corticotropins in the 6 months prior to screening|corticotropins[18,32]|||||||6 months[40,48]|||||
+1	2 Patients/the parent or guardian wish to continue treatment with L059 and to enter N165 Follow-up Study and also the investigator admit the necessity of the repeated intake of the investigational drug for the patients|investigational drug[181,201]|||||||||C1875327|691729|691729|investigational drug

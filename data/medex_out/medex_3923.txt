@@ -1,1 +1,1 @@
-1	Subjects must not have received any investigational agents within 30 days prior to commencing study treatment|investigational agents[36,58]|||||||30 days[66,73]||C1875319|691721|691721|investigational agents
+1	CNS disease or brain injury not associated with psychotropic drug exposure|psychotropic drug[48,65]||||||||||3683|3683|psychotropic drug

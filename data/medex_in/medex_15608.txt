@@ -1,1 +1,1 @@
-5 Patient is currently using an investigational device or pharmacologic medication not approved by the FDA 
+1 Current pregnancy or pregnancy in the previous two months 

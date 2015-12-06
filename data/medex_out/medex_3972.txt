@@ -1,2 +1,4 @@
-1	History of hypersensitivity to Albendazole or Praziquantel|Albendazole[31,42]|||||||||C0001911|430|430|albendazole
-1	History of hypersensitivity to Albendazole or Praziquantel|Praziquantel[46,58]|||||||||C0032911|8628|8628|praziquantel
+1	Patients must have potassium 4.0 mmol/L and serum calcium ionized or adjusted for albumin or magnesium in the normal range supplementation is allowed|potassium[19,28]|||4.0mmol[29,37]||||||C1262867|385500|8588|potassium
+1	Patients must have potassium 4.0 mmol/L and serum calcium ionized or adjusted for albumin or magnesium in the normal range supplementation is allowed|calcium[50,57]|||||||||C0006675|1895|1895|calcium
+1	Patients must have potassium 4.0 mmol/L and serum calcium ionized or adjusted for albumin or magnesium in the normal range supplementation is allowed|albumin[82,89]|||||||||C0001924|433|433|albumin
+1	Patients must have potassium 4.0 mmol/L and serum calcium ionized or adjusted for albumin or magnesium in the normal range supplementation is allowed|magnesium[93,102]|||||||||C0024467|6574|6574|magnesium

@@ -1,0 +1,1 @@
+1	ASA physical status classification IV|ASA[0,3]|||||IV[35,37]||||C1740879|667904|9525|salicylic acid

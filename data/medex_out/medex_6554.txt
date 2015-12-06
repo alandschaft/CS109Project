@@ -1,1 +1,1 @@
-1	Infants receiving Rotarix liquid formulation will also be eligible|Rotarix[18,25]|||||||||C1528012|493191|805573|rotavirus vaccine, live attenuated, g1p[8] human 89-12 strain
+1	9 Any other mucolytic therapy|mucolytic[12,21]||||||||||7077|7077|mucolytic

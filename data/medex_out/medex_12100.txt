@@ -1,1 +1,1 @@
-1	6 Hormonal contraceptives for at least 3 months prior to Visit 1 and throughout study Protocol Number/v.1/06 Jun 2012 7|contraceptives[11,25]|||||||3 months[39,47]|||2815|2815|contraceptives
+1	Anti convulsant therapy less than 3 hours|convulsant[5,15]|||||||3 hours[34,41]|||||

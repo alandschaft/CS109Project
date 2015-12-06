@@ -1,1 +1,0 @@
-1	Patient is not currently and has not in the 4 weeks preceding screening received prophylactic treatment for the indication of migraine|prophylactic[81,93]|||||||4 weeks[44,51]|||||

@@ -1,1 +1,1 @@
-1	13 Chronic inadequate biochemical control with conventional therapy and/or calcium infusion dependent|calcium[75,82]|||||||||C0006675|1895|1895|calcium
+1	Hyperkalemia with EKG changes necessitating dialysis for the removal of potassium|potassium[72,81]|||||||||C0032821|8588|8588|potassium

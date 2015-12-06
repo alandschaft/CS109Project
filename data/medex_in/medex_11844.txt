@@ -1,1 +1,1 @@
-Patients in stupor or coma 
+inpatients or outpatients 

@@ -1,1 +1,1 @@
-1	Women will be excluded if they do not have regular menstrual cycle intervals between 27 and 32 days or if they are pregnant nursing or taking oral contraceptives or other reproductive hormones|oral contraceptives[142,161]|||||||32 days[92,99]|||2821|2821|oral contraceptives
+1	Use of tricyclic antidepressants within 4 weeks prior to randomization and/or anti-psychotic drugs within 2 weeks prior to randomization|tricyclic antidepressants[7,32]|||||||4 weeks[40,47]||C0003290|928|928|tricyclic antidepressants

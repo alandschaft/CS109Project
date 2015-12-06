@@ -1,1 +1,1 @@
-1	8 Women with child bearing potential were not to be pregnant or nursing and must have agreed to practice during the study a reliable form of contraception oral contraceptive condom intrauterine device or diaphragm|oral contraceptive[155,173]||intrauterine device[181,200]||||||||2821|2821|oral contraceptive
+1	Took another investigational drug in previous 30 days|investigational drug[13,33]|||||||30 days[46,53]||C1875327|691729|691729|investigational drug

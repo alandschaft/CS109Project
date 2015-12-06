@@ -1,1 +1,2 @@
-1	Current treatment with at least one and no more than two antiepileptics AEDs|antiepileptics[57,71]|||||||||C0003299|932|932|antiepileptics
+1	10 Subject has a history of sensitivity to sulfonamide drugs or zonisamide and its excipients|sulfonamide[43,54]||||||||||10215|10215|sulfonamide
+1	10 Subject has a history of sensitivity to sulfonamide drugs or zonisamide and its excipients|zonisamide[64,74]|||||||||C0078844|39998|39998|zonisamide

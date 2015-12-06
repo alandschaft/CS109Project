@@ -1,1 +1,1 @@
-1	8 Any patient contraindicated for Zonegran treatment as per attached SmPC|Zonegran[34,42]|||||||||C0876224|261708|39998|zonisamide
+1	Patients taking more than 2 anticonvulsant medications will be excluded|anticonvulsant[28,42]||||||||||926|926|anticonvulsant

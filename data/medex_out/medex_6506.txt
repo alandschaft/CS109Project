@@ -1,1 +1,1 @@
-1	contraindication to valproate use|valproate[20,29]|||||||||C0080356|40254|40254|valproate
+1	4 Subjects should be on stable doses of antiepileptic medications for at least 3 months prior to treatment|antiepileptic[40,53]|||||||3 months[79,87]||C0003299|932|932|antiepileptic

@@ -1,1 +1,2 @@
-1	are agreeable to keeping their current antidepressant treatment constant through the duration of the study|antidepressant[39,53]||||||||||927|927|antidepressant
+1	14 Willing to remain on a consistent regimen of concomitant medications including over-the-counter drugs and herbal drugs if they are being used and deemed to possibly affect the metabolism of the study medication|over - the - counter drugs[82,104]|||||||||C3653345|1431777|1431777|over-the-counter drugs
+1	14 Willing to remain on a consistent regimen of concomitant medications including over-the-counter drugs and herbal drugs if they are being used and deemed to possibly affect the metabolism of the study medication|herbal drugs[109,121]||||||||||402531|402531|herbal drugs

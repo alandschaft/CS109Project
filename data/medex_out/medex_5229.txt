@@ -1,1 +1,1 @@
-1	having completed the trial N01031 of Keppra as adjunctive therapy SKATE|Keppra[37,43]|||||||||C0876060|261547|114477|levetiracetam
+1	2 Use of a benzodiazepine within 1 week of presentation|benzodiazepine[11,25]|||||||1 week[33,39]|||1402|1402|benzodiazepine

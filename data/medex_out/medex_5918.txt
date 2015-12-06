@@ -1,2 +1,2 @@
-1	Previous vaccination against measles mumps rubella and/or varicella|rubella[43,50]||||||||||1022799|1022799|rubella
-1	Previous vaccination against measles mumps rubella and/or varicella|mumps[37,42]||||||||||1027774|1027774|mumps
+1	Prior use of pregabalin or gabapentin will not be an exclusionary criterion however patients will have been withdrawn from these medications at least 14 days before surgery|pregabalin[13,23]|||||||||C0657912|187832|187832|pregabalin
+1	Prior use of pregabalin or gabapentin will not be an exclusionary criterion however patients will have been withdrawn from these medications at least 14 days before surgery|gabapentin[27,37]|||||||14 days[150,157]||C0060926|25480|25480|gabapentin

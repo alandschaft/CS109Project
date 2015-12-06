@@ -1,1 +1,1 @@
-1	Contraceptive patch|Contraceptive[0,13]||patch[14,19]||||||||64078|64078|contraceptive
+1	22 Use of intermittent rescue benzodiazepines ie 1-2 doses over a 24-hr period considered one-time rescue 2 or more times in a 1-month period prior to Visit 1 or|benzodiazepines[30,45]||||||||||1402|1402|benzodiazepines

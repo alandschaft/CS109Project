@@ -1,1 +1,1 @@
-Control cohorts 
+Clinically significant electrocardiogram ECG abnormality including prolonged QTc defined as 450 msec for males and 470 msec for females 

@@ -1,1 +1,2 @@
-1	Completion of UX007G-CL201 study NCT 01993186 in the past 3 months patients who received UX007/triheptanoin treatment as apart of clinical studies ISTs or expanded access/compassionate use treatment programs may be eligible at the discretion of the Sponsor|triheptanoin[95,107]|||||||3 months[58,66]|||1313234|1313234|triheptanoin
+1	Participant must be taking CLB and no more than 2 other antiepileptic drugs AEDs during the course of the trial|CLB[27,30]||||||||||||
+1	Participant must be taking CLB and no more than 2 other antiepileptic drugs AEDs during the course of the trial|antiepileptic drugs[56,75]|||||||||C0003299|932|932|antiepileptic drugs

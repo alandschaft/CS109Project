@@ -1,1 +1,2 @@
-1	Subjects with seizures that have been refractory to treatment with at least three currently marketed antiepileptic drugs|antiepileptic drugs[101,120]|||||||||C0003299|932|932|antiepileptic drugs
+1	Treatment with non-selective Monoamine Oxidase Inhibitor MAOI iproniazide|iproniazide[62,73]|||||||||C3652593|1431471|1431471|iproniazide
+1	Treatment with non-selective Monoamine Oxidase Inhibitor MAOI iproniazide|Monoamine Oxidase Inhibitor[29,56]||||||||||7032|7032|monoamine oxidase inhibitor

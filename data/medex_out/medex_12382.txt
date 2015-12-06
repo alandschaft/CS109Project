@@ -1,4 +1,1 @@
-1	dehydroepiandrosterone DHEA Pregnenolone or ganaxolone|Pregnenolone[28,40]|||||||||C0373704|114052|114052|pregnenolone
-1	dehydroepiandrosterone DHEA Pregnenolone or ganaxolone|DHEA[23,27]||||||||||3143|3143|prasterone
-1	dehydroepiandrosterone DHEA Pregnenolone or ganaxolone|dehydroepiandrosterone[0,22]|||||||||C0011185|3143|3143|prasterone
-1	dehydroepiandrosterone DHEA Pregnenolone or ganaxolone|ganaxolone[44,54]||||||||||||
+1	6 No known history of mitochondrial disease or other metabolic disorders expected to affect blood lactate|lactate[98,105]|||||||||C0376261|114202|114202|lactate

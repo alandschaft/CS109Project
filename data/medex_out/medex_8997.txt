@@ -1,1 +1,1 @@
-1	Cortisol or other medication that influence energy metabolism or epileptic drug metabolism last month|Cortisol[0,8]||||||||||5492|5492|hydrocortisone
+1	9. pregnancy or females of reproductive age who are not using an accepted method of contraception birth control pill IUD combination of barrier methods|birth control pill[98,116]||||||||||2821|2821|birth control

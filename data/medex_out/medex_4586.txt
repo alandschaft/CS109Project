@@ -1,1 +1,1 @@
-1	on a conventional TID insulin regimen morning and bedtime NPH for a minimum of 3 months|NPH[58,61]||||||TID[18,21]||||311030|221108|insulin isophane,pork pure
+1	History or presence of significant cardiovascular hepatic renal hematologic gastrointestingal endocrine immunologic dermatologic neurologic or psychiatric disease that could potentially impact the safety of the subject or metabolism of the drug|impact[186,192]|||||||||C0726639|222931|222931|impact

@@ -1,1 +1,1 @@
-Failure of a patient to participate in the study 
+Patient is actively enrolled in another clinical trial or took part in a study within 30 days 

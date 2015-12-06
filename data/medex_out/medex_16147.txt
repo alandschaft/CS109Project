@@ -1,1 +1,1 @@
-1	ACE inhibitor use|ACE inhibitor[0,13]||||||||||836|836|ace inhibitor
+1	Age 10 years and site-matched to a ALS participant within 10 weeks of their Baseline visit Matched controls only|ALS[35,38]|||||||10 weeks[58,66]|||||

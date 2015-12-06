@@ -1,0 +1,1 @@
+1	alternative medications documented or purported to impact reproductive hormone levels within the prior 2 months with no washout period permitted|impact[51,57]|||||||2 months[103,111]||C0726639|222931|222931|impact

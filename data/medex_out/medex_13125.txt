@@ -1,0 +1,1 @@
+1	8 Uncontrolled hyperlipidaemia fasting cholesterol 300mg/dL or 7.75 mmol/L and fasting triglycerides 2.5 x ULN or diabetes with fasting serum glucose 1.5 x ULN|triglycerides[87,100]|||300mg / dL[51,59]||||||C0041004|10808|10808|triglycerides

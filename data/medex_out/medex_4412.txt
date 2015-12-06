@@ -1,1 +1,1 @@
-1	History of hypersensitivity to lamotrigine|lamotrigine[31,42]|||||||||C0064636|28439|28439|lamotrigine
+1	Cause of seizure for inclusion reason for seizure is often undetermined at time of presentation to the Emergency Department The most likely expected causes of a seizure are noncompliance to existing antiepileptic drug regimen refractory epilepsy with breakthrough seizure metabolic aberration alcohol|antiepileptic[199,212]|||||||||C0003299|932|932|antiepileptic

@@ -1,6 +1,0 @@
-1	Current use of an antipsychotic antiepileptic except benzodiazepines or antiarrhythmic medication including quinidine or a quinidine-containing drug such as Nuedexta|benzodiazepines[53,68]||||||||||1402|1402|benzodiazepines
-1	Current use of an antipsychotic antiepileptic except benzodiazepines or antiarrhythmic medication including quinidine or a quinidine-containing drug such as Nuedexta|antiepileptic[32,45]|||||||||C0003299|932|932|antiepileptic
-1	Current use of an antipsychotic antiepileptic except benzodiazepines or antiarrhythmic medication including quinidine or a quinidine-containing drug such as Nuedexta|quinidine[108,117]|||||||||C0034414|9068|9068|quinidine
-1	Current use of an antipsychotic antiepileptic except benzodiazepines or antiarrhythmic medication including quinidine or a quinidine-containing drug such as Nuedexta|antiarrhythmic[72,86]|||||||||C0003195|883|883|antiarrhythmic
-1	Current use of an antipsychotic antiepileptic except benzodiazepines or antiarrhythmic medication including quinidine or a quinidine-containing drug such as Nuedexta|Nuedexta[157,165]|||||||||C2954623|1040055|3289|dextromethorphan
-1	Current use of an antipsychotic antiepileptic except benzodiazepines or antiarrhythmic medication including quinidine or a quinidine-containing drug such as Nuedexta|quinidine[123,132]|||||||||C0034414|9068|9068|quinidine

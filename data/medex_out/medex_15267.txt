@@ -1,2 +1,1 @@
-1	Ongoing opio?d treatment including both pure agonists and partial agonists|agonists[45,53]||||||||||||
-1	Ongoing opio?d treatment including both pure agonists and partial agonists|agonists[66,74]||||||||||||
+1	known contraindications to administration of amiodarone|amiodarone[45,55]|||||||||C0002598|703|703|amiodarone

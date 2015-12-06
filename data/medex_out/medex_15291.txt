@@ -1,1 +1,1 @@
-1	Allergy to levetiracetam|levetiracetam[11,24]|||||||||C0377265|114477|114477|levetiracetam
+1	pre-existing demyelinating disorder pre-existing antibody mediated CNS disorder pre-existing CSF diversion|CSF[93,96]||||||||||40209|40209|csf

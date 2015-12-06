@@ -1,1 +1,1 @@
-10 A terminal patient and/or a scheduled surgical patient 
+Presence of any clinically significant laboratory abnormality which in the judgement of the investigator should exclude the subject from the study 

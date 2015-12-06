@@ -1,1 +1,2 @@
-1	Any change in antiepileptic drugs for 30 days or less prior to enrollment|antiepileptic drugs[14,33]|||||||30 days[38,45]||C0003299|932|932|antiepileptic drugs
+1	Previous vaccination against measles mumps rubella and/or varicella|rubella[43,50]||||||||||1022799|1022799|rubella
+1	Previous vaccination against measles mumps rubella and/or varicella|mumps[37,42]||||||||||1027774|1027774|mumps

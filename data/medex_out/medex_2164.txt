@@ -1,1 +1,2 @@
-1	considered to be a good candidate for rapid initiation of anti-seizure medication|seizure medication[63,81]||||||||||1021750|1021750|seizure medication
+1	Patients who failed on VPA monotherapy because of other causes than lack of seizure control at a maximally tolerated dose unable to tolerate the lowest maintenance dose of VPA idiosyncratic reactions non-compliance|VPA[23,26]||||||||||1099703|40254|valproate
+1	Patients who failed on VPA monotherapy because of other causes than lack of seizure control at a maximally tolerated dose unable to tolerate the lowest maintenance dose of VPA idiosyncratic reactions non-compliance|VPA[172,175]||||||||||1099703|40254|valproate

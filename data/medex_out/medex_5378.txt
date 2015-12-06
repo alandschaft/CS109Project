@@ -1,1 +1,1 @@
-1	Patients from both sexes 18 to 65 years of age diagnosed with simple or complex partial onset epileptic seizures defined according to the International League Against Epilepsy ILAE criteria with a minimum of two crises within the 4 previous weeks a stable treatment with two antiepileptic drugs for at|antiepileptic drugs[275,294]|||||||18 to 65 years[25,39]||C0003299|932|932|antiepileptic drugs
+1	Not taking more than 1 background antiepileptic drug at study entry|antiepileptic[34,47]|||||||||C0003299|932|932|antiepileptic

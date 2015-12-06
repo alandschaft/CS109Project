@@ -1,1 +1,1 @@
-Subjects showing one of the following additional criteria 
+Patient must currently be receiving at least one AED but not more than three AEDs in a stable dosage regimen for at least one month before randomization 

@@ -1,1 +1,1 @@
-1	Has uncomplicated malaria either symptomatic or not with pure on microscopic grounds P falciparum parasitemia|malaria[18,25]||||||||||1025176|1025176|malaria
+1	Disease inclusion Clinically possible/definite/probable or laboratory supported probable sporadic or familial ALS according to the revised Escorial criteria|ALS[110,113]||||||||||||

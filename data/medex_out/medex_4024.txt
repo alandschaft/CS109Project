@@ -1,0 +1,2 @@
+1	Previous therapy with Albendazole or Praziquantel in the previous year|Albendazole[22,33]|||||||||C0001911|430|430|albendazole
+1	Previous therapy with Albendazole or Praziquantel in the previous year|Praziquantel[37,49]|||||||||C0032911|8628|8628|praziquantel

@@ -1,1 +1,2 @@
-1	Subject has taken corticotropins in the six months prior to screening|corticotropins[18,32]|||||||six months[40,50]|||||
+1	Participant has had uncontrolled seizures while previously taking either topiramate or levetiracetam|topiramate[73,83]|||||||||C0076829|38404|38404|topiramate
+1	Participant has had uncontrolled seizures while previously taking either topiramate or levetiracetam|levetiracetam[87,100]|||||||||C0377265|114477|114477|levetiracetam

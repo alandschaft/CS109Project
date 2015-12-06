@@ -1,1 +1,1 @@
-1	alternative medications documented or purported to impact reproductive hormone levels within the prior 2 months with no washout period permitted|impact[51,57]|||||||2 months[103,111]||C0726639|222931|222931|impact
+1	A stable anticonvulsive regimen defined as unchanged dose and type of the antiepileptic medication in the last month before tDCS and before VNS implantation|antiepileptic[74,87]|||||||||C0003299|932|932|antiepileptic

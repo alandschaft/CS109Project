@@ -1,1 +1,1 @@
-1	Frequent use of benzodiazepines for clusters defined as greater than four times a month|benzodiazepines[16,31]||||||four times a month[69,87]||||1402|1402|benzodiazepines
+1	Have taken topiramate within the past 6 months|topiramate[11,21]|||||||6 months[38,46]||C0076829|38404|38404|topiramate

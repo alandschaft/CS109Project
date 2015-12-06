@@ -1,1 +1,1 @@
-9 QTc 450 millisecond msec or 480msec for subjects with Bundle Branch Block values based on either single ECG values or triplicate ECG averaged QTc values obtained over a brief recording period 
+3 Consistent seizure documentation i.e. no uncertainty of the presence of seizures and AED treatment documentation during the 8 week pre-randomization period 

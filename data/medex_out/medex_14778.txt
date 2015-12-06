@@ -1,1 +1,1 @@
-1	Subjects currently receiving lorazepam|lorazepam[29,38]|||||||||C0024002|6470|6470|lorazepam
+1	Subject is taking felbamate and they have been taking it for less than one year prior to screening|felbamate[18,27]|||||||||C0060135|24812|24812|felbamate

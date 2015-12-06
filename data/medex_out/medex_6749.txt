@@ -1,1 +1,1 @@
-1	Those with focal seizures who have evidence of renal disease creatinine clearance less than 80 will be excluded from participation as levetiracetam is cleared by the kidney|levetiracetam[134,147]|||||||||C0377265|114477|114477|levetiracetam
+1	Patients receiving more than 1 background AED for their epilepsy Patients receiving carbamazepine for their condition|carbamazepine[84,97]|||||||||C0006949|2002|2002|carbamazepine

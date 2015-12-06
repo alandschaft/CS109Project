@@ -1,1 +1,1 @@
-1	8 Subject is enrolled in a therapeutic investigational drug or device trial|investigational drug[39,59]|||||||||C1875327|691729|691729|investigational drug
+1	Stable anticonvulsant drug regimen|anticonvulsant[7,21]||||||||||926|926|anticonvulsant

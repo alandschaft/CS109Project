@@ -1,1 +1,1 @@
-Status asthmaticus 
+Has a QTc millisecond msec or greater than or equal to 480 msec for subjects with Bundle Branch Block at the time of screening 

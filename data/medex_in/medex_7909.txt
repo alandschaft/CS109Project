@@ -1,1 +1,1 @@
-6 The value of ALT or AST is higher than 1.5 times normal range or the number of white blood cells is less than 2500/ul or the number of neutrophil granulocyte is less than 1000/ul 
+Subject with traumatic brain injury admitted to the hospital less than 24 hours prior to randomization 

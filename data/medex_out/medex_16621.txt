@@ -1,1 +1,4 @@
-1	Clinically significant grade 3 or 4 tarsal abnormalities or bulbar injection which might interfere with contact lens wear|contact lens[104,116]||||||||||2809|2809|contact lens
+1	Current use of vigabatrin or ezogabine retigabine Potiga Trobalt is not permitted|vigabatrin[15,25]|||||||||C0048044|14851|14851|vigabatrin
+1	Current use of vigabatrin or ezogabine retigabine Potiga Trobalt is not permitted|Potiga[50,56]|||||||||C3160375|1112994|1112990|retigabine
+1	Current use of vigabatrin or ezogabine retigabine Potiga Trobalt is not permitted|retigabine[39,49]||||||||||1112990|1112990|retigabine
+1	Current use of vigabatrin or ezogabine retigabine Potiga Trobalt is not permitted|ezogabine[29,38]|||||||||C0530684|1112990|1112990|retigabine

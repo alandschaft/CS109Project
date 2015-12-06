@@ -1,1 +1,1 @@
-1	12 Subject is on chronic anticoagulants or in the opinion of the investigator subject is an unsuitable candidate for cranial surgery for any other reason|anticoagulants[25,39]|||||||||C0003280|923|923|anticoagulants
+1	5 Subject has remained on the same antiseizure medication s over the preceding three 3 months independent of dose and other than acute intermittent use of benzodiazepines|benzodiazepines[155,170]|||||||3 months[85,93]|||1402|1402|benzodiazepines

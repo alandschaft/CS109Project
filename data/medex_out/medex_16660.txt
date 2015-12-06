@@ -1,1 +1,1 @@
-1	Participant is currently using or has in the past used recreational or medicinal cannabis or cannabinoid-based medications within the 3 months prior to screening and is unwilling to abstain for the duration for the study|cannabis[81,89]|||||||3 months[134,142]|||196583|196583|cannabis
+1	Ferritin 30 ?g/L|Ferritin[0,8]|||30[9,11]|||||||4352|4352|ferritin

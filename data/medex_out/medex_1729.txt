@@ -1,1 +1,1 @@
-1	14 Patients taking Vit C|Vit C[19,24]|||||||||C0981024|313628|1151|ascorbic acid (vit c)
+1	Subjects on vigabatrin|vigabatrin[12,22]|||||||||C0048044|14851|14851|vigabatrin

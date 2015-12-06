@@ -1,1 +1,2 @@
-1	3 Failure to establish diagnosis of treatment resistant epilepsy i.e. adequate trials of two appropriately-chosen tolerated and adequate trials of antiepileptic drugs 32|antiepileptic drugs[147,166]|||32[167,169]||||||C0003299|932|932|antiepileptic drugs
+1	Taking a hormonal contraceptive so that they do not menstruate e.g taking active instead of placebo oral contraceptive pills to avoid having a period|oral contraceptive[100,118]||||||||||2821|2821|oral contraceptive
+1	Taking a hormonal contraceptive so that they do not menstruate e.g taking active instead of placebo oral contraceptive pills to avoid having a period|contraceptive[18,31]||||||||||64078|64078|contraceptive

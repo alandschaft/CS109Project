@@ -1,1 +1,1 @@
-1	8 Subjects currently dependent on alcohol or narcotic drugs as defined by DSM IV-TR|narcotic drugs[45,59]|||||IV[78,80]|||||42811|42811|narcotic drugs
+1	Amylase less than 1.5 times ULN|Amylase[0,7]|||||||||C0002712|743|743|diastase

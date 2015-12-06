@@ -1,2 +1,1 @@
-1	Must not have taken hormones major tranquilizers or antidepressants for at least 3 months|major tranquilizers[29,48]||||||||||218186|218186|major tranquilizers
-1	Must not have taken hormones major tranquilizers or antidepressants for at least 3 months|antidepressants[52,67]|||||||3 months[81,89]||C0003289|927|927|antidepressants
+1	Subjects being uncontrolled while treated by 1 or 2 concomitant Antiepileptic drug s AED s being stable|Antiepileptic[64,77]|||||||||C0003299|932|932|antiepileptic

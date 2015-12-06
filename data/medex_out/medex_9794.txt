@@ -1,1 +1,1 @@
-1	Failed treatment with a minimum of two antiepileptic medications|antiepileptic[39,52]|||||||||C0003299|932|932|antiepileptic
+1	Women of childbearing age who had tested positive for pregnancy or who do not use acceptable contraceptive method or do not agree to practice reliable contraception during the study|contraceptive[93,106]||||||||||64078|64078|contraceptive

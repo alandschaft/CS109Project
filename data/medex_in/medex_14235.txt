@@ -1,1 +1,1 @@
-5 Patients with contraindications for acetazolamide treatment 
+Subject is male or female and years of age 

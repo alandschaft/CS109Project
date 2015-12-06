@@ -1,1 +1,1 @@
-1	Tried at least two anticonvulsants|anticonvulsants[19,34]|||||||||C0003286|926|926|anticonvulsants
+1	having completed the trial N01031 of Keppra as adjunctive therapy SKATE|Keppra[37,43]|||||||||C0876060|261547|114477|levetiracetam

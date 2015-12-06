@@ -1,2 +1,1 @@
-1	Currently on a stable dosing regimen of 1 to 3 AEDs for at least 4-weeks prior to Visit 1 12 weeks for phenobarbital and primidone|phenobarbital[103,116]|||||||12 weeks[90,98]||C0031412|8134|8134|phenobarbital
-1	Currently on a stable dosing regimen of 1 to 3 AEDs for at least 4-weeks prior to Visit 1 12 weeks for phenobarbital and primidone|primidone[121,130]|||||||||C0033148|8691|8691|primidone
+1	History of worsened seizures or serious adverse reactions to gabapentin|gabapentin[61,71]|||||||||C0060926|25480|25480|gabapentin

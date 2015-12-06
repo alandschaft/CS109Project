@@ -1,1 +1,1 @@
-1	Frequent use of benzodiazepines for seizure clusters defined as greater that four times per month|benzodiazepines[16,31]||||||four times per month[77,97]||||1402|1402|benzodiazepines
+1	Have had previous exposure to ganaxolone|ganaxolone[30,40]||||||||||||

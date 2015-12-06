@@ -1,1 +1,1 @@
-1	Use of any investigational drug within 30 days|investigational drug[11,31]|||||||30 days[39,46]||C1875327|691729|691729|investigational drug
+1	Patients on vitamin D therapy|vitamin D[12,21]|||||||||C0042866|11253|11253|vitamin d

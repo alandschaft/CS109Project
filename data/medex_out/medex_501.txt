@@ -1,1 +1,2 @@
-1	Benzodiazepines are allowed with some frequency restrictions|Benzodiazepines[0,15]||||||||||1402|1402|benzodiazepines
+1	Current use of adrenocorticotrophic hormone ACTH|ACTH[44,48]||||||||||376|376|corticotropin
+1	Current use of adrenocorticotrophic hormone ACTH|adrenocorticotrophic hormone[15,43]||||||||||376|376|corticotropin

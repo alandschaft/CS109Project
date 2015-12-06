@@ -1,2 +1,1 @@
-1	High dose combined oral contraceptive OC pill 50?g of oestrogen preparation|oestrogen[54,63]||pill[41,45]||||||||4100|4100|estrogens
-1	High dose combined oral contraceptive OC pill 50?g of oestrogen preparation|combined oral contraceptive[10,37]||||||||||2822|2822|combined oral contraceptive
+1	15 Suffering from psychotic disorder s and/or unstable recurrent affective disorder s evident by use of antipsychotics or have had a suicide attempt s within approximately the last 2 years|antipsychotics[104,118]|||||||2 years[181,188]||C0040615|10693|10693|antipsychotic drug

@@ -1,2 +1,2 @@
-1	3 Known or suspected hypersensitivity to azacitidine or mannitol|azacitidine[41,52]|||||||||C0004475|1251|1251|azacitidine
-1	3 Known or suspected hypersensitivity to azacitidine or mannitol|mannitol[56,64]|||||||||C0024730|6628|6628|mannitol
+1	Patient taking antiepileptic treatment benzodiazepine in addition to current treatment during the last 48h00|benzodiazepine[39,53]||||||||||1402|1402|benzodiazepine
+1	Patient taking antiepileptic treatment benzodiazepine in addition to current treatment during the last 48h00|antiepileptic[15,28]|||||||||C0003299|932|932|antiepileptic

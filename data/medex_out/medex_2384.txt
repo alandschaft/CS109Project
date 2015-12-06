@@ -1,1 +1,1 @@
-1	patients must have partial onset seizures with or without secondarily generalized seizures being treated with at least one but no more than two antiepileptic drugs AEDs|antiepileptic drugs[144,163]|||||||||C0003299|932|932|antiepileptic drugs
+1	patients with history of status epilepticus repeated or prolonged seizures while on antiepileptic therapy|antiepileptic[84,97]|||||||||C0003299|932|932|antiepileptic

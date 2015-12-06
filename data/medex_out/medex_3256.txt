@@ -1,1 +1,1 @@
-1	Is currently taking felbamate|felbamate[20,29]|||||||||C0060135|24812|24812|felbamate
+1	Received high-dose folate drug treatment in the 12 months prior to study entry|folate[19,25]|||||||12 months[48,57]||C0178638|62356|62356|folate

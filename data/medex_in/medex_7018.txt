@@ -1,1 +1,1 @@
-Patients with epilepsy diagnosis based on ILAE 
+History of status epilepticus within last 12-months 

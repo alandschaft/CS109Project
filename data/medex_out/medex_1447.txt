@@ -1,1 +1,1 @@
-1	Women on daily cotrimoxazole prophylaxis|cotrimoxazole[15,28]||||||daily[9,14]||||10831|10831|sulfamethoxazole and trimethoprim
+1	Use of at least 2 anticonvulsant drugs|anticonvulsant drugs[18,38]||||||||||926|926|anticonvulsant drugs

@@ -1,2 +1,0 @@
-1	children with a contra-indication to IVIG or albumin i.e history of anaphylactic reaction to IVIG or albumin known IgA deficiency and history of hypersensitisation|IVIG[37,41]||||||||||42386|42386|ivig
-1	children with a contra-indication to IVIG or albumin i.e history of anaphylactic reaction to IVIG or albumin known IgA deficiency and history of hypersensitisation|albumin[45,52]|||||||||C0001924|433|433|albumin

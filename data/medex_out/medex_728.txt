@@ -1,1 +1,1 @@
-1	Serum sodium levels 135 mEq/L|sodium[6,12]|||135mEq / L[20,29]||||||null|1547440|56443|sodium acet (obsolete)
+1	A nursing mother taking anti-convulsant drugs|convulsant[29,39]||||||||||||

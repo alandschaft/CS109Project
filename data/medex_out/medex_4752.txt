@@ -1,1 +1,2 @@
-1	Currently on VPA CBZ or PHT|VPA[13,16]||||||||||1099703|40254|valproate
+1	No past or current with topiramate or levetiracetam for any reason|topiramate[24,34]|||||||||C0076829|38404|38404|topiramate
+1	No past or current with topiramate or levetiracetam for any reason|levetiracetam[38,51]|||||||||C0377265|114477|114477|levetiracetam

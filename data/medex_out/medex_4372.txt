@@ -1,3 +1,0 @@
-1	4 Past use of vigabatrin without stable visual fields tested twice over the 12 months after the last dose of vigabatrin Concomitant use of vigabatrin is not allowed|vigabatrin[14,24]|||||||||C0048044|14851|14851|vigabatrin
-1	4 Past use of vigabatrin without stable visual fields tested twice over the 12 months after the last dose of vigabatrin Concomitant use of vigabatrin is not allowed|vigabatrin[109,119]|||||||12 months[76,85]||C0048044|14851|14851|vigabatrin
-1	4 Past use of vigabatrin without stable visual fields tested twice over the 12 months after the last dose of vigabatrin Concomitant use of vigabatrin is not allowed|vigabatrin[139,149]|||||||||C0048044|14851|14851|vigabatrin

@@ -1,2 +1,1 @@
-1	10 Patients with bleeding diathesis or on oral anti-vitamin K medication except low dose warfarin|warfarin[89,97]|||||||||C0043031|11289|11289|warfarin
-1	10 Patients with bleeding diathesis or on oral anti-vitamin K medication except low dose warfarin|vitamin K[52,61]|||||oral[42,46]||||C1253206|757324|11258|vitamin k (obsolete)
+1	benzodiazepines required interval period weeks prior to baseline is 4|benzodiazepines[0,15]||||||||||1402|1402|benzodiazepines

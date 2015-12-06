@@ -1,1 +1,1 @@
-Group 3 subjects on AEDs that are neither inducers nor inhibitors 
+Has a BFS Best Fit Sphere that is higher than 8.2 measured and calculated by corneal topography 

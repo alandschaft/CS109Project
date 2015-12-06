@@ -1,1 +1,1 @@
-patients younger than 18 years 
+Therapy naive or being treated with their first anti-epileptic drug AED in monotherapy that fails in efficacy tolerability or both and not in need of a combination AED therapy 

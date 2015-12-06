@@ -1,1 +1,7 @@
-1	Severe medical neurological or psychiatric disorders or laboratory values that may have an impact on the safety of the subject|impact[91,97]|||||||||C0726639|222931|222931|impact
+1	5 Use of valproate as divalproex sodium or valproic acid any form of estrogens rifampin orlistat felbamate or sertraline within 28 days of study entry|divalproex sodium[22,39]|||||||||C0886883|266856|266856|divalproex sodium
+1	5 Use of valproate as divalproex sodium or valproic acid any form of estrogens rifampin orlistat felbamate or sertraline within 28 days of study entry|valproate[9,18]|||||||||C0080356|40254|40254|valproate
+1	5 Use of valproate as divalproex sodium or valproic acid any form of estrogens rifampin orlistat felbamate or sertraline within 28 days of study entry|felbamate[97,106]|||||||28 days[128,135]||C0060135|24812|24812|felbamate
+1	5 Use of valproate as divalproex sodium or valproic acid any form of estrogens rifampin orlistat felbamate or sertraline within 28 days of study entry|orlistat[88,96]|||||||||C0076275|37925|37925|orlistat
+1	5 Use of valproate as divalproex sodium or valproic acid any form of estrogens rifampin orlistat felbamate or sertraline within 28 days of study entry|rifampin[79,87]|||||||||C0035608|9384|9384|rifampicin
+1	5 Use of valproate as divalproex sodium or valproic acid any form of estrogens rifampin orlistat felbamate or sertraline within 28 days of study entry|estrogens[69,78]|||||||||C0014939|4100|4100|estrogens
+1	5 Use of valproate as divalproex sodium or valproic acid any form of estrogens rifampin orlistat felbamate or sertraline within 28 days of study entry|valproic acid[43,56]|||||||||C0042291|11118|11118|valproic acid

@@ -1,1 +1,1 @@
-10 Patient has an active peptic ulcer 
+4 Patients must meet the following laboratory criteria 

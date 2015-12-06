@@ -1,1 +1,2 @@
-1	Vigabatrin during the 26 weeks prior to the first dose of open-label medication in the extension study|Vigabatrin[0,10]|||||||26 weeks[22,30]||C0048044|14851|14851|vigabatrin
+1	5 Patients who are receiving warfarin and/or antiplatelet drugs|warfarin[29,37]|||||||||C0043031|11289|11289|warfarin
+1	5 Patients who are receiving warfarin and/or antiplatelet drugs|antiplatelet drugs[45,63]||||||||||42539|42539|antiplatelet drugs

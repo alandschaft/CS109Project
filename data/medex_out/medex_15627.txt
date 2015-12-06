@@ -1,1 +1,1 @@
-1	Contraindications to the use of magnesium sulfate known hypersensitivity to the drug oliguria with urine output below 25 ml per hour or anuria urine output absent and myasthenia gravis|magnesium sulfate[32,49]|||25ml[118,123]|||per hour[124,132]|||C1128798|332541|6582|magnesium oxide
+1	1 Patients must be diagnosed with a primary glioma and have refractory partial onset seizure activity defined as 3 or more seizures in a 28-day period on levetiracetam monotherapy|levetiracetam[154,167]|||||||||C0377265|114477|114477|levetiracetam

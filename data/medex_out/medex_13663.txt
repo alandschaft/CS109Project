@@ -1,1 +1,1 @@
-1	Does not currently use a hearing amplification device or hearing aid|hearing aid[57,68]||||||||||5119|5119|hearing aid
+1	Any history of allergy or intolerance to either Mysoline or primidone|primidone[60,69]|||||||||C0033148|8691|8691|primidone

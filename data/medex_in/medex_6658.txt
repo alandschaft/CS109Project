@@ -1,1 +1,1 @@
-Patients receiving more than 1 background AED for their epilepsy Patients receiving carbamazepine for their condition 
+Frequency-matched to the Rotarix cohort by gender age at first vaccination week and calendar quarter of vaccination 

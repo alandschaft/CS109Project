@@ -1,1 +1,1 @@
-1	Inability to withhold grapefruit and grapefruit juice from diet during the entire clinical trial|grapefruit juice[37,53]|||||||||C0452456|613829|613829|grapefruit juice
+1	10 Received an experimental/investigational agent vaccine drug biologic device blood product or medication within 28 days prior to vaccination in this study or expects to receive an experimental/investigational agent within the follow-up time period 28 days after the last vaccination in this study|vaccine[50,57]|||||||28 days[114,121]|||11094|11094|vaccine

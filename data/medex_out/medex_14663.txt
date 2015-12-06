@@ -1,2 +1,1 @@
-1	Babies who have received phenobarbitone or any other anticonvulsive medication than a bolus of midazolam for intubation within the last 24 hours|phenobarbitone[25,39]||||||||||8134|8134|phenobarbital
-1	Babies who have received phenobarbitone or any other anticonvulsive medication than a bolus of midazolam for intubation within the last 24 hours|midazolam[95,104]|||||||24 hours[136,144]||C0026056|6960|6960|midazolam
+1	Informed consent to TMZ chemotherapy|TMZ[20,23]||||||||||||

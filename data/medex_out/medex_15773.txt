@@ -1,1 +1,1 @@
-1	Anticipated initiation change or discontinuation of a hormonal contraceptive within the next 6 months|contraceptive[63,76]|||||||6 months[93,101]|||64078|64078|contraceptive
+1	Participation in another research trial where the participant was treated with another investigational drug or device within 30 days prior to enrollment of study|investigational drug[87,107]|||||||30 days[125,132]||C1875327|691729|691729|investigational drug

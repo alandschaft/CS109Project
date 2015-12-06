@@ -1,1 +1,2 @@
-1	5 Presence of medical condition such as carnitine deficiency urea cycle disorder or other metabolic disorder that would be a contraindication to divalproex sodium usage|divalproex sodium[145,162]|||||||||C0886883|266856|266856|divalproex sodium
+1	If the subject is taking felbamate has been taking it for less than 1 year prior to study entry or previous treatment with felbamate resulted in withdrawal due to liver or bone marrow adverse events|felbamate[25,34]|||||||||C0060135|24812|24812|felbamate
+1	If the subject is taking felbamate has been taking it for less than 1 year prior to study entry or previous treatment with felbamate resulted in withdrawal due to liver or bone marrow adverse events|felbamate[123,132]|||||||||C0060135|24812|24812|felbamate

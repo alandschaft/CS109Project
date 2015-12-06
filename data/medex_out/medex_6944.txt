@@ -1,3 +1,1 @@
-1	Chronic use of antacids calcium supplements or high dose vitamin C|calcium[24,31]|||||||||C0006675|1895|1895|calcium
-1	Chronic use of antacids calcium supplements or high dose vitamin C|antacids[15,23]|||||||||C0003138|863|863|antacid
-1	Chronic use of antacids calcium supplements or high dose vitamin C|vitamin C[57,66]|||||||||C0003968|1151|1151|ascorbic acid (vit c)
+1	Subjects with epilepsy taking AED s known to exert direct effects on GABA or glutamate|glutamate[77,86]|||||||||C0220839|70602|70602|glutamate

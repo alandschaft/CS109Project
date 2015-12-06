@@ -1,1 +1,1 @@
-1	Currently taking adequate monotherapy defined as a single Antiepileptic Drug AED for at least 28 days prior to Screening and has no history of AED polytherapy Prior use of rescue medication short-term intermittent use is acceptable|Antiepileptic[58,71]|||||||28 days[94,101]||C0003299|932|932|antiepileptic
+1	Patient refusal to participated in the trial|refusal[8,15]||||||||||||

@@ -1,1 +1,1 @@
-1	2 Systemic corticosteroids|corticosteroids[11,26]|||||||||C0001617|354|354|corticosteroids
+1	Use of medications or illicit drugs that significantly affect the central nervous system|illicit drugs[22,35]|||||||||C3653345|1431777|1431777|illicit drugs

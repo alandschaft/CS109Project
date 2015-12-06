@@ -1,1 +1,1 @@
-1	Implants of levonorgestrel|levonorgestrel[12,26]|||||||||C0023566|6373|6373|levonorgestrel
+1	Considered by investigator to be non-responder to valproate for treatment of epilepsy e.g.|valproate[50,59]|||||||||C0080356|40254|40254|valproate

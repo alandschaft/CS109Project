@@ -1,1 +1,2 @@
-1	Unwilling to restrict carbohydrates|carbohydrates[22,35]||||||||||2028|2028|carbohydrates
+2	entry Hormonal contraceptives Spermicide and barrier Intrauterine device Partner sterility|Spermicide[331,341]||Intrauterine device[354,373]||||||||9969|9969|spermicide
+2	entry Hormonal contraceptives Spermicide and barrier Intrauterine device Partner sterility|contraceptives[316,330]||||||||||2815|2815|contraceptives

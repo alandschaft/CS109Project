@@ -1,1 +1,1 @@
-3 Patient under the age of 18 
+If SCI the duration of injury must be greater than 1 year 

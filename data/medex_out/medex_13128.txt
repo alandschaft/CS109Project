@@ -1,1 +1,2 @@
-1	For subjects who have not had an orchiectomy there must be a plan to maintain effective GnRH-analogue therapy for the duration of the study|GnRH[88,92]||||||||||6384|6384|gonadorelin (obsolete)
+1	11 Bleeding diathesis or on oral anti-vitamin K medication other than low dose warfarin|warfarin[79,87]|||||||||C0043031|11289|11289|warfarin
+1	11 Bleeding diathesis or on oral anti-vitamin K medication other than low dose warfarin|vitamin K[38,47]|||||oral[28,32]||||C1253206|757324|11258|vitamin k (obsolete)

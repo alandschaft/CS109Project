@@ -1,0 +1,1 @@
+1	NB Systemic antihistamines are allowed on an as needed basis provided they are not used prophylactically during the trial and at least 24 hours before the clinical trial product is used|antihistamines[12,26]|||||||24 hours[135,143]|as needed[45,54]|C0003360|967|967|antihistamines
