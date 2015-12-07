@@ -35,7 +35,7 @@ def index():
     return render_template('index.html')
 
 
-@app.route('/sessions/<session_id>/new', methods=['POST'])
+@app.route('/sessions/<session_id>/new', methods=['GET'])
 def new(session_id):
     # remove old session
     sessions.pop(session_id, None)
