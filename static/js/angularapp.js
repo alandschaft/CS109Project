@@ -4,7 +4,7 @@ searchApp.controller('MainCtrl',
     function($scope, $http) {
         $scope.sessionId = 'n';
         $scope.clickReset = function() {
-            $http.post('/sessions/' + $scope.sessionId + '/new').then(function(res) {
+            $http.get('/sessions/' + $scope.sessionId + '/new').then(function(res) {
                 console.log(res);
                 $scope.sessionId = res.data.session_id;
                 $scope.uiTerms = res.data.ui_terms;
