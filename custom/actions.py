@@ -1,7 +1,6 @@
-from lib import init_data, get_terms, get_docs, filter_terms
+lib = imp.load_source('lib', 'lib.py')
 
-
-data = init_data()
+data = lib.init_data()
 default_fields = ['session_id', 'ui_terms', 'ui_docs', 'selected_terms']
 
 
@@ -29,17 +28,17 @@ def create_session_data():
 
 def on_next(session_data):
 
-    session_data['candidate_terms'] = filter_terms(
+    session_data['candidate_terms'] = lib.filter_terms(
         session_data['candidate_terms'],
         [t['text'] for t in session_data['ui_terms']]
     )
 
-    session_data['ui_terms'] = get_terms(
+    session_data['ui_terms'] = lib.get_terms(
         session_data['candidate_terms'],
         session_data['candidate_docs']
     )
 
-    session_data['ui_docs'] = get_docs(session_data['ui_docs'])
+    session_data['ui_docs'] = lib.get_docs(session_data['ui_docs'])
     return session_response(session_data)
 
 
@@ -52,10 +51,10 @@ def on_select_term(session_data, term):
         doc for doc in session_data['candidate_docs'] if term in doc
     ]
 
-    session_data['ui_terms'] = get_terms(
+    session_data['ui_terms'] = lib.get_terms(
         session_data['candidate_terms'],
         session_data['candidate_docs']
     )
 
-    session_data['ui_docs'] = get_docs(session_data['ui_docs'])
+    session_data['ui_docs'] = lib.get_docs(session_data['ui_docs'])
     return session_response(session_data)
