@@ -1,3 +1,4 @@
+import imp
 lib = imp.load_source('lib', 'lib.py')
 
 data = lib.init_data()
