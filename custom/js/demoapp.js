@@ -66,13 +66,11 @@ $('#democontent').jQCloud([],
 })
 
 // Word Cloud functions
-function updateWordCloudWithWords(wordsText)
+function updateWordCloudWithWords(terms)
 {
-    var words = []
-    var dummyWeight = 1
-    wordsText.forEach(function(word) {
-        words.push(createWordObject(word, dummyWeight))  
-        dummyWeight++
+    words = []
+    terms.forEach(function(term) {
+        words.push(createWordObject(term['text'], term['score']))  
     })
     updateWordCloud(words)
 }
@@ -97,13 +95,8 @@ function createWordObject(word, weight)
 }
 
 // Display functions
-function updateNumberOfDocuments()
+function updateNumberOfDocuments(numberOfDocuments)
 {
-    var divideby = 1
-    if (selectedTerms.length > 0) {
-        divideby = selectedTerms.length+1
-    }
-    var numberOfDocuments = Math.round(1300 / divideby)
     $('#numberOfDocuments').text(numberOfDocuments)
 }
 
@@ -117,7 +110,7 @@ function showRelevantDocuments()
 {
     var htmlString = '<div class="panel panel-default"><div class="panel-heading">There are 1,300 relevant documents</div><ul class="list-group">'
     currentDocuments.forEach(function(document) {
-        htmlString = htmlString+'<a href="'+document["url"]+'" class="list-group-item" target=blank>'+document["title"]+'</a>'
+        htmlString = htmlString+'<a href="'+document["url"]+'" class="list-group-item" target=blank>'+document["nct_id"]+': '+document["title"]+'</a>'
     })
     htmlString += '</div>'
     $('#democontent').html(htmlString)
@@ -147,7 +140,7 @@ function newSearchSession()
 
 function searchSelectedWord(word)
 {
-    callAPI(sessionId+'/select/'+word)
+    callAPI(sessionId+'/select_term?term='+word)
 }
 
 function searchNext()
@@ -163,19 +156,24 @@ function callAPI(endpoint)
       dataType: 'jsonp'
     }).done(function(data)
         {
-            if ('current_terms' in data)
+            response = JSON.parse(data)
+            console.log(response)
+            if ('ui_terms' in response)
             {
-                currentTerms = data['current_terms']
+                currentTerms = response['ui_terms']
                 updateWordCloudWithWords(currentTerms)
             }
-            if ('session_id' in data)
+            if ('session_id' in response)
             {
-                sessionId = data['session_id']
+                sessionId = response['session_id']
             }
-            if ('current_documents' in data)
+            if ('ui_docs' in response)
             {
-                currentDocuments = data['current_documents']
-                updateNumberOfDocuments()
+                currentDocuments = response['ui_docs']
+            }
+            if ('N_candidate_docs' in response)
+            {
+                updateNumberOfDocuments(response['N_candidate_docs'])
             }
         }
     )
