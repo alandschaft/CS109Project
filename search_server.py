@@ -21,12 +21,14 @@ sessions = {}
 
 
 def get_session(session_id):
+    print "Saving session: %s" % session_id
     return sessions.get(session_id, None)
 
 
 def save_session(session_data):
     sid = str(uuid.uuid4())
     sessions[sid] = session_data
+    print "Saving session: %s" % sid
     return sid
 
 
@@ -54,8 +56,7 @@ def end_session(session_id):
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
 def next(session_id):
-    session_data = sessions.get(session_id, None)
-    for key in sessions:
+    session_data = get_session(session_id)
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
     return jsonify(actions.on_next(session_data)), 200
