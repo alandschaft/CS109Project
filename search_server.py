@@ -4,7 +4,10 @@ Routes and views for the flask application.
 
 
 import uuid
-from flask import Flask, jsonify, render_template, request
+from flask import Flask
+from flask.ext.jsonpify import jsonify
+from flask import render_template, request
+
 import imp    
 actions = imp.load_source('core.actions', 'core/actions.py')
 
