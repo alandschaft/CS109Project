@@ -27,8 +27,8 @@ def get_session(session_id):
 
 def save_session(session_data):
     sid = str(uuid.uuid4())
-    sessions[sid] = session_data
     print "Saving session: %s" % sid
+    sessions[sid] = session_data
     return sid
 
 
