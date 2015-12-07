@@ -1,2 +1,2 @@
 SciPy
-sklearn
+sklearn.feature_extraction.text
