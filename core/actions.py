@@ -28,19 +28,15 @@ def create_session_data():
 
 
 def on_next(session_data):
-    print('1')
     session_data['candidate_terms'] = lib.filter_terms(
         session_data['candidate_terms'],
         [t['text'] for t in session_data['ui_terms']]
     )
-    print('2')
     session_data['ui_terms'] = get_terms(
         session_data['candidate_terms'],
         session_data['candidate_docs']
     )
-    print('3')
     session_data['ui_docs'] = lib.get_docs(session_data['ui_docs'])
-    print('4')
     return session_response(session_data)
 
 
