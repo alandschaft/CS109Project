@@ -21,14 +21,16 @@ sessions = {}
 
 
 def get_session(session_id):
-    print "Retrieving session: %s" % session_id
+    print("Retrieving session:")
+    print(session_id)
     return sessions.get(session_id, None)
 
 
 def save_session(session_data):
     sid = str(uuid.uuid4())
-    print "Saving session: %s" % sid
     sessions[sid] = session_data
+    print("Saving session:")
+    print(sid)
     return sid
 
 
