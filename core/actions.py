@@ -1,7 +1,7 @@
 import imp
 lib = imp.load_source('core.lib', 'core/lib.py')
 
-data = init_data()
+data = lib.init_data()
 default_fields = ['session_id', 'ui_terms', 'ui_docs', 'selected_terms']
 
 
