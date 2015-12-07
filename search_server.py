@@ -54,7 +54,12 @@ def end_session(session_id):
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
 def next(session_id):
+    print('doing next')
+    print(session_id)
+    print(sessions)
     session_data = sessions.get(session_id, None)
+    print('session data')
+    print(session_data)
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
     return jsonify(actions.on_next(session_data)), 200
