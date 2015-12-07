@@ -1,2 +1,1 @@
 SciPy
-scikit-learn
