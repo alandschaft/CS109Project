@@ -1,1 +1,2 @@
 SciPy
+python2-scikit-learn
