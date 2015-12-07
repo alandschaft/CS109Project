@@ -21,7 +21,7 @@ sessions = {}
 
 
 def get_session(session_id):
-    print "Saving session: %s" % session_id
+    print "Retrieving session: %s" % session_id
     return sessions.get(session_id, None)
 
 
