@@ -135,12 +135,12 @@ function showLoader()
 // Search API Functions
 function newSearchSession()
 {
-    callAPI('n/new')
+    callAPI('n/new', {})
 }
 
 function searchSelectedWord(word)
 {
-    callAPI(sessionId+'/select_term?term='+word)
+    callAPI(sessionId+'/select_term', {term:word})
 }
 
 function searchNext()
@@ -148,12 +148,15 @@ function searchNext()
     callAPI(sessionId+'/next')
 }
 
-function callAPI(endpoint)
+function callAPI(endpoint, data)
 {
+    var url = apiURL+endpoint
+    console.log(url)
     showLoader()
     $.ajax({
-      url: apiURL+endpoint,
-      dataType: 'jsonp'
+      url: url,
+      dataType: 'JSONP',
+      data: data
     }).done(function(data)
         {
             response = JSON.parse(data)
