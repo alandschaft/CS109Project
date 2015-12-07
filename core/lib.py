@@ -3,7 +3,7 @@ from operator import itemgetter
 from random import shuffle
 
 import pandas as pd
-from scikit-learn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 
 
 def init_data():
