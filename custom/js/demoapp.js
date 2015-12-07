@@ -142,7 +142,7 @@ function showLoader()
 // Search API Functions
 function newSearchSession()
 {
-    callAPI('n/new', 'POST')
+    callAPI('n/new')
 }
 
 function searchSelectedWord(word)
@@ -155,16 +155,14 @@ function searchNext()
     callAPI(sessionId+'/next')
 }
 
-function callAPI(endpoint, method)
+function callAPI(endpoint)
 {
     showLoader()
     $.ajax({
       url: apiURL+endpoint,
-      method: method,
       dataType: 'jsonp'
     }).done(function(data)
         {
-            console.log(data)
             if ('current_terms' in data)
             {
                 currentTerms = data['current_terms']
