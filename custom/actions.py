@@ -3,7 +3,6 @@ lib = imp.load_source('lib', 'lib.py')
 data = lib.init_data()
 default_fields = ['session_id', 'ui_terms', 'ui_docs', 'selected_terms']
 
-
 def session_response(session_data, fields=default_fields):
     res={}
     res['ui_docs']=session_data['ui_docs']

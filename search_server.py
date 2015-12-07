@@ -5,7 +5,6 @@ Routes and views for the flask application.
 
 import uuid
 from flask import Flask, jsonify, render_template, request
-import imp    
 actions = imp.load_source('core.actions', 'core/actions.py')
 
 import json
