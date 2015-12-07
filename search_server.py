@@ -66,5 +66,3 @@ def select(session_id):
     if not term:
         return jsonify({'message': 'Specify term query param'}), 400
     return jsonify(actions.on_select_term(session_data, term)), 200
-
-app.run(debug=True)
