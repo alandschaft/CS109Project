@@ -45,7 +45,7 @@ def new(session_id):
     session_data['session_id'] = sid
     response = actions.session_response(session_data)
     res_json = json.dumps(response)
-    return res_json, 200
+    return jsonify(res_json), 200
 
 @app.route('/sessions/<session_id>/end', methods=['GET'])
 def end_session(session_id):
