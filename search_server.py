@@ -5,7 +5,7 @@ Routes and views for the flask application.
 
 import uuid
 from flask import Flask, jsonify, render_template, request
-from core.actions import (
+from actions import (
     create_session_data, on_next, on_select_term, session_response)
 
 import json
