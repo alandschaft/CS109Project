@@ -1,5 +1,5 @@
-from lib import init_data, get_terms, get_docs, filter_terms
-
+import imp
+lib = imp.load_source('core.lib', 'lib.py')
 
 data = init_data()
 default_fields = ['session_id', 'ui_terms', 'ui_docs', 'selected_terms']
