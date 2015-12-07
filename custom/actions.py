@@ -1,5 +1,5 @@
 import imp
-lib = imp.load_source('lib', 'core/lib.py')
+lib = imp.load_source('core.lib', 'core/lib.py')
 
 
 data = lib.init_data()
