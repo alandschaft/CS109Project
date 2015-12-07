@@ -5,8 +5,8 @@ Routes and views for the flask application.
 
 import uuid
 from flask import Flask, jsonify, render_template, request
-from components.actions import (
-    create_session_data, on_next, on_select_term, session_response)
+import imp    
+actions = imp.load_source('core.actions', '/core/actions.py')
 
 import json
 
@@ -36,11 +36,11 @@ def index():
 def new(session_id):
     # remove old session
     sessions.pop(session_id, None)
-    _session_data = create_session_data()
+    _session_data = actions.create_session_data()
     sid = save_session(_session_data)
     session_data = get_session(sid)
     session_data['session_id'] = sid
-    response = session_response(session_data)
+    response = actions.session_response(session_data)
     res_json = json.dumps(response)
     return res_json, 200
 
@@ -54,7 +54,7 @@ def next(session_id):
     session_data = sessions.get(session_id, None)
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
-    return jsonify(on_next(session_data)), 200
+    return jsonify(actions.on_next(session_data)), 200
 
 
 @app.route('/sessions/<session_id>/select_term', methods=['GET'])
@@ -65,7 +65,7 @@ def select(session_id):
     term = request.args.get('term')
     if not term:
         return jsonify({'message': 'Specify term query param'}), 400
-    return jsonify(on_select_term(session_data, term)), 200
+    return jsonify(actions.on_select_term(session_data, term)), 200
 
 if __name__ == '__main__':
     app.run(debug=True)
