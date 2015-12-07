@@ -29,7 +29,7 @@ def create_session_data():
 
 def on_next(session_data):
     print('1')
-    session_data['candidate_terms'] = filter_terms(
+    session_data['candidate_terms'] = lib.filter_terms(
         session_data['candidate_terms'],
         [t['text'] for t in session_data['ui_terms']]
     )
