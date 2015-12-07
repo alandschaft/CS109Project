@@ -3,6 +3,7 @@ from operator import itemgetter
 from random import shuffle
 
 import pandas as pd
+import sklearn.feature_extraction.text
 from sklearn.feature_extraction.text import CountVectorizer
 
 
