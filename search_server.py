@@ -56,12 +56,12 @@ def end_session(session_id):
 def next(session_id):
     print('doing next')
     print(session_id)
-    print(sessions)
     session_data = sessions.get(session_id, None)
     print('session data')
-    print(session_data)
     if not session_data:
+        print('NOOO session data')
         return jsonify({'message': 'Session not found'}), 404
+    print('YESSS session data')
     return jsonify(actions.on_next(session_data)), 200
 
 
