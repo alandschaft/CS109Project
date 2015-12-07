@@ -58,6 +58,8 @@ def next(session_id):
     print(session_id)
     session_data = sessions.get(session_id, None)
     print('session data')
+    for key in sessions:
+        print "sessions: %s " % (key)
     if not session_data:
         print('NOOO session data')
         return jsonify({'message': 'Session not found'}), 404
