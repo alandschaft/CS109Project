@@ -55,7 +55,7 @@ def new(session_id):
     print("33")
     session_data = get_session(sid)
     print("4")
-    print(session_data)
+    #print(len(session_data))
     print("5")
     session_data['session_id'] = sid
     print("6")
