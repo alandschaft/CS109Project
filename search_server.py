@@ -25,10 +25,12 @@ def get_session(session_id):
     print "Retrieving session: %s" % session_id
     session_data = redis.get(session_id)
     for key, value in session_data.iteritems() :
-        print key, value
+        print key
     return session_data
 
 def save_session(session_data):
+    for key, value in session_data.iteritems() :
+        print key
     session_id = str(uuid.uuid4())
     redis.set(session_id, session_data)
     #sessions[session_id] = session_data
