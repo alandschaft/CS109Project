@@ -22,18 +22,12 @@ redis_url = os.getenv('REDISCLOUD_URL')
 redis = redis.from_url(redis_url)
 
 def get_session(session_id):
-    print("g1")
-    print "Retrieving session: %s" % session_id
     redis_session_data = redis.get(session_id)
-    print("g2")
     if redis_session_data is None:
         return None
-    print("g3")
     session_data = pickle.loads(redis_session_data)
-    print("g4")
     for key, value in session_data.iteritems() :
         print key
-    print("g5")
     return session_data
 
 def save_session(session_data):
@@ -41,8 +35,6 @@ def save_session(session_data):
         print key
     session_id = str(uuid.uuid4())
     redis.set(session_id, pickle.dumps(session_data))
-    #sessions[session_id] = session_data
-    print "Saving session: %s" % session_id
     return session_id
     
 #TODO: def end_session
@@ -55,44 +47,27 @@ def index():
 
 @app.route('/sessions/<session_id>/new', methods=['GET'])
 def new(session_id):
-    print("1")
-    # remove old session
-    #sessions.pop(session_id, None)
+    #TODO: call end_session
     _session_data = actions.create_session_data()
-    print("2")
     session_id = save_session(_session_data)
-    print("3")
-    print(session_id)
-    print("33")
     session_data = get_session(session_id)
-    print("4")
-    #print(len(session_data))
-    print("5")
     session_data['session_id'] = session_id
-    print("6")
     response = actions.session_response(session_data)
-    print("7")
     res_json = json.dumps(response)
-    print("8")
     return jsonify(res_json), 200
 
 @app.route('/sessions/<session_id>/end', methods=['GET'])
 def end_session(session_id):
-    #sessions.pop(session_id, None)
+    #TODO: call end_session
     return None, 200
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
 def next(session_id):
-    print("n1")
     session_data = get_session(session_id)
-    print("n2")
-    #print(session_data)
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
-    print("n3")
     session_data['session_id'] = session_id
     res_json = json.dumps(actions.on_next(session_data))
-    print("n4")
     return jsonify(res_json), 200
 
 
