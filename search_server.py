@@ -90,6 +90,7 @@ def next(session_id):
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
     print("n3")
+    session_data['session_id'] = session_id
     res_json = json.dumps(actions.on_next(session_data))
     print("n4")
     return jsonify(res_json), 200
