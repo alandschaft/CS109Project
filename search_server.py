@@ -26,13 +26,9 @@ def get_session(session_id):
     if redis_session_data is None:
         return None
     session_data = pickle.loads(redis_session_data)
-    for key, value in session_data.iteritems() :
-        print key
     return session_data
 
 def save_session(session_data):
-    for key, value in session_data.iteritems() :
-        print key
     session_id = str(uuid.uuid4())
     redis.set(session_id, pickle.dumps(session_data))
     return session_id
@@ -45,11 +41,11 @@ def index():
     return render_template('index.html')
 
 
-@app.route('/sessions/<session_id>/new', methods=['GET'])
-def new(session_id):
+@app.route('/sessions/new', methods=['GET'])
+def new():
     #TODO: call end_session
-    _session_data = actions.create_session_data()
-    session_id = save_session(_session_data)
+    new_session_data = actions.create_session_data()
+    session_id = save_session(new_session_data)
     session_data = get_session(session_id)
     session_data['session_id'] = session_id
     response = actions.session_response(session_data)
