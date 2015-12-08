@@ -4,6 +4,7 @@ var sessionId = ''
 var selectedTerms = []
 var currentTerms = []
 var currentDocuments = []
+var numCandidateDocs = '0'
 
 // Doc ready
 $( document ).ready(function() {    
@@ -108,7 +109,7 @@ function updateNumberOfSelectedTerms()
 
 function showRelevantDocuments()
 {
-    var htmlString = '<div class="panel panel-default"><div class="panel-heading">There are 1,300 relevant documents</div><ul class="list-group">'
+    var htmlString = '<div class="panel panel-default"><div class="panel-heading">There are '+numCandidateDocs+' relevant documents</div><ul class="list-group">'
     currentDocuments.forEach(function(document) {
         htmlString = htmlString+'<a href="'+document["url"]+'" class="list-group-item" target=blank>'+document["nct_id"]+': '+document["title"]+'</a>'
     })
@@ -135,7 +136,7 @@ function showLoader()
 // Search API Functions
 function newSearchSession()
 {
-    callAPI('n/new', {})
+    callAPI('new', {})
 }
 
 function searchSelectedWord(word)
@@ -186,7 +187,8 @@ function callAPI(endpoint, data)
             }
             if ('N_candidate_docs' in response)
             {
-                updateNumberOfDocuments(response['N_candidate_docs'])
+                numCandidateDocs = response['N_candidate_docs']
+                updateNumberOfDocuments(numCandidateDocs)
             }
         }
     )
