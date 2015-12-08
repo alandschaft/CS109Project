@@ -2,7 +2,6 @@
 Routes and views for the flask application.
 """
 
-
 import uuid
 from flask import Flask
 from flask.ext.jsonpify import jsonify
@@ -10,6 +9,7 @@ from flask import render_template, request
 import os
 import redis
 import imp    
+import pickle
 actions = imp.load_source('core.actions', 'core/actions.py')
 import json
 from flask import Flask
@@ -24,9 +24,11 @@ redis = redis.from_url(redis_url)
 def get_session(session_id):
     print "Retrieving session: %s" % session_id
     session_data = redis.get(session_id)
+    if session_data is None:
+        return None
     for key, value in session_data.iteritems() :
         print key
-    return session_data
+    return pickle.loads(session_data)
 
 def save_session(session_data):
     for key, value in session_data.iteritems() :
