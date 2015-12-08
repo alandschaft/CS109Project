@@ -159,8 +159,18 @@ function callAPI(endpoint, data)
       data: data
     }).done(function(data)
         {
-            response = JSON.parse(data)
-            console.log(response)
+            console.log(data)
+            var response
+            if(typeof data =='object')
+            {
+                response = data
+            }
+            else 
+            {
+                response = JSON.parse(data)
+            }
+            
+            
             if ('ui_terms' in response)
             {
                 currentTerms = response['ui_terms']
