@@ -22,13 +22,18 @@ redis_url = os.getenv('REDISCLOUD_URL')
 redis = redis.from_url(redis_url)
 
 def get_session(session_id):
+    print("g1")
     print "Retrieving session: %s" % session_id
     redis_session_data = redis.get(session_id)
+    print("g2")
     if redis_session_data is None:
         return None
+    print("g3")
     session_data = pickle.loads(redis_session_data)
+    print("g4")
     for key, value in session_data.iteritems() :
         print key
+    print("g5")
     return session_data
 
 def save_session(session_data):
