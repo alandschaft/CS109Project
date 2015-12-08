@@ -6,13 +6,20 @@ default_fields = ['session_id', 'ui_terms', 'ui_docs', 'selected_terms']
 
 
 def session_response(session_data, fields=default_fields):
+    print("res1")
     res={}
+    print("res2")
     res['ui_docs']=session_data['ui_docs']
+    print("res3")
     # filter terms with zero score
     res['ui_terms']=[x for x in session_data['ui_terms'] if x['score'] > 0]
+    print("res4")
     res['N_candidate_docs']=len(session_data['candidate_docs'])
+    print("res5")
     res['session_id']=session_data['session_id']
+    print("res6")
     res['selected_terms']=session_data['selected_terms']
+    print("res7")
     return res
 
 def create_session_data():
