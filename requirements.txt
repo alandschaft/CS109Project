@@ -10,3 +10,4 @@ pandas==0.15.2
 flask-jsonpify
 scipy
 sklearn
+redis==2.4.13

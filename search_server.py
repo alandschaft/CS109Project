@@ -7,6 +7,12 @@ import uuid
 from flask import Flask
 from flask.ext.jsonpify import jsonify
 from flask import render_template, request
+import os
+import redis
+
+
+redis_url = os.getenv('REDISCLOUD_URL', 'redis://localhost:6379')
+redis = redis.from_url(redis_url)
 
 import imp    
 actions = imp.load_source('core.actions', 'core/actions.py')
@@ -17,19 +23,23 @@ from flask import Flask
 app = Flask(__name__)
 
 
-sessions = {}
+#sessions = {}
 
 
 def get_session(session_id):
     print "Retrieving session: %s" % session_id
-    return sessions.get(session_id, None)
+    session_data = redis.get(session_id)
+    return session_id
 
 
 def save_session(session_data):
-    sid = str(uuid.uuid4())
-    sessions[sid] = session_data
-    print "Saving session: %s" % sid
-    return sid
+    session_id = str(uuid.uuid4())
+    redis.set(session_id, session_data)
+    #sessions[session_id] = session_data
+    print "Saving session: %s" % session_id
+    return session_id
+    
+#TODO: def end_session
 
 
 @app.route('/')
@@ -40,7 +50,7 @@ def index():
 @app.route('/sessions/<session_id>/new', methods=['GET'])
 def new(session_id):
     # remove old session
-    sessions.pop(session_id, None)
+    #sessions.pop(session_id, None)
     _session_data = actions.create_session_data()
     sid = save_session(_session_data)
     session_data = get_session(sid)
@@ -51,7 +61,7 @@ def new(session_id):
 
 @app.route('/sessions/<session_id>/end', methods=['GET'])
 def end_session(session_id):
-    sessions.pop(session_id, None)
+    #sessions.pop(session_id, None)
     return None, 200
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
