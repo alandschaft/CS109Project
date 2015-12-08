@@ -90,7 +90,9 @@ def next(session_id):
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
     print("n3")
-    return jsonify(actions.on_next(session_data)), 200
+    res_json = json.dumps(actions.on_next(session_data))
+    print("n4")
+    return jsonify(res_json), 200
 
 
 @app.route('/sessions/<session_id>/select_term', methods=['GET'])
