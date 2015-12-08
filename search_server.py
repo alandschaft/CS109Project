@@ -57,9 +57,11 @@ def end_session(session_id):
 @app.route('/sessions/<session_id>/next', methods=['GET'])
 def next(session_id):
     session_data = get_session(session_id)
+    response = actions.on_next(session_data)
+    res_json = json.dumps(response)
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
-    return jsonify(actions.on_next(session_data)), 200
+    return jsonify(res_json), 200
 
 
 @app.route('/sessions/<session_id>/select_term', methods=['GET'])
