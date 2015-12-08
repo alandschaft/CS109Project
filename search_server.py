@@ -60,15 +60,15 @@ def new(session_id):
     #sessions.pop(session_id, None)
     _session_data = actions.create_session_data()
     print("2")
-    sid = save_session(_session_data)
+    session_id = save_session(_session_data)
     print("3")
-    print(sid)
+    print(session_id)
     print("33")
-    session_data = get_session(sid)
+    session_data = get_session(session_id)
     print("4")
     #print(len(session_data))
     print("5")
-    session_data['session_id'] = sid
+    session_data['session_id'] = session_id
     print("6")
     response = actions.session_response(session_data)
     print("7")
@@ -83,12 +83,17 @@ def end_session(session_id):
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
 def next(session_id):
+    print("n1")
     session_data = get_session(session_id)
-    print(session_data)
+    print("n2")
+    #print(session_data)
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
+    print("n3")
     response = actions.on_next(session_data)
+    print("n4")
     res_json = json.dumps(response)
+    print("n5")
     return jsonify(res_json), 200
 
 
