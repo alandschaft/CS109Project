@@ -34,7 +34,7 @@ def on_next(session_data):
         [t['text'] for t in session_data['ui_terms']]
     )
     print("next2")
-    session_data['ui_terms'] = get_terms(
+    session_data['ui_terms'] = lib.get_terms(
         session_data['candidate_terms'],
         session_data['candidate_docs']
     )
