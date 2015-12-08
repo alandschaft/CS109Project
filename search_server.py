@@ -9,22 +9,17 @@ from flask.ext.jsonpify import jsonify
 from flask import render_template, request
 import os
 import redis
-
-
-redis_url = os.getenv('REDISCLOUD_URL', 'redis://localhost:6379')
-redis = redis.from_url(redis_url)
-
 import imp    
 actions = imp.load_source('core.actions', 'core/actions.py')
-
 import json
-
 from flask import Flask
-app = Flask(__name__)
 
+app = Flask(__name__)
 
 #sessions = {}
 
+redis_url = os.getenv('REDISCLOUD_URL')
+redis = redis.from_url(redis_url)
 
 def get_session(session_id):
     print "Retrieving session: %s" % session_id
