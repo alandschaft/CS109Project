@@ -23,12 +23,13 @@ redis = redis.from_url(redis_url)
 
 def get_session(session_id):
     print "Retrieving session: %s" % session_id
-    session_data = redis.get(session_id)
-    if session_data is None:
+    redis_session_data = redis.get(session_id)
+    if redis_session_data is None:
         return None
+    session_data = pickle.loads(redis_session_data)
     for key, value in session_data.iteritems() :
         print key
-    return pickle.loads(session_data)
+    return session_data
 
 def save_session(session_data):
     for key, value in session_data.iteritems() :
