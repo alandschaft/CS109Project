@@ -44,14 +44,23 @@ def index():
 
 @app.route('/sessions/<session_id>/new', methods=['GET'])
 def new(session_id):
+    print("1")
     # remove old session
     #sessions.pop(session_id, None)
     _session_data = actions.create_session_data()
+    print("2")
     sid = save_session(_session_data)
+    print("3")
     session_data = get_session(sid)
+    print("4")
+    print(session_data)
+    print("5")
     session_data['session_id'] = sid
+    print("6")
     response = actions.session_response(session_data)
+    print("7")
     res_json = json.dumps(response)
+    print("8")
     return jsonify(res_json), 200
 
 @app.route('/sessions/<session_id>/end', methods=['GET'])
