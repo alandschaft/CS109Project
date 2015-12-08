@@ -24,7 +24,7 @@ redis = redis.from_url(redis_url)
 def get_session(session_id):
     print "Retrieving session: %s" % session_id
     session_data = redis.get(session_id)
-    return session_id
+    return session_data
 
 
 def save_session(session_data):
@@ -51,6 +51,8 @@ def new(session_id):
     print("2")
     sid = save_session(_session_data)
     print("3")
+    print(sid)
+    print("33")
     session_data = get_session(sid)
     print("4")
     print(session_data)
