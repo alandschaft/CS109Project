@@ -29,7 +29,7 @@ def get_session(session_id):
     if redis_session_data is None:
         return None
     print("g3")
-    session_data = pickle.loads(redis_session_data)
+    session_data = pickle.load(redis_session_data)
     print("g4")
     for key, value in session_data.iteritems() :
         print key
