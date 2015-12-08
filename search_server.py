@@ -24,7 +24,9 @@ redis = redis.from_url(redis_url)
 def get_session(session_id):
     print "Retrieving session: %s" % session_id
     session_data = redis.get(session_id)
-    return json.loads(session_data)
+    for key, value in session_data.iteritems() :
+        print key, value
+    return session_data
 
 def save_session(session_data):
     session_id = str(uuid.uuid4())
