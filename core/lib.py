@@ -12,7 +12,7 @@ def init_data(type):
     path, filename = os.path.split(full_path)
     terms
     docs
-    if (type==medex):
+    if (type=="medex"):
         terms = pd.read_pickle(os.path.join(path, '..', 'data', 'terms.pckl'))
         docs = pd.read_pickle(os.path.join(path, '..', 'data', 'trials.pckl'))
     else:
