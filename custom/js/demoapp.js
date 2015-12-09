@@ -84,7 +84,6 @@ function updateWordCloud(words)
 
 function selectedWord(word)
 {
-    selectedTerms.push(word)
     updateWordCloud([])
     searchSelectedWord(word)
     updateNumberOfSelectedTerms()
@@ -160,7 +159,6 @@ function callAPI(endpoint, data)
       data: data
     }).done(function(data)
         {
-            console.log(data)
             var response
             if(typeof data =='object')
             {
@@ -168,9 +166,10 @@ function callAPI(endpoint, data)
             }
             else 
             {
-                response = JSON.parse(data)
+                response = JSON.parse(response)
             }
             
+            console.log(response)
             
             if ('ui_terms' in response)
             {
@@ -189,6 +188,10 @@ function callAPI(endpoint, data)
             {
                 numCandidateDocs = response['N_candidate_docs']
                 updateNumberOfDocuments(numCandidateDocs)
+            }
+            if ('selected_terms' in response)
+            {
+                selectedTerms = response['selected_terms']
             }
         }
     )
