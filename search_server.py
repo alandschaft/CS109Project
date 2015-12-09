@@ -44,6 +44,7 @@ def new():
     session_data['session_id'] = session_id
     response = actions.session_response(session_data)
     return jsonify(response), 200
+    
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
 def next(session_id):
