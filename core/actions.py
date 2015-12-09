@@ -6,7 +6,6 @@ default_fields = ['session_id', 'ui_terms', 'ui_docs', 'selected_terms']
 
 
 def session_response(session_data, fields=default_fields):
-    print('session_response1')
     res={}
     res['ui_docs']=session_data['ui_docs']
     # filter terms with zero score
@@ -17,15 +16,15 @@ def session_response(session_data, fields=default_fields):
     return res
 
 def create_session_data():
-    print('create_session_data1')
+
     session_data = {
+        'n_show_docs': 20,
         'candidate_terms': data['candidate_terms_init'],
         'candidate_docs': data['candidate_docs_init'],
         'ui_terms': data['ui_terms_init'],
-        'ui_docs': data['ui_docs_init'],
+        'ui_docs': data['candidate_docs_init'][:20],
         'selected_terms': []
     }
-    print('create_session_data2')
     return session_data
 
 
@@ -41,7 +40,7 @@ def on_next(session_data):
         session_data['candidate_docs']
     )
 
-    session_data['ui_docs'] = lib.get_docs(session_data['candidate_docs'])
+    session_data['ui_docs'] = get_session_docs(session_data)
     return session_data
 
 
@@ -59,5 +58,13 @@ def on_select_term(session_data, term):
         session_data['candidate_docs']
     )
 
-    session_data['ui_docs'] = lib.get_docs(session_data['candidate_docs'])
+    session_data['ui_docs'] = get_session_docs(session_data)
     return session_data
+
+def get_session_docs(session_data):
+    # Get the indices of the most relevant documents
+    indices = lib.get_docs([' '.join(doc) for doc in [doc['terms'] for doc in session_data['candidate_docs']]]
+             , [t['text'] for t in session_data['selected_terms']]
+             , [t['text'] for t in session_data['ui_terms']])
+    # Return the documents in the returned indices 
+    return [session_data['candidate_docs'][i] for i in indices]
