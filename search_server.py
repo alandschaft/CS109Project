@@ -63,8 +63,8 @@ def next(session_id):
     session_data = get_session(session_id)
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
-    session_data['session_id'] = session_id
     new_data = actions.on_next(session_data)
+    new_data['session_id'] = session_id
     save_session(session_id, new_data)
     res_json = json.dumps(new_data)
     return jsonify(res_json), 200
@@ -80,6 +80,7 @@ def select(session_id):
         return jsonify({'message': 'Specify term query param'}), 400
     session_data['session_id'] = session_id
     new_data = actions.on_select_term(session_data, term)
+    new_data['session_id'] = session_id
     save_session(session_id, new_data)
     res_json = json.dumps(new_data)
     return jsonify(res_json), 200
