@@ -39,8 +39,7 @@ def save_session(session_id, session_data):
 
 @app.route('/sessions/new/<type>', methods=['GET'])
 def new(type):
-    print(type)
-    new_session_data = actions.create_session_data(type)
+    new_session_data = actions.create_session_data()
     session_id = new_session(new_session_data)
     session_data = get_session(session_id)
     session_data['session_id'] = session_id

@@ -6,10 +6,7 @@ import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-def init_data(type):
-    print("init_data")
-    print(type)
-    
+def init_data():
     data = {}
     full_path = os.path.realpath(__file__)
     path, filename = os.path.split(full_path)
