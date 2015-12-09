@@ -37,12 +37,17 @@ def save_session(session_id, session_data):
 
 @app.route('/sessions/new', methods=['GET'])
 def new():
-    #TODO: call end_session
+    print('new1')
     new_session_data = actions.create_session_data()
+    print('new2')
     session_id = new_session(new_session_data)
+    print('new3')
     session_data = get_session(session_id)
+    print('new4')
     session_data['session_id'] = session_id
+    print('new5')
     response = actions.session_response(session_data)
+    print('new6')
     return jsonify(response), 200
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
