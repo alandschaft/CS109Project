@@ -50,8 +50,8 @@ def new():
     session_data = get_session(session_id)
     session_data['session_id'] = session_id
     response = actions.session_response(session_data)
-    res_json = json.dumps(response)
-    return jsonify(res_json), 200
+    #res_json = json.dumps(response)
+    return jsonify(response), 200
 
 @app.route('/sessions/<session_id>/end', methods=['GET'])
 def end_session(session_id):
@@ -82,5 +82,5 @@ def select(session_id):
     save_session(session_id, new_data)
     new_data['session_id'] = session_id
     response = actions.session_response(new_data)
-    res_json = json.dumps(response)
-    return jsonify(res_json), 200
+    #res_json = json.dumps(response)
+    return jsonify(response), 200
