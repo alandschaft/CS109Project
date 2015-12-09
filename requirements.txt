@@ -9,5 +9,5 @@ numpy==1.9.2
 pandas==0.15.2
 flask-jsonpify
 scipy
-sklearn
+sklearn==0.17
 redis==2.4.13
