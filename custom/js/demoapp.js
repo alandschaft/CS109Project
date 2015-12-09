@@ -135,7 +135,7 @@ function showLoader()
 // Search API Functions
 function newSearchSession()
 {
-    callAPI('new', {})
+    callAPI('new/metamap', {})
 }
 
 function searchSelectedWord(word)
