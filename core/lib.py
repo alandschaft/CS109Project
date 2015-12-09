@@ -6,12 +6,18 @@ import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-def init_data():
+def init_data(type):
     data = {}
     full_path = os.path.realpath(__file__)
     path, filename = os.path.split(full_path)
-    terms = pd.read_pickle(os.path.join(path, '..', 'data', 'terms.pckl'))
-    docs = pd.read_pickle(os.path.join(path, '..', 'data', 'trials.pckl'))
+    terms
+    docs
+    if (type==medex):
+        terms = pd.read_pickle(os.path.join(path, '..', 'data', 'terms.pckl'))
+        docs = pd.read_pickle(os.path.join(path, '..', 'data', 'trials.pckl'))
+    else:
+        terms = pd.read_pickle(os.path.join(path, '..', 'data', 'terms.pckl'))
+        docs = pd.read_pickle(os.path.join(path, '..', 'data', 'trials.pckl'))
     data['candidate_terms_init'] = terms.term.values.tolist()
     data['candidate_docs_init'] = init_ui_docs_full(docs)
     # Holds the initial terms / docs lists we present with new sessions

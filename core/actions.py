@@ -1,9 +1,6 @@
 import imp
 lib = imp.load_source('core.lib', 'core/lib.py')
-
-data = lib.init_data()
 default_fields = ['session_id', 'ui_terms', 'ui_docs', 'selected_terms']
-
 
 def session_response(session_data, fields=default_fields):
     res={}
@@ -15,15 +12,17 @@ def session_response(session_data, fields=default_fields):
     res['selected_terms']=session_data['selected_terms']
     return res
 
-def create_session_data():
+def create_session_data(type):
 
+    data = lib.init_data(type)
     session_data = {
         'n_show_docs': 20,
         'candidate_terms': data['candidate_terms_init'],
         'candidate_docs': data['candidate_docs_init'],
         'ui_terms': data['ui_terms_init'],
         'ui_docs': data['candidate_docs_init'][:20],
-        'selected_terms': []
+        'selected_terms': [],
+        'type': type
     }
     return session_data
 

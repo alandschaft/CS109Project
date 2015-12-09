@@ -37,9 +37,9 @@ def save_session(session_id, session_data):
     redis.set(session_id, pickle.dumps(session_data), expireInHours * 60 * 60)
     return session_id
 
-@app.route('/sessions/new', methods=['GET'])
-def new():
-    new_session_data = actions.create_session_data()
+@app.route('/sessions/new/<type>', methods=['GET'])
+def new(type):
+    new_session_data = actions.create_session_data(type)
     session_id = new_session(new_session_data)
     session_data = get_session(session_id)
     session_data['session_id'] = session_id
