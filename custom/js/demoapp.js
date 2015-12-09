@@ -120,7 +120,7 @@ function showSelectedWords()
 {
     var htmlString = '<div class="panel panel-default"><div class="panel-heading">These are the selected terms from the word cloud:</div><ul class="list-group">'
     selectedTerms.forEach(function(term) {
-        htmlString = htmlString+'<li class="list-group-item">'+term+'</li>'
+        htmlString = htmlString+'<li class="list-group-item">'+term['text']+'</li>'
     })
     htmlString += '</div>'
     $('#democontent').html(htmlString)
@@ -192,6 +192,7 @@ function callAPI(endpoint, data)
             if ('selected_terms' in response)
             {
                 selectedTerms = response['selected_terms']
+                updateNumberOfSelectedTerms()
             }
         }
     )
