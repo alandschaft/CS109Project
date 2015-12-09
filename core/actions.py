@@ -13,7 +13,8 @@ def session_response(session_data, fields=default_fields):
     return res
 
 def create_session_data(type):
-
+    print("create_session_data")
+    print(type)
     data = lib.init_data(type)
     session_data = {
         'n_show_docs': 20,
