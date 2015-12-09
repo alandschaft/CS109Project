@@ -10,8 +10,8 @@ def init_data(type):
     data = {}
     full_path = os.path.realpath(__file__)
     path, filename = os.path.split(full_path)
-    terms_file = '%s_terms.pckl' % type
-    trials_file = '%s_trials.pckl' % type
+    terms_file = '%s-terms.pckl' % type
+    trials_file = '%s-trials.pckl' % type
     terms = pd.read_pickle(os.path.join(path, '..', 'data', terms_file))
     docs = pd.read_pickle(os.path.join(path, '..', 'data', trials_file))
     data['candidate_terms_init'] = terms.term.values.tolist()
