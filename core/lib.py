@@ -1,10 +1,10 @@
 import os
 from operator import itemgetter
 from random import shuffle
-
 import pandas as pd
-from sklearn.feature_extraction.text import CountVectorizer
-
+import numpy as np
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 def init_data():
     data = {}
