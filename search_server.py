@@ -16,8 +16,6 @@ from flask import Flask
 
 app = Flask(__name__)
 
-#sessions = {}
-
 redis_url = os.getenv('REDISCLOUD_URL')
 redis = redis.from_url(redis_url)
 
@@ -37,11 +35,6 @@ def save_session(session_id, session_data):
     redis.set(session_id, pickle.dumps(session_data))
     return session_id
 
-@app.route('/')
-def index():
-    return render_template('index.html')
-
-
 @app.route('/sessions/new', methods=['GET'])
 def new():
     #TODO: call end_session
@@ -51,11 +44,6 @@ def new():
     session_data['session_id'] = session_id
     response = actions.session_response(session_data)
     return jsonify(response), 200
-
-@app.route('/sessions/<session_id>/end', methods=['GET'])
-def end_session(session_id):
-    #TODO: call end_session
-    return None, 200
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
 def next(session_id):
