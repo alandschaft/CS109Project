@@ -13,14 +13,15 @@ def session_response(session_data, fields=default_fields):
     return res
 
 def create_session_data(type):
-    data = lib.init_data()
+    data = lib.init_data(type)
     session_data = {
         'n_show_docs': 20,
         'candidate_terms': data['candidate_terms_init'],
         'candidate_docs': data['candidate_docs_init'],
         'ui_terms': data['ui_terms_init'],
         'ui_docs': data['candidate_docs_init'][:20],
-        'selected_terms': []
+        'selected_terms': [],
+        'type': type
     }
     return session_data
 
