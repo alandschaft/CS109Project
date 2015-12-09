@@ -28,13 +28,14 @@ def get_session(session_id):
     session_data = pickle.loads(redis_session_data)
     return session_data
 
-def save_session(session_data):
+def new_session(session_data):
     session_id = str(uuid.uuid4())
     redis.set(session_id, pickle.dumps(session_data))
     return session_id
     
-#TODO: def end_session
-
+def save_session(session_id, session_data):
+    redis.set(session_id, pickle.dumps(session_data))
+    return session_id
 
 @app.route('/')
 def index():
@@ -45,7 +46,7 @@ def index():
 def new():
     #TODO: call end_session
     new_session_data = actions.create_session_data()
-    session_id = save_session(new_session_data)
+    session_id = new_session(new_session_data)
     session_data = get_session(session_id)
     session_data['session_id'] = session_id
     response = actions.session_response(session_data)
@@ -63,7 +64,9 @@ def next(session_id):
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
     session_data['session_id'] = session_id
-    res_json = json.dumps(actions.on_next(session_data))
+    new_data = actions.on_next(session_data)
+    save_session(session_id, new_data)
+    res_json = json.dumps(new_data)
     return jsonify(res_json), 200
 
 
@@ -76,5 +79,7 @@ def select(session_id):
     if not term:
         return jsonify({'message': 'Specify term query param'}), 400
     session_data['session_id'] = session_id
-    res_json = actions.on_select_term(session_data, term)
+    new_data = actions.on_select_term(session_data, term)
+    save_session(session_id, new_data)
+    res_json = json.dumps(new_data)
     return jsonify(res_json), 200
