@@ -55,4 +55,4 @@ def on_select_term(session_data, term):
     )
 
     session_data['ui_docs'] = lib.get_docs(session_data['ui_docs'])
-    return session_response(session_data)
+    return session_data

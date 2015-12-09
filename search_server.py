@@ -78,8 +78,9 @@ def select(session_id):
     term = request.args.get('term')
     if not term:
         return jsonify({'message': 'Specify term query param'}), 400
-    session_data['session_id'] = session_id
     new_data = actions.on_select_term(session_data, term)
     save_session(session_id, new_data)
-    res_json = json.dumps(new_data)
+    new_data['session_id'] = session_id
+    response = actions.session_response(new_data)
+    res_json = json.dumps(response)
     return jsonify(res_json), 200
