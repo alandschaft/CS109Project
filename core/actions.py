@@ -37,7 +37,7 @@ def on_next(session_data):
         session_data['candidate_docs']
     )
     session_data['ui_docs'] = lib.get_docs(session_data['ui_docs'])
-    return session_response(session_data)
+    return session_data
 
 
 def on_select_term(session_data, term):

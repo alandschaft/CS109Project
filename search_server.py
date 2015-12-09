@@ -50,7 +50,6 @@ def new():
     session_data = get_session(session_id)
     session_data['session_id'] = session_id
     response = actions.session_response(session_data)
-    #res_json = json.dumps(response)
     return jsonify(response), 200
 
 @app.route('/sessions/<session_id>/end', methods=['GET'])
@@ -63,11 +62,11 @@ def next(session_id):
     session_data = get_session(session_id)
     if not session_data:
         return jsonify({'message': 'Session not found'}), 404
-    session_data['session_id'] = session_id
     new_data = actions.on_next(session_data)
     save_session(session_id, new_data)
-    res_json = json.dumps(new_data)
-    return jsonify(res_json), 200
+    new_data['session_id'] = session_id
+    response = actions.session_response(new_data)
+    return jsonify(response), 200
 
 
 @app.route('/sessions/<session_id>/select_term', methods=['GET'])
@@ -82,5 +81,4 @@ def select(session_id):
     save_session(session_id, new_data)
     new_data['session_id'] = session_id
     response = actions.session_response(new_data)
-    #res_json = json.dumps(response)
     return jsonify(response), 200
