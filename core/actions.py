@@ -28,15 +28,18 @@ def create_session_data():
 
 
 def on_next(session_data):
+
     session_data['candidate_terms'] = lib.filter_terms(
         session_data['candidate_terms'],
         [t['text'] for t in session_data['ui_terms']]
     )
+
     session_data['ui_terms'] = lib.get_terms(
         session_data['candidate_terms'],
         session_data['candidate_docs']
     )
-    session_data['ui_docs'] = lib.get_docs(session_data['ui_docs'])
+
+    session_data['ui_docs'] = lib.get_docs(session_data['candidate_docs'])
     return session_data
 
 
@@ -46,7 +49,7 @@ def on_select_term(session_data, term):
     session_data['candidate_terms'].remove(term)
 
     session_data['candidate_docs'] = [
-        doc for doc in session_data['candidate_docs'] if term in doc
+        doc for doc in session_data['candidate_docs'] if term in doc['terms']
     ]
 
     session_data['ui_terms'] = lib.get_terms(
@@ -54,5 +57,5 @@ def on_select_term(session_data, term):
         session_data['candidate_docs']
     )
 
-    session_data['ui_docs'] = lib.get_docs(session_data['ui_docs'])
+    session_data['ui_docs'] = lib.get_docs(session_data['candidate_docs'])
     return session_data
