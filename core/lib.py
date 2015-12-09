@@ -62,16 +62,18 @@ def get_terms(terms, docs, n=40, k=10, m=5):
         (n, k, m) realization, which takes terms and docs
         and returns n terms with freqs.
     """
+    print("get_terms1")
     curr_terms_freq = []
     _terms = terms[:]
     _docs = docs[:]
+    print("get_terms2")
     while len(curr_terms_freq) < n:
         terms_freq = get_freqs(_terms, _docs)
         curr_terms_freq += terms_freq[:k]
         curr_terms = [t['text'] for t in curr_terms_freq]
         _terms = filter_terms(_terms, curr_terms)
         _docs = filter_docs(_docs, curr_terms, m)
-
+    print("get_terms3")
     return curr_terms_freq[:n]
 
 def get_tfidf_matrix_and_vectorizer(docs):
