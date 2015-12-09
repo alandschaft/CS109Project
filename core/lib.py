@@ -7,24 +7,15 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 def init_data():
-    print('init_data1')
     data = {}
-    print('init_data2')
     full_path = os.path.realpath(__file__)
-    print('init_data3')
     path, filename = os.path.split(full_path)
-    print('init_data4')
     terms = pd.read_pickle(os.path.join(path, '..', 'data', 'terms.pckl'))
-    print('init_data5')
     docs = pd.read_pickle(os.path.join(path, '..', 'data', 'trials.pckl'))
-    print('init_data6')
     data['candidate_terms_init'] = terms.term.values.tolist()
-    print('init_data7')
     data['candidate_docs_init'] = init_ui_docs_full(docs)
-    print('init_data8')
     # Holds the initial terms / docs lists we present with new sessions
     data['ui_terms_init'] = get_terms(data['candidate_terms_init'], data['candidate_docs_init'])
-    print('init_data9')
     return data
 
 def init_ui_docs_full(docs_df):
@@ -62,18 +53,15 @@ def get_terms(terms, docs, n=40, k=10, m=5):
         (n, k, m) realization, which takes terms and docs
         and returns n terms with freqs.
     """
-    print("get_terms1")
     curr_terms_freq = []
     _terms = terms[:]
     _docs = docs[:]
-    print("get_terms2")
     while len(curr_terms_freq) < n:
         terms_freq = get_freqs(_terms, _docs)
         curr_terms_freq += terms_freq[:k]
         curr_terms = [t['text'] for t in curr_terms_freq]
         _terms = filter_terms(_terms, curr_terms)
         _docs = filter_docs(_docs, curr_terms, m)
-    print("get_terms3")
     return curr_terms_freq[:n]
 
 def get_tfidf_matrix_and_vectorizer(docs):

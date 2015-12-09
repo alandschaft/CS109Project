@@ -19,6 +19,8 @@ app = Flask(__name__)
 redis_url = os.getenv('REDISCLOUD_URL')
 redis = redis.from_url(redis_url)
 
+expireInHours = 2
+
 def get_session(session_id):
     redis_session_data = redis.get(session_id)
     if redis_session_data is None:
@@ -28,26 +30,20 @@ def get_session(session_id):
 
 def new_session(session_data):
     session_id = str(uuid.uuid4())
-    redis.set(session_id, pickle.dumps(session_data))
+    redis.set(session_id, pickle.dumps(session_data), expireInHours * 60 * 60)
     return session_id
     
 def save_session(session_id, session_data):
-    redis.set(session_id, pickle.dumps(session_data))
+    redis.set(session_id, pickle.dumps(session_data), expireInHours * 60 * 60)
     return session_id
 
 @app.route('/sessions/new', methods=['GET'])
 def new():
-    print('new1')
     new_session_data = actions.create_session_data()
-    print('new2')
     session_id = new_session(new_session_data)
-    print('new3')
     session_data = get_session(session_id)
-    print('new4')
     session_data['session_id'] = session_id
-    print('new5')
     response = actions.session_response(session_data)
-    print('new6')
     return jsonify(response), 200
 
 @app.route('/sessions/<session_id>/next', methods=['GET'])
