@@ -28,11 +28,11 @@ def get_session(session_id):
 
 def new_session(session_data):
     session_id = str(uuid.uuid4())
-    redis.set(session_id, pickle.dumps(session_data), 3600)
+    redis.setex(session_id, pickle.dumps(session_data), 3600)
     return session_id
     
 def save_session(session_id, session_data):
-    redis.set(session_id, pickle.dumps(session_data), 3600)
+    redis.setex(session_id, pickle.dumps(session_data), 3600)
     return session_id
 
 @app.route('/sessions/new/<type>', methods=['GET'])
