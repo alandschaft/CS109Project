@@ -8,7 +8,7 @@ var numCandidateDocs = '0'
 
 // Doc ready
 $( document ).ready(function() {    
-    newSearchSession()
+    newSearchSession('metamap')
 })
 
 // Menu functions
@@ -40,13 +40,13 @@ function menuNext()
     searchNext()
 }
 
-function menuRestart()
+function menuRestart(type)
 {
     cleanMenu()
     $('#menuCloud').addClass("active")
     sessionId = ''
     selectedTerms = []
-    newSearchSession()
+    newSearchSession(type)
     updateNumberOfDocuments()
     updateNumberOfSelectedTerms()
 }
@@ -133,9 +133,9 @@ function showLoader()
 }
 
 // Search API Functions
-function newSearchSession()
+function newSearchSession(type)
 {
-    callAPI('new/metamap', {})
+    callAPI('new/'+type, {})
 }
 
 function searchSelectedWord(word)
