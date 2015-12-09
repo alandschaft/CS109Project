@@ -168,9 +168,7 @@ function callAPI(endpoint, data)
             {
                 response = JSON.parse(response)
             }
-            
-            console.log(response)
-            
+                        
             if ('ui_terms' in response)
             {
                 currentTerms = response['ui_terms']
