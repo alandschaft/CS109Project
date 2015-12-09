@@ -19,8 +19,6 @@ app = Flask(__name__)
 redis_url = os.getenv('REDISCLOUD_URL')
 redis = redis.from_url(redis_url)
 
-expireInHours = 2
-
 def get_session(session_id):
     redis_session_data = redis.get(session_id)
     if redis_session_data is None:
@@ -30,11 +28,11 @@ def get_session(session_id):
 
 def new_session(session_data):
     session_id = str(uuid.uuid4())
-    redis.set(session_id, pickle.dumps(session_data), expireInHours * 60 * 60)
+    redis.set(session_id, pickle.dumps(session_data))
     return session_id
     
 def save_session(session_id, session_data):
-    redis.set(session_id, pickle.dumps(session_data), expireInHours * 60 * 60)
+    redis.set(session_id, pickle.dumps(session_data))
     return session_id
 
 @app.route('/sessions/new/<type>', methods=['GET'])
