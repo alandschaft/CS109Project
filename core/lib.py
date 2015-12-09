@@ -9,6 +9,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 def init_data(type):
     print("init_data")
     print(type)
+    
     data = {}
     full_path = os.path.realpath(__file__)
     path, filename = os.path.split(full_path)
