@@ -1,0 +1,5 @@
+
+We use MetaMap ( https://metamap.nlm.nih.gov/ ) to extract **_UMLS Concepts_**, which are standard medical terms, from clinical trials. Unified Medical Language System (UMLS) is a collection of terms, concepts and relationships that has been designed by the National Library of Medicine (NLM) in order to facilitate the developers or computer systems to understand the meanings of medical terms, concepts and relationships. In UMLS many synonymous terms are clustered into a concept that has one preferred term. This term is then assigned a CUI (Concept Unique Identifier.) For example, the two terms: "Prostate carcinoma" and "carcinoma of prostate" have both the same CUI: C0600139. Medical data scientists often refer to UMLS Concepts as CUIs. There are several tools that extract CUIs from text, for example Apache cTAKES. In this project we have chosen MetaMap because it is relatively easy to install and use it. The following diagram illustrates the ditribution of CUIs in our "Seizure" dataset:
+
+
+UMLS is an abstraction network consisted of 135 broad high level categories called semantic types
