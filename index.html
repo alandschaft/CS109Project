@@ -48,19 +48,19 @@
                 <div class="sidebar-nav navbar-collapse collapse">
                     <ul class="nav" id="side-menu">
                         <li>
-                            <a href="#video"><i class="fa fa-youtube-play fa-fw"></i> Video summary</a>
+                            <a href="#video"><i class="fa fa-youtube-play fa-fw"></i> Video</a>
                         </li>
                         <li>
-                            <a href="#background"><i class="fa fa-file-o fa-fw"></i> Background</a>
+                            <a href="#problem"><i class="fa fa-file-o fa-fw"></i> The Problem</a>
                         </li>
                         <li>
-                            <a href="#dataset"><i class="fa fa-database fa-fw"></i> Dataset</a>
+                            <a href="#background"><i class="fa fa-file-o fa-fw"></i> The Solution</a>
                         </li>
                         <li>
-                            <a href="#analysis"><i class="fa fa-file-o fa-fw"></i> Analysis</a>
+                            <a href="#dataset"><i class="fa fa-database fa-fw"></i> The Data</a>
                         </li>
                         <li>
-                            <a href="#conclusions"><i class="fa fa-file-o fa-fw"></i> Conclusions</a>
+                            <a href="#analysis"><i class="fa fa-file-o fa-fw"></i> Medical NLP</a>
                         </li>
                         <li>
                             <a href="#demo"><i class="fa fa-hand-o-up fa-fw"></i> Demo App</a>
@@ -97,12 +97,26 @@
                     </div>
                 </div>
             </div>
+             <!-- /.row -->
+            <a name="problem"></a>
+            <div class="smspace"></div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="page-header">The Problem - Information Overload</h2>
+                    <p>The most important factor in a clinical research study is the recruitment and retention of the subjects. Recruitment is a problem though, with studies often struggling to recruit the required number of participants. This is best illustrated by taking the period between 1997 and 2009, US based coronary artery disease studies required significant numbers of non-US patients to achieve the recruitment volumes desired, similarly, UK based studies failed to meet recruitment numbers in two thirds of trials within the timeframe (Glasser, 2014, p. 177). This is significant, studies that recruit less than the nominal amount of participants can lead to the study missing important effects or falling foul of statistical anomaly.</p>
+                    <p>Understanding where these failings are materializing from starts with looking at the recruitment process itself. Glasser notes that “the biggest obstacle to patient participation is lack of awareness about clinical research studies and the role they play in the drug development process” (2014, p.178). With no national listing of trials and their recruitment process, finding trials is far more fragmented than it needs to be, relying on local doctor’s awareness of suitable studies and varying considerably by location and the information resources that are to hand. With CenterWatch suggesting 81% of trials are delayed between 1 to 6 months due to the inability to recruits the required number of participants (CenterWatch, 2014), has led to long delays in FDA approval as well.</p>
+                    <p>There are several specialists aiming to solve this problem, using various elements of the media as a vehicle for recruitment. However, one of the fastest rising, and successful of these is online recruitment, one of the more successful is the Patient Research Exchange, a patient advocacy group, who not only note the rise in the use of social media for trial recruitment but champion and publicise it through their website and operations (Patient Research Exchange, 2014). They refer to the concept as crowdsourcing clinical trials, leveraging the connectivity of social media to find the necessary candidates for trials much more quickly than other methods, in part due to the sheer size of the audience they can reach. The US Government, via clinicaltrials.gov is also leveraging the online environment, creating a central database of ongoing trials throughout the world and the recruitment needs they have (U.S. National Institutes of Health, 2015). While radio and TV advertising is still carried out by these same professional recruiters and government bodies, the numbers of possible participants they can reach is substantially smaller than any online policy, especially those that leverage the power of social media.</p>
+                    <p>However, these solutions are not perfect, requiring significant time input from doctors to identify trials their patients could be part of, or simply overcomplicating the process. Studies have shown that the most effective way of recruiting is through the local clinics and the doctor/patient relationship (Denhoff, et al., 2015), so the key to improving the recruitment rate for clinical trials is to ensure that awareness of suitable trials for patients is easy for doctors to acquire. Ensuring that information is available to doctors means that suitable patients in their care can be more quickly identified, but also means that candidates are informed about those trials by a familiar medical practitioner, which is also in the patient’s own interest and itself can increase the likelihood of recruitment.</p>
+                    <p>For this to be at its most effective, a solution to place the relevant information into the doctor/patient meetings is required. This solution can learn from the mistakes of previous methods that are slow and overly complicated, focusing on ease of use and speed. Having a database that is easily filtered to narrow down trials based on the needs of the patient in front of the doctor means that searches can be done in real time with the patient’s involvement. This will not only provide improved understanding of the clinical trial itself but allow a much greater number of potential participants to be approached as well. This should increase recruitment as well as broaden awareness of trials amongst patients while offering a more personal entry into the clinical trial process than is otherwise achieved, alleviating a potential source of stress for patients.</p>
+                </div>
+            </div>
+            
             <!-- /.row -->
             <a name="background"></a>
             <div class="smspace"></div>
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="page-header">Background</h2>
+                    <h2 class="page-header">The Story of our solution</h2>
                     <p>After the successful completion of the Data Science course and the publication of our final project, our group was approached by the founder of a start-up company. The founder has strong business ties to the Health Care sector, both to networks of clinicians and to the pharma industry. The premise of this start-up is to facilitate the recruitment of participants for clinical trials through local clinics by the patient’s private doctors.</p>
                     <img class="img-responsive centerHorizontal" src="images/pic1.png" alt="First Image">
                     <p>The founder conducted a large number of interviews with a broad selection of doctors. The data collected from those interviews showed that doctors find that the current search engines available for clinical trials produce too many results that are often not relevant to their patients and sorting through these to find suitable trials takes far too much time. In one of the interviews a doctor said:</p>
@@ -119,11 +133,14 @@
             <div class="smspace"></div>
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="page-header">Dataset</h2>
+                    <h2 class="page-header">The Data</h2>
                     <p>The dataset consists of publicly available clinical trials data from <a href="https://clinicaltrials.gov/">clinicaltrials.gov</a>. This site is a service of the U.S. National Institutes of Health that has a database of publicly and privately supported clinical studies.</p>
                     <p>For the project we downloaded all clinical trials data that matched the search term "seizure" so we could work with a more manageable amount of data on a specific subject. This gave around 1,347 clinical trials results to work with. </p>
                     <p>To download the data we used the "results/download" endpoint from <a href="https://clinicaltrials.gov/">clinicaltrials.gov</a>. This endpoint allows us to specify the type, format and search term of the results to download. For our project we downloaded all the results for the search term "seizure" with a xml format.</p>
                     <p>We choose to start with the search term "seizure" so we could work with a manageable amount of data on a specific topic. After the download we had around 1,347 descriptions of clinical trials in xml files. We processed the xml files to a dataframe which is a data science friendly tabular structure.</p>
+                    <p>The first step in our analysis was to extract the inclusion and exclusion criteria. To do this we used two fields from our original dataframe. The unique identifier for the clinical trial, which is a unique alphanumerical identifier, and the eligibility criteria, wich is a natural language text block.</p>
+                    <p>We processed the eligibility criteria text to extract the criteria for each row and categorize if the criteria was for inclusion or exclusion. Then we created tokens by breaking up each sentence into a set of words to prepare the data for our next step natural language processing.</p>
+
                 </div>
             </div>
             <!-- /.row -->
@@ -131,18 +148,11 @@
             <div class="smspace"></div>
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="page-header">Analysis</h2>
-                    <h3>Inclusion and exclusion criteria</h3>
-                    <p>The first step in our analysis was to extract the inclusion and exclusion criteria. To do this we used two fields from our original dataframe. The unique identifier for the clinical trial, which is a unique alphanumerical identifier, and the eligibility criteria, wich is a natural language text block.</p>
-                    <p>We processed the eligibility criteria text to extract the criteria for each row and categorize if the criteria was for inclusion or exclusion. Then we created tokens by breaking up each sentence into a set of words to prepare the data for our next step natural language processing.</p>
-                </div>
-            </div>
-            <!-- /.row -->
-            <a name="conclusions"></a>
-            <div class="smspace"></div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="page-header">Conclusions</h2>
+                    <h2 class="page-header">Medical NLP</h2>
+                    <h3>MetaMap</h3>
+                    <p>TO DO</p>
+                    <h3>MedEx</h3>
+                    <p>TO DO</p>
                 </div>
             </div>
             <!-- /.row -->
