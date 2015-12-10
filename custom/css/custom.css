@@ -30,3 +30,7 @@
     text-align: center;
     padding-top: 170px;
 }
+
+.centerHorizontal {
+    margin: 0 auto;
+}
