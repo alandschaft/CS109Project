@@ -1,0 +1,2 @@
+1	normal renal function and normal vitamin d and calcium level|vitamin d[33,42]|||||||||C0042866|11253|11253|vitamin d
+1	normal renal function and normal vitamin d and calcium level|calcium[47,54]|||||||||C0006675|1895|1895|calcium

@@ -1,0 +1,2 @@
+1	immunosuppressive medication or experimental medication of any type during the two-month period prior to initiating sirolimus with the follow two exception|immunosuppressive[0,17]||||||||||5748|5748|immunosuppressive
+1	immunosuppressive medication or experimental medication of any type during the two-month period prior to initiating sirolimus with the follow two exception|sirolimus[116,125]|||||||||C0072980|35302|35302|sirolimus

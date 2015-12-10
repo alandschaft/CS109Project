@@ -1,0 +1,2 @@
+1	previous vaccination against measles mumps rubella and/or varicella|rubella[43,50]||||||||||1022799|1022799|rubella
+1	previous vaccination against measles mumps rubella and/or varicella|mumps[37,42]||||||||||1027774|1027774|mumps

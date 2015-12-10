@@ -1,0 +1,2 @@
+1	schedule to receive a corticosteroid burst of at least 10 mg of prednisone equivalent and for at least 5 day duration|prednisone[64,74]|||10mg[55,60]||||5 day[103,108]||C0993472|317663|8640|prednisone
+1	schedule to receive a corticosteroid burst of at least 10 mg of prednisone equivalent and for at least 5 day duration|corticosteroid[22,36]||||||||||354|354|corticosteroid

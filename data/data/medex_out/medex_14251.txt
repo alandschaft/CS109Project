@@ -1,0 +1,2 @@
+1	have a cl contact lens spherical prescription between 1.00 and 10.00 inclusive|contact lens[10,22]||||||||||2809|2809|contact lens
+1	have a cl contact lens spherical prescription between 1.00 and 10.00 inclusive|cl[7,9]||||||||||47104|47104|cl

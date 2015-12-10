@@ -1,0 +1,1 @@
+patient should not receive immunization with attenuated live vaccine within one week of inform consent or during study period 

@@ -1,0 +1,1 @@
+1	patient will have to be free of acid-suppressing drug ppi or h2ra for at least one year|ppi[54,57]||||||||||1364533|1364533|pyrophosphate

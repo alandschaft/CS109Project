@@ -1,0 +1,2 @@
+1	must demonstrate at least =8 migraine day or =8 day of migraine specific acute medications- ergotamine or triptans during 30 day baseline screen|ergotamine[92,102]|||||||||C0014710|4025|4025|ergotamine
+1	must demonstrate at least =8 migraine day or =8 day of migraine specific acute medications- ergotamine or triptans during 30 day baseline screen|triptans[106,114]|||||||30 day[122,128]|||||

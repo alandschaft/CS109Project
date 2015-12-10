@@ -1,0 +1,3 @@
+1	patient have be expose to probenecid or another known transporter inhibitor verapamil progesterone etc in the three month prior to enrollment|probenecid[26,36]|||||||||C0033209|8698|8698|probenecid
+1	patient have be expose to probenecid or another known transporter inhibitor verapamil progesterone etc in the three month prior to enrollment|progesterone[86,98]|||||||three month[110,121]||C0033308|8727|8727|progesterone
+1	patient have be expose to probenecid or another known transporter inhibitor verapamil progesterone etc in the three month prior to enrollment|verapamil[76,85]|||||||||C0042523|11170|11170|verapamil

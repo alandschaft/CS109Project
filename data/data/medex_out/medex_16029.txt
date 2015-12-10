@@ -1,0 +1,1 @@
+1	diabetic ketoacidosis in the past 3 month|diabetic ketoacidosis[0,21]|||||||3 month[34,41]|||1022795|1022795|diabetic ketoacidosis

@@ -1,0 +1,2 @@
+1	treatment with antipsychotic antidepressant or anxiolytic|antidepressant[29,43]||||||||||927|927|antidepressant
+1	treatment with antipsychotic antidepressant or anxiolytic|anxiolytic[47,57]||||||||||10694|10694|anxiolytic

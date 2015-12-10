@@ -1,0 +1,2 @@
+1	child who have receive anticonvulsant treatment within 1 hour prior to assessment any child whose seizure cease follow correction of hypoglycaemia child with a know adverse reaction to lorazepam|lorazepam[185,194]|||||||1 hour[55,61]||C0024002|6470|6470|lorazepam
+1	child who have receive anticonvulsant treatment within 1 hour prior to assessment any child whose seizure cease follow correction of hypoglycaemia child with a know adverse reaction to lorazepam|anticonvulsant[23,37]||||||||||926|926|anticonvulsant

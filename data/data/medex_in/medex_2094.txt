@@ -1,0 +1,1 @@
+patient be male or female between the age of 18 and 65 

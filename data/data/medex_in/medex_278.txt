@@ -1,0 +1,1 @@
+all will carry the diagnosis of lafora disease base on the presence of characteristic clinical history and neurological finding 

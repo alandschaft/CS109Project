@@ -1,0 +1,2 @@
+1	current use of valproate or clonazepam|valproate[15,24]|||||||||C0080356|40254|40254|valproate
+1	current use of valproate or clonazepam|clonazepam[28,38]|||||||||C0009011|2598|2598|clonazepam

@@ -1,0 +1,3 @@
+1	seizure be not completely responsive to longlasting antiepileptic treatment at least 4 antiepileptic medicament fail in mono or combine anticonvulsive regimen|medicament[101,111]||||||||||465888|465888|medicament
+1	seizure be not completely responsive to longlasting antiepileptic treatment at least 4 antiepileptic medicament fail in mono or combine anticonvulsive regimen|antiepileptic[52,65]|||||||||C0003299|932|932|antiepileptic
+1	seizure be not completely responsive to longlasting antiepileptic treatment at least 4 antiepileptic medicament fail in mono or combine anticonvulsive regimen|antiepileptic[87,100]|||||||||C0003299|932|932|antiepileptic

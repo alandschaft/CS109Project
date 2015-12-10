@@ -1,0 +1,2 @@
+1	concurrent treatment with cimetidine or theophylline|cimetidine[26,36]|||||||||C0008783|2541|2541|cimetidine
+1	concurrent treatment with cimetidine or theophylline|theophylline[40,52]|||||||||C0039771|10438|10438|theophylline

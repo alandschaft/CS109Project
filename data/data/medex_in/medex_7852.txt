@@ -1,0 +1,1 @@
+the patient must have active disease at the time of enrollment 

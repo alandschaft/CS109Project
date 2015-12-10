@@ -1,0 +1,1 @@
+1	patient on felbamate unless treatment have be continuous for 18 month|felbamate[11,20]|||||||18 month[61,69]||C0060135|24812|24812|felbamate

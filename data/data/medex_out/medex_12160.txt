@@ -1,0 +1,2 @@
+1	participant be treat prenatally for pde with pyridoxine i.e mother be on pyridoxine|pyridoxine[45,55]|||||||||C0034272|684879|684879|pyridoxine (vit b6)
+1	participant be treat prenatally for pde with pyridoxine i.e mother be on pyridoxine|pyridoxine[73,83]|||||||||C0034272|684879|684879|pyridoxine (vit b6)

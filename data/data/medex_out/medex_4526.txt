@@ -1,0 +1,1 @@
+1	patient have take an investigational drug within a period of 3 month prior to inclusion|investigational drug[21,41]|||||||3 month[61,68]||C1875327|691729|691729|investigational drug

@@ -1,0 +1,1 @@
+1	are pregnant or lactate|lactate[16,23]|||||||||C0376261|114202|114202|lactate

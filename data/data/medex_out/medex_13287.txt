@@ -1,0 +1,4 @@
+1	subject have ongoing androgen deprivation therapy with a gonadotropin-releasing hormone gnrh analogue agonist or antagonist or bilateral orchiectomy i.e. surgical or medical castration|agonist[102,109]||||||||||132988|132988|agonist
+1	subject have ongoing androgen deprivation therapy with a gonadotropin-releasing hormone gnrh analogue agonist or antagonist or bilateral orchiectomy i.e. surgical or medical castration|gnrh[88,92]||||||||||6384|6384|gonadorelin (obsolete)
+1	subject have ongoing androgen deprivation therapy with a gonadotropin-releasing hormone gnrh analogue agonist or antagonist or bilateral orchiectomy i.e. surgical or medical castration|gonadotropin - releasing hormone[57,87]||||||||||6384|6384|gonadorelin (obsolete)
+1	subject have ongoing androgen deprivation therapy with a gonadotropin-releasing hormone gnrh analogue agonist or antagonist or bilateral orchiectomy i.e. surgical or medical castration|androgen[21,29]||||||||||777|777|androgens

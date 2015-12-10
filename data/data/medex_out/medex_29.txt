@@ -1,0 +1,1 @@
+1	3 patient be unable to comply with the protocol e.g. uncooperative with protocol schedule refusal to agree to all of the study procedure|refusal[90,97]||||||||||||

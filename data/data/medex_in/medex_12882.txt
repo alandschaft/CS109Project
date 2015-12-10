@@ -1,0 +1,1 @@
+all patient with acute abdomen undergo abdominal surgery under emergency and present on arrival in icu at least a sign of bad perfusion 

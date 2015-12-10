@@ -1,0 +1,2 @@
+1	administration of immunoglobulin and/or any blood product within the three month precede the first dose of study vaccine s or plan administration during the study period|immunoglobulin[18,32]||||||||||5720|5720|globulin,immune
+1	administration of immunoglobulin and/or any blood product within the three month precede the first dose of study vaccine s or plan administration during the study period|vaccine[113,120]|||||||three month[69,80]|||11094|11094|vaccine

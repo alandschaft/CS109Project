@@ -1,0 +1,1 @@
+1	10 sensitivity to sulfonamide medication or history of severe drug allergy|sulfonamide[18,29]||||||||||10215|10215|sulfonamide

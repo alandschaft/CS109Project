@@ -1,0 +1,2 @@
+1	4 patient who take 1 3 market antiepileptic drug s exclude zonisamide at point of enrollment time|zonisamide[59,69]|||||||||C0078844|39998|39998|zonisamide
+1	4 patient who take 1 3 market antiepileptic drug s exclude zonisamide at point of enrollment time|antiepileptic[30,43]|||||||||C0003299|932|932|antiepileptic

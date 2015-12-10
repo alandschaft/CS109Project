@@ -1,0 +1,2 @@
+1	have receive diuretic such a furosemide or btn|furosemide[29,39]|||||||||C0016860|4603|4603|furosemide
+1	have receive diuretic such a furosemide or btn|diuretic[13,21]||||||||||3567|3567|diuretic

@@ -1,0 +1,2 @@
+1	physician planning to give steroid exclude if patient 's physician be plan to give her steroid|steroid[27,34]||||||||||10072|10072|steroid
+1	physician planning to give steroid exclude if patient 's physician be plan to give her steroid|steroid[87,94]||||||||||10072|10072|steroid

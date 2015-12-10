@@ -1,0 +1,2 @@
+1	known hypersensitivity to oxcarbazepine or carbamazepine or it metabolite|oxcarbazepine[26,39]|||||||||C0069751|32624|32624|oxcarbazepine
+1	known hypersensitivity to oxcarbazepine or carbamazepine or it metabolite|carbamazepine[43,56]|||||||||C0006949|2002|2002|carbamazepine

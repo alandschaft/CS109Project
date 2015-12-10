@@ -1,0 +1,1 @@
+fvc or dlco of less than 50 of predicted dlco correct for hemoglobin level 

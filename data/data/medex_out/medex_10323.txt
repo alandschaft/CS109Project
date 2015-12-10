@@ -1,0 +1,3 @@
+1	subject taking 1 or more of the following medication on a regular basis within 28 day prior to visit 1 neuroleptic monoamine oxidase mao inhibitor and narcotic analgesic|mao inhibitor[133,146]||||||||||7032|7032|mao inhibitor
+1	subject taking 1 or more of the following medication on a regular basis within 28 day prior to visit 1 neuroleptic monoamine oxidase mao inhibitor and narcotic analgesic|neuroleptic[103,114]|||||||28 day[79,85]|||10693|10693|antipsychotic drug
+1	subject taking 1 or more of the following medication on a regular basis within 28 day prior to visit 1 neuroleptic monoamine oxidase mao inhibitor and narcotic analgesic|narcotic analgesic[151,169]||||||||||7260|7260|narcotic analgesic

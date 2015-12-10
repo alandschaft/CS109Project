@@ -1,0 +1,1 @@
+1	patient have take corticotropin in the 6 month prior to screening|corticotropin[18,31]|||||||6 month[39,46]||C0001655|376|376|corticotropin

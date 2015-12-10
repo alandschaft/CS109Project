@@ -1,0 +1,2 @@
+1	known hypersensitivity to carbamazepine oxcarbazepine or chemically related substance|oxcarbazepine[40,53]|||||||||C0069751|32624|32624|oxcarbazepine
+1	known hypersensitivity to carbamazepine oxcarbazepine or chemically related substance|carbamazepine[26,39]|||||||||C0006949|2002|2002|carbamazepine

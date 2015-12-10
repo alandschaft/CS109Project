@@ -1,0 +1,2 @@
+1	bradyasystolic without palpable pulse after 1 mg of epinephrine and 3 mg of atropine|epinephrine[52,63]|||1mg[44,48]||||||C1123215|328316|3992|epinephrine
+1	bradyasystolic without palpable pulse after 1 mg of epinephrine and 3 mg of atropine|atropine[76,84]|||3mg[68,72]||||||C1948348|704992|1223|atropine

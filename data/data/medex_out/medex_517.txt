@@ -1,0 +1,2 @@
+1	have take an investigational drug during the 30 day prior to the study or plan to take an investigational drug anytime during the study|investigational drug[13,33]|||||||30 day[45,51]||C1875327|691729|691729|investigational drug
+1	have take an investigational drug during the 30 day prior to the study or plan to take an investigational drug anytime during the study|investigational drug[90,110]|||||||||C1875327|691729|691729|investigational drug

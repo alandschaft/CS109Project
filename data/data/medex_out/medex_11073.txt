@@ -1,0 +1,2 @@
+1	chronic administration of immunosuppressant or other immune-modifying drug within six month prior to the first vaccine dose s|immunosuppressant[26,43]||||||||||5748|5748|immunosuppressant
+1	chronic administration of immunosuppressant or other immune-modifying drug within six month prior to the first vaccine dose s|vaccine[111,118]|||||||six month[82,91]|||11094|11094|vaccine

@@ -1,0 +1,1 @@
+1	use of antibiotic within the preceding four month|antibiotic[7,17]|||||||four month[39,49]|||896|896|antibiotic

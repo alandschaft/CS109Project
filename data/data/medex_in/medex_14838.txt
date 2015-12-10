@@ -1,0 +1,1 @@
+eeg equal to or more than 3 min cumulative seizure or 2 or more seizure of 30 sec duration over 2 hour period within 72 hour of life 

@@ -1,0 +1,1 @@
+1	participation in another research trial where the participant be treat with another investigational drug or device within 30 day prior to enrollment of study|investigational drug[84,104]|||||||30 day[122,128]||C1875327|691729|691729|investigational drug

@@ -1,0 +1,1 @@
+1	6 drug susceptibility testing dst result know for ofloxacin can be either sensitive or resistant|ofloxacin[50,59]|||||||||C0028902|7623|7623|ofloxacin

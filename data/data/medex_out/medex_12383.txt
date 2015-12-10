@@ -1,0 +1,2 @@
+1	7 no known history of thrombophlebitis or excessive tendency to bleeding not on coumadin aspirin or anti-platelet agent be not an exclusion|aspirin[89,96]|||||||||C0004057|1191|1191|acetylsalicylic acid
+1	7 no known history of thrombophlebitis or excessive tendency to bleeding not on coumadin aspirin or anti-platelet agent be not an exclusion|coumadin[80,88]|||||||||C0699129|202421|11289|warfarin

@@ -1,0 +1,2 @@
+1	determine the ionized calcium level if these ionize calcium level be out of normal range despite supplementation then the patient must be exclude|calcium[22,29]|||||||||C0006675|1895|1895|calcium
+1	determine the ionized calcium level if these ionize calcium level be out of normal range despite supplementation then the patient must be exclude|calcium[52,59]|||||||||C0006675|1895|1895|calcium

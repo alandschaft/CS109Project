@@ -1,0 +1,2 @@
+1	6 receiving conventional not extend release lamotrigine a an antiepileptic drug in twice daily dose at either 100 mg twice per day 200 mg twice per day 300 mg twice per day or 400 mg twice per day|lamotrigine[44,55]|||||||||C0064636|28439|28439|lamotrigine
+1	6 receiving conventional not extend release lamotrigine a an antiepileptic drug in twice daily dose at either 100 mg twice per day 200 mg twice per day 300 mg twice per day or 400 mg twice per day|antiepileptic[61,74]|||100mg[110,116]|||twice daily[83,94]|||C0003299|932|932|antiepileptic

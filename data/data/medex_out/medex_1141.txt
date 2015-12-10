@@ -1,0 +1,5 @@
+1	they take any medication with the exception of phenytoin carbamazepine oxcarbazepine lamotrigine and levetiracetam for the epilepsy patient|lamotrigine[85,96]|||||||||C0064636|28439|28439|lamotrigine
+1	they take any medication with the exception of phenytoin carbamazepine oxcarbazepine lamotrigine and levetiracetam for the epilepsy patient|oxcarbazepine[71,84]|||||||||C0069751|32624|32624|oxcarbazepine
+1	they take any medication with the exception of phenytoin carbamazepine oxcarbazepine lamotrigine and levetiracetam for the epilepsy patient|carbamazepine[57,70]|||||||||C0006949|2002|2002|carbamazepine
+1	they take any medication with the exception of phenytoin carbamazepine oxcarbazepine lamotrigine and levetiracetam for the epilepsy patient|phenytoin[47,56]|||||||||C0031507|8183|8183|phenytoin
+1	they take any medication with the exception of phenytoin carbamazepine oxcarbazepine lamotrigine and levetiracetam for the epilepsy patient|levetiracetam[101,114]|||||||||C0377265|114477|114477|levetiracetam

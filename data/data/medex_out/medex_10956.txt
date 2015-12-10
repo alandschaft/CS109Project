@@ -1,0 +1,1 @@
+1	treatment with ppar gamma agonist currently or within the past 6 month|agonist[26,33]|||||||6 month[63,70]|||132988|132988|agonist

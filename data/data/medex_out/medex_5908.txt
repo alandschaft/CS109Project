@@ -1,0 +1,2 @@
+1	diagnosis other than tma which can account for the finding of thrombocytopenia and hemolytic anemia e.g. dic hellp syndrome evans syndrome|tma[21,24]||||||||||89775|89775|tma
+1	diagnosis other than tma which can account for the finding of thrombocytopenia and hemolytic anemia e.g. dic hellp syndrome evans syndrome|dic[105,108]||||||||||3098|3098|dacarbazine

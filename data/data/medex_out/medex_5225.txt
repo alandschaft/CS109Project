@@ -1,0 +1,2 @@
+1	5 known sensitivity to benzodiazepine or know contraindication to benzodiazepine use or|benzodiazepine[23,37]||||||||||1402|1402|benzodiazepine
+1	5 known sensitivity to benzodiazepine or know contraindication to benzodiazepine use or|benzodiazepine[66,80]||||||||||1402|1402|benzodiazepine

@@ -1,0 +1,1 @@
+1	have not take stimulant or alpha-adrenergic medication for more than 2 week prior to study entry|stimulant[14,23]|||||||2 week[69,75]|||91146|91146|stimulant

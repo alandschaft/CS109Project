@@ -1,0 +1,2 @@
+1	take other investigational drug than lacosamide|lacosamide[37,47]|||||||||C0893761|623400|623400|lacosamide
+1	take other investigational drug than lacosamide|investigational drug[11,31]|||||||||C1875327|691729|691729|investigational drug

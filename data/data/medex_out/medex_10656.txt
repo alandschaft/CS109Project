@@ -1,0 +1,3 @@
+1	6 history of hypersensitivity to temsirolimus or it metabolite include sirolimus polysorbate 80 or to any component of the formulation|temsirolimus[33,45]|||||||||C1707080|657797|657797|temsirolimus
+1	6 history of hypersensitivity to temsirolimus or it metabolite include sirolimus polysorbate 80 or to any component of the formulation|polysorbate 80[81,95]|||||||||C0032601|8560|8560|polysorbate 80
+1	6 history of hypersensitivity to temsirolimus or it metabolite include sirolimus polysorbate 80 or to any component of the formulation|sirolimus[71,80]|||||||||C0072980|35302|35302|sirolimus

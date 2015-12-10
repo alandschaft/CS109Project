@@ -1,0 +1,1 @@
+6 the value of alt or ast be high than 1.5 time normal range or the number of white blood cell be less than 2500/ul or the number of neutrophil granulocyte be less than 1000/ul 

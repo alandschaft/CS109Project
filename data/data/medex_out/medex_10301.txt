@@ -1,0 +1,1 @@
+1	localization-related epilepsy diagnose by standard clinical criterion that have not respond to treatment with two standard antiepileptic drug either sequentially or in combination|antiepileptic[123,136]|||||||||C0003299|932|932|antiepileptic

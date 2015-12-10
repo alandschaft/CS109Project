@@ -1,0 +1,1 @@
+1	2 known sensitivity or allergy to any component in the study drug progesterone or other related steroid compound|steroid[96,103]||||||||||10072|10072|steroid

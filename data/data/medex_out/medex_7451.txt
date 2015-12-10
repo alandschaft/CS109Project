@@ -1,0 +1,2 @@
+1	5 use of other antiepileptic or medication with known interaction with valproic acid see protocol for full list|antiepileptic[15,28]|||||||||C0003299|932|932|antiepileptic
+1	5 use of other antiepileptic or medication with known interaction with valproic acid see protocol for full list|valproic acid[71,84]|||||||||C0042291|11118|11118|valproic acid

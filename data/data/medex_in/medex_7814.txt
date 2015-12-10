@@ -1,0 +1,1 @@
+patient age 18 80 year with acute stemi undergoing pci 

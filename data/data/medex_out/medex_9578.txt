@@ -1,0 +1,1 @@
+1	minimum of 1 concomitant antiepileptic drug aed at stable dose and no additions/deletions for at least 7 day prior to the screening visit|antiepileptic[25,38]|||||||7 day[103,108]||C0003299|932|932|antiepileptic

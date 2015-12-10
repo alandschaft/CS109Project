@@ -1,0 +1,1 @@
+5 patient must be able to use seizure calendar to record seizure throughout the trial 

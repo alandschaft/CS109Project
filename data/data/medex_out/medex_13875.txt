@@ -1,0 +1,2 @@
+1	7 intolerance or hypersensitivity to topical anesthetic fluorescein or component of the material|fluorescein[56,67]|||||||||C0060520|25138|25138|fluorescein
+1	7 intolerance or hypersensitivity to topical anesthetic fluorescein or component of the material|topical anesthetic[37,55]||||||||||10653|10653|topical anesthetic (obsolete)

@@ -1,0 +1,1 @@
+patient must have a karnofsky performance score kp of or equal to 50 

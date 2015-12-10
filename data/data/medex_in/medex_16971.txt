@@ -1,0 +1,1 @@
+ability to keep current position of head and body during a period of about 5 minute while seat 

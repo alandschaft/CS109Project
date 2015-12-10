@@ -1,0 +1,1 @@
+1	subject in group a and b will be match for seizure frequency volunteer will be match with the subject in group a by age in this pilot study no attempt will be make to match patient accord to anticonvulsant medication|anticonvulsant[191,205]||||||||||926|926|anticonvulsant

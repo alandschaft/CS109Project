@@ -1,0 +1,2 @@
+1	current use of sodium-lowering non-seizure medication|seizure medication[35,53]||||||||||1021750|1021750|seizure medication
+1	current use of sodium-lowering non-seizure medication|sodium[15,21]|||||||||C0037473|9853|9853|sodium

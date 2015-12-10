@@ -1,0 +1,2 @@
+1	5 history of hypersensitivity to bevacizumab murine product or any component of the formulation|murine[45,51]||||||||||152083|152083|murine
+1	5 history of hypersensitivity to bevacizumab murine product or any component of the formulation|bevacizumab[33,44]|||||||||C0796392|253337|253337|bevacizumab

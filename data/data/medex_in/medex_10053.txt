@@ -1,0 +1,1 @@
+8 qtc 450 millisecond msec or 480msec for subject with bundle branch block value base on either single ecg value or triplicate ecg average qtc value obtain over a brief recording period 

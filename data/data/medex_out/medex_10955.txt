@@ -1,0 +1,1 @@
+1	known intolerance to inject glp-1 agonist|agonist[34,41]||||||||||132988|132988|agonist

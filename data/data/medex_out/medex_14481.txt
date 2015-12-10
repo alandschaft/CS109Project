@@ -1,0 +1,2 @@
+1	use of oxcarbazepine or carbamazepine during the last 6 month before the randomisation visit|oxcarbazepine[7,20]|||||||||C0069751|32624|32624|oxcarbazepine
+1	use of oxcarbazepine or carbamazepine during the last 6 month before the randomisation visit|carbamazepine[24,37]|||||||6 month[54,61]||C0006949|2002|2002|carbamazepine

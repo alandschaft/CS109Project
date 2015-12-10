@@ -1,0 +1,1 @@
+1	seizure not completely responsive to medical treatment 1 or more seizure per week for at least 6 month and patient have fail at least two anti-convulsant regimen in the past|convulsant[143,153]||||||per week[73,81]|6 month[95,102]|||||

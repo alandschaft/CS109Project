@@ -1,0 +1,3 @@
+1	previous administration of the fifth dose of dtp vaccine and/or the second dose of mmr vaccine or plan administration of dtp vaccine and/or mmr vaccine outside the study|dtp vaccine[45,56]||||||||||3519|3519|diphtheria-poliomyelitis-tetanus
+1	previous administration of the fifth dose of dtp vaccine and/or the second dose of mmr vaccine or plan administration of dtp vaccine and/or mmr vaccine outside the study|mmr vaccine[83,94]||||||||||29406|29406|measles,mumps&rubella vac live
+1	previous administration of the fifth dose of dtp vaccine and/or the second dose of mmr vaccine or plan administration of dtp vaccine and/or mmr vaccine outside the study|dtp vaccine[121,132]||||||||||3519|3519|diphtheria-poliomyelitis-tetanus

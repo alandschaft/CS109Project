@@ -1,0 +1,2 @@
+1	subject currently take levetiracetam lev|lev[37,40]|||||||||C3220305|1166072|5032|guaifenesin
+1	subject currently take levetiracetam lev|levetiracetam[23,36]|||||||||C0377265|114477|114477|levetiracetam

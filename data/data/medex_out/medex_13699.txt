@@ -1,0 +1,2 @@
+1	patient require treatment with drug know to affect the gabaergic system include vigabatrin and benzodiazepine|vigabatrin[80,90]|||||||||C0048044|14851|14851|vigabatrin
+1	patient require treatment with drug know to affect the gabaergic system include vigabatrin and benzodiazepine|benzodiazepine[95,109]||||||||||1402|1402|benzodiazepine

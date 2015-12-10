@@ -1,0 +1,1 @@
+1	5 subject treat with local anesthetic nerve block within 48 hour of study entry|local anesthetic[21,37]|||||||48 hour[57,64]|||819|819|local anesthetic

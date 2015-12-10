@@ -1,0 +1,1 @@
+must be able to detect count or record seizure 

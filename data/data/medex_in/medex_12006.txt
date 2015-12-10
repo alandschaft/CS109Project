@@ -1,0 +1,1 @@
+triglyceride great than or equal to 500 

@@ -1,0 +1,1 @@
+1	subject have a respiratory condition such a asthma treat with systemic or inhale corticosteroid in the previous 6 month or cystic fibrosis|corticosteroid[81,95]|||||||6 month[112,119]|||354|354|corticosteroid

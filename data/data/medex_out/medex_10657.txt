@@ -1,0 +1,2 @@
+1	7 history of hypersensitivity to cetuximab murine product or any component of the formulation|murine[43,49]||||||||||152083|152083|murine
+1	7 history of hypersensitivity to cetuximab murine product or any component of the formulation|cetuximab[33,42]|||||||||C0995188|318341|318341|cetuximab

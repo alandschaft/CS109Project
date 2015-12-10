@@ -1,0 +1,1 @@
+1	concomitant disease require prolong use of corticosteroid 1 month|corticosteroid[43,57]|||||||1 month[58,65]|||354|354|corticosteroid

@@ -1,0 +1,3 @@
+1	7 use of beta adrenergic antagonist i.e. beta blocker or calcium channel blocker agent that may affect heart rate|beta blocker[41,53]||||||||||401870|401870|beta blocker
+1	7 use of beta adrenergic antagonist i.e. beta blocker or calcium channel blocker agent that may affect heart rate|adrenergic antagonist[14,35]||||||||||993129|993129|adrenergic antagonist
+1	7 use of beta adrenergic antagonist i.e. beta blocker or calcium channel blocker agent that may affect heart rate|calcium channel blocker[57,80]|||||||||C2757014|986242|986242|calcium channel blocker

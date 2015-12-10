@@ -1,0 +1,2 @@
+1	known exposure to diphtheria or household exposure to pertussis within 30 day prior to vaccination with dtpa|dtpa[104,108]|||||||30 day[71,77]|||3690|3690|diethylenetriamine p-acet acid
+1	known exposure to diphtheria or household exposure to pertussis within 30 day prior to vaccination with dtpa|pertussis[54,63]||||||||||1025994|1025994|pertussis

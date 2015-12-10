@@ -1,0 +1,1 @@
+4 patient must have a borg score great than 4/10 

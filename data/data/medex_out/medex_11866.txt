@@ -1,0 +1,3 @@
+1	require a benzodiazepine with a dose equivalent to lorazepam 2 mg/day or high or any anticonvulsant due to the potential of these medication to limit the efficacy of both mst and ect|lorazepam[51,60]|||2mg[61,65]||||||C0987273|316170|6470|lorazepam
+1	require a benzodiazepine with a dose equivalent to lorazepam 2 mg/day or high or any anticonvulsant due to the potential of these medication to limit the efficacy of both mst and ect|benzodiazepine[10,24]||||||||||1402|1402|benzodiazepine
+1	require a benzodiazepine with a dose equivalent to lorazepam 2 mg/day or high or any anticonvulsant due to the potential of these medication to limit the efficacy of both mst and ect|anticonvulsant[85,99]||||||||||926|926|anticonvulsant

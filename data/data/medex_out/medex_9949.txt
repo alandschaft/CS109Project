@@ -1,0 +1,2 @@
+1	individual receive warfarin or dabigatran|warfarin[19,27]|||||||||C0043031|11289|11289|warfarin
+1	individual receive warfarin or dabigatran|dabigatran[31,41]|||||||||C2348066|814696|814696|dabigatran

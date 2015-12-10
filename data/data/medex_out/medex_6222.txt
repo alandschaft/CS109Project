@@ -1,0 +1,2 @@
+1	6 subject have a know sensitivity to ingredient use in contact lens care product or over-the-counter lubricant and artificial tear|contact lens[55,67]||||||||||2809|2809|contact lens
+1	6 subject have a know sensitivity to ingredient use in contact lens care product or over-the-counter lubricant and artificial tear|artificial tear[115,130]||||||||||1133|1133|artificial tear

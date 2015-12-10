@@ -1,0 +1,1 @@
+1	concurrent use of at least one antiepileptic drug at adequate dos|antiepileptic[31,44]|||||||||C0003299|932|932|antiepileptic

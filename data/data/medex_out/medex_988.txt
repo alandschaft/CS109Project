@@ -1,0 +1,1 @@
+1	concurrent corticosteroid allow provide there have be no dose increase within the past 5 day|corticosteroid[11,25]|||||||5 day[87,92]|||354|354|corticosteroid

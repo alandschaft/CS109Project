@@ -1,0 +1,1 @@
+we will exclude patient if one of the following condition applies 

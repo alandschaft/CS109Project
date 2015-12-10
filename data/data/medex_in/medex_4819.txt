@@ -1,0 +1,1 @@
+prior lamotrigine use exclude if treatment discontinue for clinically significant safety reason i.e. rash hypersensitivity 

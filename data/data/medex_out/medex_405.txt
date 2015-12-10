@@ -1,0 +1,2 @@
+1	2 subject that be on major tranquilizer antidepressant medication or reproductive hormone|antidepressant[40,54]||||||||||927|927|antidepressant
+1	2 subject that be on major tranquilizer antidepressant medication or reproductive hormone|major tranquilizer[21,39]||||||||||10692|10692|major tranquilizer

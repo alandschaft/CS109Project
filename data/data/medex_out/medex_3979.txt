@@ -1,0 +1,3 @@
+1	subject must not have receive prior cytotoxic drug therapy non-cytotoxic drug therapy or experimental drug therapy for brain tumor|cytotoxic drug[36,50]||||||||||91222|91222|cytotoxic drug
+1	subject must not have receive prior cytotoxic drug therapy non-cytotoxic drug therapy or experimental drug therapy for brain tumor|cytotoxic drug[63,77]||||||||||91222|91222|cytotoxic drug
+1	subject must not have receive prior cytotoxic drug therapy non-cytotoxic drug therapy or experimental drug therapy for brain tumor|experimental drug[89,106]||||||||||91034|91034|experimental drug

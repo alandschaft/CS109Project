@@ -1,0 +1,2 @@
+1	currently take phenobarbital or primidone|phenobarbital[15,28]|||||||||C0031412|8134|8134|phenobarbital
+1	currently take phenobarbital or primidone|primidone[32,41]|||||||||C0033148|8691|8691|primidone

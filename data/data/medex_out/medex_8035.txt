@@ -1,0 +1,2 @@
+1	7 patient who have long-term medication history more than 6 month of zonisamide and/or carbamazepine|zonisamide[69,79]|||||||6 month[58,65]||C0078844|39998|39998|zonisamide
+1	7 patient who have long-term medication history more than 6 month of zonisamide and/or carbamazepine|carbamazepine[87,100]|||||||||C0006949|2002|2002|carbamazepine

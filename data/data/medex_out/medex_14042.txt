@@ -1,0 +1,1 @@
+1	2 subject will be exclude if they be already be treat with lidocaine patch or other vehicle for chronic pain|lidocaine[59,68]||patch[69,74]|||||||C1251704|377476|6387|lidocaine (obsolete)

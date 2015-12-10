@@ -1,0 +1,1 @@
+1	have be expose to any other investigational drug within 30 day prior to enrollment|investigational drug[28,48]|||||||30 day[56,62]||C1875327|691729|691729|investigational drug

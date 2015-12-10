@@ -1,0 +1,1 @@
+5 subject must have an initial score of great than or equal to 32 on the inventory of depressive symptom clinician version ids-c at visit 1 and visit 2 

@@ -1,0 +1,2 @@
+1	history of allergic disease or reaction likely to be exacerbate by any component of the vaccine s include systemic hypersensitivity to neomycin|neomycin[135,143]|||||||||C0027603|7299|7299|neomycin
+1	history of allergic disease or reaction likely to be exacerbate by any component of the vaccine s include systemic hypersensitivity to neomycin|vaccine[88,95]||||||||||11094|11094|vaccine

@@ -1,0 +1,2 @@
+1	receive prednisone therapy of at least 5 mg of prednisone daily for at least 6 month with anticipate treatment for 15 additional month|prednisone[8,18]|||5mg[39,43]|||daily[58,63]|6 month[77,84]||C1533720|316584|8640|prednisone
+1	receive prednisone therapy of at least 5 mg of prednisone daily for at least 6 month with anticipate treatment for 15 additional month|prednisone[47,57]|||||||||C0032952|8640|8640|prednisone

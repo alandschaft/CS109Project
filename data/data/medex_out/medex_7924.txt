@@ -1,0 +1,2 @@
+1	any treatment condition or injury that contraindicates treatment with lacosamide lcm or fos-phenytoin fpht|lacosamide[70,80]|||||||||C0893761|623400|623400|lacosamide
+1	any treatment condition or injury that contraindicates treatment with lacosamide lcm or fos-phenytoin fpht|phenytoin[92,101]|||||||||C0031507|8183|8183|phenytoin

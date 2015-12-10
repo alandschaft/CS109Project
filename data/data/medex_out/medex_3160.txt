@@ -1,0 +1,1 @@
+1	3 non-controlled partial seizure despite have be treat with at least two different antiepileptic drug give concurrently or sequentially for at least two year|antiepileptic[83,96]|||||||||C0003299|932|932|antiepileptic

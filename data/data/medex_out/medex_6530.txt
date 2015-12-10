@@ -1,0 +1,2 @@
+1	planned administration/ administration of a vaccine not foresee by the study protocol from 30 day prior to vaccination until 42 day after vaccination except for influenza vaccine and hib vaccine|influenza vaccine[161,178]|||||||30 day[91,97]|||5806|5806|influenza
+1	planned administration/ administration of a vaccine not foresee by the study protocol from 30 day prior to vaccination until 42 day after vaccination except for influenza vaccine and hib vaccine|hib vaccine[183,194]||||||||||50937|50937|haemophilus b

@@ -1,0 +1,1 @@
+1	benzodiazepine be allow with some frequency restriction|benzodiazepine[0,14]||||||||||1402|1402|benzodiazepine

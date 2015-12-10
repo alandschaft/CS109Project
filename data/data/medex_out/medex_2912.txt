@@ -1,0 +1,1 @@
+1	take valproic acid within 7 day prior to screening|valproic acid[5,18]|||||||7 day[26,31]||C0042291|11118|11118|valproic acid

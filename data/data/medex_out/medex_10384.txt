@@ -1,0 +1,2 @@
+1	currently take clonazepam or other benzodiazepine|clonazepam[15,25]|||||||||C0009011|2598|2598|clonazepam
+1	currently take clonazepam or other benzodiazepine|benzodiazepine[35,49]||||||||||1402|1402|benzodiazepine

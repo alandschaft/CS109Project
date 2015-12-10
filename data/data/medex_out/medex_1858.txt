@@ -1,0 +1,2 @@
+1	need treatment with any psychoactive medication include any anti-seizure medication with the exception of benadryl use sparingly if necessary for sleep|benadryl[106,114]|||||||||C0700900|203457|3498|diphenhydramine
+1	need treatment with any psychoactive medication include any anti-seizure medication with the exception of benadryl use sparingly if necessary for sleep|seizure medication[65,83]||||||||||1021750|1021750|seizure medication

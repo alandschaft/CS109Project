@@ -1,0 +1,2 @@
+1	7 no use of topical medication less than 12 hour prior to each study medication visit no use of nsaid acetaminophen or opioids less than 2 hour prior to each study medication visit|nsaid[96,101]|||||topical[12,19]||12 hour[41,48]|||889|889|nsaid
+1	7 no use of topical medication less than 12 hour prior to each study medication visit no use of nsaid acetaminophen or opioids less than 2 hour prior to each study medication visit|opioids[119,126]|||||||2 hour[137,143]|||1431633|1431633|opioids

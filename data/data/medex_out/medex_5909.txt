@@ -1,0 +1,2 @@
+1	diagnosis of dic verify by laboratory value for d-dimer fibrinogen prothrombin time pt and activate partial thromboplastin time aptt|prothrombin[67,78]||||||||||8872|8872|factor ii (prothrombin)
+1	diagnosis of dic verify by laboratory value for d-dimer fibrinogen prothrombin time pt and activate partial thromboplastin time aptt|fibrinogen[56,66]|||||||||C0016006|4385|4385|fibrinogen

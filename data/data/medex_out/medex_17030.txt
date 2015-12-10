@@ -1,0 +1,2 @@
+1	participant must be take clb and no more than 2 other antiepileptic drug aeds during the course of the trial|clb[25,28]||||||||||||
+1	participant must be take clb and no more than 2 other antiepileptic drug aeds during the course of the trial|antiepileptic[54,67]|||||||||C0003299|932|932|antiepileptic

@@ -1,0 +1,3 @@
+1	anticoagulation such a warfarin that would be a contraindication to lp aspirin and non-steroidal anti-inflammatory be allow|aspirin[71,78]|||||||||C0004057|1191|1191|acetylsalicylic acid
+1	anticoagulation such a warfarin that would be a contraindication to lp aspirin and non-steroidal anti-inflammatory be allow|warfarin[23,31]|||||||||C0043031|11289|11289|warfarin
+1	anticoagulation such a warfarin that would be a contraindication to lp aspirin and non-steroidal anti-inflammatory be allow|anticoagulation[0,15]||||||||||1024413|1024413|anticoagulation

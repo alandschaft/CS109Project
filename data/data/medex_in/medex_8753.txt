@@ -1,0 +1,1 @@
+multifetal gestation exclude if current multifetal gestation or a single gestation result from a reduction of a multiple of high order than twin 

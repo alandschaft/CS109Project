@@ -1,0 +1,1 @@
+1	2 the patient have have no prior exposure to sabril|sabril[45,51]||||||||||152332|14851|vigabatrin

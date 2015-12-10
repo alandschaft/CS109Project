@@ -1,0 +1,1 @@
+1	use prohibit medication or treat with any systemic immunosuppressant|immunosuppressant[51,68]||||||||||5748|5748|immunosuppressant

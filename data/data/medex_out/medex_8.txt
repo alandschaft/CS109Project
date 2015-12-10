@@ -1,0 +1,2 @@
+1	1 patient age 2 to 75 year will be consider for therapy child under age 18 will not normally be eligible for use of immunosuppressive other than corticosteroid|corticosteroid[145,159]||||||||||354|354|corticosteroid
+1	1 patient age 2 to 75 year will be consider for therapy child under age 18 will not normally be eligible for use of immunosuppressive other than corticosteroid|immunosuppressive[116,133]||||||||||5748|5748|immunosuppressive

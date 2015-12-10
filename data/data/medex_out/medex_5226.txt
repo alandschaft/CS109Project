@@ -1,0 +1,1 @@
+1	6 use of a benzodiazepine within 1 week of presentation|benzodiazepine[11,25]|||||||1 week[33,39]|||1402|1402|benzodiazepine

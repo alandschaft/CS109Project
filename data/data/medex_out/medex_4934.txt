@@ -1,0 +1,2 @@
+1	5 female subject of childbearing potential must take adequate contraceptive precaution method with a published failure rate of less than 1 per year or condom/diaphragm or diaphragm/spermicide|contraceptive[62,75]||||||||||64078|64078|contraceptive
+1	5 female subject of childbearing potential must take adequate contraceptive precaution method with a published failure rate of less than 1 per year or condom/diaphragm or diaphragm/spermicide|spermicide[181,191]||||||||||9969|9969|spermicide

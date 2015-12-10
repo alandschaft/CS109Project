@@ -1,0 +1,3 @@
+1	concurrent calcium channel beta-blocker or digoxin therapy|beta - blocker[27,39]||||||||||371|371|beta-blocker
+1	concurrent calcium channel beta-blocker or digoxin therapy|calcium[11,18]|||||||||C0006675|1895|1895|calcium
+1	concurrent calcium channel beta-blocker or digoxin therapy|digoxin[43,50]|||||||||C0012265|3407|3407|digoxin

@@ -1,0 +1,2 @@
+1	11 bleeding diathesis or on oral anti-vitamin k medication other than low dose warfarin|warfarin[79,87]|||||||||C0043031|11289|11289|warfarin
+1	11 bleeding diathesis or on oral anti-vitamin k medication other than low dose warfarin|vitamin k[38,47]|||||oral[28,32]||||C1253206|757324|11258|vitamin k (obsolete)

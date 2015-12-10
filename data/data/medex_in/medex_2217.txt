@@ -1,0 +1,1 @@
+patient must currently be receive at least one aed but not more than three aeds in a stable dosage regimen for at least one month before randomization 

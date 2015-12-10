@@ -1,0 +1,1 @@
+1	if prior chemotherapy must have complete chemotherapy 6 month prior to enrollment to allow washout of chemotherapeutic agent|chemotherapeutic agent[102,124]|||||||6 month[54,61]|||225337|225337|chemotherapeutic agent

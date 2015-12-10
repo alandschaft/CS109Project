@@ -1,0 +1,2 @@
+1	16 patient with a know hypersensitivity to rufinamide triazole derivative or to any excipients use in the formulation|triazole derivative[54,73]|||||||||C3541389|1427899|1427899|triazole derivative
+1	16 patient with a know hypersensitivity to rufinamide triazole derivative or to any excipients use in the formulation|rufinamide[43,53]|||||||||C0213404|69036|69036|rufinamide

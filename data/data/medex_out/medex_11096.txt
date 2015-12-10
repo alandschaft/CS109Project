@@ -1,0 +1,1 @@
+1	patient with localization-related epilepsy who have add a second drug to the monotherapy have n't obtain an adequate reduction of seizure frequency with this combination and have respond to zonisamide add a third drug for at least three month|zonisamide[190,200]|||||||three month[231,242]||C0078844|39998|39998|zonisamide

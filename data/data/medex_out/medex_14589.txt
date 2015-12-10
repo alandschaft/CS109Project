@@ -1,0 +1,2 @@
+1	any pre-existing ocular irritation injury or condition include infection or disease of the cornea conjunctiva or eyelid that would preclude contact lens fit and safe wearing of contact lens|contact lens[140,152]||||||||||2809|2809|contact lens
+1	any pre-existing ocular irritation injury or condition include infection or disease of the cornea conjunctiva or eyelid that would preclude contact lens fit and safe wearing of contact lens|contact lens[177,189]||||||||||2809|2809|contact lens

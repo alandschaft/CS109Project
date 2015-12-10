@@ -1,0 +1,1 @@
+1	6 subject who have receive an investigational new drug or device in the past three month before screen and enrollment|investigational new drug[30,54]|||||||three month[77,88]||C1875327|691729|691729|investigational new drug

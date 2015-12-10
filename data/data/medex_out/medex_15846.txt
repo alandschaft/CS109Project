@@ -1,0 +1,2 @@
+1	daily or weekly use of acid blocker antacid anti-diarrhea stimulant appetite suppressant or anti nausea medication or other drug that modulate gi function|stimulant[58,67]||||||||||91146|91146|stimulant
+1	daily or weekly use of acid blocker antacid anti-diarrhea stimulant appetite suppressant or anti nausea medication or other drug that modulate gi function|anti - diarrhea[44,57]||||||daily[0,5]||||215315|6468|loperamide

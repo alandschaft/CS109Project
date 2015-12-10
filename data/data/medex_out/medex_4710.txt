@@ -1,0 +1,2 @@
+1	the patient have get a vagus nerve stimulator implant within the last 18 month have start a new antiepileptic drug within the last 2 month or have change his antiepileptic drug the last month|antiepileptic[96,109]|||||||2 month[131,138]||C0003299|932|932|antiepileptic
+1	the patient have get a vagus nerve stimulator implant within the last 18 month have start a new antiepileptic drug within the last 2 month or have change his antiepileptic drug the last month|antiepileptic[158,171]|||||||||C0003299|932|932|antiepileptic

@@ -1,0 +1,4 @@
+1	18 concomitant use of acetazolamide carbonic anhydrase inhibitor such a topiramate and drug with anticholinergic activity|topiramate[72,82]|||||||||C0076829|38404|38404|topiramate
+1	18 concomitant use of acetazolamide carbonic anhydrase inhibitor such a topiramate and drug with anticholinergic activity|carbonic anhydrase inhibitor[36,64]||||||||||2048|2048|carbonic anhydrase inhibitor
+1	18 concomitant use of acetazolamide carbonic anhydrase inhibitor such a topiramate and drug with anticholinergic activity|acetazolamide[22,35]|||||||||C0000981|167|167|acetazolamide
+1	18 concomitant use of acetazolamide carbonic anhydrase inhibitor such a topiramate and drug with anticholinergic activity|anticholinergic[97,112]||||||||||71624|71624|anticholinergic

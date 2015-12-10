@@ -1,0 +1,1 @@
+1	requires anticoagulant drug therapy|anticoagulant drug[9,27]||||||||||923|923|anticoagulant drug

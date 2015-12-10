@@ -1,0 +1,1 @@
+1	use of other investigational compound experimental drug or device within 30 day of the screening visit|experimental drug[38,55]|||||||30 day[73,79]|||91034|91034|experimental drug

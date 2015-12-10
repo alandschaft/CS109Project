@@ -1,0 +1,4 @@
+1	4 subject who have receive optimal medical management from migraine include triptans imitrex amerge and relpax|amerge[93,99]|||||||||C0594660|153442|141366|naratriptan
+1	4 subject who have receive optimal medical management from migraine include triptans imitrex amerge and relpax|imitrex[85,92]|||||||||C0721044|217713|37418|sumatriptan
+1	4 subject who have receive optimal medical management from migraine include triptans imitrex amerge and relpax|triptans[76,84]||||||||||||
+1	4 subject who have receive optimal medical management from migraine include triptans imitrex amerge and relpax|relpax[104,110]||||||||||353724|231049|eletriptan

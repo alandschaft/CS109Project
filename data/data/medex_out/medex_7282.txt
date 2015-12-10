@@ -1,0 +1,3 @@
+1	7 patient already take fluoxetine or other selective serotonin reuptake inhibitor ssri|fluoxetine[23,33]|||||||||C0016365|4493|4493|fluoxetine
+1	7 patient already take fluoxetine or other selective serotonin reuptake inhibitor ssri|ssri[82,86]||||||||||1026630|1026630|ssri
+1	7 patient already take fluoxetine or other selective serotonin reuptake inhibitor ssri|serotonin reuptake inhibitor[53,81]||||||||||1026630|1026630|serotonin reuptake inhibitor

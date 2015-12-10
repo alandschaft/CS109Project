@@ -1,0 +1,1 @@
+5 screening ekg with a qtc less than 450 msec confirm by central laboratory prior to enrollment to the study 
