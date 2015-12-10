@@ -1,5 +1,5 @@
 from lib import init_data, get_terms, get_docs, filter_terms
-
+import copy
 
 data = init_data()
 default_fields = ['session_id', 'ui_terms', 'ui_docs', 'selected_terms']
@@ -19,10 +19,10 @@ def create_session_data():
 
     session_data = {
         'n_show_docs': 20,
-        'candidate_terms': data['candidate_terms_init'],
-        'candidate_docs': data['candidate_docs_init'],
-        'ui_terms': data['ui_terms_init'],
-        'ui_docs': data['candidate_docs_init'][:20],
+        'candidate_terms': copy.deepcopy(data['candidate_terms_init']),
+        'candidate_docs': copy.deepcopy(data['candidate_docs_init']),
+        'ui_terms': copy.deepcopy(data['ui_terms_init']),
+        'ui_docs': copy.deepcopy(data['candidate_docs_init'][:20]),
         'selected_terms': []
     }
     return session_data
@@ -47,7 +47,7 @@ def on_next(session_data):
 def on_select_term(session_data, term):
 
     session_data['selected_terms'].append({'text': term})
-    session_data['candidate_terms'].remove(term)
+    if term in session_data['candidate_terms']: session_data['candidate_terms'].remove(term)
 
     session_data['candidate_docs'] = [
         doc for doc in session_data['candidate_docs'] if term in doc['terms']

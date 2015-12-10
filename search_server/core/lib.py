@@ -51,22 +51,48 @@ def filter_docs(docs, curr_terms, m):
     return _docs
 
 
-def get_terms(terms, docs, n=40, k=10, m=5):
+n_terms=40
+# K and M were chosed using simulation
+k_terms=9
+m_terms=3
+def get_terms(terms, docs):
     """
-        (n, k, m) realization, which takes terms and docs
-        and returns n terms with freqs.
+        Terms selection algorithm:
+        The purpose of the algorith is to build a list of "most relevant terms" to show to the user.
+        "Most Relevant Terms" (MRT) has two properties that the algorithm tries to balance:
+        (1) Include the most frequent terms
+        (2) Maximize the number documents that include the some of the selected terms
+        The algorithm constructs the list of n_terms terms by iteratively:
+        (1) Calculate term frequencies
+        (2) Add k_terms most frequent terms to the returned list of terms
+        (3) Remove all documents that include at least m_terms from the k_terms selected in the current 
+            iteration from the list of documents used to calculate frequencies for the next iterations.
+
+        Parameters:
+        # terms - initial list of terms to choose from
+        # docs - initial list of documents to choose from
+        # n_terms - number of terms to select
+        # k_terms - number of terms to select in each iteration
+        # m_terms - number of terms from k_terms to look for in documents removed in each iteration
+
+        * Invariant: k_terms >= m_terms
     """
     curr_terms_freq = []
     _terms = terms[:]
     _docs = docs[:]
-    while len(curr_terms_freq) < n:
+    # stop when we have enough terms
+    while len(curr_terms_freq) < n_terms:
+        # calculate terms frequencies
         terms_freq = get_freqs(_terms, _docs)
-        curr_terms_freq += terms_freq[:k]
+        # add k_terms most frequent terms to the list of returned terms
+        curr_terms_freq += terms_freq[:k_terms]
         curr_terms = [t['text'] for t in curr_terms_freq]
+        # remove the terms we added to returned terms from terms that will be processed in next iterations
         _terms = filter_terms(_terms, curr_terms)
-        _docs = filter_docs(_docs, curr_terms, m)
-
-    return curr_terms_freq[:n]
+        # remove the documents that contain at least m_terms from current terms from the documnets that will be processed in next iterations
+        _docs = filter_docs(_docs, curr_terms, m_terms)
+    t = [e for e in curr_terms_freq[:n_terms] if e['score'] > 0]
+    return t
 
 def get_tfidf_matrix_and_vectorizer(docs):
         tfidf_vectorizer = TfidfVectorizer()
