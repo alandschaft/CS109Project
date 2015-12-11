@@ -38,7 +38,7 @@ Our goal is to develop a prototype for an interactive information retrieval web 
 * **ClinicalTrials_0_Documentation.ipynb** - Plot distribution of inclusion and exclusion criteria
 * **ClinicalTrials_1_extract_criteria.ipynb** - automatically query and download data from clinicaltrials.gov, Extract inclusion and exclusion criteria, tag, lemmatize, ngrammize and filter.
 * **ClinicalTrials_2_metamap.ipynb** - UMLS documentation, CUIs extraction with MetaMap
-* **ClinicalTrials_3_metamap_terms_stats.ipynb** - Plot ditribution of UMLS Sematic Types in the data
+* **ClinicalTrials_3_metamap_terms_stats.ipynb** - Plot ditribution of UMLS Semantic Types in the data
 * ClinicalTrials_4_clustering.ipynb - Some experiments with clinical trials clustering. We did not pursue this direction further.
 * **ClinicalTrials_5_medex.ipynb** - Drug-related data extraction using MedEx
 * **ClinicalTrials_6_merge_tags.ipynb** - Merging MetaMap & MedEx datasets
