@@ -1,1 +1,0 @@
-1	2 the patient be currently receive a stable dose of clobazam of at least 0.5 mg/kg/day maximum 20 mg/day for at least 3 month|clobazam[52,60]|||0.5mg / kg / day[73,86]||||3 month[118,125]||C0055891|21241|21241|clobazam

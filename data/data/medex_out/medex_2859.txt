@@ -1,2 +1,0 @@
-1	patient who receive anthelmintic drug ahd during the year precede presentation or who receive steroid within 30 day of presentation|anthelmintic[20,32]||||||||||868|868|anthelmintic
-1	patient who receive anthelmintic drug ahd during the year precede presentation or who receive steroid within 30 day of presentation|steroid[94,101]|||||||30 day[109,115]|||10072|10072|steroid

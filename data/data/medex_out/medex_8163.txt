@@ -1,1 +1,0 @@
-1	physician diagnosis of any chronic medical condition require treatment with oral corticosteroid confirm by chart review and/or patient assessment by the pi or co-i.s|corticosteroid[81,95]|||||oral[76,80]|||||354|354|corticosteroid

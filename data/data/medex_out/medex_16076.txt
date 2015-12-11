@@ -1,1 +1,0 @@
-1	medication other than contraceptive|contraceptive[22,35]||||||||||64078|64078|contraceptive

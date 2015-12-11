@@ -1,3 +1,0 @@
-1	current use of antidepressant anxiolytic or antipsychotic agent|anxiolytic[30,40]||||||||||10694|10694|anxiolytic
-1	current use of antidepressant anxiolytic or antipsychotic agent|antidepressant[15,29]||||||||||927|927|antidepressant
-1	current use of antidepressant anxiolytic or antipsychotic agent|antipsychotic agent[44,63]||||||||||10693|10693|antipsychotic drug

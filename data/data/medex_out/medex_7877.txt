@@ -1,2 +1,0 @@
-1	9 previous exposure to gemcitabine and taxotere will only be allow if there be no residual toxicity from previous treatment toxicity must be grade a 0 or 1 prior to study|gemcitabine[23,34]|||||||||C0045093|12574|12574|gemcitabine
-1	9 previous exposure to gemcitabine and taxotere will only be allow if there be no residual toxicity from previous treatment toxicity must be grade a 0 or 1 prior to study|taxotere[39,47]|||||||||C0699967|202982|72962|docetaxel

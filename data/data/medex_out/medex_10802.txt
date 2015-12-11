@@ -1,2 +1,0 @@
-1	be take any non-benzodiazepine anticonvulsant|anticonvulsant[31,45]||||||||||926|926|anticonvulsant
-1	be take any non-benzodiazepine anticonvulsant|benzodiazepine[16,30]||||||||||1402|1402|benzodiazepine

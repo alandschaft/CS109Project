@@ -1,1 +1,0 @@
-1	21 patient who have receive chemotherapy or any investigational drug 2 week prior to start study drug or who have not recover from side effect of such therapy|investigational drug[48,68]|||||||2 week[69,75]||C1875327|691729|691729|investigational drug

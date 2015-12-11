@@ -1,1 +1,0 @@
-1	any child who have receive an anticonvulsant agent within 1 hour of presentation|anticonvulsant agent[30,50]|||||||1 hour[58,64]|||926|926|anticonvulsant agent

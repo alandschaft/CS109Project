@@ -1,2 +1,0 @@
-1	current use of a medication know to low seizure threshold e.g bupropion or a neuroleptic|bupropion[62,71]|||||||||C0085208|42347|42347|bupropion
-1	current use of a medication know to low seizure threshold e.g bupropion or a neuroleptic|neuroleptic[77,88]||||||||||10693|10693|antipsychotic drug

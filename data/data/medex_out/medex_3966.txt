@@ -1,3 +1,0 @@
-1	subject must be willing to forego other cytotoxic and non-cytotoxic drug therapy against the tumor while be treat with zd6474 zactimatm with the exception of temozolomide|temozolomide[158,170]|||||||||C0076080|37776|37776|temozolomide
-1	subject must be willing to forego other cytotoxic and non-cytotoxic drug therapy against the tumor while be treat with zd6474 zactimatm with the exception of temozolomide|zd6474[119,125]||||||||||||
-1	subject must be willing to forego other cytotoxic and non-cytotoxic drug therapy against the tumor while be treat with zd6474 zactimatm with the exception of temozolomide|cytotoxic drug[58,72]||||||||||91222|91222|cytotoxic drug

@@ -1,3 +1,0 @@
-1	current treatment with three antiepileptic drug the last antiepileptic drug introduce must be zonisamide|zonisamide[94,104]|||||||||C0078844|39998|39998|zonisamide
-1	current treatment with three antiepileptic drug the last antiepileptic drug introduce must be zonisamide|antiepileptic[29,42]|||||||||C0003299|932|932|antiepileptic
-1	current treatment with three antiepileptic drug the last antiepileptic drug introduce must be zonisamide|antiepileptic[57,70]|||||||||C0003299|932|932|antiepileptic

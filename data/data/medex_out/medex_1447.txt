@@ -1,1 +1,0 @@
-1	use of at least 2 anticonvulsant drug|anticonvulsant[18,32]||||||||||926|926|anticonvulsant

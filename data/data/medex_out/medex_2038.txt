@@ -1,2 +1,0 @@
-1	7 subject must have a negative urine drug screen phencyclidine cocaine amphetamine tetrahydrocannabinol and opiates at visit 1|tetrahydrocannabinol[83,103]|||||||||C0039663|10402|10402|dronabinol
-1	7 subject must have a negative urine drug screen phencyclidine cocaine amphetamine tetrahydrocannabinol and opiates at visit 1|amphetamine[71,82]|||||||||C0002658|725|725|amfetamine

@@ -1,2 +1,0 @@
-1	currently take or have take felbamate within the past 18 month or have take vigabatrin in the past|felbamate[28,37]|||||||18 month[54,62]||C0060135|24812|24812|felbamate
-1	currently take or have take felbamate within the past 18 month or have take vigabatrin in the past|vigabatrin[76,86]|||||||||C0048044|14851|14851|vigabatrin

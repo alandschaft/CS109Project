@@ -1,1 +1,0 @@
-1	a diagnosis and history of a photoparoxysmal response on eeg with or without a diagnosis of epilepsy for which patient be on 0-1 concomitant antiepileptic drug|antiepileptic[141,154]|||||||||C0003299|932|932|antiepileptic

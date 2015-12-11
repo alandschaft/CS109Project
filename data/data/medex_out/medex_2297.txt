@@ -1,3 +1,0 @@
-1	epilepsy resistant to antiepileptic drug and dopaminergic d2 agonist|antiepileptic[22,35]|||||||||C0003299|932|932|antiepileptic
-1	epilepsy resistant to antiepileptic drug and dopaminergic d2 agonist|agonist[61,68]||||||||||132988|132988|agonist
-1	epilepsy resistant to antiepileptic drug and dopaminergic d2 agonist|dopaminergic[45,57]|||||||||C2757007|992714|992714|dopaminergic

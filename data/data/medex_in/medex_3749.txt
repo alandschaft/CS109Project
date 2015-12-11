@@ -1,1 +1,0 @@
-8 patient with clinically significant ecg abnormality include prolong qtc define a qtc =450 msec use fridericia 's correction 

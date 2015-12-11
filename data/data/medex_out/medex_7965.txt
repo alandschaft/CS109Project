@@ -1,2 +1,0 @@
-1	5 patient have take an investigational drug within a period of five time the mean elimination half-life of the investigational drug plus two week|investigational drug[23,43]|||||||two week[137,145]||C1875327|691729|691729|investigational drug
-1	5 patient have take an investigational drug within a period of five time the mean elimination half-life of the investigational drug plus two week|investigational drug[111,131]|||||||||C1875327|691729|691729|investigational drug

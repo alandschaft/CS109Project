@@ -1,1 +1,0 @@
-patient will be exclude only if their chart do not contain the clinical data under review 

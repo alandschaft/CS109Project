@@ -1,1 +1,0 @@
-1	patient take antidepressant medication|antidepressant[13,27]||||||||||927|927|antidepressant

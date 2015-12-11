@@ -1,1 +1,0 @@
-1	7 subject susceptible to lactate infusion|lactate[25,32]|||||||||C0376261|114202|114202|lactate

@@ -1,1 +1,0 @@
-1	prior use of cyclosporine within 6 month to next line of treatment|cyclosporine[13,25]|||||||6 month[33,40]||C0010592|3008|3008|ciclosporin

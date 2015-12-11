@@ -1,1 +1,0 @@
-1	treatment with iron supplement within the past 6 month|iron supplement[15,30]|||||||6 month[47,54]|||1030295|1030295|iron supplement

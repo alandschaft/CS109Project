@@ -1,2 +1,0 @@
-1	patient have receive intravenous epoetin alfa or epoetin beta for a least 6 month when the inform consent be sign|epoetin alfa[33,45]|||||intravenous[21,32]||||C0357126|105694|105694|epoetin alfa,recombinant
-1	patient have receive intravenous epoetin alfa or epoetin beta for a least 6 month when the inform consent be sign|epoetin beta[49,61]|||||||6 month[74,81]||C0357131|105695|105695|epoetin beta

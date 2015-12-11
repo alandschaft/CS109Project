@@ -1,3 +1,0 @@
-1	4 the patient be on cannabidiol medical marijuana or any drug that contains cannabinoids|medical marijuana[32,49]|||||||||C0024808|6650|6650|marijuana
-1	4 the patient be on cannabidiol medical marijuana or any drug that contains cannabinoids|cannabidiol[20,31]||||||||||1974|1974|cannabidiol
-1	4 the patient be on cannabidiol medical marijuana or any drug that contains cannabinoids|cannabinoids[76,88]||||||||||1975|1975|cannabinoids

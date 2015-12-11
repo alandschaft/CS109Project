@@ -1,2 +1,0 @@
-1	patient be use a medication that significantly impact glucose metabolism oral steroid except if stable for at least the last three month and expect to remain stable for the study duration|steroid[78,85]|||||oral[73,77]||three month[125,136]|||10072|10072|steroid
-1	patient be use a medication that significantly impact glucose metabolism oral steroid except if stable for at least the last three month and expect to remain stable for the study duration|impact[47,53]|||||||||C0726639|222931|222931|impact

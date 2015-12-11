@@ -1,2 +1,0 @@
-1	concurrent use of gabapentin or pregabalin for other indication seizure disorder chronic pain|gabapentin[18,28]|||||||||C0060926|25480|25480|gabapentin
-1	concurrent use of gabapentin or pregabalin for other indication seizure disorder chronic pain|pregabalin[32,42]|||||||||C0657912|187832|187832|pregabalin

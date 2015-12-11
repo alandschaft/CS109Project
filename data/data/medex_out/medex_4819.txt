@@ -1,1 +1,0 @@
-1	prior lamotrigine use exclude if treatment discontinue for clinically significant safety reason i.e. rash hypersensitivity|lamotrigine[6,17]|||||||||C0064636|28439|28439|lamotrigine

@@ -1,2 +1,0 @@
-1	5. take neuroleptic or antidepressant medication|neuroleptic[8,19]||||||||||10693|10693|antipsychotic drug
-1	5. take neuroleptic or antidepressant medication|antidepressant[23,37]||||||||||927|927|antidepressant

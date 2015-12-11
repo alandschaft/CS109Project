@@ -1,2 +1,0 @@
-1	undergo polytherapy treatment with the medication valproate and one or more other antiepileptic drug s|valproate[50,59]|||||||||C0080356|40254|40254|valproate
-1	undergo polytherapy treatment with the medication valproate and one or more other antiepileptic drug s|antiepileptic[82,95]|||||||||C0003299|932|932|antiepileptic

@@ -1,2 +1,0 @@
-1	no prior/concurrent magnesium sulfate or dihydropyridine agent|magnesium sulfate[20,37]|||||||||C0024480|6585|6585|magnesium sulfate
-1	no prior/concurrent magnesium sulfate or dihydropyridine agent|dihydropyridine[41,56]||||||||||1431549|1431549|dihydropyridine

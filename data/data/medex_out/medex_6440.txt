@@ -1,1 +1,0 @@
-1	7 patient use rescue benzodiazepine at least twice in a 4-week duration within 8 week if 1 or 2 dos over 24-hour period consider one-time rescue|benzodiazepine[21,35]|||||||8 week[79,85]|||1402|1402|benzodiazepine

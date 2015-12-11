@@ -1,2 +1,0 @@
-1	ineffective or intolerable present therapy with 1 antiepileptic drug or none of previous antiepileptic therapy|antiepileptic[50,63]|||||||||C0003299|932|932|antiepileptic
-1	ineffective or intolerable present therapy with 1 antiepileptic drug or none of previous antiepileptic therapy|antiepileptic[89,102]|||||||||C0003299|932|932|antiepileptic

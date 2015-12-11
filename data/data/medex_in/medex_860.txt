@@ -1,1 +1,0 @@
-control diabetes if diabetes mellitus be present 

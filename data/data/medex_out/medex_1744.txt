@@ -1,1 +1,0 @@
-1	3 patient have no antiepileptic drug for the last 4 month|antiepileptic[18,31]|||||||4 month[50,57]||C0003299|932|932|antiepileptic

@@ -1,1 +1,0 @@
-patient 's ecog performance status must be 0-2 

@@ -1,3 +1,0 @@
-1	5 concurrent use of vigabatrin tiagabine or ezogabine be not permit|tiagabine[31,40]|||||||||C0068897|31914|31914|tiagabine
-1	5 concurrent use of vigabatrin tiagabine or ezogabine be not permit|vigabatrin[20,30]|||||||||C0048044|14851|14851|vigabatrin
-1	5 concurrent use of vigabatrin tiagabine or ezogabine be not permit|ezogabine[44,53]|||||||||C0530684|1112990|1112990|retigabine

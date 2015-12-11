@@ -1,3 +1,0 @@
-1	2 known hypersensitivity to an mtor inhibitor everolimus sirolimus|sirolimus[57,66]|||||||||C0072980|35302|35302|sirolimus
-1	2 known hypersensitivity to an mtor inhibitor everolimus sirolimus|everolimus[46,56]|||||||||C0541315|141704|141704|everolimus
-1	2 known hypersensitivity to an mtor inhibitor everolimus sirolimus|mtor inhibitor[31,45]||||||||||496497|496497|mtor inhibitor

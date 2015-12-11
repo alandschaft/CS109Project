@@ -1,2 +1,0 @@
-1	patient who be prescribe vimpat or any other add-on antiepileptic drug aed may be include in the study|vimpat[25,31]|||||||||C2370095|809979|623400|lacosamide
-1	patient who be prescribe vimpat or any other add-on antiepileptic drug aed may be include in the study|antiepileptic[52,65]|||||||||C0003299|932|932|antiepileptic

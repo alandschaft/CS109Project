@@ -1,1 +1,0 @@
-1	use multiple daily insulin injection lantus or on an insulin pump any brand|lantus[37,43]||||||daily[13,18]||||261551|274783|insulin glargine,hum.rec.anlog

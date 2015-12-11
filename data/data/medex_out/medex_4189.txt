@@ -1,1 +1,0 @@
-1	8 subject have receive an investigational drug or device in the three month prior to the screening visit|investigational drug[26,46]|||||||three month[64,75]||C1875327|691729|691729|investigational drug

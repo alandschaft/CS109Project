@@ -1,1 +1,0 @@
-1	stable dose regimen of 1 to 2 market antiepileptic drug s aed s for 28 day prior to screening and duration of trial|antiepileptic[37,50]|||||||28 day[68,74]||C0003299|932|932|antiepileptic

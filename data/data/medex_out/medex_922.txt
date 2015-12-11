@@ -1,2 +1,0 @@
-1	not take valproate or be currently receive valproate result in a trough concentration of less than 40 mcg/ml|valproate[9,18]|||||||||C0080356|40254|40254|valproate
-1	not take valproate or be currently receive valproate result in a trough concentration of less than 40 mcg/ml|valproate[43,52]|||40mcg / ml[99,108]||||||C0080356|40254|40254|valproate

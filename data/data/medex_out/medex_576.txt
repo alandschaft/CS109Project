@@ -1,1 +1,0 @@
-1	type i antiarrhythmic medication|antiarrhythmic[7,21]|||||||||C0003195|883|883|antiarrhythmic

@@ -1,1 +1,0 @@
-age great than or equal to 15 year old 

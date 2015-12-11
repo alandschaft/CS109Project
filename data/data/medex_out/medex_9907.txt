@@ -1,4 +1,0 @@
-1	subject be currently take levetiracetam lev a an adjunctive antiepileptic oral treatment with 1 to 3 other antiepileptic drug aeds|antiepileptic[60,73]|||||oral[74,78]||||C0003299|932|932|antiepileptic
-1	subject be currently take levetiracetam lev a an adjunctive antiepileptic oral treatment with 1 to 3 other antiepileptic drug aeds|antiepileptic[107,120]|||||||||C0003299|932|932|antiepileptic
-1	subject be currently take levetiracetam lev a an adjunctive antiepileptic oral treatment with 1 to 3 other antiepileptic drug aeds|lev[40,43]|||||||||C3220305|1166072|5032|guaifenesin
-1	subject be currently take levetiracetam lev a an adjunctive antiepileptic oral treatment with 1 to 3 other antiepileptic drug aeds|levetiracetam[26,39]|||||||||C0377265|114477|114477|levetiracetam

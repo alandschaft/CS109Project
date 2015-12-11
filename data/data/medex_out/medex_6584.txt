@@ -1,3 +1,0 @@
-1	anti-epileptic drug treatment with phenytoin or phenobarbital or valproate sodium|phenytoin[35,44]|||||||||C0031507|8183|8183|phenytoin
-1	anti-epileptic drug treatment with phenytoin or phenobarbital or valproate sodium|phenobarbital[48,61]|||||||||C0031412|8134|8134|phenobarbital
-1	anti-epileptic drug treatment with phenytoin or phenobarbital or valproate sodium|valproate sodium[65,81]||||||||||11118|11118|valproic acid

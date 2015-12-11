@@ -1,1 +1,0 @@
-cohort 1 patient must be receive stable treatment with 1 or a maximum of 2 aeds.cohort 2 patient must be receive stable treatment with 1 2 or 3 aeds 

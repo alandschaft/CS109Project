@@ -1,1 +1,0 @@
-1	participant who have take topiramate within the three month of study start|topiramate[26,36]|||||||three month[48,59]||C0076829|38404|38404|topiramate

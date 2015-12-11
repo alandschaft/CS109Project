@@ -1,3 +1,0 @@
-1	history of ethosuximide use felbamate use after 1994 or vigabatrin use after 1997|felbamate[28,37]|||||||||C0060135|24812|24812|felbamate
-1	history of ethosuximide use felbamate use after 1994 or vigabatrin use after 1997|ethosuximide[11,23]|||||||||C0015043|4135|4135|ethosuximide
-1	history of ethosuximide use felbamate use after 1994 or vigabatrin use after 1997|vigabatrin[56,66]|||||||||C0048044|14851|14851|vigabatrin

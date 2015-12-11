@@ -1,1 +1,0 @@
-1	severe medical neurological and psychiatric disorder or laboratory value which may have an impact on the safety of the subject|impact[91,97]|||||||||C0726639|222931|222931|impact

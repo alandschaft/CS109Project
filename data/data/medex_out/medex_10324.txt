@@ -1,1 +1,0 @@
-1	subject taking any immunosuppressant within 28 day prior to visit 1|immunosuppressant[19,36]|||||||28 day[44,50]|||5748|5748|immunosuppressant

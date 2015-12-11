@@ -1,1 +1,0 @@
-patient must be able to remain on their baseline aed drug and dos throughout the study 

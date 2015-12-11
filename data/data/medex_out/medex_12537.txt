@@ -1,4 +1,0 @@
-1	dehydroepiandrosterone dhea pregnenolone or ganaxolone|pregnenolone[28,40]|||||||||C0373704|114052|114052|pregnenolone
-1	dehydroepiandrosterone dhea pregnenolone or ganaxolone|dhea[23,27]||||||||||3143|3143|prasterone
-1	dehydroepiandrosterone dhea pregnenolone or ganaxolone|dehydroepiandrosterone[0,22]|||||||||C0011185|3143|3143|prasterone
-1	dehydroepiandrosterone dhea pregnenolone or ganaxolone|ganaxolone[44,54]||||||||||||

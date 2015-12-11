@@ -1,3 +1,0 @@
-1	use monoamine oxidase inhibitor maoi pimozide or sumatriptan|pimozide[37,45]|||||||||C0031935|8331|8331|pimozide
-1	use monoamine oxidase inhibitor maoi pimozide or sumatriptan|monoamine oxidase inhibitor[4,31]||||||||||7032|7032|monoamine oxidase inhibitor
-1	use monoamine oxidase inhibitor maoi pimozide or sumatriptan|sumatriptan[49,60]|||||||||C0075632|37418|37418|sumatriptan

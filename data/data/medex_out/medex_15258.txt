@@ -1,2 +1,0 @@
-1	1 subject participate in study e2007-g000-332 nct01393743 with at least 52 week of total exposure to perampanel and who in the opinion of the treating physician continue to benefit from treatment with perampanel|perampanel[101,111]|||||||52 week[72,79]|||1356552|1356552|perampanel
-1	1 subject participate in study e2007-g000-332 nct01393743 with at least 52 week of total exposure to perampanel and who in the opinion of the treating physician continue to benefit from treatment with perampanel|perampanel[201,211]||||||||||1356552|1356552|perampanel

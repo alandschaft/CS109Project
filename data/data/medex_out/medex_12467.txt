@@ -1,2 +1,0 @@
-1	5 if the subject have ever wear contact lens the subject must be a current wearer of soft spherical contact lens for at least 5 days/week and at least 8 hours/day during the month prior to enrollment|contact lens[32,44]||||||||||2809|2809|contact lens
-1	5 if the subject have ever wear contact lens the subject must be a current wearer of soft spherical contact lens for at least 5 days/week and at least 8 hours/day during the month prior to enrollment|contact lens[100,112]|||||||5 days[126,132]|||2809|2809|contact lens

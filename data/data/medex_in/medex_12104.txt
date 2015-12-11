@@ -1,1 +1,0 @@
-expected length of stay in icu 12h 

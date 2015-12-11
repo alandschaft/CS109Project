@@ -1,2 +1,0 @@
-1	29 patient who be on drug that prolong qt-interval on ekg many antiarrhythmic tricyclic phenothiazine and others|phenothiazine[88,101]||||||||||8146|8146|phenothiazine
-1	29 patient who be on drug that prolong qt-interval on ekg many antiarrhythmic tricyclic phenothiazine and others|antiarrhythmic[63,77]|||||||||C0003195|883|883|antiarrhythmic

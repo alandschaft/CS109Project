@@ -1,1 +1,0 @@
-1	patient who have be on an investigational drug or device within 30 day prior to the initiation of the present study|investigational drug[26,46]|||||||30 day[64,70]||C1875327|691729|691729|investigational drug

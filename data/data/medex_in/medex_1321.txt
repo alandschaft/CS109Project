@@ -1,1 +1,0 @@
-qtc with bazett 's correction that be unmeasurable or great than or equal to 460 msec on screening ecg if a patient have qtc great than or equal to 460 msec on screening ecg a second screen ecg may be repeat at least 24 hour apart the average qtc from the 2 screen ecg must be less than 460 msec in order for the patient to be eligible for the study 

@@ -1,4 +1,0 @@
-1	current use or use within the previous three month prior to screening of antidepressant anxiolytic or antipsychotic agent subject use benzodiazepine for anxiety will not be permit|anxiolytic[88,98]||||||||||10694|10694|anxiolytic
-1	current use or use within the previous three month prior to screening of antidepressant anxiolytic or antipsychotic agent subject use benzodiazepine for anxiety will not be permit|antidepressant[73,87]|||||||three month[39,50]|||927|927|antidepressant
-1	current use or use within the previous three month prior to screening of antidepressant anxiolytic or antipsychotic agent subject use benzodiazepine for anxiety will not be permit|benzodiazepine[134,148]||||||||||1402|1402|benzodiazepine
-1	current use or use within the previous three month prior to screening of antidepressant anxiolytic or antipsychotic agent subject use benzodiazepine for anxiety will not be permit|antipsychotic agent[102,121]||||||||||10693|10693|antipsychotic drug

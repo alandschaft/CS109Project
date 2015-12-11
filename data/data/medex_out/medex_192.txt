@@ -1,1 +1,0 @@
-1	at least 1 month of standard antiepileptic drug with documented therapeutic blood level|antiepileptic[29,42]|||||||1 month[9,16]||C0003299|932|932|antiepileptic

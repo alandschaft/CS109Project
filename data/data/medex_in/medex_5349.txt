@@ -1,1 +1,0 @@
-volunteer will be exclude if they have any of the following 

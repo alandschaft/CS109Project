@@ -1,2 +1,0 @@
-1	7 use of oxcarbazepine or phenytoin within 10 day prior to first dose of sm|oxcarbazepine[9,22]|||||||||C0069751|32624|32624|oxcarbazepine
-1	7 use of oxcarbazepine or phenytoin within 10 day prior to first dose of sm|phenytoin[26,35]|||||||10 day[43,49]||C0031507|8183|8183|phenytoin

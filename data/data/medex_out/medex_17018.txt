@@ -1,1 +1,0 @@
-1	participant on clb at dos above 20 mg per day|clb[15,18]|||20mg[32,37]|||per day[38,45]||||||

@@ -1,3 +1,0 @@
-1	shorter acting benzodiazepine aplrazolam lorazepam will be allow on a prn basis but exclude 12 hour before each ect session|benzodiazepine[15,29]||||||||||1402|1402|benzodiazepine
-1	shorter acting benzodiazepine aplrazolam lorazepam will be allow on a prn basis but exclude 12 hour before each ect session|lorazepam[41,50]|||||||||C0024002|6470|6470|lorazepam
-1	shorter acting benzodiazepine aplrazolam lorazepam will be allow on a prn basis but exclude 12 hour before each ect session|lorazepam[15,29]|||||||12 hour[92,99]|prn[70,73]|C0024002|6470|6470|lorazepam

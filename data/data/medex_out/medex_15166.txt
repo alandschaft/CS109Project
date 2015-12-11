@@ -1,3 +1,0 @@
-1	subject require an intermediate or long-acting insulin such a nph detemir or glargine|nph[62,65]||||||||||311030|221108|insulin isophane,pork pure
-1	subject require an intermediate or long-acting insulin such a nph detemir or glargine|long - acting insulin[35,54]|||||||||C0304870|91461|91461|long-acting insulin
-1	subject require an intermediate or long-acting insulin such a nph detemir or glargine|glargine[77,85]||||||||||274783|274783|insulin glargine,hum.rec.anlog

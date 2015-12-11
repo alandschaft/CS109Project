@@ -1,1 +1,0 @@
-1	intrathecal cytarabine therapy give at diagnosis allow|cytarabine[12,22]|||||||||C0010711|3041|3041|cytarabine

@@ -1,3 +1,0 @@
-1	subject have any know or suspect hypersensitivity to cannabinoids or any of the excipients of the investigational medicinal product imp such a sesame oil|cannabinoids[53,65]||||||||||1975|1975|cannabinoids
-1	subject have any know or suspect hypersensitivity to cannabinoids or any of the excipients of the investigational medicinal product imp such a sesame oil|sesame oil[143,153]|||||||||C0036845|1309247|1309247|sesame oil
-1	subject have any know or suspect hypersensitivity to cannabinoids or any of the excipients of the investigational medicinal product imp such a sesame oil|medicinal product[114,131]||||||||||107337|107337|medicinal product

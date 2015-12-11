@@ -1,1 +1,0 @@
-1	use of dietary supplementation other than vitamin within the last 3 month|vitamin[42,49]|||||||3 month[66,73]|||11262|11262|vitamin

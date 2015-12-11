@@ -1,1 +1,0 @@
-1	patient on vigabatrin|vigabatrin[11,21]|||||||||C0048044|14851|14851|vigabatrin

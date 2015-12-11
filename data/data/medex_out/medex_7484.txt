@@ -1,2 +1,0 @@
-1	patient take vpa a an anti-seizure agent or for any other indication|anti - seizure agent[22,40]||||||||||104981|104981|anti-seizure agent
-1	patient take vpa a an anti-seizure agent or for any other indication|vpa[13,16]||||||||||1099703|40254|valproate

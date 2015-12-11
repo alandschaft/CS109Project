@@ -1,2 +1,0 @@
-1	actively on hypertonic saline or mannitol|hypertonic saline[12,29]||||||||||9528|9528|sodium chloride, hypertonic
-1	actively on hypertonic saline or mannitol|mannitol[33,41]|||||||||C0024730|6628|6628|mannitol

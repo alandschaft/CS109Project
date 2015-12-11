@@ -1,3 +1,0 @@
-1	subject on felbamate with few than 18 month of continuous felbamate exposure at the time of the screening visit or with significant adverse reaction to felbamate|felbamate[11,20]|||||||18 month[35,43]||C0060135|24812|24812|felbamate
-1	subject on felbamate with few than 18 month of continuous felbamate exposure at the time of the screening visit or with significant adverse reaction to felbamate|felbamate[58,67]|||||||||C0060135|24812|24812|felbamate
-1	subject on felbamate with few than 18 month of continuous felbamate exposure at the time of the screening visit or with significant adverse reaction to felbamate|felbamate[152,161]|||||||||C0060135|24812|24812|felbamate

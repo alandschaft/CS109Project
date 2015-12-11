@@ -1,3 +1,0 @@
-1	the calcium adjust for albumin be to be obtain and substitute for the measure serum value exclusion be to then be base on the adjust for albumin value fall below the normal limit|albumin[23,30]|||||||||C0001924|433|433|albumin
-1	the calcium adjust for albumin be to be obtain and substitute for the measure serum value exclusion be to then be base on the adjust for albumin value fall below the normal limit|calcium[4,11]|||||||||C0006675|1895|1895|calcium
-1	the calcium adjust for albumin be to be obtain and substitute for the measure serum value exclusion be to then be base on the adjust for albumin value fall below the normal limit|albumin[137,144]|||||||||C0001924|433|433|albumin

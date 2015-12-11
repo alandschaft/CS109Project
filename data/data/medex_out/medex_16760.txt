@@ -1,6 +1,0 @@
-1	subject take concomitant antiepileptic drug aeds other than phenytoin or phenobarbital must not be take phenytoin or phenobarbital or primidone|phenytoin[60,69]|||||||||C0031507|8183|8183|phenytoin
-1	subject take concomitant antiepileptic drug aeds other than phenytoin or phenobarbital must not be take phenytoin or phenobarbital or primidone|antiepileptic[25,38]|||||||||C0003299|932|932|antiepileptic
-1	subject take concomitant antiepileptic drug aeds other than phenytoin or phenobarbital must not be take phenytoin or phenobarbital or primidone|phenytoin[104,113]|||||||||C0031507|8183|8183|phenytoin
-1	subject take concomitant antiepileptic drug aeds other than phenytoin or phenobarbital must not be take phenytoin or phenobarbital or primidone|phenobarbital[73,86]|||||||||C0031412|8134|8134|phenobarbital
-1	subject take concomitant antiepileptic drug aeds other than phenytoin or phenobarbital must not be take phenytoin or phenobarbital or primidone|phenobarbital[117,130]|||||||||C0031412|8134|8134|phenobarbital
-1	subject take concomitant antiepileptic drug aeds other than phenytoin or phenobarbital must not be take phenytoin or phenobarbital or primidone|primidone[134,143]|||||||||C0033148|8691|8691|primidone

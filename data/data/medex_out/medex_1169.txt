@@ -1,1 +1,0 @@
-1	participation in a trial of an investigational drug or device within 30 day prior to screening|investigational drug[31,51]|||||||30 day[69,75]||C1875327|691729|691729|investigational drug

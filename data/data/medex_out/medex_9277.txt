@@ -1,2 +1,0 @@
-1	10 patient with bleed diathesis or on oral anti-vitamin k medication except low dose warfarin|warfarin[85,93]|||||||||C0043031|11289|11289|warfarin
-1	10 patient with bleed diathesis or on oral anti-vitamin k medication except low dose warfarin|vitamin k[48,57]|||||oral[38,42]||||C1253206|757324|11258|vitamin k (obsolete)

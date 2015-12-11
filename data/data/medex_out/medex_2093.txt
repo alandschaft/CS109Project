@@ -1,1 +1,0 @@
-1	subject who have participate in an investigational drug trial in the 30 day prior to the screening visit|investigational drug[35,55]|||||||30 day[69,75]||C1875327|691729|691729|investigational drug

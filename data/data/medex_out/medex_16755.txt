@@ -1,2 +1,0 @@
-1	have uncontrolled partial seizure and require additional antiepileptic drug aed therapy despite have be treat with at least one antiepileptic drug aed within approximately the last 2 year|antiepileptic[57,70]|||||||||C0003299|932|932|antiepileptic
-1	have uncontrolled partial seizure and require additional antiepileptic drug aed therapy despite have be treat with at least one antiepileptic drug aed within approximately the last 2 year|antiepileptic[128,141]|||||||||C0003299|932|932|antiepileptic

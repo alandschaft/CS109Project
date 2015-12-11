@@ -1,5 +1,0 @@
-1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|modafinil[99,108]|||||||||C0066677|30125|30125|modafinil
-1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|atomoxetine[87,98]|||||||||C0076823|38400|38400|atomoxetine
-1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|amphetamine[75,86]|||||||||C0002658|725|725|amfetamine
-1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|methylphenidate[59,74]|||||||||C0025810|6901|6901|methylphenidate
-1	use of psychoactive drug in adhd within the previous month methylphenidate amphetamine atomoxetine modafinil and antidepressant whatever the class|antidepressant[113,127]||||||||||927|927|antidepressant

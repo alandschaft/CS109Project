@@ -1,1 +1,0 @@
-1	2 must be in accordance with the diagnostic criterion of epilepsy and have take antiepileptic drug regularly at least for 6 month which will not be change recently the duration to the late seizure must be longer than 24 hour|antiepileptic[80,93]|||||||6 month[122,129]||C0003299|932|932|antiepileptic

@@ -1,2 +1,0 @@
-1	woman currently take phenobarbital or another barbiturate|phenobarbital[21,34]|||||||||C0031412|8134|8134|phenobarbital
-1	woman currently take phenobarbital or another barbiturate|barbiturate[46,57]||||||||||1326|1326|barbiturate

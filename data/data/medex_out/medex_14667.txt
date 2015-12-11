@@ -1,2 +1,0 @@
-1	dysfunction of other vital organ liver and kidney ast 40u/l creatinine 97-106?mol/l urea nitrogen 7.1mmol/l or other lab abnormality heart nyha ii-iv lung hypoxemia|nitrogen[89,97]|||||iv[147,149]||||C0028158|7456|7456|nitrogen
-1	dysfunction of other vital organ liver and kidney ast 40u/l creatinine 97-106?mol/l urea nitrogen 7.1mmol/l or other lab abnormality heart nyha ii-iv lung hypoxemia|urea[84,88]|||||||||C0041942|11002|11002|urea

@@ -1,3 +1,0 @@
-1	4 participant who be on a ketogenic diet or have receive adrenocorticotropic hormone acth therapy or vitamin b6 therapy within 6 month prior to the treatment period|acth[85,89]||||||||||376|376|corticotropin
-1	4 participant who be on a ketogenic diet or have receive adrenocorticotropic hormone acth therapy or vitamin b6 therapy within 6 month prior to the treatment period|adrenocorticotropic hormone[57,84]|||||||||C0001655|376|376|corticotropin
-1	4 participant who be on a ketogenic diet or have receive adrenocorticotropic hormone acth therapy or vitamin b6 therapy within 6 month prior to the treatment period|vitamin b6[101,111]|||||||6 month[127,134]||C0087162|42954|42954|vitamin b6

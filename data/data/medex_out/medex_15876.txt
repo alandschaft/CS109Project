@@ -1,2 +1,0 @@
-1	regular use of neuroleptic narcotic monoamine oxidase moa inhibitor barbiturates for indication other than epilepsy within 28 day prior to visit 1|barbiturates[68,80]|||||||28 day[123,129]|||1326|1326|barbiturates
-1	regular use of neuroleptic narcotic monoamine oxidase moa inhibitor barbiturates for indication other than epilepsy within 28 day prior to visit 1|neuroleptic[15,26]||||||||||10693|10693|antipsychotic drug

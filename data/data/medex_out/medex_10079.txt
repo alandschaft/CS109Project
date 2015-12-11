@@ -1,1 +1,0 @@
-2	require intravenous antibiotic at the time of registration d chronic obstructive pulmonary disease exacerbation or other respiratory illness require hospitalization or preclude study therapy at the time of registration e hepatic insufficiency result in clinical jaundice and/or coagulation defect note|antibiotic[322,332]|||||intravenous[310,321]|||||896|896|antibiotic

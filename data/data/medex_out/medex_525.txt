@@ -1,1 +1,0 @@
-1	have be on the medication valproate for at least 3 month and be currently on a stable daily dose|valproate[26,35]||||||daily[86,91]|3 month[49,56]||C0080356|40254|40254|valproate

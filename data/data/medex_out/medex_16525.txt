@@ -1,2 +1,0 @@
-1	valproate be an aed that partially inhibit the tca cycle via alpha-ketoglutarate dehydrogenase and should not be administer to subject take ux007|alpha - ketoglutarate[61,80]||||||||||17510|17510|alpha-ketoglutarate
-1	valproate be an aed that partially inhibit the tca cycle via alpha-ketoglutarate dehydrogenase and should not be administer to subject take ux007|valproate[0,9]|||||||||C0080356|40254|40254|valproate

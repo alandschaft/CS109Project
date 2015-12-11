@@ -1,1 +1,0 @@
-generalize seizure which be define by the eeg wave pattern 

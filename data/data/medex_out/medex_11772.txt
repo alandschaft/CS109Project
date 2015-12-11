@@ -1,3 +1,0 @@
-1	previous receipt of a measles mumps rubella and/or varicella-virus containing vaccine less than 3 month prior to study entry|rubella[36,43]||||||||||1022799|1022799|rubella
-1	previous receipt of a measles mumps rubella and/or varicella-virus containing vaccine less than 3 month prior to study entry|mumps[30,35]||||||||||1027774|1027774|mumps
-1	previous receipt of a measles mumps rubella and/or varicella-virus containing vaccine less than 3 month prior to study entry|vaccine[78,85]|||||||3 month[96,103]|||11094|11094|vaccine

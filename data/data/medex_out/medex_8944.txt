@@ -1,2 +1,0 @@
-1	11 failure to respond to escitalopram or to two or more other adequate antidepressant trial in the past year|escitalopram[25,37]|||||||||C1099456|321988|321988|escitalopram
-1	11 failure to respond to escitalopram or to two or more other adequate antidepressant trial in the past year|antidepressant[71,85]||||||||||927|927|antidepressant

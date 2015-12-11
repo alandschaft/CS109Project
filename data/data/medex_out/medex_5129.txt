@@ -1,3 +1,0 @@
-1	if the patient be take two concomitant medication the second drug must be levetiracetam gabapentin or pregabalin|gabapentin[88,98]|||||||||C0060926|25480|25480|gabapentin
-1	if the patient be take two concomitant medication the second drug must be levetiracetam gabapentin or pregabalin|levetiracetam[74,87]|||||||||C0377265|114477|114477|levetiracetam
-1	if the patient be take two concomitant medication the second drug must be levetiracetam gabapentin or pregabalin|pregabalin[102,112]|||||||||C0657912|187832|187832|pregabalin

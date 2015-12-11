@@ -1,2 +1,0 @@
-1	5 concomitant use of pressor or inotropic agent|pressor[21,28]||||||||||||
-1	5 concomitant use of pressor or inotropic agent|inotropic agent[32,47]||||||||||91227|91227|inotropic agent

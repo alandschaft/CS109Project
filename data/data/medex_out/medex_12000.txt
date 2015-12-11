@@ -1,2 +1,0 @@
-1	currently take statin medication or have take statin medication in the past 6 month|statin[15,21]||||||||||||
-1	currently take statin medication or have take statin medication in the past 6 month|statin[46,52]|||||||6 month[76,83]|||||

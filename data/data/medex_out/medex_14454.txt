@@ -1,1 +1,0 @@
-1	use of any investigational drug or participate in any clinical trial within the previous 2 month|investigational drug[11,31]|||||||2 month[89,96]||C1875327|691729|691729|investigational drug

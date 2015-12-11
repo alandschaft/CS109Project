@@ -1,1 +1,0 @@
-1	presence of a chronic disease or use of medication know to affect vitamin d metabolism|vitamin d[66,75]|||||||||C0042866|11253|11253|vitamin d

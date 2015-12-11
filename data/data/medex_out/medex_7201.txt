@@ -1,1 +1,0 @@
-1	c. coq10 supplement|coq10[3,8]||||||||||21406|21406|ubidecarenone

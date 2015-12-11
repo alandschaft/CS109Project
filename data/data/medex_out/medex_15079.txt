@@ -1,2 +1,0 @@
-1	morphine or naloxone hypersensitivity/addiction|morphine[0,8]|||||||||C0026549|7052|7052|morphine
-1	morphine or naloxone hypersensitivity/addiction|naloxone[12,20]|||||||||C0027358|7242|7242|naloxone

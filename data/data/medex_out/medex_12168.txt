@@ -1,2 +1,0 @@
-1	participant be on oral folinic acid and/or pyridoxal phosphate treatment at study entrance|folinic acid[23,35]|||||oral[18,22]|||||6313|6313|leucovorin
-1	participant be on oral folinic acid and/or pyridoxal phosphate treatment at study entrance|pyridoxal phosphate[43,62]|||||||||C0034266|9004|9004|pyridoxal 5'-phosphate

@@ -1,1 +1,0 @@
-1	patient take antiarrhythmic and ?-blockers|antiarrhythmic[13,27]|||||||||C0003195|883|883|antiarrhythmic

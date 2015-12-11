@@ -1,1 +1,0 @@
-1	patient not take gabapentin|gabapentin[17,27]|||||||||C0060926|25480|25480|gabapentin

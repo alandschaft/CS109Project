@@ -1,2 +1,0 @@
-1	currently on a stable dose regimen of 1 to 3 aeds for at least 4-weeks prior to visit 1 12 week for phenobarbital and primidone|phenobarbital[100,113]|||||||12 week[88,95]||C0031412|8134|8134|phenobarbital
-1	currently on a stable dose regimen of 1 to 3 aeds for at least 4-weeks prior to visit 1 12 week for phenobarbital and primidone|primidone[118,127]|||||||||C0033148|8691|8691|primidone

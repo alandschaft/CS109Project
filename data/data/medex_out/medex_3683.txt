@@ -1,4 +1,0 @@
-1	10 history of treatment with bisphosphonates calcitonin tamoxifen selective-estrogen receptor modulators or direct skeletal irradiation|estrogen receptor modulators[76,104]||||||||||993144|993144|estrogen receptor modulators
-1	10 history of treatment with bisphosphonates calcitonin tamoxifen selective-estrogen receptor modulators or direct skeletal irradiation|tamoxifen[56,65]|||||||||C0039286|10324|10324|tamoxifen
-1	10 history of treatment with bisphosphonates calcitonin tamoxifen selective-estrogen receptor modulators or direct skeletal irradiation|calcitonin[45,55]||||||||||993043|993043|calcitonin
-1	10 history of treatment with bisphosphonates calcitonin tamoxifen selective-estrogen receptor modulators or direct skeletal irradiation|bisphosphonates[29,44]||||||||||3508|3508|bisphosphonates

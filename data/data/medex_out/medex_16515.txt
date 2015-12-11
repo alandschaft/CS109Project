@@ -1,1 +1,0 @@
-1	can not consume test meal due to intolerance i.e lactose|lactose[49,56]|||||||||C0022949|6211|6211|lactose

@@ -1,1 +1,0 @@
-1	3 patient who will need valproic acid for any medical condition|valproic acid[24,37]|||||||||C0042291|11118|11118|valproic acid

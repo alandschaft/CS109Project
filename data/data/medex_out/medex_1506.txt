@@ -1,1 +1,0 @@
-1	treatment antiepileptic drug for epilepsy|antiepileptic[10,23]|||||||||C0003299|932|932|antiepileptic

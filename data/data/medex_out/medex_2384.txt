@@ -1,1 +1,0 @@
-1	patient with history of status epilepticus repeat or prolong seizure while on antiepileptic therapy|antiepileptic[78,91]|||||||||C0003299|932|932|antiepileptic

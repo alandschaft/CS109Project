@@ -1,3 +1,0 @@
-1	8 concurrent use of monoaminoxidase inhibitor antipsychotic agent antidepressant agent other than ssri or frequent use of triptan agent|ssri[98,102]||||||||||1026630|1026630|ssri
-1	8 concurrent use of monoaminoxidase inhibitor antipsychotic agent antidepressant agent other than ssri or frequent use of triptan agent|antidepressant agent[66,86]||||||||||927|927|antidepressant agent
-1	8 concurrent use of monoaminoxidase inhibitor antipsychotic agent antidepressant agent other than ssri or frequent use of triptan agent|antipsychotic agent[46,65]||||||||||10693|10693|antipsychotic drug

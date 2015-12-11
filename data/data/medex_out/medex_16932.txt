@@ -1,2 +1,0 @@
-1	long-term medication with steroid bisphosphonates|bisphosphonates[34,49]||||||||||3508|3508|bisphosphonates
-1	long-term medication with steroid bisphosphonates|steroid[26,33]||||||||||10072|10072|steroid

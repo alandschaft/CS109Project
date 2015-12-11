@@ -1,2 +1,0 @@
-1	high clinical suspicion of bacterial meningitis or tb meningitis for example presence of frankly purulent csf csf wbc 1000/microlitre bacteria on gram stain and/or culture|csf[106,109]||||||||||40209|40209|csf
-1	high clinical suspicion of bacterial meningitis or tb meningitis for example presence of frankly purulent csf csf wbc 1000/microlitre bacteria on gram stain and/or culture|csf[110,113]||||||||||40209|40209|csf

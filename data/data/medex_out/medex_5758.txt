@@ -1,2 +1,0 @@
-1	2 any medical condition or chronic medication that might affect fmri or meg language activation by affecting cerebral structure or function such a diabetes hypertension antihypertensive medication psychotropic agent|meg[72,75]||||||||||||
-1	2 any medical condition or chronic medication that might affect fmri or meg language activation by affecting cerebral structure or function such a diabetes hypertension antihypertensive medication psychotropic agent|psychotropic agent[197,215]||||||||||8927|8927|psychotropic agent

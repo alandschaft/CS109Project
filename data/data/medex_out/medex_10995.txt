@@ -1,1 +1,0 @@
-1	patient be exclude from the study if they be young than 10 year have gc score of less than 13 or instable vital sign come to the ed more than 24 hour after head trauma be pregnant be take warfarin or have bleed disorder have an obvious penetrating skull injury or have contraindication for ct|warfarin[188,196]|||||||24 hour[142,149]||C0043031|11289|11289|warfarin

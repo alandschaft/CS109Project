@@ -1,2 +1,0 @@
-1	patient who fail on vpa monotherapy because of other cause than lack of seizure control at a maximally tolerate dose unable to tolerate the low maintenance dose of vpa idiosyncratic reaction non-compliance|vpa[20,23]||||||||||1099703|40254|valproate
-1	patient who fail on vpa monotherapy because of other cause than lack of seizure control at a maximally tolerate dose unable to tolerate the low maintenance dose of vpa idiosyncratic reaction non-compliance|vpa[164,167]||||||||||1099703|40254|valproate

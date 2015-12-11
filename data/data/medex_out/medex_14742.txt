@@ -1,2 +1,0 @@
-1	5 subject on strong cytochrome p450 cyp 3a inducer other than aeds eg rifampin st. john 's wort|st. john ' s wort[79,95]|||||||||C0813171|258326|258326|st. john's wort extract
-1	5 subject on strong cytochrome p450 cyp 3a inducer other than aeds eg rifampin st. john 's wort|rifampin[70,78]|||||||||C0035608|9384|9384|rifampicin

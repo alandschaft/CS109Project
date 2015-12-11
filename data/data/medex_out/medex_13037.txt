@@ -1,3 +1,0 @@
-1	9 routine immunization be delay or will be delay by not be able to receive a concomitantly administer vaccine or a needed vaccine in the 28 day follow receipt of the influenza vaccine|vaccine[102,109]||||||||||11094|11094|vaccine
-1	9 routine immunization be delay or will be delay by not be able to receive a concomitantly administer vaccine or a needed vaccine in the 28 day follow receipt of the influenza vaccine|influenza vaccine[166,183]|||||||28 day[137,143]|||5806|5806|influenza
-1	9 routine immunization be delay or will be delay by not be able to receive a concomitantly administer vaccine or a needed vaccine in the 28 day follow receipt of the influenza vaccine|vaccine[122,129]||||||||||11094|11094|vaccine

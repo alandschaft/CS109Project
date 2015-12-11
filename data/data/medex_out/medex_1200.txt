@@ -1,1 +1,0 @@
-1	progesterone treatment use or plan after 14 week gestation|progesterone[0,12]|||||||14 week[41,48]||C0033308|8727|8727|progesterone

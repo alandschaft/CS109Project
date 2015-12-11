@@ -1,1 +1,0 @@
-1	patient on chronic steroid use for other reason than asthma|steroid[19,26]||||||||||10072|10072|steroid

@@ -1,1 +1,0 @@
-6 patient should be receive at least 1 but no more than 2 other aeds a concomitant medication and the dosage should be stable for at least 8 week before the baseline visit 

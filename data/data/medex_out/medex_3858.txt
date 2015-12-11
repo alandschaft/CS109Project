@@ -1,1 +1,0 @@
-1	patient currently treat with stable phenytoin monotherapy for at least three month and with at least one plasma measurement of pheyntoin within the target range 7 23 ?g/ml during the screening period|phenytoin[36,45]|||||||three month[71,82]||C0031507|8183|8183|phenytoin

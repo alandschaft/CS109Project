@@ -1,1 +1,0 @@
-patient should be able to understand the patient information concern the study and be able to give inform consent 

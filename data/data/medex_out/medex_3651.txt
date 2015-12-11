@@ -1,2 +1,0 @@
-1	adverse drug reaction or allergy to budesonide albuterol ipratropium bromide prednisone prednisolone or methylprednisolone|prednisolone[88,100]|||||||||C0032950|8638|8638|prednisolone
-1	adverse drug reaction or allergy to budesonide albuterol ipratropium bromide prednisone prednisolone or methylprednisolone|methylprednisolone[104,122]|||||||||C0025815|6902|6902|methylprednisolone

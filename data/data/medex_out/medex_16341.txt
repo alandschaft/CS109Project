@@ -1,2 +1,0 @@
-1	history of allergy intolerance or adverse effect with gabapentin or pregabalin|gabapentin[54,64]|||||||||C0060926|25480|25480|gabapentin
-1	history of allergy intolerance or adverse effect with gabapentin or pregabalin|pregabalin[68,78]|||||||||C0657912|187832|187832|pregabalin

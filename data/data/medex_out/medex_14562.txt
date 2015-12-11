@@ -1,3 +1,0 @@
-1	1 the patient be take stiripentol verapamil or felbatol if patient have take these drug in the past they need to have be off drug for 5 half-lives|verapamil[34,43]|||||||||C0042523|11170|11170|verapamil
-1	1 the patient be take stiripentol verapamil or felbatol if patient have take these drug in the past they need to have be off drug for 5 half-lives|stiripentol[22,33]||||||||||37119|37119|stiripentol
-1	1 the patient be take stiripentol verapamil or felbatol if patient have take these drug in the past they need to have be off drug for 5 half-lives|felbatol[47,55]|||||||||C0728742|224900|24812|felbamate

@@ -1,2 +1,0 @@
-1	female take oral contraceptive or patch but unwilling to use a barrier method of contraceptive during the course of the study|oral contraceptive[12,30]||||||||||2821|2821|oral contraceptive
-1	female take oral contraceptive or patch but unwilling to use a barrier method of contraceptive during the course of the study|contraceptive[81,94]||patch[34,39]||||||||64078|64078|contraceptive

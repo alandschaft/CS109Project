@@ -1,2 +1,0 @@
-1	a know allergy or sensitivity to any component of the product commonly use in a lysine-restricted diet or to other product associate with lysine restriction or any other product associate with general study procedure|lysine[80,86]|||||||||C0024337|6536|6536|lysine
-1	a know allergy or sensitivity to any component of the product commonly use in a lysine-restricted diet or to other product associate with lysine restriction or any other product associate with general study procedure|lysine[138,144]|||||||||C0024337|6536|6536|lysine

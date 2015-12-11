@@ -1,1 +1,0 @@
-1	at least 1 week since prior fluconazole|fluconazole[28,39]|||||||1 week[9,15]||C0016277|4450|4450|fluconazole

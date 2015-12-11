@@ -1,3 +1,0 @@
-1	3 any use within recent past 6 week of amphetamine opiates cocaine ecstasy pcp|ecstasy[67,74]||||||||||49422|49422|ecstasy
-1	3 any use within recent past 6 week of amphetamine opiates cocaine ecstasy pcp|cocaine[59,66]|||||||||C0009170|2653|2653|cocaine
-1	3 any use within recent past 6 week of amphetamine opiates cocaine ecstasy pcp|amphetamine[39,50]|||||||6 week[29,35]||C0002658|725|725|amfetamine

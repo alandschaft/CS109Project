@@ -1,1 +1,0 @@
-1	7 use of nitrate within the past 24 hour|nitrate[9,16]|||||||24 hour[33,40]|||202927|202927|nitrate

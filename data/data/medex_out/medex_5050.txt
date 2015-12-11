@@ -1,1 +1,0 @@
-1	patient have a history of diabetes and be take oral sulfonylurea agent|sulfonylurea[52,64]|||||oral[47,51]|||||10219|10219|sulfonylurea

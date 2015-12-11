@@ -1,1 +1,0 @@
-head size incompatible with meg recording 

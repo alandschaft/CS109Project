@@ -1,3 +1,0 @@
-1	subject who administer combination therapy in topiramate levetiracetam or oxcarbazepine|levetiracetam[57,70]|||||||||C0377265|114477|114477|levetiracetam
-1	subject who administer combination therapy in topiramate levetiracetam or oxcarbazepine|topiramate[46,56]|||||||||C0076829|38404|38404|topiramate
-1	subject who administer combination therapy in topiramate levetiracetam or oxcarbazepine|oxcarbazepine[74,87]|||||||||C0069751|32624|32624|oxcarbazepine

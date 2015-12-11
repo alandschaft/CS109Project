@@ -1,2 +1,0 @@
-1	known hypersensitivity to the active substance carboxamide derivative e.g oxcarbazepine or carbamazepine or to any of it excipients|oxcarbazepine[74,87]|||||||||C0069751|32624|32624|oxcarbazepine
-1	known hypersensitivity to the active substance carboxamide derivative e.g oxcarbazepine or carbamazepine or to any of it excipients|carbamazepine[91,104]|||||||||C0006949|2002|2002|carbamazepine

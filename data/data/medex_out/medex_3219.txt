@@ -1,1 +1,0 @@
-1	6 one antidepressant on a stable dose regimen for at least 1 month will be allow|antidepressant[6,20]|||||||1 month[59,66]|||927|927|antidepressant

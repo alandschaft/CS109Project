@@ -1,3 +1,0 @@
-1	baby who have receive diuretic such a furosemide or bumetanide in routine clinical management within the last 24 hour|furosemide[38,48]|||||||||C0016860|4603|4603|furosemide
-1	baby who have receive diuretic such a furosemide or bumetanide in routine clinical management within the last 24 hour|diuretic[22,30]||||||||||3567|3567|diuretic
-1	baby who have receive diuretic such a furosemide or bumetanide in routine clinical management within the last 24 hour|bumetanide[52,62]|||||||24 hour[110,117]||C0006376|1808|1808|bumetanide

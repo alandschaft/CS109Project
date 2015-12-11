@@ -1,3 +1,0 @@
-1	pregnant or breastfeed woman be exclude from this study breastfeed should be discontinue if the mother be treat with busulfan cyclophosphamide and etoposide|cyclophosphamide[126,142]|||||||||C0010583|3002|3002|cyclophosphamide
-1	pregnant or breastfeed woman be exclude from this study breastfeed should be discontinue if the mother be treat with busulfan cyclophosphamide and etoposide|busulfan[117,125]|||||||||C0006463|1828|1828|busulfan
-1	pregnant or breastfeed woman be exclude from this study breastfeed should be discontinue if the mother be treat with busulfan cyclophosphamide and etoposide|etoposide[147,156]|||||||||C0015133|4179|4179|etoposide

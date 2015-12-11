@@ -1,1 +1,0 @@
-patient must be able to provide reliable seizure count and to complete the evaluation specify in the study procedure flow chart 

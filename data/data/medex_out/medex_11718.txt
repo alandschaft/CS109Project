@@ -1,1 +1,0 @@
-1	3 taking the study medication lamotrigine within 28 day of enrollment|lamotrigine[30,41]|||||||28 day[49,55]||C0064636|28439|28439|lamotrigine

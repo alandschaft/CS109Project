@@ -1,3 +1,0 @@
-1	subject taking 1 or more of the following medication on a regular basis within 28 day prior to visit 1 antipsychotic drug and psychostimulant amphetamine derivative|antipsychotic drug[103,121]|||||||28 day[79,85]|||10693|10693|antipsychotic drug
-1	subject taking 1 or more of the following medication on a regular basis within 28 day prior to visit 1 antipsychotic drug and psychostimulant amphetamine derivative|amphetamine[142,153]|||||||||C0002658|725|725|amfetamine
-1	subject taking 1 or more of the following medication on a regular basis within 28 day prior to visit 1 antipsychotic drug and psychostimulant amphetamine derivative|psychostimulant[126,141]||||||||||91147|91147|psychostimulant

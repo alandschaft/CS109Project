@@ -1,2 +1,0 @@
-1	5 subject with concomitant treatment of felbamate or previous felbamate therapy within the last 6 month prior to trial entry|felbamate[40,49]|||||||||C0060135|24812|24812|felbamate
-1	5 subject with concomitant treatment of felbamate or previous felbamate therapy within the last 6 month prior to trial entry|felbamate[62,71]|||||||6 month[96,103]||C0060135|24812|24812|felbamate

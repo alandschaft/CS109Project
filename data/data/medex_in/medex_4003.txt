@@ -1,1 +1,0 @@
-subject must not have enrol on this trial previously 

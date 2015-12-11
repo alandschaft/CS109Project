@@ -1,2 +1,0 @@
-1	subject that have take hormone major tranquilizer or antidepressant in the three month prior to entry|major tranquilizer[31,49]||||||||||10692|10692|major tranquilizer
-1	subject that have take hormone major tranquilizer or antidepressant in the three month prior to entry|antidepressant[53,67]|||||||three month[75,86]|||927|927|antidepressant

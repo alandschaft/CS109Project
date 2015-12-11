@@ -1,1 +1,0 @@
-1	antiepileptic drug aed therapy must be stable at a level that promise long-term continuity for at least 10 before study start and have to be continue for at least 3 month during treatment phase|antiepileptic[0,13]|||||||3 month[163,170]||C0003299|932|932|antiepileptic

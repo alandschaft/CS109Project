@@ -1,3 +1,0 @@
-1	current treatment with 1 to 2 aeds except oxcarbazepine benzodiazepine other than clobazam and vagus nerve stimulation vns|clobazam[82,90]|||||||||C0055891|21241|21241|clobazam
-1	current treatment with 1 to 2 aeds except oxcarbazepine benzodiazepine other than clobazam and vagus nerve stimulation vns|benzodiazepine[56,70]||||||||||1402|1402|benzodiazepine
-1	current treatment with 1 to 2 aeds except oxcarbazepine benzodiazepine other than clobazam and vagus nerve stimulation vns|oxcarbazepine[42,55]|||||||||C0069751|32624|32624|oxcarbazepine

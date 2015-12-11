@@ -1,1 +1,0 @@
-fetal death major fetal anomaly fetus non-viable exclude if the patient have a major fetal anomaly or the fetus be not viable 

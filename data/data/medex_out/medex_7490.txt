@@ -1,1 +1,0 @@
-1	primary surgery no longer than 12 week prior to start treatment or within 4 week of complete adjuvant cytotoxic chemotherapy if administer|complete adjuvant[84,101]|||||||12 week[31,38]|||4565|4565|complete adjuvant

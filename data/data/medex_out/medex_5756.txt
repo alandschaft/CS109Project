@@ -1,2 +1,0 @@
-1	5 patient on phenobarbital or chronic benzodiazepine|phenobarbital[13,26]|||||||||C0031412|8134|8134|phenobarbital
-1	5 patient on phenobarbital or chronic benzodiazepine|benzodiazepine[38,52]||||||||||1402|1402|benzodiazepine

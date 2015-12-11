@@ -1,1 +1,0 @@
-1	subject should be on a stable regimen of one or a maximum of two other antiepileptic drug aeds for at least 2 week prior to visit 1|antiepileptic[71,84]|||||||2 week[108,114]||C0003299|932|932|antiepileptic

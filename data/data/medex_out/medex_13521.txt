@@ -1,2 +1,0 @@
-1	female subject be use hormonal contraceptive precaution include progesterone-coated iud|progesterone[64,76]|||||||||C0033308|8727|8727|progesterone
-1	female subject be use hormonal contraceptive precaution include progesterone-coated iud|contraceptive[31,44]||||||||||64078|64078|contraceptive

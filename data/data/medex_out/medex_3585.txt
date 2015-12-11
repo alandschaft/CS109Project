@@ -1,3 +1,0 @@
-1	concomitant therapy with inhibitor of breast cancer resistance protein bcrp or p-glycoprotein such a erlotinib or gefitinib|erlotinib[101,110]|||||||||C1135135|337525|337525|erlotinib
-1	concomitant therapy with inhibitor of breast cancer resistance protein bcrp or p-glycoprotein such a erlotinib or gefitinib|glycoprotein[81,93]||||||||||4954|4954|glycoprotein
-1	concomitant therapy with inhibitor of breast cancer resistance protein bcrp or p-glycoprotein such a erlotinib or gefitinib|gefitinib[114,123]|||||||||C1122962|328134|328134|gefitinib

@@ -1,1 +1,0 @@
-1	patient can be on seizure medication|seizure medication[18,36]||||||||||1021750|1021750|seizure medication

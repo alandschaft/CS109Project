@@ -1,3 +1,0 @@
-1	patient receive chronic systemic treatment with corticosteroid or another immunosuppressive agent topical or inhale corticosteroid be allow|corticosteroid[48,62]||||||||||354|354|corticosteroid
-1	patient receive chronic systemic treatment with corticosteroid or another immunosuppressive agent topical or inhale corticosteroid be allow|immunosuppressive agent[74,97]|||||topical[98,105]|||||5748|5748|immunosuppressive agent
-1	patient receive chronic systemic treatment with corticosteroid or another immunosuppressive agent topical or inhale corticosteroid be allow|corticosteroid[116,130]||||||||||354|354|corticosteroid

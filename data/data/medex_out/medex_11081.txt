@@ -1,2 +1,0 @@
-1	hyperpyrexia within 48 hour of administration of previous dos of dtp or mmr vaccine|dtp[65,68]|||||||48 hour[20,27]|||3519|3519|diphtheria-poliomyelitis-tetanus
-1	hyperpyrexia within 48 hour of administration of previous dos of dtp or mmr vaccine|mmr vaccine[72,83]||||||||||29406|29406|measles,mumps&rubella vac live

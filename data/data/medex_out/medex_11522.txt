@@ -1,3 +1,0 @@
-1	20 patient receive chronic systemic treatment with corticosteroid or another immunosuppressive agent at study entry topical or inhale corticosteroid be allow|corticosteroid[51,65]||||||||||354|354|corticosteroid
-1	20 patient receive chronic systemic treatment with corticosteroid or another immunosuppressive agent at study entry topical or inhale corticosteroid be allow|immunosuppressive agent[77,100]|||||topical[116,123]|||||5748|5748|immunosuppressive agent
-1	20 patient receive chronic systemic treatment with corticosteroid or another immunosuppressive agent at study entry topical or inhale corticosteroid be allow|corticosteroid[134,148]||||||||||354|354|corticosteroid

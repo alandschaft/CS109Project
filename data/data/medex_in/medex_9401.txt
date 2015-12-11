@@ -1,1 +1,0 @@
-mmse score of less than 28 at baseline 

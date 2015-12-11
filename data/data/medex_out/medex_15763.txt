@@ -1,1 +1,0 @@
-1	participant must have a platelet count greater than 125,000 per cubic millimeter and prothrombin time pt and activate partial thromboplastin time aptt within normal limit at the visit prior to surgery|prothrombin[85,96]||||||||||8872|8872|factor ii (prothrombin)

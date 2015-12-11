@@ -1,2 +1,0 @@
-1	high dose combine oral contraceptive oc pill 50?g of oestrogen preparation|oestrogen[53,62]||pill[40,44]||||||||4100|4100|estrogens
-1	high dose combine oral contraceptive oc pill 50?g of oestrogen preparation|oral contraceptive[18,36]||||||||||2821|2821|oral contraceptive

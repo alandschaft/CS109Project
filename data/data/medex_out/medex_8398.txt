@@ -1,1 +1,0 @@
-1	take no medication other than birth control pill|birth control pill[30,48]||||||||||2821|2821|birth control

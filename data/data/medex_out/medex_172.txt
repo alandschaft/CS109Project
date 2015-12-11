@@ -1,2 +1,0 @@
-1	no vitamin e supplementation except a in standard multivitamin for age for 6 month prior to study entry|multivitamin[50,62]|||||||6 month[75,82]|||89905|89905|multiple vitamins
-1	no vitamin e supplementation except a in standard multivitamin for age for 6 month prior to study entry|vitamin e[3,12]|||||||||C0042874|11256|11256|tocopherol (vit e)

@@ -1,2 +1,0 @@
-1	3 breast-feeding if anthelmintic or immunosuppressive medication be require|anthelmintic[20,32]||||||||||868|868|anthelmintic
-1	3 breast-feeding if anthelmintic or immunosuppressive medication be require|immunosuppressive[36,53]||||||||||5748|5748|immunosuppressive

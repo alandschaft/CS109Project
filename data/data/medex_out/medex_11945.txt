@@ -1,2 +1,0 @@
-1	4 confounding medical illness necessitate therapy with opiate other than for na|na[77,79]||||||||||56501|56501|na m-fluorphosphate
-1	4 confounding medical illness necessitate therapy with opiate other than for na|opiate[55,61]||||||||||114189|114189|opiates

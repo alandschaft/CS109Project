@@ -1,2 +1,0 @@
-1	20 concomitant use of felbamate or use of felbamate within two month prior to visit 1|felbamate[22,31]|||||||||C0060135|24812|24812|felbamate
-1	20 concomitant use of felbamate or use of felbamate within two month prior to visit 1|felbamate[42,51]|||||||two month[59,68]||C0060135|24812|24812|felbamate

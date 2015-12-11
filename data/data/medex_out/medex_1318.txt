@@ -1,1 +1,0 @@
-1	patient who have an active infection require iv antibiotic|antibiotic[48,58]|||||iv[45,47]|||||896|896|antibiotic

@@ -1,3 +1,0 @@
-1	6 currently taking tricyclic anti-depressants bupropion or neuroleptic medication|bupropion[46,55]|||||||||C0085208|42347|42347|bupropion
-1	6 currently taking tricyclic anti-depressants bupropion or neuroleptic medication|tricyclic anti - depressants[19,45]|||||||||C0003290|928|928|tricyclic anti-depressants
-1	6 currently taking tricyclic anti-depressants bupropion or neuroleptic medication|neuroleptic[59,70]||||||||||10693|10693|antipsychotic drug

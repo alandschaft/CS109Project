@@ -1,3 +1,0 @@
-1	if take antidepressant neuroleptic or lithium dos have be stable for more than 4 week|neuroleptic[23,34]||||||||||10693|10693|antipsychotic drug
-1	if take antidepressant neuroleptic or lithium dos have be stable for more than 4 week|antidepressant[8,22]||||||||||927|927|antidepressant
-1	if take antidepressant neuroleptic or lithium dos have be stable for more than 4 week|lithium[38,45]|||||||4 week[79,85]||C0023870|6448|6448|lithium

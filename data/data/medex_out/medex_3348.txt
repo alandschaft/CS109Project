@@ -1,1 +1,0 @@
-1	patient with an active infection that be not adequately control with antibiotic|antibiotic[69,79]||||||||||896|896|antibiotic

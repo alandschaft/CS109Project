@@ -1,2 +1,0 @@
-1	4 patient who have abnormal renal function blood urea nitrogen bun or creatinine value more than three time the normal value|nitrogen[54,62]|||||||||C0028158|7456|7456|nitrogen
-1	4 patient who have abnormal renal function blood urea nitrogen bun or creatinine value more than three time the normal value|urea[49,53]|||||||||C0041942|11002|11002|urea

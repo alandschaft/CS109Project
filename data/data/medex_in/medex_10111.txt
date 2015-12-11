@@ -1,1 +1,0 @@
-patient 's parents/care giver object to the study protocol 

@@ -1,2 +1,0 @@
-1	severe allergic reaction follow the administration of previous dose s of dtp or mmr vaccine|dtp[73,76]||||||||||3519|3519|diphtheria-poliomyelitis-tetanus
-1	severe allergic reaction follow the administration of previous dose s of dtp or mmr vaccine|mmr vaccine[80,91]||||||||||29406|29406|measles,mumps&rubella vac live

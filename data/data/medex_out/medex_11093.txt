@@ -1,2 +1,0 @@
-1	have have history within past six month of a psychiatric or mood disorder require electroconvulsive therapy major tranquilizer or monoamine oxidase inhibitor|major tranquilizer[108,126]|||||||six month[30,39]|||10692|10692|major tranquilizer
-1	have have history within past six month of a psychiatric or mood disorder require electroconvulsive therapy major tranquilizer or monoamine oxidase inhibitor|monoamine oxidase inhibitor[130,157]||||||||||7032|7032|monoamine oxidase inhibitor

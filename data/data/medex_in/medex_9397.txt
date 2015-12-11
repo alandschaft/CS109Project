@@ -1,1 +1,0 @@
-age range greater than or equal to 60 year 

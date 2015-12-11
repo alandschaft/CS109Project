@@ -1,1 +1,0 @@
-1	pituitary insult within past 6 week|pituitary[0,9]|||||||6 week[29,35]||C0304812|91434|91434|pituitary
