@@ -173,6 +173,8 @@
                     </p><p>MedEx also identifies the RxNorm CUI for the corresponding generic drug ingredients. It also identifies UMLS CUI code, however; in practice we found MedEx has a much higher probablity of identifying the RxNorm CUI.
                     </p>
                     </p>&nbsp;<p>
+                    <img class="img-responsive centerHorizontal" src="images/md-drug-type-distribution.png" alt="Second Image">
+                    </p>&nbsp;<p>
                     <h4>Visualizing MetaMap and MedEx tag connections</h4>
                     <p>We use NetworkX library in Python to draw the connections between the tags in two datasets. Each tag is treated as a node, and each time a MedEx tag and a MetaMap tag appears on the same row, it counts as one connection (edge) between the two tags (nodes). We are not discussing the connections within the MetaMap tag group or the MedEx tag group here.
                     </p><p>We also set a threshold parameter. Only when the percentage of total connections between a MetaMap tag and MedEx tag among all connections of this MedEx tag exceeds a certain number (default is 10% here), it is shown in the visualization. Nodes that are not connected to any other nodes are not shown in the graph.
