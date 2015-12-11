@@ -1,4 +1,7 @@
 
+Dummy web service - returns random results that are formatted like real results. Used to develop the web app GUI before the real service was ready. Left here for nostalgic reasons.
+
+
 run server with python server.py
 
 
@@ -11,7 +14,7 @@ This function creates a session_data object (python dictionary) that includes al
 
 - session_id - unique identifier
 - current_terms - list of terms currently shown to the user (strings). Initialized with the highest ranking terms.
-- skipped_terms - list of terms that where shown to the user, but the user clícked "next" - i.e. did not select. Initialized empty.
+- skipped_terms - list of terms that where shown to the user, but the user clÃ­cked "next" - i.e. did not select. Initialized empty.
 - clicked_terms - list of terms that the user selected. Initialized empty.
 - current_documents - list of documents curretly shown to the user (used for paging.) Each list element is a dictionary with:
 {
