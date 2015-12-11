@@ -10,3 +10,7 @@ The algorithm constructs the list of N terms by interactively:
 After selecting the list of terms, the next step was to define what are the "most relevant" clinical trials that the service shall serve. We decided that documents should be relevant not only to the terms that the user already selected, but also to the list of terms that is presented to the user. We have used **tf-idf vectorization with cosine similarities** between the list of the terms that the user already selected together with the list of terms presented to the user and each of the clinical trials that were not removed from the context (remember that trials that do not contain a term that the user had already selected are removed from the context.)
 
 After implementing the service, we have performed **Monte Carlo simulation**. In the simulation we modeled interactive search sessions and measured the performance of the service with **different sets of (k,m) parameters**. The score of each set of parameters was the tf-idf based cosine distance between the list of parameters that the user has selected in each simulation to the list of documents that has been presented to the user at the end of each simulation. At the end of the simulation we scattered the results on a (k,m)  grid and used differential point size, so the size of the points will correlate to the score of each simulation. Using the results we set the optimal values for the parameters k and m.
+
+
+
+/Images/TermSelectionAlgorithmOptimization.png
