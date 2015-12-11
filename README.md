@@ -1,4 +1,4 @@
-## "Clinical Trials"
+## Clinical Trials Analysis
 
 Web Site: http://alandschaft.github.io/CS109Project/
 
@@ -37,6 +37,8 @@ Our goal is to develop a prototype for an interactive information retrieval web 
 
 * **ClinicalTrials_1_extract_criteria.ipynb** - automatically query and download data from clinicaltrials.gov, Extract inclusion and exclusion criteria, tag, lemmatize, ngrammize and filter.
 * **ClinicalTrials_2_metamap.ipynb** - UMLS documentation, CUIs extraction with MetaMap
-* **ClinicalTrials_3_medex.ipynb** -Drug-related data extraction using MedEx
+* **ClinicalTrials_3_medex.ipynb** - Drug-related data extraction using MedEx
+* **ClinicalTrials_4_merge_tags.ipynb** - Merging MetaMap & MedEx datasets
+* **ClinicalTrials_5_tag_statistics.ipynb** - Plot MedEx and MetaMap tag frequencies
 * 
 
