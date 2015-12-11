@@ -119,7 +119,7 @@
             <div class="smspace"></div>
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 class="page-header">The Story of our solution</h2>
+                    <h2 class="page-header">The Story of Our Solution</h2>
                     <p>After the successful completion of the Data Science course and the publication of our final project, our group was approached by the founder of a start-up company. The founder has strong business ties to the Health Care sector, both to networks of clinicians and to the pharma industry. The premise of this start-up is to facilitate the recruitment of participants for clinical trials through local clinics by the patient’s private doctors.</p>
                     <img class="img-responsive centerHorizontal" src="images/pic1.png" alt="First Image">
                     <p>The founder conducted a large number of interviews with a broad selection of doctors. The data collected from those interviews showed that doctors find that the current search engines available for clinical trials produce too many results that are often not relevant to their patients and sorting through these to find suitable trials takes far too much time. In one of the interviews a doctor said:</p>
@@ -158,6 +158,28 @@
                     <img class="img-responsive centerHorizontal" src="images/MetaMapCUIs.png" alt="Second Image">
                     </p>&nbsp;<p>
                     <h3>MedEx</h3>
+                    <h4>MedEx Tag Extraction</h4>
+                    <p>We use MedEx to extract drug-related data. MedEx is an system for extracting medication and signature information from clinical text developed by Hua Xu, Josh Denny, and Min Jiang at Vanderbilt University. We used MedEx-UIMA 1.3, the open source Java implementation of original Python MedEx based on the Unstructured Information Management Architecture (UIMA) framework, for semantic‐based parsing of drug names and signatures in clinical trials data. You can find more information about the MedEx tool at <a href="https://sbmi.uth.edu/ccb/resources/medex.htm" target=blank>https://sbmi.uth.edu/ccb/resources/medex.htm</a>. (Xu, et al., 2010)
+                    </p><p>Medicine data is one of the most important types of clinical data in electronic medical records, but it is often recorded in free-text notes. MedEx natural language processing tool exclusively extracts medication-related information. Not only does the MedEx system identifies drug and signature entities, it also codes the data into a standard representation that is easy to use for further processing.
+                    </p><p>The following diagram illustrates the 100 most frequent drugs in our "Seizure" dataset:
+                    </p>
+                    </p>&nbsp;<p>
+                    <img class="img-responsive centerHorizontal" src="images/medex-top-terms.png" alt="Second Image">
+                    </p>&nbsp;<p>
+                    <h4>One Active Ingredient, Many Drug Names</h4>
+                    <p>When a substance is first discovered, it is given a chemical name (eg. 5-amino-2-hydroxybenzoic acid) which describes its molecular structure. When a drug is approved by the FDA in the United States, it is assigned an official generic name and a proprietary brand name to be used exclusively by the company that requested approval for the drug. Ater the drug patent expires, other companies can manufacture and market the same drug by its generic name or create a new brand name. It is also possible for a patent drug produced by the a company to have multiple names in different countries.
+                    </p><p>For example, an anti-diabetic drug has a global generic name "Acarbose". It is also known by the brand name "Prandase" in Canada, "Precose" in America, and "Glucobay" in Europe and China, all manufactured and sold by Bayer Pharmaceuticals. These 4 names refers to the same drug.
+                    </p><p>When these 4 different names are processed by MedEx, they are all listed as "Acarbose" in the generic name field of MedEx processed output. Our analysis shows the "Seizure" clinical trials dataset refers to drugs by their generic names much more often than brand names.
+                    </p><p>MedEx also identifies the RxNorm CUI for the corresponding generic drug ingredients. It also identifies UMLS CUI code, however; in practice we found MedEx has a much higher probablity of identifying the RxNorm CUI.
+                    </p>
+                    </p>&nbsp;<p>
+                    <h4>Visualizing MetaMap and MedEx tag connections</h4>
+                    <p>We use NetworkX library in Python to draw the connections between the tags in two datasets. Each tag is treated as a node, and each time a MedEx tag and a MetaMap tag appears on the same row, it counts as one connection (edge) between the two tags (nodes). We are not discussing the connections within the MetaMap tag group or the MedEx tag group here.
+                    </p><p>We also set a threshold parameter. Only when the percentage of total connections between a MetaMap tag and MedEx tag among all connections of this MedEx tag exceeds a certain number (default is 10% here), it is shown in the visualization. Nodes that are not connected to any other nodes are not shown in the graph.
+                    </p><p>There are many identical tags (same drugs) in both MetaMap and MedEx datasets. Since the connections between the identical tags do not provide much new information, they are excluded in calculation.
+                    </p><p>By examining the interactive diagram connection shown, we can see that the connected MedEx and MetaMao tags are highly relevant.
+                    </p>
+                    </p>&nbsp;<p>
                     <div id="fig_el597452950251687067252907"></div>
                     </p>&nbsp;<p>
                     <div id="fig_el597448969729444593071629"></div>
@@ -264,6 +286,10 @@
                     <p>Glasser, S. P., 2014. Essentials of Clinical Research. 2nd ed. London: Springer.</p>
                     <p>Patient Research Exchange, 2014. Clinical Trial Recruiting Tools in the Digital Age. [Online] Available at: <a href="https://www.patientresearchexchange.org/stories/detail/clinical-trial-recruiting-tools-in-the-digital-age" target=blank>https://www.patientresearchexchange.org/stories/detail/clinical-trial-recruiting-tools-in-the-digital-age</a> [Accessed 5 12 2015].</p>
                     <p>U.S. National Institutes of Health, 2015. Clinical Trials. [Online] Available at: <a href="https://clinicaltrials.gov" target=blank>https://clinicaltrials.gov/</a> [Accessed 5 12 2015].</p>
+                    <p>Xu H, Stenner SP, Doan S, Johnson KB, Waitman LR, Denny JC. MedEx: a medication information extraction system for clinical narratives. J Am Med Inform Assoc. 2010 Jan-Feb;17(1):19–24.
+                    </p><p>Xu H, Jiang M, Oetjens M, et al. Facilitating pharmacogenetic studies using electronic health records and natural-language processing: a case study of warfarin. J Am Med Inform Assoc. 2011 Jul-Aug;18(4):387–391.
+                    </p><p>Jiang M, Wu Y, Shah A, Priyanka P, Denny JC, Xu H. Extracting and standardizing medication information in clinical text – the MedEx-UIMA system. AMIA Summits on Translational Science Proceedings. 2014;2014:37-42.
+                    </p><p>"Generic Drugs" (<a href="http://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/SmallBusinessAssistance/ucm127615.pdf" target=blank>http://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/SmallBusinessAssistance/ucm127615.pdf</a>), Center for Drug Evaluation and Research, U.S. Food and Drug Administration.</p>
                     <div class="smspace"></div>
                     <div class="smspace"></div>
                 </div>
