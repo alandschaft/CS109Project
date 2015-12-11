@@ -42,6 +42,7 @@ Our goal is to develop a prototype for an interactive information retrieval web 
 * ClinicalTrials_4_clustering.ipynb - Some experiments with clinical trials clustering. We did not pursue this direction further.
 * **ClinicalTrials_5_medex.ipynb** - Drug-related data extraction using MedEx
 * **ClinicalTrials_6_merge_tags.ipynb** - Merging MetaMap & MedEx datasets
-* **ClinicalTrials_5_tag_statistics.ipynb** - Plot MedEx and MetaMap tag frequencies
-* 
+* **ClinicalTrials_7_tag_statistics.ipynb** - Plot MedEx and MetaMap tag frequencies
+* **ClinicalTrials_8_optimize_search_algorithm.ipynb** - Monte Carlo simulation of test cases for the web service. Calibration parameters for the web service
+
 
